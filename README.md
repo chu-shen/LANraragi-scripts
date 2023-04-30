@@ -16,6 +16,7 @@ Scripts for LANraragi
 2. 运行 [[getEhTagTranslationForLANraragi.py]]，会在同目录下生成 [[tags.txt]]
 3. 复制 [[tags.txt]] 中的内容到软件「Admin Settings」的「Tag Rules」中即可（会在为同人志添加标签时**自动替换**）
 4. 如果需要修改软件中已存在的同人志，则需要备份数据库，然后将导出的文件放在同一目录下然后运行，最后将输出的文件还原回去即可
+    - 开箱即用插件推荐👉https://github.com/zhy201810576/ETagConverter
 
 **缺陷：**
 
