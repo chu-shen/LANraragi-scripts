@@ -14,6 +14,12 @@ for item in ehTagTranslation['data']:
         namespace = item['namespace']
         if namespace == 'reclass':
             namespace = 'category'
+            if tag_name=='artistcg':
+                tag_name = 'artist cg'
+            if tag_name=='gamecg':
+                tag_name = 'game cg'
+            if tag_name=='imageset':
+                tag_name = 'image set'
         tags[namespace+':'+tag_name] = item['frontMatters']['name'] + \
             ':'+tag_data['name']
 
