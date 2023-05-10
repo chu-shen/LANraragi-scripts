@@ -22,3 +22,29 @@ Scripts for LANraragi
 
 1. 没法像 EhSyringe 提供标签说明及输入提示（中英）
 2. 翻译数据库无实时性
+
+
+## 为缺少`source`标签的档案添加Ehentai元数据
+
+当 Ehentai 插件运行失败，且批量操作中运行失败的档案未自动勾选时，可以使用此插件为所有缺少`source`的档案调用 Ehentai 插件查询元数据
+
+**实现原理：**
+
+1. 获取所有档案
+2. 检查是否有`source`标签，如有，则跳过后续步骤
+3. 调用 Ehentai 插件获取元数据信息（标签）
+4. 将新标签写入数据库
+
+详细逻辑见 [[addEhentaiMetadata.py]]、[[addEhentaiMetadata.pm]]
+
+**pm版使用说明：**
+
+1. 下载 [[addEhentaiMetadata.pm]]
+2. 在插件设置中上传此文件
+3. 点击运行：`Scripts`->`Triger Script`
+
+**py版使用说明：**
+
+1. 下载 [[addEhentaiMetadata.py]]
+2. 修改`BASE_URL`和`API_KEY`
+3. 运行 [[addEhentaiMetadata.py]]
