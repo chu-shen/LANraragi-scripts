@@ -48,3 +48,9 @@ Scripts for LANraragi
 1. 下载 [[addEhentaiMetadata.py]]
 2. 修改`BASE_URL`和`API_KEY`
 3. 运行 [[addEhentaiMetadata.py]]
+
+### pm版更新
+
+为出现"No matching EH Gallery Found!"问题的档案添加`source:nogalleryinehentai`标签，后续执行脚本时这些档案将被跳过
+
+可以在脚本执行参数中填入`True`，对这些档案再次进行搜索匹配

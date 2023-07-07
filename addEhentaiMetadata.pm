@@ -19,7 +19,8 @@ sub plugin_info {
         namespace   => "addehentaimetatdata",
         author      => "CHUSHEN",
         version     => "1.0",
-        description => "Using the Ehentai plugin to search for metadata for files that do not have a source tag."
+        description => "Using the Ehentai plugin to search for metadata for files that do not have a source tag. If No matching EH Gallery Found!, will add source:nogalleryinehentai",
+        oneshot_arg => "Search gallery again with source:nogalleryinehentai. True/False"
     );
 
 }
@@ -31,6 +32,7 @@ sub run_script {
     my $logger   = get_plugin_logger();
     my $success = 0;
     my $total = 0;
+    my $nogalleryinehentai = $lrr_info->{oneshot_param};
 
     # 获取所有档案
     my @archives = LANraragi::Model::Archive->generate_archive_list;
@@ -56,15 +58,54 @@ sub run_script {
         }
         if ( exists $ehentai_tags->{error} ) {
             $logger->warn("Ehentai plugin returned an error: " . $ehentai_tags->{error});
-            next;
+            if ($ehentai_tags->{error} eq "No matching EH Gallery Found!") {
+                $ehentai_tags->{new_tags} = "source:nogalleryinehentai";
+                $logger->info("Add tag: " . $ehentai_tags->{new_tags});
+            }else{
+                next;
+            }
         }
 
         # If the plugin exec returned tags, add them
-        unless ( exists $ehentai_tags->{error} ) {
+        if ( exists $ehentai_tags->{new_tags} ) {
             $logger->debug("Add ehentai tags: " . $ehentai_tags->{new_tags});
             # 在原标签的基础上增加Ehentai标签
             set_tags( $arcid, $ehentai_tags->{new_tags}, 1 );
             $success++;
+        }
+    }
+    if ($nogalleryinehentai eq "True"){
+        my @nogalleryineh_archives = grep { $_->{"tags"} =~ /\bsource:nogalleryinehentai\b/ } @archives;
+        for my $archive (@nogalleryineh_archives) {
+            my $arcid = $archive->{"arcid"};
+            my $title  = $archive->{"title"};
+            my $old_tags = $archive->{"tags"};
+
+            $logger->info("Start process: '$title'");
+            $total++;
+
+            # 重新调用Ehentai插件
+            my $ehentai_plugin_info;
+            my $ehentai_tags;
+            eval {
+                ($ehentai_plugin_info, $ehentai_tags) = use_plugin("ehplugin", $arcid, undef);
+            };
+            if ($@) {
+                $ehentai_tags->{error} = $@;
+            }
+            if ( exists $ehentai_tags->{error} ) {
+                $logger->warn("Ehentai plugin returned an error: " . $ehentai_tags->{error});
+                next;
+            }
+
+            # If the plugin exec returned tags, add them
+            unless ( exists $ehentai_tags->{error} ) {
+                $logger->debug("Add ehentai tags: " . $ehentai_tags->{new_tags});
+                $old_tags =~ s/\bsource:nogalleryinehentai\b/$ehentai_tags->{new_tags}/g;
+                
+                set_tags( $arcid, $old_tags, 0 );
+                $success++;
+            }
         }
     }
 
