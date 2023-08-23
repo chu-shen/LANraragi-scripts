@@ -1,6 +1,13 @@
 # LANraragi-scripts
 Scripts for LANraragi
 
+- [LANraragi-scripts](#lanraragi-scripts)
+  - [标签中文化脚本](#标签中文化脚本)
+  - [为缺少`source`标签的档案添加Ehentai元数据](#为缺少source标签的档案添加ehentai元数据)
+    - [pm版更新](#pm版更新)
+  - [查找重复档案](#查找重复档案)
+
+
 ## 标签中文化脚本
 
 **实现原理：**
