@@ -39,11 +39,13 @@ Scripts for LANraragi
 
 **pm版使用说明：**
 
-1. 下载 [[addEhentaiMetadata.pm]]
+1. 下载 [addEhentaiMetadata.pm](https://github.com/chu-shen/LANraragi/blob/feat-ratingAndcomment/lib/LANraragi/Plugin/Scripts/addEhentaiMetadata.pm)
 2. 在插件设置中上传此文件
 3. 点击运行：`Scripts`->`Triger Script`
 
 **py版使用说明：**
+
+*最新代码见pm版*
 
 1. 下载 [[addEhentaiMetadata.py]]
 2. 修改`BASE_URL`和`API_KEY`
@@ -51,6 +53,20 @@ Scripts for LANraragi
 
 ### pm版更新
 
-为出现"No matching EH Gallery Found!"问题的档案添加`source:nogalleryinehentai`标签，后续执行脚本时这些档案将被跳过
+- 为出现"No matching EH Gallery Found!"问题的档案添加`source:nogalleryinehentai`标签，后续执行脚本时这些档案将被跳过
 
-可以在脚本执行参数中填入`True`，对这些档案再次进行搜索匹配
+    可以在脚本执行参数中填入`True`，对这些档案再次进行搜索匹配
+
+- 可设置每次请求间延时（秒），避免频繁请求触发封禁
+
+
+## 查找重复档案
+
+根据档案名查找重复档案并保存至`DuplicateArchives`分类
+
+**使用说明：**
+
+1. 下载 [DuplicateFinder.pm](https://github.com/chu-shen/LANraragi/blob/feat-ratingAndcomment/lib/LANraragi/Plugin/Scripts/DuplicateFinder.pm)
+2. 在插件设置中上传此文件
+3. 点击运行：`Scripts`->`Triger Script`
+4. 重复的档案将被添加到`DuplicateArchives`分类，之后根据标题排序删除重复的即可
