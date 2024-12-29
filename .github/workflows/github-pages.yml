@@ -1,0 +1,26 @@
+name: github pages
+on: 
+    push:
+    workflow_dispatch:
+    schedule:
+      - cron: "0 1 */7 * *"
+
+permissions:
+  contents: write
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up python
+        uses: actions/setup-python@v5
+
+      - run: python getLatestEhTagTranslationForLANraragi.py
+
+      - name: Deploy 🚀
+        uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          folder: build # The folder the action should deploy.
