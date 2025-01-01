@@ -116,7 +116,7 @@ parody:moetan -> 原作:萌单✏️
 parody:kanon -> 原作:Kanon❄
 parody:air -> 原作:AIR🕊
 parody:clannad -> 原作:CLANNAD👪
-parody:angel beats -> 原作:Angel Beats!❤/天使的心跳
+parody:angel beats -> 原作:Angel Beats!❤
 parody:charlotte -> 原作:Charlotte🌠
 parody:little busters -> 原作:Little Busters!⚾🐈
 parody:rewrite -> 原作:Rewrite
@@ -1420,7 +1420,7 @@ parody:one kagayaku kisetsu e -> 原作:ONE～光辉的季节～
 parody:guardian heroes -> 原作:守护英雄
 parody:the incredibles -> 原作:超人总动员
 parody:yakitate japan -> 原作:日式面包王
-parody:planetarian -> 原作:星之梦/Planetarian
+parody:planetarian -> 原作:星之梦
 parody:cave story -> 原作:洞窟物语
 parody:btooom -> 原作:BTOOOM!惊爆游戏
 parody:nichijou -> 原作:日常
@@ -1438,7 +1438,7 @@ parody:legend of queen opala -> 原作:奥帕拉女王传奇
 parody:shoujo kageki revue starlight -> 原作:少女歌剧Revue Starlight
 parody:deathsmiles -> 原作:死亡微笑
 parody:kaitou joker -> 原作:怪盗Joker
-parody:qualidea code -> 原作:Qualidea Code(心灵代码/质量代码)
+parody:qualidea code -> 原作:Qualidea Code
 parody:shuumatsu no izetta -> 原作:终末的伊泽塔
 parody:donkey kong -> 原作:大金刚
 parody:whistle -> 原作:哨声响起
@@ -2360,12 +2360,12 @@ parody:kaitou tenshi twin angel -> 原作:快盗天使双胞胎
 parody:kaijin kaihatsubu no kuroitsu-san -> 原作:怪人开发部的黑井津
 parody:bloodborne -> 原作:血源诅咒
 parody:the ghost and molly mcgee -> 原作:幽灵与莫莉
-parody:loopers -> 原作:LOOPERS(时廻者)
+parody:loopers -> 原作:LOOPERS
 parody:koe no katachi -> 原作:声之形
 parody:huyao xiao hongniang -> 原作:狐妖小红娘
 parody:kowarekake no orgel -> 原作:快要坏掉的八音盒
 parody:koikishi purely kiss -> 原作:恋骑士Purely☆Kiss
-parody:saimin yuugi -> 原作:催眠游戏(催眠遊戯)
+parody:saimin yuugi -> 原作:催眠游戏
 parody:taimanin rpg -> 原作:対魔忍RPG
 parody:ura sekai picnic -> 原作:里世界郊游
 parody:gyakuten majo saiban -> 原作:逆转魔女裁判
@@ -2376,9 +2376,13 @@ parody:silent hill -> 原作:寂静岭
 parody:kaii to otome to kamikakushi -> 原作:怪异与少女与神隐
 parody:koi iro marriage -> 原作:恋色Marriage
 parody:harmonia -> 原作:Harmonia
-parody:onii-chan asa made zutto gyutte shite yoru made motto ecchi shite -> 原作:哥哥，早上起床之前都要抱紧我哦！/哥哥、早上起床之前要一直抱紧我哦！
+parody:onii-chan asa made zutto gyutte shite yoru made motto ecchi shite -> 原作:哥哥，早上起床之前都要抱紧我哦！
 parody:blue lock -> 原作:蓝色监狱
 parody:tondemo skill de isekai hourou meshi -> 原作:超常技能开启奇幻世界美食之旅
+parody:amagami-san chi no enmusubi -> 原作:结缘甘神家
+parody:kandagawa jet girls -> 原作:神田川JET GIRLS
+parody:ninja hattori-kun -> 原作:忍者服部君
+parody:twinkle crusaders -> 原作:闪耀十字军
 character:alice -> 角色:爱丽丝
 character:akane hino -> 角色:日野茜
 character:ibuki -> 角色:伊吹
@@ -3714,7 +3718,7 @@ character:margay -> 角色:长尾虎猫
 character:black leopard -> 角色:黑豹
 character:leopard -> 角色:豹
 character:south african giraffe -> 角色:南非长颈鹿
-character:sabre tiger -> 角色:剑齿虎
+character:saber tiger -> 角色:剑齿虎
 character:japanese crested ibis -> 角色:朱鹮
 character:sora kasugano -> 角色:春日野穹
 character:haruka kasugano -> 角色:春日野悠
@@ -3862,7 +3866,7 @@ character:red saber -> 角色:尼禄·克劳狄乌斯
 character:ayako mitsuzuri -> 角色:美缀绫子
 character:kane himuro -> 角色:冰室钟
 character:kaede makidera -> 角色:莳寺枫
-character:gudao -> 角色:藤丸立香(咕哒男)
+character:gudao -> 角色:咕哒男
 character:gudako -> 角色:咕哒子
 character:kiyohime -> 角色:清姬
 character:alexander -> 角色:亚历山大
@@ -6174,7 +6178,7 @@ character:himeko murata -> 角色:无量塔姬子
 character:seele vollerei -> 角色:希儿·芙乐艾
 character:cecilia schariac -> 角色:塞西莉亚·沙尼亚特
 character:shinobu kuki -> 角色:久岐忍
-character:springfield -> 角色:春田/M1903
+character:springfield -> 角色:春田
 character:natasha cioara -> 角色:娜塔莎·希奥拉（渡鸦）
 character:fu hua -> 角色:符华
 character:timido cute -> 角色:缇米朵·丘忒
@@ -7600,7 +7604,7 @@ character:lloyd de saloum -> 角色:罗伊德·迪·萨卢姆
 character:reina aharen -> 角色:阿波连玲奈
 character:suzune horikita -> 角色:堀北铃音
 character:fauna -> 角色:塞莱希·法娜
-character:momo ayase -> 角色:綾瀬桃
+character:momo ayase -> 角色:绫濑桃
 character:andrew graves -> 角色:安德鲁·格雷夫斯
 character:mrs. graves -> 角色:格雷夫斯太太
 character:ashley graves -> 角色:阿什利·格雷夫斯
@@ -7634,7 +7638,6 @@ character:caesar king -> 角色:凯撒·金
 character:burnice white -> 角色:柏妮思·怀特
 character:miyabi hoshimi -> 角色:星见雅
 character:camellya -> 角色:椿
-character:koseki bijou -> 角色:古石ビジュ―
 character:luciana auxesis theodoro de montefio -> 角色:露西
 character:tomoki kuroki -> 角色:黑木智贵
 character:muelsyse -> 角色:缪尔赛思
@@ -7696,7 +7699,7 @@ character:ruka tachiarai -> 角色:太刀洗流夏
 character:mitsuki yoigahama -> 角色:宵滨深月
 character:rin morichika -> 角色:森近铃
 character:riri tokugawa -> 角色:德川莉莉
-character:precia wiseman -> 角色:普雷西娅・怀斯曼
+character:precia wiseman -> 角色:普雷西娅·怀斯曼
 character:quria -> 角色:久央璃亚
 character:yume kuchinashi -> 角色:栀子梦
 character:riki naoe -> 角色:直枝理树
@@ -7739,9 +7742,9 @@ character:esdeath -> 角色:艾斯德斯
 character:noel niihashi -> 角色:新桥诺艾尔
 character:alma armas -> 角色:阿尔玛·阿玛斯
 character:bambietta basterbine -> 角色:邦比爱塔·芭丝塔拜姻
-character:midnight -> 角色:午夜[DC漫画]
+character:midnight -> 角色:午夜
 character:sumire otohana -> 角色:乙花堇
-character:marina -> 角色:饭田 [斯普拉遁]
+character:marina -> 角色:饭田
 character:cecile croomy -> 角色:塞希尔·柯尔米
 character:jeremiah gottwald -> 角色:杰雷米亚·哥特瓦尔德
 character:nina einstein -> 角色:妮娜·爱因斯坦
@@ -7812,9 +7815,9 @@ character:maria cadenzavna eve -> 角色:玛丽亚·卡登扎夫娜·伊芙
 character:elfnein -> 角色:艾芙奈恩
 character:taoqi -> 角色:桃祈
 character:miyo harada -> 角色:原田美世
-character:shouko nishimiya -> 角色:西宮硝子
+character:shouko nishimiya -> 角色:西宫硝子
 character:naoka ueno -> 角色:植野直花
-character:shouya ishida -> 角色:石田將也
+character:shouya ishida -> 角色:石田将也
 character:yuzuru nishimiya -> 角色:西宫结弦
 character:sayo minakami -> 角色:水神小夜
 character:kaoruko tenkawa -> 角色:天川薰子
@@ -7834,7 +7837,7 @@ character:nayuta tenkawa -> 角色:天川那由多
 character:lucy heartfilia -> 角色:露西·哈特菲利亚
 character:sakuya sumeragi -> 角色:皇咲夜
 character:the shorekeeper -> 角色:守岸人
-character:yuuki sakuna -> 角色:结城昨奈/結城さくな
+character:yuuki sakuna -> 角色:结城昨奈
 character:noko shikanoko -> 角色:鹿乃子乃子
 character:torako koshi -> 角色:虎视虎子
 character:shangri-la -> 角色:香格里拉
@@ -7883,13 +7886,18 @@ character:mahiru koizumi -> 角色:小泉真昼
 character:sonia nevermind -> 角色:索尼娅·内瓦曼德
 character:teruteru hanamura -> 角色:花村辉辉
 character:mikan tsumiki -> 角色:罪木蜜柑
-character:shiona -> 角色:シオナ(Harmonia)
 character:yoichi isagi -> 角色:洁世一
 character:kurusu natsume -> 角色:来栖夏芽
 character:misuzu kamio -> 角色:神尾观铃
-character:g41 -> 角色:HKG41/(忠犬)
+character:g41 -> 角色:G41
 character:rico -> 角色:黎各
 character:tachibana hinano -> 角色:橘雏乃
+character:roronoa zoro -> 角色:罗罗诺亚·索隆
+character:sanji vinsmoke -> 角色:文斯莫克·山治
+character:zorro -> 角色:索隆
+character:ryoutarou tsuboi -> 角色:壶井辽太郎（克莱因）
+character:masazumi honda -> 角色:本多·正纯
+character:shizuku lulu -> 角色:雫るる
 group:1 -> 团队:1
 group:13 -> 团队:13
 group:27 -> 团队:27
@@ -7952,7 +7960,7 @@ group:chelseasoft -> 团队:Chelseasoft
 group:sphere -> 团队:Sphere
 group:hook -> 团队:HOOKSOFT
 group:smee -> 团队:SMEE
-group:asa project -> 团队:ASa Project(颜艺社)
+group:asa project -> 团队:ASa Project
 group:rosebleu -> 团队:Rosebleu
 group:clochette -> 团队:Clochette
 group:honey soft -> 团队:HONEY SOFT
@@ -7991,7 +7999,7 @@ group:august -> 团队:AUGUST
 group:feng -> 团队:feng
 group:frontwing -> 团队:FrontWing
 group:atelier d -> 团队:Atelier D
-group:atelier kaguya -> 团队:Atelier KAGUYA/竹子社
+group:atelier kaguya -> 团队:Atelier KAGUYA
 group:atelier kaguya honky-tonk pumpkin -> 团队:Atelier KAGUYA Honky-Tonk Pumpkin
 group:atelier kaguya team gassa-q -> 团队:Atelier KAGUYA TEAM Gassa-Q
 group:atelier kaguya team heartbeat -> 团队:Atelier KAGUYA TEAM HEARTBEAT
@@ -8013,7 +8021,7 @@ group:whirlpool -> 团队:Whirlpool
 group:giga -> 团队:戏画
 group:milksoft -> 团队:牛奶软件
 group:cygames -> 团队:Cygames
-group:keroq -> 团队:ケロQ/KeroQ
+group:keroq -> 团队:ケロQ
 group:akatsuki works hibiki -> 团队:hibiki works
 group:fairytale -> 团队:fairytale
 group:falcom -> 团队:Falcom
@@ -8358,7 +8366,7 @@ group:aihara hanten -> 团队:相原饭店
 group:full high kick -> 团队:ふるはいきっく
 group:punipuni doumei -> 团队:ぷにぷに同盟
 group:sokomono suisou -> 团队:底物水槽
-group:shiratamaco -> 团队:しらたまこ/白玉子(白玉社)
+group:shiratamaco -> 团队:白玉子
 group:oreteki18kin -> 团队:俺的十八禁
 group:dl mate -> 团队:DLメイト
 group:kaminagi-tei -> 团队:神凪邸
@@ -8589,7 +8597,7 @@ group:yuriru-rarika -> 团队:ユリルラリカ
 group:kuroquis -> 团队:クロッキー!!
 group:tmzf no circle -> 团队:TMZFのサークル
 group:miniature magic -> 团队:みにちゅあまじっく
-group:tinker bell -> 团队:てぃんかーべる(白夜茶会)
+group:tinker bell -> 团队:白夜茶会
 group:just-k -> 团队:JUST-K
 group:justice-flame -> 团队:JUSTICE-FLAME
 group:yakumi benishouga -> 团队:药味红生姜
@@ -10146,7 +10154,7 @@ group:kuzuya -> 团队:屑屋
 group:momojiru teien -> 团队:桃汁庭园
 group:tamatamasanmyaku -> 团队:たまたま山脈
 group:harthnir -> 团队:HarthNir
-group:yoru no hitsuji -> 团队:夜のひつじ/夜羊社(夜羊舍)
+group:yoru no hitsuji -> 团队:夜のひつじ
 group:nawairo sonata -> 团队:縄色ソナタ
 group:momokamasu -> 团队:ももかます
 group:kumo no ito -> 团队:雲之糸
@@ -13734,7 +13742,7 @@ group:hyoco road -> 团队:ひょこ道
 group:hyouketsu mikan -> 团队:氷結蜜柑
 group:hyper houbokujou -> 团队:ハイパー放牧場
 group:hyper summer wars -> 团队:ハイパーサマーウォーズ
-group:hyperiyon -> 团队:はいぺりよん(Hyperion)
+group:hyperiyon -> 团队:はいぺりよん
 group:hypnotic angel -> 团队:Hypnotic Angel
 group:hypnotisms -> 团队:hypnotisms
 group:hyspaniplus -> 团队:HyspaniPlus
@@ -15271,7 +15279,7 @@ group:makkurona -> 团队:まっ黒な
 group:makoto shiyaka -> 团队:間琴しや架
 group:makoto skip -> 团队:まこと☆スキップ
 group:maku -> 团队:Maku
-group:makura -> 团队:枕社/The Pillow/MAKURA
+group:makura -> 团队:MAKURA
 group:makuriya -> 团队:まくりや
 group:makushiro -> 团队:マクシロ
 group:malus pumila -> 团队:まるすぷみら
@@ -18323,7 +18331,7 @@ group:silicon jichou -> 团队:シリコン自重
 group:silky to yukai na nakama-tachi -> 团队:しるきーと愉快な仲間たち
 group:silmaril -> 团队:しるまりる
 group:silver bloom -> 团队:SILVER BLOOM
-group:silver bullet -> 团队:Silver Bullet
+group:silver bullet -> 团队:银色子弹
 group:silver way -> 团队:銀色宇宙(仮)
 group:silverfox -> 团队:銀狐
 group:silver rice -> 团队:シルバーライス
@@ -19525,7 +19533,7 @@ group:uge connection -> 团队:UGEコネクション
 group:ugeman -> 团队:うげ漫
 group:ugokuna pharmacy theta -> 团队:うごくな薬局θ
 group:ugou no shuu -> 团队:烏合ノ衆
-group:uguisu kagura -> 团队:ウグイスカグラ(日本莺)/胃痛社/纸魔社
+group:uguisu kagura -> 团队:ウグイスカグラ
 group:uguisuya -> 团队:莺屋
 group:uhii -> 团队:うひい
 group:uirokai -> 团队:ういろうかい
@@ -20897,12 +20905,18 @@ group:anayama radio -> 团队:穴山ラジオ
 group:maskdo -> 团队:マスク堂
 group:eat-in -> 团队:いーといん
 group:amisawa kenkyuujo -> 团队:網澤研究所
-group:kokuchou -> 团队:黑鸟/黒鳥
-group:smile -> 团队:スミレ/SMILE
+group:kokuchou -> 团队:黑鸟
+group:smile -> 团队:SMILE
 group:nyan nyan -> 团队:娘娘
 group:mosoparadox -> 团队:妄想パラドックス
 group:hidarimigi -> 团队:ヒダリミギ
 group:black lacquer -> 团队:Black Lacquer
+group:fukufuku -> 团队:Fuku Fuku!
+group:joutyohuantei -> 团队:情緒不安定
+group:rokuchounome -> 团队:六丁の目/六丁目
+group:arisugawa no miya -> 团队:有栖川ノ宮
+group:lillian -> 团队:Lilian
+group:hachinosu -> 团队:蜂巣
 artist:2 -> 艺术家:2
 artist:7 -> 艺术家:7
 artist:8 -> 艺术家:8
@@ -21091,7 +21105,7 @@ artist:interstellar -> 艺术家:Interstellar
 artist:mikeou -> 艺术家:みけおう
 artist:hinata nao -> 艺术家:日向奈尾
 artist:sakurazaka tsuchiyu -> 艺术家:樱坂千由
-artist:yamakaze ran -> 艺术家:やまかぜ嵐
+artist:yamakaze ran -> 艺术家:山风岚
 artist:anko -> 艺术家:あん子 | あんこ
 artist:kohaku. -> 艺术家:こはく。
 artist:kousaka jun -> 艺术家:香坂纯
@@ -21189,7 +21203,7 @@ artist:zankuro -> 艺术家:ザンクロー
 artist:wa -> 艺术家:WA
 artist:satou kuuki -> 艺术家:左藤空气
 artist:kouzuki hajime -> 艺术家:香月一花
-artist:furukawa remon -> 艺术家:古川れもん/古川柠檬
+artist:furukawa remon -> 艺术家:古川柠檬
 artist:nukunuku batten -> 艺术家:ぬくぬくばってん
 artist:sadokko -> 艺术家:さどっこ
 artist:izumi -> 艺术家:和泉
@@ -21277,7 +21291,7 @@ artist:mikaduki neko -> 艺术家:三日月ネコ
 artist:aihara shouta -> 艺术家:相原翔太
 artist:mimofu -> 艺术家:みもふ
 artist:takatuki nato -> 艺术家:鷹月ナト
-artist:shiratama -> 艺术家:白玉/しらたま
+artist:shiratama -> 艺术家:白玉
 artist:nohara hiromi -> 艺术家:野原ひろみ
 artist:higashino mikan -> 艺术家:東野みかん
 artist:dr.bug -> 艺术家:Dr.阿虫
@@ -23210,7 +23224,7 @@ artist:jagausa -> 艺术家:じゃがうさ
 artist:misuroma -> 艺术家:みすろま
 artist:kabe umari-ko -> 艺术家:壁埋まり子
 artist:crowly -> 艺术家:くろうり
-artist:sekiya asami -> 艺术家:関谷あさみ/关谷麻美
+artist:sekiya asami -> 艺术家:关谷麻美
 artist:nananana -> 艺术家:ナナナナ
 artist:cafekun -> 艺术家:cafekun
 artist:hataraki ari -> 艺术家:ハタラキ有
@@ -23310,7 +23324,7 @@ artist:shimanto shisakugata -> 艺术家:40010试作型
 artist:yuzuna hiyo -> 艺术家:柚子奈ひよ
 artist:kojiki ohji -> 艺术家:古事记王子
 artist:tamakake -> 艺术家:たまかけ
-artist:shiromochi sakura -> 艺术家:白もち桜
+artist:shiromochi sakura -> 艺术家:白もち桜/白饼樱
 artist:shimao kazu -> 艺术家:嶋尾和
 artist:kanou ryuuji -> 艺术家:叶竜児
 artist:yatanukikey -> 艺术家:やたぬき圭
@@ -23542,9 +23556,9 @@ artist:mizuki takehito -> 艺术家:みづきたけひと
 artist:takahashi tetsuya -> 艺术家:高桥哲哉
 artist:hiten -> 艺术家:Hiten
 artist:inugami kira -> 艺术家:狗神煌
-artist:korie riko -> 艺术家:梱枝莉子
+artist:korie riko -> 艺术家:捆枝莉子
 artist:hasune -> 艺术家:はすね
-artist:muku -> 艺术家:muku/むく•ぎゅうひもち
+artist:muku -> 艺术家:muku
 artist:kurou -> 艺术家:九郎
 artist:natsuki yuu -> 艺术家:なつきゆう
 artist:pan -> 艺术家:ぱん
@@ -23893,7 +23907,7 @@ artist:poruno ibuki -> 艺术家:はるのいぶき
 artist:kenichi -> 艺术家:ケンイチ
 artist:mashu -> 艺术家:ましゅー
 artist:na-ga -> 艺术家:Na-Ga
-artist:sakurazawa izumi -> 艺术家:樱泽泉/桜沢いづみ
+artist:sakurazawa izumi -> 艺术家:樱泽泉
 artist:hinayuki usa -> 艺术家:ヒナユキウサ
 artist:amamitu kousuke -> 艺术家:甘蜜こうすけ
 artist:atiki -> 艺术家:Aちき
@@ -24367,7 +24381,7 @@ artist:yamakonbu -> 艺术家:やまこんぶ
 artist:crew -> 艺术家:クルー
 artist:toujou tsukushi -> 艺术家:東條土筆
 artist:yamada gogogo -> 艺术家:山田ゴゴゴ
-artist:g-wara -> 艺术家:爺わら/ねいび
+artist:g-wara -> 艺术家:爺わら
 artist:ibarame hisa -> 艺术家:茨芽ヒサ
 artist:aoyama kiiro. -> 艺术家:あおやまきいろ。
 artist:ushiro muki -> 艺术家:丑露ムキ
@@ -24523,7 +24537,7 @@ artist:kyuusuikei -> 艺术家:給水係
 artist:sr -> 艺术家:SR
 artist:azure -> 艺术家:あずーる
 artist:ishimura -> 艺术家:石村
-artist:random -> 艺术家:蘭田夢
+artist:random -> 艺术家:兰田梦
 artist:hamadamiku -> 艺术家:浜田みく
 artist:nanasaki -> 艺术家:七崎
 artist:satsuki misuzu -> 艺术家:皐月深鈴
@@ -25107,7 +25121,7 @@ artist:arinko -> 艺术家:蟻ん子
 artist:arisaka ako -> 艺术家:有坂あこ
 artist:arisato natsuki -> 艺术家:ありさと奈月
 artist:arisawa masaharu -> 艺术家:有沢柾春
-artist:arisue tsukasa -> 艺术家:有末司/有末つかさ
+artist:arisue tsukasa -> 艺术家:有末司
 artist:ariyas honda -> 艺术家:本田有保
 artist:ariyoshi gen -> 艺术家:蟻吉げん
 artist:ark waver -> 艺术家:あるくでんぱ
@@ -29095,7 +29109,7 @@ artist:moritaka takashi -> 艺术家:もりたかたかし
 artist:moritake -> 艺术家:モリタケ
 artist:moritan -> 艺术家:もりたん
 artist:moriyama rikka -> 艺术家:森山六花
-artist:moriyama shijimi -> 艺术家:森山しじみ/森山志美
+artist:moriyama shijimi -> 艺术家:森山志美
 artist:morochin-san -> 艺术家:もろちんさん
 artist:morokoshitaroh -> 艺术家:morokoshitaroh
 artist:morota -> 艺术家:もろた
@@ -31517,7 +31531,7 @@ artist:tako kuboh -> 艺术家:蛸公方
 artist:takorice -> 艺术家:たこらいす
 artist:takotyu -> 艺术家:たこちゅう
 artist:takoya kiki -> 艺术家:多胡屋きき
-artist:takoyaki -> 艺术家:たこ焼き
+artist:takoyaki -> 艺术家:章鱼烧
 artist:takto -> 艺术家:TAKTO
 artist:taku -> 艺术家:タク
 artist:taku hiraku -> 艺术家:拓ヒラク
@@ -31625,7 +31639,7 @@ artist:tataru -> 艺术家:タタル
 artist:tatejima. -> 艺术家:縦縞。
 artist:tateno tomoki -> 艺术家:タテノトモキ
 artist:sennohito. -> 艺术家:線の人。
-artist:tatsuhiko -> 艺术家:たつひこ/達一文字/PTD/龙彦
+artist:tatsuhiko -> 艺术家:たつひこ
 artist:tatsumiya motokazu -> 艺术家:たつみやもとかず
 artist:tatsumu kyou -> 艺术家:龍武京
 artist:tatsuneko -> 艺术家:たつねこ
@@ -33981,7 +33995,7 @@ artist:mameneko -> 艺术家:まめ猫
 artist:richard bahman -> 艺术家:リヒャルト・バフマン
 artist:boukoku daitouryou -> 艺术家:某国大統領
 artist:yuuki fuumi -> 艺术家:有機風味
-artist:nonohara miki -> 艺术家:野々原幹(野野原干)
+artist:nonohara miki -> 艺术家:野野原干
 artist:yumejidake -> 艺术家:ユメジダケ
 artist:morino koala -> 艺术家:森乃こあら
 artist:genmai -> 艺术家:玄米
@@ -33990,7 +34004,7 @@ artist:kamishiro piyo -> 艺术家:神代ぴよ
 artist:tachibana kou -> 艺术家:橘こお
 artist:kutsushita danshaku -> 艺术家:靴下男爵
 artist:taniyama-san -> 艺术家:谷山さん
-artist:kannagi rei -> 艺术家:かんなぎれい
+artist:kannagi rei -> 艺术家:神薙丽
 artist:luicent -> 艺术家:るいせんと
 artist:dnwls3010 -> 艺术家:ふわり
 artist:rucaco -> 艺术家:るかこ
@@ -34024,7 +34038,7 @@ artist:metako -> 艺术家:めた子
 artist:hiroki00 -> 艺术家:Hiro潶
 artist:keganin -> 艺术家:毛蟹ん
 artist:yuzu kiro -> 艺术家:ゆずきいろ
-artist:nekoma kotomitsu -> 艺术家:猫間ことみつ | 猫間ことみ
+artist:nekoma kotomitsu -> 艺术家:猫間ことみつ
 artist:particular -> 艺术家:ぱてくらー
 artist:karashina en -> 艺术家:カラシナ円
 artist:hagakure kurage -> 艺术家:葉隠くらげ
@@ -34051,7 +34065,7 @@ artist:kiwami ichiman dageki -> 艺术家:極一万打撃
 artist:mizunashi tomo -> 艺术家:水梨 朋
 artist:miyazen -> 艺术家:みやぜん
 artist:kitamimaki kei -> 艺术家:北御牧庆
-artist:yoruhoshi owl -> 艺术家:夜星アウル(夜星猫头鹰)
+artist:yoruhoshi owl -> 艺术家:夜星猫头鹰
 artist:oshiro shiroo -> 艺术家:尾白白尾
 artist:torriet -> 艺术家:Torriet-トリエット-
 artist:sano hiyori -> 艺术家:茶乃ひより
@@ -34151,7 +34165,7 @@ artist:sacro -> 艺术家:さくろ
 artist:komizuki -> 艺术家:古弥月
 artist:pukyunosuke -> 艺术家:ぷきゅのすけ
 artist:motsunuki -> 艺术家:もつぬき
-artist:nakamori ai -> 艺术家:中森 愛
+artist:nakamori ai -> 艺术家:中森愛
 artist:goto kasumi -> 艺术家:五藤加純
 artist:harenochi sakana -> 艺术家:晴のちsakana
 artist:echihiro -> 艺术家:えちひろ
@@ -34217,7 +34231,7 @@ artist:mabo nasu -> 艺术家:麻婆ナス
 artist:uwa bami -> 艺术家:卯和馬実
 artist:ajura -> 艺术家:あじゅら
 artist:sugina miki -> 艺术家:杉菜水姬
-artist:ichikawa saasha -> 艺术家:市川小纱
+artist:ichikawa saasya -> 艺术家:市川小纱
 artist:seishoujo -> 艺术家:圣少女
 artist:krdsan -> 艺术家:KRDsan
 artist:polier -> 艺术家:POLIER
@@ -34249,9 +34263,9 @@ artist:batsu kakeru peke -> 艺术家:ばつかけるぺけ
 artist:yagicom -> 艺术家:ヤギコム
 artist:xuemian dousha -> 艺术家:雪绵豆沙
 artist:thalia -> 艺术家:Thalia
-artist:ceo neet -> 艺术家:neet社长/ニート社長
+artist:ceo neet -> 艺术家:neet社长
 artist:kokureki -> 艺术家:黒礫
-artist:ookami hika -> 艺术家:绯华/緋華
+artist:ookami hika -> 艺术家:绯华
 artist:kakao rantan -> 艺术家:カカオ・ランタン
 artist:goulianlian -> 艺术家:狗脸脸dogface
 artist:rea loixacra -> 艺术家:REA Loixacra
@@ -34263,7 +34277,7 @@ artist:runoba umiya -> 艺术家:Runoba海屋
 artist:doco -> 艺术家:Doco
 artist:basoba -> 艺术家:ばそば
 artist:shittori bouzu -> 艺术家:しっとりボウズ
-artist:tukigi kousuke -> 艺术家:月木浩介（月木）
+artist:tukigi kousuke -> 艺术家:月木浩介
 artist:nakamura taiyaki -> 艺术家:中村たいやき
 artist:payochiyo -> 艺术家:ぱょちょ
 artist:otoduki moduku -> 艺术家:音月もづく
@@ -34286,7 +34300,7 @@ artist:sangai -> 艺术家:算涯
 artist:super nagoyaka -> 艺术家:すーぱーなごやか
 artist:morigami -> 艺术家:森神
 artist:syroh -> 艺术家:Syroh
-artist:haduki gyokuto -> 艺术家:叶月玉兔/葉月玉兎
+artist:haduki gyokuto -> 艺术家:叶月玉兔
 artist:uyuki -> 艺术家:卯雪
 artist:moeyama p-man -> 艺术家:萌山ぴーまん
 artist:drasdr7513 -> 艺术家:龍龍
@@ -34307,10 +34321,10 @@ artist:amano mitara -> 艺术家:甘乃みたら
 artist:huca -> 艺术家:huca
 artist:eploov -> 艺术家:EPLOOV
 artist:izumi makoto -> 艺术家:泉水真琴
-artist:kawai maria -> 艺术家:河井まりあ/河井玛丽亚
+artist:kawai maria -> 艺术家:河井玛丽亚
 artist:mochizuki kei -> 艺术家:望月けい
-artist:campyo master -> 艺术家:かんぴょ うマスター/观表大师
-artist:mero -> 艺术家:めろ/mero
+artist:campyo master -> 艺术家:观表大师
+artist:mero -> 艺术家:めろ
 artist:amisawa kenkyuujo -> 艺术家:網澤研究所
 artist:alicegawa chisato -> 艺术家:有栖川千里
 artist:kamunika -> 艺术家:かむにか
@@ -34323,7 +34337,7 @@ artist:yuiragi chikage -> 艺术家:結城ちかげ
 artist:nitouhen -> 艺术家:二等边
 artist:okadate imari -> 艺术家:冈馆いまり
 artist:hontani kanae -> 艺术家:ほんたにかなえ
-artist:toranosuke -> 艺术家:とらのすけ/虎之助
+artist:toranosuke -> 艺术家:虎之助
 artist:takashima -> 艺术家:田貸魔
 artist:croriin -> 艺术家:Croriin
 artist:sawatashi yun -> 艺术家:さわたしゆん
@@ -34331,14 +34345,28 @@ artist:yochi ryota -> 艺术家:よちリョウタ
 artist:niliu chahui -> 艺术家:逆流茶会
 artist:yuunagi seshina -> 艺术家:夕凪セシナ
 artist:kmvt -> 艺术家:kmvt
-artist:umetori uriri -> 艺术家:梅鳥うりり(福永ユミ)
+artist:umetori uriri -> 艺术家:梅鳥うりり
+artist:fukunaga yumi -> 艺术家:福永ユミ
 artist:fairy ai -> 艺术家:ふぇありぃあい
 artist:kuro urushi -> 艺术家:黑漆
 artist:kronosaurs -> 艺术家:クロノトカゲ
-artist:ooyun -> 艺术家:然先生(然学生)
+artist:ooyun -> 艺术家:然先生
 artist:pectoriah -> 艺术家:pectoriah
 artist:bechu -> 艺术家:BECHU
 artist:zasetsuou -> 艺术家:挫折王
+artist:litora -> 艺术家:りとら
+artist:r ken -> 艺术家:Rけん
+artist:rken -> 艺术家:Rけん
+artist:nekoyashiki pushio -> 艺术家:猫屋敷ぷしお（ぬこぷし）
+artist:kirimitsu -> 艺术家:桐光
+artist:prywinko -> 艺术家:Prywinko
+artist:olive -> 艺术家:おりーぶ/橄榄
+artist:hanamori -> 艺术家:はな森
+artist:aona masao -> 艺术家:苍鱼真青
+artist:kazami haruki -> 艺术家:风见春树
+artist:riv -> 艺术家:Riv
+artist:gairou -> 艺术家:ガイロウ
+artist:bionics nattou -> 艺术家:バイオニクス納豆
 cosplayer:otohara an -> Coser:乙原あん
 cosplayer:rioko -> Coser:凉凉子
 cosplayer:atsuki -> Coser:あつき
@@ -34523,6 +34551,7 @@ male:raccoon boy -> 男性:浣熊男孩
 male:robot -> 男性:机器人🤖
 male:shark boy -> 男性:鲨男孩
 male:sheep boy -> 男性:羊男孩
+male:skeleton -> 男性:骷髅
 male:slime -> 男性:史莱姆
 male:slime boy -> 男性:史莱姆男孩
 male:snake boy -> 男性:蛇男
@@ -34589,6 +34618,7 @@ male:miniguy -> 男性:迷你男孩
 male:shrinking -> 男性:缩小
 male:tall man -> 男性:高个男
 male:albino -> 男性:白化
+male:bite mark -> 男性:咬痕
 male:body writing -> 男性:身体写作
 male:body painting -> 男性:身体绘画
 male:dark skin -> 男性:黑皮
@@ -34648,6 +34678,7 @@ male:personality excretion -> 男性:人格排泄
 male:possession -> 男性:附身
 male:shared senses -> 男性:感官共享
 male:sleeping -> 男性:睡觉
+male:additional eyes -> 男性:多眼
 male:blindfold -> 男性:遮眼布
 male:closed eyes -> 男性:闭眼
 male:crying -> 男性:流泪
@@ -34919,6 +34950,7 @@ male:domination loss -> 男性:统治丢失
 male:food on body -> 男性:男体盛
 male:forniphilia -> 男性:人体家具
 male:human cattle -> 男性:人类饲养
+male:property tag -> 男性:财产标签
 male:josou seme -> 男性:女装攻
 male:orgasm denial -> 男性:高潮禁止
 male:petplay -> 男性:人宠
@@ -35065,6 +35097,7 @@ female:lizard girl -> 女性:蜥蜴女孩
 female:mermaid -> 女性:美人鱼🧜‍♀️
 female:monkey girl -> 女性:猴女孩
 female:monster girl -> 女性:魔物娘
+female:moth girl -> 女性:蛾娘
 female:mouse girl -> 女性:鼠女孩
 female:necrophilia -> 女性:奸尸
 female:oni -> 女性:鬼
@@ -35077,6 +35110,7 @@ female:raccoon girl -> 女性:浣熊女孩
 female:robot -> 女性:机器人🤖
 female:shark girl -> 女性:鲨女孩
 female:sheep girl -> 女性:羊女孩
+female:skeleton -> 女性:骷髅
 female:slime -> 女性:史莱姆
 female:slime girl -> 女性:史莱姆女孩
 female:snail girl -> 女性:蜗牛女孩
@@ -35140,6 +35174,7 @@ female:minigirl -> 女性:迷你女孩
 female:shrinking -> 女性:缩小
 female:tall girl -> 女性:高个女
 female:albino -> 女性:白化
+female:bite mark -> 女性:咬痕
 female:body writing -> 女性:身体写作
 female:body painting -> 女性:身体绘画
 female:dark skin -> 女性:黑皮
@@ -35200,6 +35235,7 @@ female:personality excretion -> 女性:人格排泄
 female:possession -> 女性:附身
 female:shared senses -> 女性:感官共享
 female:sleeping -> 女性:睡觉
+female:additional eyes -> 女性:多眼
 female:blindfold -> 女性:遮眼布
 female:closed eyes -> 女性:闭眼
 female:crying -> 女性:流泪
@@ -35503,6 +35539,7 @@ female:domination loss -> 女性:统治丢失
 female:food on body -> 女性:女体盛
 female:forniphilia -> 女性:人体家具
 female:human cattle -> 女性:人类饲养
+female:property tag -> 女性:财产标签
 female:orgasm denial -> 女性:高潮禁止
 female:petplay -> 女性:人宠
 female:slave -> 女性:奴隶
