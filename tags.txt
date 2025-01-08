@@ -2383,6 +2383,8 @@ parody:amagami-san chi no enmusubi -> 原作:结缘甘神家
 parody:kandagawa jet girls -> 原作:神田川JET GIRLS
 parody:ninja hattori-kun -> 原作:忍者服部君
 parody:twinkle crusaders -> 原作:闪耀十字军
+parody:ao no hako -> 原作:青之箱
+parody:okujou no yurirei-san -> 原作:屋上的百合灵
 character:alice -> 角色:爱丽丝
 character:akane hino -> 角色:日野茜
 character:ibuki -> 角色:伊吹
@@ -5344,7 +5346,7 @@ character:mona megistus -> 角色:莫娜·梅姬斯图斯
 character:aether -> 角色:空
 character:fischl -> 角色:菲谢尔
 character:eula lawrence -> 角色:优菈·劳伦斯
-character:barbara pegg -> 角色:芭芭拉
+character:barbara pegg -> 角色:芭芭拉(原神)
 character:chongyun -> 角色:重云
 character:xingqiu -> 角色:行秋
 character:lisa minci -> 角色:丽莎·敏兹
@@ -6491,7 +6493,7 @@ character:garou -> 角色:饿狼
 character:himeko -> 角色:姬子
 character:herta -> 角色:黑塔
 character:stelle -> 角色:星
-character:clara -> 角色:克拉拉
+character:clara -> 角色:克拉拉(崩坏：星穹铁道)
 character:nene ayachi -> 角色:绫地宁宁
 character:neeko -> 角色:妮蔻
 character:nidalee -> 角色:奈德丽
@@ -7898,6 +7900,60 @@ character:zorro -> 角色:索隆
 character:ryoutarou tsuboi -> 角色:壶井辽太郎（克莱因）
 character:masazumi honda -> 角色:本多·正纯
 character:shizuku lulu -> 角色:雫るる
+character:rumia tingel -> 角色:露米娅·汀洁尔
+character:sistine fibel -> 角色:希丝缇娜·菲伊贝鲁
+character:akame -> 角色:赤瞳
+character:erza scarlet -> 角色:艾露莎·舒卡勒托
+character:kari kamiya -> 角色:八神光
+character:rika nonaka -> 角色:牧野留姬
+character:kaede saitou -> 角色:斋藤枫
+character:chinatsu kano -> 角色:鹿野千夏
+character:rance -> 角色:兰斯
+character:shizuka masou -> 角色:魔想志津香
+character:kouhime -> 角色:织田香
+character:menad shisei -> 角色:美娜多·希瑟
+character:reset kalar -> 角色:莉赛特·卡拉
+character:rizna lanfbitt -> 角色:利兹娜·兰菲比特
+character:nagi su ragarl -> 角色:娜姬·斯·拉卡鲁
+character:isoroku yamamoto -> 角色:山本五十六(兰斯系列)
+character:la hawzel -> 角色:拉·哈泽璐
+character:sheila helman -> 角色:希拉·赫尔曼
+character:kanami kentou -> 角色:见当加奈美
+character:maria custard -> 角色:玛利亚·卡斯塔多
+character:el mofus -> 角色:艾尔·莫福斯
+character:sill plain -> 角色:希露·普莱恩
+character:kenshin uesugi -> 角色:上杉谦信(兰斯系列)
+character:pastel kalar -> 角色:帕斯特尔·卡拉
+character:satella -> 角色:萨特拉
+character:sen tokugawa -> 角色:德川千
+character:magic the gandhi -> 角色:玛吉珂·甘地
+character:gele -> 角色:姬尔
+character:lia parapara leazas -> 角色:莉亚·帕拉帕拉·利萨斯
+character:wichita skate -> 角色:维吉塔·斯科特
+character:silky -> 角色:希尔基·特里蕾森
+character:warg -> 角色:瓦古·赤
+character:elena flower -> 角色:艾莲娜·弗拉维
+character:heidi pankrau -> 角色:海蒂·庞库拉乌
+character:nimitz leak -> 角色:尼米兹·丽科
+character:crook mofus -> 角色:库鲁库·莫福斯
+character:cafe artful -> 角色:卡菲·阿托弗露
+character:seiko ayase -> 角色:绫濑星子
+character:ran nanjou -> 角色:南条兰
+character:suzume -> 角色:铃女
+character:omachi -> 角色:町
+character:urza pranaice -> 角色:乌鲁泽·普拉纳爱斯
+character:maris amaryllis -> 角色:玛丽斯·阿玛莉莉丝
+character:pinecone -> 角色:松果
+character:yuuri wakasa -> 角色:若狭悠里
+character:miki naoki -> 角色:直树美纪
+character:yuki takeya -> 角色:丈枪由纪
+character:erika hatami -> 角色:旗见绘里香
+character:kanae itou -> 角色:伊藤香苗
+character:juri ushimaki -> 角色:牛牧茱莉
+character:akiha shishidou -> 角色:狮子堂秋叶
+character:jace beleren -> 角色:杰斯贝连
+character:aira shiratori -> 角色:白鸟爱罗
+character:ken takakura -> 角色:高仓健
 group:1 -> 团队:1
 group:13 -> 团队:13
 group:27 -> 团队:27
@@ -8656,7 +8712,7 @@ group:ichigosize -> 团队:いちごさいず
 group:bakutaso switch -> 团队:爆タソスイッチ
 group:miyuuhodoh -> 团队:美游穗堂
 group:7cm -> 团队:7センチ
-group:nisemididoronokai -> 团队:偽MIDI泥の会
+group:nisemididoronokai -> 团队:伪MIDI泥の会
 group:veronica no ha -> 团队:ヴェロニカの歯
 group:jet-black baselarde -> 团队:漆黒のバゼラード
 group:juicebox koujou -> 团队:ジュースボックス工場
@@ -8825,7 +8881,7 @@ group:homuraya -> 团队:ほむら屋★プレアデス
 group:heavy bunny addiction -> 团队:H.B.A
 group:mata ashita. -> 团队:また明日。
 group:muses garden -> 团队:MUSES GARDEN
-group:nekomataya -> 团队:猫又屋
+group:nekomataya -> 团队:ねこまた屋
 group:oving -> 团队:OVing
 group:ditama kikaku -> 团队:ぢたま企画
 group:crespirit -> 团队:CreSpirit
@@ -9414,7 +9470,7 @@ group:sad.co -> 团队:sad.co
 group:an an shokudou -> 团队:あん♪あん♪食堂
 group:hurupontei -> 团队:ふるぽん亭
 group:samidaregiri -> 团队:五月雨斬り
-group:harigane shinshi doumei -> 团队:针金绅士同盟
+group:harigane shinshi doumei -> 团队:針金紳士同盟
 group:dessert time -> 团队:Dessert Time
 group:fuka fuka -> 团队:不可不可
 group:suzuki dogezaemon -> 团队:铃木土下座卫门
@@ -9932,7 +9988,7 @@ group:shinsekai set -> 团队:シンセカイセット
 group:ruinon -> 团队:RUINON
 group:yamada shoukai -> 团队:山田商会
 group:takemoto seisaku iinkai -> 团队:竹本製作委員会
-group:umemoto seisaku iinkai -> 团队:梅本制作委員会
+group:umemoto seisaku iinkai -> 团队:梅本制作委员会
 group:kotei gainen -> 团队:固定概念
 group:akausagi -> 团队:赤兔
 group:haru koubou -> 团队:春工房
@@ -10259,7 +10315,7 @@ group:3egg -> 团队:3egg
 group:3jou -> 团队:3情
 group:3lbox -> 团队:3LBOX
 group:4.5space -> 团队:4.5space
-group:40010 1-go -> 团队:40010壱号
+group:40010 1-go -> 团队:40010一号
 group:4649 club -> 团队:4649苦愛
 group:4dip -> 团队:4DIP
 group:4or5 works -> 团队:よんかごわーくす
@@ -13536,7 +13592,7 @@ group:hinatabokko -> 团队:ひなたぼっこ
 group:hinatabokko club -> 团队:ひなたぼっこ倶楽部
 group:hinauta -> 团队:ひなうた
 group:hinjyaku -> 团队:HINJYAKU
-group:hinoenma haken jimukyoku -> 团队:催眠すし屋
+group:hinoenma haken jimukyoku -> 团队:ヒノエンマ派遣事務局
 group:hinoiti -> 团队:ヒノイティ
 group:hinokiburo -> 团队:檜風呂
 group:hinokist -> 团队:hinokist
@@ -14952,7 +15008,7 @@ group:lapiss -> 团队:Lapiss
 group:lapiz lazuli kouseki -> 团队:ラピスラズリ鉱石
 group:laplacedotcom -> 团队:らぷらすどっとこむ
 group:laplacian -> 团队:Laplacian
-group:lass -> 团队:ラス
+group:lass -> 团队:Lass
 group:lass pixy -> 团队:Lass Pixy
 group:last eden -> 团队:LAST EDEN
 group:last resort -> 团队:ラストリゾート
@@ -15698,7 +15754,7 @@ group:mino kureha -> 团队:美濃紅葉
 group:minobu gentle -> 团队:身延ジェントル
 group:minobuya -> 团队:みのぶ屋
 group:minomushitei -> 团队:みのむし亭
-group:minori -> 团队:minori
+group:minori -> 团队:Minori
 group:minori kenkyuujo -> 团队:みのり研究所
 group:minors escort -> 团队:マイナーズエスコート
 group:minpee -> 团队:みんペー
@@ -20169,7 +20225,7 @@ group:yuuhoku. -> 团队:ゆーほく。
 group:yuuji wonder -> 团队:ゆうじワンダー
 group:yuujiro -> 团队:遊字路
 group:yuuk web -> 团队:yuuk web
-group:yuukai kinshi -> 团队:誘拐禁止
+group:yuukai kinshi -> 团队:诱拐禁止
 group:yuukakumin -> 团队:遊廓民
 group:yuukan madam -> 团队:勇敢マダム
 group:yuukari soft -> 团队:ゆ～かりそふと
@@ -20531,7 +20587,7 @@ group:netsuko -> 团队:ネツ湖
 group:milkdou shoukai -> 团队:みるく堂商会
 group:airimiash -> 团队:アイリミアーシュ
 group:mokkorihan -> 团队:もっこりはん
-group:zenjidou shimoneta seizou machine -> 团队:全自动下ネタ制造マシーン
+group:zenjidou shimoneta seizou machine -> 团队:全自動下ネタ製造マシーン
 group:shachi -> 团队:しゃち
 group:mittsuman -> 团队:みっつまん
 group:zyougesayuu -> 团队:上下左右
@@ -20704,7 +20760,7 @@ group:pomepome kokuuken -> 团队:ポメポメコクウケン
 group:porcini -> 团队:ぽるちーに
 group:shoujo rakugakichuu -> 团队:少女落描中
 group:ikebukuro distillery -> 团队:池袋蒸留所
-group:honeyroad -> 团队:Bee導師
+group:honeyroad -> 团队:HoneyRoad
 group:golden bazooka -> 团队:ゴールデンバズーカ
 group:nature carute -> 团队:天然養殖
 group:crazy brain pulse -> 团队:くれいじーぶれいんぱるす
@@ -20917,6 +20973,14 @@ group:rokuchounome -> 团队:六丁の目/六丁目
 group:arisugawa no miya -> 团队:有栖川ノ宮
 group:lillian -> 团队:Lilian
 group:hachinosu -> 团队:蜂巣
+group:peassoft -> 团队:PeasSoft
+group:apocalypse nibitashi -> 团队:アポカリプス煮浸し
+group:hitsuji no koshoten -> 团队:羊の古書店
+group:korokoro saikoro -> 团队:ころころサイコロ
+group:dangai zeppeki -> 团队:断崖絶癖
+group:cat or fox -> 团队:Cat or Fox!
+group:akaneiro no kinmokusei -> 团队:茜色ノ金木犀
+group:etoiles -> 团队:Etoiles
 artist:2 -> 艺术家:2
 artist:7 -> 艺术家:7
 artist:8 -> 艺术家:8
@@ -21284,7 +21348,7 @@ artist:misaki kurehito -> 艺术家:深崎暮人
 artist:kuroya shinobu -> 艺术家:黑谷忍
 artist:san sheng wan -> 艺术家:三生万
 artist:el -> 艺术家:える
-artist:mango pudding -> 艺术家:まんごープリン
+artist:mango pudding -> 艺术家:芒果布丁
 artist:wakamiya santa -> 艺术家:若宫参太
 artist:shungiku tenudon -> 艺术家:春菊天うどん
 artist:mikaduki neko -> 艺术家:三日月ネコ
@@ -21338,7 +21402,7 @@ artist:haruaki -> 艺术家:明彰
 artist:oomori yoshiharu -> 艺术家:おおもりよしはる
 artist:amedamacon -> 艺术家:飴玉コン
 artist:eisen -> 艺术家:英战
-artist:harigane shinshi -> 艺术家:针金绅士
+artist:harigane shinshi -> 艺术家:針金紳士
 artist:kazuhiro -> 艺术家:一弘
 artist:lobster -> 艺术家:ロブ☆スター
 artist:magifuro konnyaku -> 艺术家:magifuro蒟蒻
@@ -21500,7 +21564,7 @@ artist:naenae -> 艺术家:なえなえ
 artist:takayaki -> 艺术家:たかやKi
 artist:uonuma yuu -> 艺术家:うおぬまゆう
 artist:amamine -> 艺术家:あまみね
-artist:niki -> 艺术家:にき
+artist:niki -> 艺术家:柴犬尼基
 artist:rokudou itsuki -> 艺术家:六九導イツキ
 artist:rubi-sama -> 艺术家:るび様
 artist:wori -> 艺术家:ヲリ
@@ -22529,7 +22593,7 @@ artist:ohsaka minami -> 艺术家:逢坂ミナミ
 artist:raymon -> 艺术家:RAYMON
 artist:shiroie mika -> 艺术家:白家ミカ
 artist:tes-mel -> 艺术家:tes_mel
-artist:toba yuga -> 艺术家:跳马游鹿
+artist:toba yuga -> 艺术家:跳馬遊鹿
 artist:yoshida tobio -> 艺术家:吉田鸢牡
 artist:zero no mono -> 艺术家:ゼロの者
 artist:hige masamune -> 艺术家:ひげ政宗
@@ -22904,7 +22968,7 @@ artist:oryou -> 艺术家:おりょう
 artist:waguchi shouka -> 艺术家:和口昇火
 artist:tenzen miyabi -> 艺术家:天渐雅
 artist:windart -> 艺术家:WindArt
-artist:masaki kei -> 艺术家:真崎ケイ
+artist:masaki kei -> 艺术家:真崎圭
 artist:mousou-kun -> 艺术家:もうそうくん
 artist:ooishi chuuni -> 艺术家:大石中二
 artist:mitsudoue -> 艺术家:みつどうえ
@@ -23831,7 +23895,7 @@ artist:itaru -> 艺术家:至る
 artist:wasavi 8 -> 艺术家:wasavi_8
 artist:kitahara aki -> 艺术家:北原亚希
 artist:satsuki itsuka -> 艺术家:五月五日
-artist:kawaraya -> 艺术家:瓦爺
+artist:kawaraya -> 艺术家:瓦爷
 artist:kamizuki shiki -> 艺术家:守月史贵
 artist:ponekusan -> 艺术家:ポネクサン
 artist:akasa tanu -> 艺术家:赤佐たぬ
@@ -23978,7 +24042,7 @@ artist:wanyanaguda -> 艺术家:完颜阿骨打
 artist:kaede -> 艺术家:ゆか
 artist:fummy -> 艺术家:ふみー
 artist:shobu -> 艺术家:菖蒲
-artist:sakayama shinta -> 艺术家:茶化山心太
+artist:sakayama shinta -> 艺术家:茶菓山しん太
 artist:takasaki keisuke -> 艺术家:高咲圭介
 artist:ushino naka -> 艺术家:うしの菜夏
 artist:doskoinpo -> 艺术家:doskoinpo
@@ -24291,7 +24355,7 @@ artist:miyashiro ryuutarou -> 艺术家:三夜代龙太郎
 artist:meganei -> 艺术家:メガねぃ
 artist:tamatanuki -> 艺术家:たまたぬき
 artist:asabi miho -> 艺术家:山葵美保
-artist:matsumiya kiseri -> 艺术家:茉宮祈芹
+artist:matsumiya kiseri -> 艺术家:茉宫祈芹
 artist:hirokawa -> 艺术家:広川
 artist:kamiya yuu -> 艺术家:榎宮祐
 artist:imigimuru -> 艺术家:いみぎむる
@@ -24537,7 +24601,7 @@ artist:kyuusuikei -> 艺术家:給水係
 artist:sr -> 艺术家:SR
 artist:azure -> 艺术家:あずーる
 artist:ishimura -> 艺术家:石村
-artist:random -> 艺术家:兰田梦
+artist:random -> 艺术家:蘭田夢
 artist:hamadamiku -> 艺术家:浜田みく
 artist:nanasaki -> 艺术家:七崎
 artist:satsuki misuzu -> 艺术家:皐月深鈴
@@ -24560,7 +24624,7 @@ artist:coburaco -> 艺术家:コブラノヲヤツ
 artist:nemu -> 艺术家:ネム
 artist:yoshika -> 艺术家:ヨシカ
 artist:uduki takeru -> 艺术家:卯月たける
-artist:yunagi amane -> 艺术家:憂凪あまね
+artist:yunagi amane -> 艺术家:忧凪天音
 artist:nusmusbim -> 艺术家:ナスムスビム
 artist:tatsu tairagi -> 艺术家:燵成
 artist:doemutan -> 艺术家:どえむたん
@@ -24867,7 +24931,7 @@ artist:akitaka -> 艺术家:あきたか
 artist:akitani -> 艺术家:明谷
 artist:akito -> 艺术家:あきと
 artist:akitsuki hirozumi -> 艺术家:秋月ひろずみ
-artist:akitsuki karasu -> 艺术家:榎本ひでひら
+artist:akitsuki karasu -> 艺术家:秋月からす
 artist:akiyama -> 艺术家:あきやま
 artist:akiyama kenta -> 艺术家:あきやまけんた
 artist:akiyama yuuzi -> 艺术家:秋山裕治
@@ -33553,7 +33617,7 @@ artist:yunamaro -> 艺术家:ゆなまろ
 artist:810eru -> 艺术家:草叶える
 artist:mochiduki riku -> 艺术家:望月りく
 artist:asoka -> 艺术家:あそか
-artist:komiya yuuta -> 艺术家:小宮裕太
+artist:komiya yuuta -> 艺术家:小宫裕太
 artist:inchou no naka no hito -> 艺术家:いんちょ～の中の人
 artist:asakura hayate -> 艺术家:朝倉はやて
 artist:yutaka izubuchi -> 艺术家:出渕裕
@@ -33802,7 +33866,7 @@ artist:shinraku kogome -> 艺术家:聖 コゴメ
 artist:consome -> 艺术家:紺そめ
 artist:fuuzasa -> 艺术家:ウラザサ
 artist:yukinpo dida -> 艺术家:ゆきんぽでぃだ
-artist:garasu hokou -> 艺术家:硝子歩行
+artist:garasu hokou -> 艺术家:硝子步行
 artist:hoshitani kyo -> 艺术家:星谷京
 artist:higashimidou hisagi -> 艺术家:東御堂ひさぎ
 artist:tsuruga -> 艺术家:鹤贺
@@ -34345,7 +34409,7 @@ artist:yochi ryota -> 艺术家:よちリョウタ
 artist:niliu chahui -> 艺术家:逆流茶会
 artist:yuunagi seshina -> 艺术家:夕凪セシナ
 artist:kmvt -> 艺术家:kmvt
-artist:umetori uriri -> 艺术家:梅鳥うりり
+artist:umetori uriri -> 艺术家:梅鳥うりり(福永ユミ)
 artist:fukunaga yumi -> 艺术家:福永ユミ
 artist:fairy ai -> 艺术家:ふぇありぃあい
 artist:kuro urushi -> 艺术家:黑漆
@@ -34367,6 +34431,26 @@ artist:kazami haruki -> 艺术家:风见春树
 artist:riv -> 艺术家:Riv
 artist:gairou -> 艺术家:ガイロウ
 artist:bionics nattou -> 艺术家:バイオニクス納豆
+artist:bee doushi -> 艺术家:Bee导师
+artist:nekko -> 艺术家:ねっこ
+artist:ishii hisao -> 艺术家:石井久雄
+artist:misaki jun -> 艺术家:箕崎准
+artist:kaburana -> 艺术家:かぶらな
+artist:sasami -> 艺术家:木下沙沙美
+artist:chiba sadoru -> 艺术家:千叶鞍
+artist:akebi konoha -> 艺术家:明日このは
+artist:choco dice -> 艺术家:ちょこだいす
+artist:fueru nattou -> 艺术家:増える納豆
+artist:benzhu -> 艺术家:Benzhu
+artist:meishouhen -> 艺术家:名称片
+artist:muchimo -> 艺术家:むちも
+artist:kanae kanaeco -> 艺术家:鼎かなえこ
+artist:isana -> 艺术家:勇魚
+artist:harukake kakeru -> 艺术家:春风翔
+artist:aoba -> 艺术家:青叶
+artist:hashimoto yuuichi -> 艺术家:桥本佑一
+artist:amane soh -> 艺术家:雨音响
+artist:amane hibiki -> 艺术家:雨音响
 cosplayer:otohara an -> Coser:乙原あん
 cosplayer:rioko -> Coser:凉凉子
 cosplayer:atsuki -> Coser:あつき
