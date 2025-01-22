@@ -410,7 +410,7 @@ parody:youjo senki -> 原作:幼女战记
 parody:touken ranbu -> 原作:刀剑乱舞
 parody:teen titans -> 原作:少年泰坦
 parody:undertale -> 原作:传说之下
-parody:five nights at freddys -> 原作:在弗雷迪的五个夜晚
+parody:five nights at freddys -> 原作:玩具熊的五夜后宫
 parody:one punch man -> 原作:一拳超人
 parody:black rock shooter -> 原作:黑岩射手
 parody:dragons crown -> 原作:龙之皇冠
@@ -1375,7 +1375,7 @@ parody:border break -> 原作:边境保卫战
 parody:last period -> 原作:最终休止符 -无止境的螺旋物语-
 parody:stella glow -> 原作:星光幻歌
 parody:ryuuou no oshigoto -> 原作:龙王的工作！
-parody:uma musume pretty derby -> 原作:赛马娘Pretty Derby🐎
+parody:uma musume pretty derby -> 原作:🐎赛马娘Pretty Derby
 parody:os-tan -> 原作:OS娘
 parody:sunohara-sou no kanrinin-san -> 原作:春原庄的管理员小姐
 parody:yotsubato -> 原作:四叶妹妹！
@@ -2334,7 +2334,7 @@ parody:apex legends -> 原作:Apex英雄
 parody:brawl stars -> 原作:荒野乱斗
 parody:yoru no kurage wa oyogenai -> 原作:夜晚的水母不会游泳
 parody:battlefield -> 原作:战地风云
-parody:girls band cry -> 原作:少女哭泣乐队
+parody:girls band cry -> 原作:少女乐队的呐喊
 parody:helldivers -> 原作:绝地潜兵
 parody:cross core -> 原作:交错战线
 parody:seitokai ni mo ana wa aru -> 原作:脑洞学生会
@@ -2405,6 +2405,21 @@ parody:solo leveling -> 原作:我独自升级
 parody:lv2 kara cheat datta motoyuusha kouho no mattari isekai life -> 原作:从Lv2开始开外挂的前勇者候补过着悠哉异世界生活
 parody:one room hiatari futsuu tenshi-tsuki -> 原作:单人房、日照一般、附天使。
 parody:shukufuku no campanella -> 原作:祝福的钟声
+parody:wonderland wars -> 原作:Wonderland Wars
+parody:isekai meikyuu de harem o -> 原作:异世界迷宫里的后宫生活
+parody:seiken gakuin no maken tsukai -> 原作:圣剑学院的魔剑使
+parody:kaijuu 8-gou -> 原作:怪兽8号
+parody:akudama drive -> 原作:全员恶玉
+parody:undead unluck -> 原作:不死不幸
+parody:aether gazer -> 原作:深空之眼
+parody:sakamoto days -> 原作:坂本日常
+parody:ghosts n goblins -> 原作:魔界村
+parody:strider -> 原作:出击飞龙
+parody:the jungle book -> 原作:森林王子
+parody:popn music -> 原作:Pop'n music
+parody:kamen rider gotchard -> 原作:假面骑士Gotchard
+parody:kamen rider revice -> 原作:假面骑士Revice
+parody:kamen rider saber -> 原作:假面骑士Saber
 character:alice -> 角色:爱丽丝
 character:akane hino -> 角色:日野茜
 character:ibuki -> 角色:伊吹
@@ -5384,7 +5399,7 @@ character:hana midorikawa -> 角色:绿川花
 character:meiko shiraki -> 角色:白木芽衣子
 character:luz noceda -> 角色:露丝·诺西达
 character:toph bei fong -> 角色:北方·托芙
-character:robin -> 角色:罗宾 | 知更鸟
+character:robin -> 角色:知更鸟 | 罗宾
 character:eugeo -> 角色:尤吉欧
 character:quinella -> 角色:葵妮拉
 character:makima -> 角色:玛奇玛
@@ -6028,7 +6043,7 @@ character:maria momoe -> 角色:百枝麻里亚
 character:kraft lawrence -> 角色:克拉福·罗伦斯
 character:orihime inoue -> 角色:井上织姬
 character:elysia -> 角色:爱莉希雅
-character:kayoko onikata -> 角色:鬼方佳世子
+character:kayoko onikata -> 角色:鬼方佳代子
 character:aoi tosaka -> 角色:远坂葵
 character:sothis -> 角色:苏谛斯
 character:shamir nevrand -> 角色:萨米亚·涅芙兰特
@@ -6381,7 +6396,7 @@ character:luo tianyi -> 角色:洛天依
 character:sensei -> 角色:老师
 character:azuma seren -> 角色:东雪莲
 character:yaoyao -> 角色:瑶瑶
-character:monika -> 角色:莫妮卡(心跳文学社! )
+character:monika -> 角色:莫妮卡
 character:tania -> 角色:塔妮雅
 character:barret wallace -> 角色:巴雷特·华莱士
 character:ameth -> 角色:爱梅斯
@@ -7998,6 +8013,36 @@ character:genichiro ashina -> 角色:苇名弦一郎
 character:kuro -> 角色:神子九郎
 character:nobeta -> 角色:诺贝塔
 character:rachel alucard -> 角色:雷其儿·阿尔卡特
+character:sakura ritsuki -> 角色:桜凛月
+character:natsumi kyouno -> 角色:镜野七罪
+character:otogi -> 角色:音葵
+character:ein -> 角色:无
+character:ohr -> 角色:光
+character:sof -> 角色:限
+character:gamma -> 角色:伽马
+character:yuuna yunohana -> 角色:幽奈
+character:akari hoshizaki -> 角色:星咲明里
+character:type-37 daika -> 角色:37式黛卡
+character:kosuzu kachimachi -> 角色:徒町小铃
+character:asari neo -> 角色:根緒亜紗里
+character:kikoru shinomiya -> 角色:四之宫奇可露
+character:nerissa ravencroft -> 角色:纳瑞莎·雷文克罗夫特
+character:shiori novella -> 角色:诗织·诺薇拉
+character:koseki bijou -> 角色:古石碧珠
+character:skirk -> 角色:丝柯克
+character:hanya -> 角色:寒鸦
+character:rukkhadevata -> 角色:大慈树王
+character:mizuki yumemizuki -> 角色:梦见月瑞希
+character:shinju inui -> 角色:乾心寿
+character:carlotta -> 角色:柯莱塔
+character:sayori -> 角色:纱世里
+character:cure lillian -> 角色:猫屋敷雪
+character:cure nyammy -> 角色:猫屋敷麻友
+character:millia rage -> 角色:米莉亚·蕾姬
+character:kei karuizawa -> 角色:轻井泽惠
+character:an94 -> 角色:AN-94 | 安提娅
+character:yuki-onna -> 角色:雪女
+character:makiatto -> 角色:玛琦朵
 group:1 -> 团队:1
 group:13 -> 团队:13
 group:27 -> 团队:27
@@ -9611,7 +9656,7 @@ group:garyuuya -> 团队:我龍屋
 group:corona 314 -> 团队:コロナ314
 group:yume to kyouki no chomolung oukoku -> 团队:夢と狂気のチョモラン王国
 group:lazy star lazy -> 团队:Lazy★Lazy
-group:70 nenshiki yuukyuu kikan -> 团队:70年式悠久機関
+group:70 nenshiki yuukyuu kikan -> 团队:70年式悠久机关
 group:amazake hatosyo-ten -> 团队:甘酒鳩商店
 group:batten kariba -> 团队:X仮歯
 group:mosquitone. -> 团队:もすきーと音。
@@ -18220,7 +18265,7 @@ group:shichirin taisha -> 团队:七輪大社
 group:shichiyou -> 团队:七陽
 group:shichiyou souryuujin -> 团队:七曜蒼龍陣
 group:shigaraki ceramic -> 团队:シガラキセラミック
-group:shigunyan -> 团队:しぐにゃん
+group:shigunyan -> 团队:寺于苗
 group:shigure ebi -> 团队:しぐれえび
 group:shigureya -> 团队:しぐれや
 group:shihai shoujo -> 团队:支配少女
@@ -21028,6 +21073,15 @@ group:etoiles -> 团队:Etoiles
 group:6a seeds -> 团队:ロクエク・シーズ
 group:gal prince -> 团队:Gal Prince
 group:kogado studio -> 团队:工画堂工作室
+group:shunga tarou -> 团队:春画太郎
+group:turuturuodeco -> 团队:つるつるおでこ
+group:funmatsu maccha -> 团队:粉末抹茶
+group:mentaipark -> 团队:めんたいぱぁく
+group:muchi muchi museum -> 团队:ムチムチ美術館
+group:hakuhoukoubou -> 团队:白鳳工房
+group:ishiyaki imo -> 团队:いしやきいも
+group:pigeon nest under deck -> 团队:甲板下的鸽子窝
+group:takotsubo-tei sekihaku -> 团队:たこつぼ亭迹帛
 artist:2 -> 艺术家:2
 artist:7 -> 艺术家:7
 artist:8 -> 艺术家:8
@@ -21256,7 +21310,7 @@ artist:daichi kouta -> 艺术家:大地巧太
 artist:kylin -> 艺术家:Kylin
 artist:morishima kon -> 艺术家:森岛康
 artist:mdo-h -> 艺术家:无道睿智
-artist:ginyou haru -> 艺术家:银曜晴
+artist:ginyou haru -> 艺术家:銀曜ハル
 artist:shiina -> 艺术家:シイナ
 artist:mikuta -> 艺术家:みくた
 artist:shibasaki syouzi -> 艺术家:柴崎ショージ
@@ -21625,7 +21679,7 @@ artist:shokushu-san -> 艺术家:触手さん
 artist:wazakita -> 艺术家:わざきた
 artist:erodezain koubou -> 艺术家:エロデザイン工房
 artist:coffee-kizoku -> 艺术家:咖啡贵族
-artist:rindou -> 艺术家:龙胆
+artist:rindou -> 艺术家:竜胆/三峯みね
 artist:iruma kamiri -> 艺术家:いるまかみり
 artist:zakkin -> 艺术家:杂菌
 artist:aotsu umihito -> 艺术家:蒼津ウミヒト
@@ -23350,7 +23404,7 @@ artist:cekonikova -> 艺术家:Cekonikova（ぐらら）
 artist:ke-ta -> 艺术家:ke-ta
 artist:roteri -> 艺术家:ろてり
 artist:kannaduki kanna -> 艺术家:神無月かんな
-artist:endou okito -> 艺术家:袁藤沖人
+artist:endou okito -> 艺术家:袁藤冲人
 artist:messy -> 艺术家:メッシィ
 artist:aomushi -> 艺术家:あおむし
 artist:zheng -> 艺术家:Zheng
@@ -23582,7 +23636,7 @@ artist:aduki -> 艺术家:あづき
 artist:inui waon -> 艺术家:乾和音
 artist:majima shiroyuki -> 艺术家:间岛白幸
 artist:sougetsu nonono -> 艺术家:草月野々乃
-artist:wantan meo -> 艺术家:雲呑めお
+artist:wantan meo -> 艺术家:云吞芽央
 artist:kemuri haku -> 艺术家:煙ハク
 artist:kani biimu -> 艺术家:かにビーム
 artist:watanohara -> 艺术家:わたのはら
@@ -23704,7 +23758,7 @@ artist:kuon -> 艺术家:久遠
 artist:miyasu risa -> 艺术家:ミヤスリサ
 artist:konomi -> 艺术家:konomi
 artist:bokkun -> 艺术家:ぼっくん
-artist:ikura nagisa -> 艺术家:伊倉ナギサ
+artist:ikura nagisa -> 艺术家:伊仓渚
 artist:furukawa odoro -> 艺术家:古河おどろ
 artist:nishiki chizu -> 艺术家:西木地図
 artist:konka -> 艺术家:绀菓
@@ -24477,7 +24531,7 @@ artist:kiri-kiri mai -> 艺术家:ギリギリ舞
 artist:oshino -> 艺术家:推乃
 artist:shiramizu mizuchi -> 艺术家:白瑞みずち
 artist:majima tetsurou -> 艺术家:真島てつろー
-artist:super zombie -> 艺术家:すーぱーぞんび
+artist:super zombie -> 艺术家:超级僵尸
 artist:seuma -> 艺术家:せうま
 artist:ryoma -> 艺术家:きただりょうま
 artist:kannko -> 艺术家:缶子
@@ -24692,7 +24746,7 @@ artist:cailin020 -> 艺术家:Cailin020
 artist:yuzhou -> 艺术家:宇宙
 artist:tantan -> 艺术家:たん旦
 artist:rana yume -> 艺术家:らな夢
-artist:sen -> 艺术家:Sen
+artist:sen -> 艺术家:SeN
 artist:oumikun -> 艺术家:近江训
 artist:fukai ryousuke -> 艺术家:深井涼介
 artist:hmongt -> 艺术家:hmongt
@@ -30998,7 +31052,7 @@ artist:shigehira -> 艺术家:茂平
 artist:shigekix -> 艺术家:しげきっくす
 artist:shigi azusa -> 艺术家:鴫あずさ
 artist:shiguchi satoshi -> 艺术家:シグチサトシ
-artist:shigunyan -> 艺术家:しぐにゃん
+artist:shigunyan -> 艺术家:寺于苗
 artist:shigure kyou -> 艺术家:しぐれ卿
 artist:shigure ryuunosuke -> 艺术家:時雨龍之介
 artist:shihou -> 艺术家:志方
@@ -34516,6 +34570,23 @@ artist:eluthel -> 艺术家:艾路塞尔
 artist:chuuou higashiguchi -> 艺术家:中央东口
 artist:narashika asuka -> 艺术家:成鹿明日香
 artist:sai gakai -> 艺术家:肩引こ
+artist:djheycha -> 艺术家:DJ喜茶
+artist:rozea -> 艺术家:Rozea
+artist:inasotsu -> 艺术家:いなそつ
+artist:hitomio16 -> 艺术家:hitomio拾六
+artist:qingming tongzi -> 艺术家:青冥童子
+artist:mebunryo -> 艺术家:めぶんりょう
+artist:nakushita kanjou -> 艺术家:かんぜう
+artist:bigxixi -> 艺术家:BIG玺子
+artist:shinyatai sanpo -> 艺术家:深夜帯散歩
+artist:shine nabyss -> 艺术家:シャイン・ナビス
+artist:bekkan -> 艺术家:別館
+artist:koukoku -> 艺术家:古宇谷（コウコク）
+artist:ishida -> 艺术家:いしだ
+artist:xianyumiao cat -> 艺术家:咸鱼喵CAT
+artist:sekihaku keu -> 艺术家:迹帛けう
+artist:tunamayo -> 艺术家:TunaMaYo
+artist:chiyo mako -> 艺术家:千夜真子
 cosplayer:otohara an -> Coser:乙原あん
 cosplayer:rioko -> Coser:凉凉子
 cosplayer:atsuki -> Coser:あつき
