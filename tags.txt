@@ -135,8 +135,8 @@ parody:to love-ru -> 原作:出包王女
 parody:ro-kyu-bu -> 原作:萝球社🏀
 parody:tantei opera milky holmes -> 原作:侦探歌剧 少女福尔摩斯🔎
 parody:hyperdimension neptunia -> 原作:超次元游戏：海王星🎮
-parody:love live -> 原作:LoveLive! School idol project
-parody:love live sunshine -> 原作:Love Live! Sunshine!!
+parody:love live -> 原作:LoveLive!
+parody:love live sunshine -> 原作:LoveLive!Sunshine!!
 parody:love live nijigasaki high school idol club -> 原作:LoveLive!虹咲学园学园偶像同好会
 parody:sora no otoshimono -> 原作:天降之物
 parody:boku wa tomodachi ga sukunai -> 原作:我的朋友很少
@@ -2374,7 +2374,7 @@ parody:ninja slayer -> 原作:忍者杀手
 parody:magic the gathering -> 原作:万智牌
 parody:silent hill -> 原作:寂静岭
 parody:kaii to otome to kamikakushi -> 原作:怪异与少女与神隐
-parody:koi iro marriage -> 原作:恋色Marriage
+parody:koi iro marriage -> 原作:恋色婚礼
 parody:harmonia -> 原作:Harmonia
 parody:onii-chan asa made zutto gyutte shite yoru made motto ecchi shite -> 原作:哥哥，早上起床之前都要抱紧我哦！
 parody:blue lock -> 原作:蓝色监狱
@@ -2420,6 +2420,14 @@ parody:popn music -> 原作:Pop'n music
 parody:kamen rider gotchard -> 原作:假面骑士Gotchard
 parody:kamen rider revice -> 原作:假面骑士Revice
 parody:kamen rider saber -> 原作:假面骑士Saber
+parody:super sentai -> 原作:超级战队
+parody:brave sword x blaze soul -> 原作:勇气之剑 × 火焰之魂
+parody:fear and hunger -> 原作:恐惧与饥饿
+parody:fireball -> 原作:火球
+parody:astralair no shiroki towa -> 原作:星辰恋曲的白色永恒
+parody:g senjou no maou -> 原作:G线上的魔王
+parody:tokyo necro suicide mission -> 原作:冻京NECRO 自杀任务
+parody:virtual on -> 原作:Virtual On
 character:alice -> 角色:爱丽丝
 character:akane hino -> 角色:日野茜
 character:ibuki -> 角色:伊吹
@@ -6527,7 +6535,7 @@ character:asta -> 角色:艾丝妲 | 亚斯塔
 character:garou -> 角色:饿狼
 character:himeko -> 角色:姬子
 character:herta -> 角色:黑塔
-character:stelle -> 角色:星
+character:stelle -> 角色:星（开拓者）
 character:clara -> 角色:克拉拉(崩坏：星穹铁道)
 character:nene ayachi -> 角色:绫地宁宁
 character:neeko -> 角色:妮蔻
@@ -6821,7 +6829,7 @@ character:hunter -> 角色:猎手
 character:dreamer -> 角色:梦想家
 character:destroyer -> 角色:破坏者
 character:beak -> 角色:喙
-character:k2 -> 角色:K2
+character:k2 -> 角色:K2 | 幼熙
 character:g3 -> 角色:G3
 character:g36 -> 角色:G36 | 桑朵莱希
 character:g36c -> 角色:G36C
@@ -8043,6 +8051,24 @@ character:kei karuizawa -> 角色:轻井泽惠
 character:an94 -> 角色:AN-94 | 安提娅
 character:yuki-onna -> 角色:雪女
 character:makiatto -> 角色:玛琦朵
+character:kyouko machi -> 角色:町京子
+character:yae amagami -> 角色:‌甘神夜重
+character:yuna amagami -> 角色:甘神夕奈
+character:asahi amagami -> 角色:‌甘神朝姬
+character:mirajane strauss -> 角色:米拉杰·斯特劳斯
+character:nanashi mumei -> 角色:七诗无铭
+character:tetsunosuke ichimura -> 角色:市村铁之助
+character:seliph -> 角色:神威
+character:koala -> 角色:克尔拉
+character:cupitan -> 角色:库皮坦
+character:pittsburgh -> 角色:匹兹堡
+character:seydlitz -> 角色:塞德利茨
+character:pennsylvania -> 角色:宾夕法尼亚
+character:z9 -> 角色:Z9
+character:blucher -> 角色:布吕歇尔
+character:shiroha naruse -> 角色:鸣濑白羽
+character:ao sorakado -> 角色:空门苍
+character:kamome kushima -> 角色:久岛鸥
 group:1 -> 团队:1
 group:13 -> 团队:13
 group:27 -> 团队:27
@@ -21082,6 +21108,7 @@ group:hakuhoukoubou -> 团队:白鳳工房
 group:ishiyaki imo -> 团队:いしやきいも
 group:pigeon nest under deck -> 团队:甲板下的鸽子窝
 group:takotsubo-tei sekihaku -> 团队:たこつぼ亭迹帛
+group:syakunage -> 团队:しゃくなげ
 artist:2 -> 艺术家:2
 artist:7 -> 艺术家:7
 artist:8 -> 艺术家:8
@@ -21169,7 +21196,7 @@ artist:ail -> 艺术家:あいる
 artist:saigado -> 艺术家:彩画堂
 artist:nanase meruchi -> 艺术家:ななせめるち
 artist:marushin -> 艺术家:丸新
-artist:amamiya mizuki -> 艺术家:雨宫ミズキ
+artist:amamiya mizuki -> 艺术家:雨宫美月
 artist:mibu natsuki -> 艺术家:みぶなつき
 artist:ogata zen -> 艺术家:尾形全
 artist:himura kiseki -> 艺术家:比村奇石
@@ -22385,7 +22412,7 @@ artist:devilhs -> 艺术家:Devil_HS
 artist:aina nana -> 艺术家:愛菜奈々
 artist:yokoshima takemaru -> 艺术家:邪武丸
 artist:hawa -> 艺术家:はわ
-artist:tomose shunsaku -> 艺术家:トモセシュンサク
+artist:tomose shunsaku -> 艺术家:知世俊作
 artist:reiha -> 艺术家:零覇
 artist:chimaq -> 艺术家:チマQ
 artist:magaki ryouta -> 艺术家:間垣りょうた
@@ -23551,7 +23578,7 @@ artist:sakura ani -> 艺术家:桜あに
 artist:tsukishima yuuko -> 艺术家:月嶋ゆうこ
 artist:tomoshibi hidekazu -> 艺术家:赤提灯
 artist:kamisyakujii yubeshi -> 艺术家:紙石神井ゆべし
-artist:kurosu gatari -> 艺术家:黑巢ガタリ
+artist:kurosu gatari -> 艺术家:黒巣ガタリ
 artist:doku denpa -> 艺术家:毒でんぱ
 artist:dokiyuri -> 艺术家:どきゆり
 artist:tamagoro -> 艺术家:たまごろー
@@ -28548,7 +28575,7 @@ artist:maccha vanilla -> 艺术家:抹茶バニラ
 artist:macchaume -> 艺术家:抹茶梅
 artist:macchi -> 艺术家:まっち
 artist:macchuu -> 艺术家:まっちゅう
-artist:machi -> 艺术家:マチ
+artist:machi -> 艺术家:Machi馬吉
 artist:machi gaita -> 艺术家:街凱太
 artist:machi machiko -> 艺术家:町マチコ
 artist:machigi ruru -> 艺术家:街樹るる
@@ -29552,7 +29579,7 @@ artist:nanami natuki -> 艺术家:七海夏樹
 artist:nanami shizuka -> 艺术家:ななみ静
 artist:nanami yasuna -> 艺术家:ナナミヤスナ
 artist:nanamiya rin -> 艺术家:ななみやりん
-artist:nanamiya tsugumi -> 艺术家:七宫つぐ实
+artist:nanamiya tsugumi -> 艺术家:七宫津实
 artist:nanamo -> 艺术家:ななも
 artist:nanamomo rio -> 艺术家:七桃りお
 artist:nanana nana -> 艺术家:七名菜奈
@@ -29600,7 +29627,7 @@ artist:narukami ginryu -> 艺术家:鳴神銀龍
 artist:narukami x -> 艺术家:鳴神X
 artist:narumi -> 艺术家:ナルみ
 artist:narumi meiko -> 艺术家:鳴海鳴子
-artist:narumi yuu -> 艺术家:鳴海ゆう
+artist:narumi yuu -> 艺术家:鸣海优
 artist:narusawa aya -> 艺术家:鳴沢綾
 artist:narusawa sora -> 艺术家:成沢 空
 artist:naruse -> 艺术家:なるせ
@@ -30729,7 +30756,7 @@ artist:sakaki yuino -> 艺术家:榊ゆいの
 artist:sakakibara kaorunaoko -> 艺术家:榊原薫奈緒子
 artist:sakakibara keisuke -> 艺术家:榊原圭介
 artist:sakamoto sarutomunto nerima -> 艺术家:坂本サルトムント練馬
-artist:sakana -> 艺术家:魚
+artist:sakana -> 艺术家:鱼
 artist:sakana tomomi -> 艺术家:魚ともみ
 artist:sakasana -> 艺术家:さかさな
 artist:sakata kintoki -> 艺术家:坂田金時
@@ -34587,6 +34614,20 @@ artist:xianyumiao cat -> 艺术家:咸鱼喵CAT
 artist:sekihaku keu -> 艺术家:迹帛けう
 artist:tunamayo -> 艺术家:TunaMaYo
 artist:chiyo mako -> 艺术家:千夜真子
+artist:muramasa mikado -> 艺术家:村正みかど
+artist:nadeshiko-san -> 艺术家:なでしこさん
+artist:kamiyama sumu -> 艺术家:神山すむ
+artist:tukinon -> 艺术家:月音
+artist:yoshida seiji -> 艺术家:吉田诚治
+artist:enozuderu -> 艺术家:えのずでる
+artist:huhuhu -> 艺术家:フフフ
+artist:shida kazuhiro -> 艺术家:司田一弘
+artist:kamiya maaya -> 艺术家:上谷真绫
+artist:drs -> 艺术家:Drs
+artist:narumi suzune -> 艺术家:鸣海铃音
+artist:oosaki shinya -> 艺术家:大崎真也
+artist:akira roji -> 艺术家:秋良ろじ
+artist:nishima nakamichi -> 艺术家:仁嶋中道
 cosplayer:otohara an -> Coser:乙原あん
 cosplayer:rioko -> Coser:凉凉子
 cosplayer:atsuki -> Coser:あつき
