@@ -2428,6 +2428,7 @@ parody:astralair no shiroki towa -> 原作:星辰恋曲的白色永恒
 parody:g senjou no maou -> 原作:G线上的魔王
 parody:tokyo necro suicide mission -> 原作:冻京NECRO 自杀任务
 parody:virtual on -> 原作:Virtual On
+parody:unnamed memory -> 原作:无名记忆
 character:alice -> 角色:爱丽丝
 character:akane hino -> 角色:日野茜
 character:ibuki -> 角色:伊吹
@@ -8069,6 +8070,14 @@ character:blucher -> 角色:布吕歇尔
 character:shiroha naruse -> 角色:鸣濑白羽
 character:ao sorakado -> 角色:空门苍
 character:kamome kushima -> 角色:久岛鸥
+character:mizuho kazami -> 角色:风见瑞穗
+character:izumo kamiki -> 角色:神木出云
+character:rin okumura -> 角色:奥村燐
+character:shiemi moriyama -> 角色:杜山诗惠美
+character:shura kirigakure -> 角色:雾隐修拉
+character:tinasha farsas -> 角色:缇娜夏
+character:sanhua -> 角色:散华
+character:jacques de molay -> 角色:雅克·德·莫莱
 group:1 -> 团队:1
 group:13 -> 团队:13
 group:27 -> 团队:27
@@ -21508,7 +21517,7 @@ artist:denki shougun -> 艺术家:电气将军
 artist:gibuchoko -> 艺术家:ぎヴちょこ
 artist:sinbo tamaran -> 艺术家:神保玉兰
 artist:kaenuco -> 艺术家:かえぬこ
-artist:arikawa satoru -> 艺术家:有河サトル
+artist:arikawa satoru -> 艺术家:有河悟
 artist:yui toshiki -> 艺术家:唯登诗树
 artist:kitahara tomoe -> 艺术家:北原朋萌。
 artist:kizaki yuuri -> 艺术家:树崎祐里
@@ -23575,7 +23584,7 @@ artist:watagashi yui -> 艺术家:わたがしゆい
 artist:kohinata hoshimi -> 艺术家:小日向ほしみ
 artist:yudzuki hina -> 艺术家:遊月ひな
 artist:sakura ani -> 艺术家:桜あに
-artist:tsukishima yuuko -> 艺术家:月嶋ゆうこ
+artist:tsukishima yuuko -> 艺术家:月岛优子
 artist:tomoshibi hidekazu -> 艺术家:赤提灯
 artist:kamisyakujii yubeshi -> 艺术家:紙石神井ゆべし
 artist:kurosu gatari -> 艺术家:黒巣ガタリ
@@ -34628,6 +34637,13 @@ artist:narumi suzune -> 艺术家:鸣海铃音
 artist:oosaki shinya -> 艺术家:大崎真也
 artist:akira roji -> 艺术家:秋良ろじ
 artist:nishima nakamichi -> 艺术家:仁嶋中道
+artist:shimesaba kohada -> 艺术家:染鲭小鳍
+artist:amakawa akito -> 艺术家:天河慊人
+artist:lunalia -> 艺术家:瑠奈璃亚
+artist:yaezaki rai -> 艺术家:八重咲らい
+artist:narumi yu -> 艺术家:鸣海优
+artist:kimoshi -> 艺术家:きもし
+artist:yufuck -> 艺术家:ゆfuck
 cosplayer:otohara an -> Coser:乙原あん
 cosplayer:rioko -> Coser:凉凉子
 cosplayer:atsuki -> Coser:あつき
