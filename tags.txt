@@ -2437,6 +2437,11 @@ parody:joker game -> 原作:JOKER GAME
 parody:soulworker -> 原作:灵魂武器
 parody:tayutama -> 原作:游魂
 parody:kuroiwa medaka ni watashi no kawaii ga tsuujinai -> 原作:我的可爱对黑岩目高不管用
+parody:tensei kizoku no isekai boukenroku -> 原作:转生贵族的异世界冒险录～不知自重的众神使徒～
+parody:natsumes book of friends -> 原作:夏目友人帐
+parody:kurokami -> 原作:黑神
+parody:chrome shelled regios -> 原作:钢壳都市雷吉欧斯
+parody:ga-rei -> 原作:食灵-零-
 character:alice -> 角色:爱丽丝
 character:akane hino -> 角色:日野茜
 character:ibuki -> 角色:伊吹
@@ -8121,6 +8126,37 @@ character:freminet -> 角色:菲米尼
 character:mutsumi wakaba -> 角色:若叶睦
 character:sunflower -> 角色:向日葵
 character:penelopea -> 角色:绿影侠
+character:aglaea -> 角色:阿格莱雅
+character:kaguya urushibara -> 角色:漆原辉夜
+character:lan yan -> 角色:蓝砚
+character:akane tendo -> 角色:天道茜
+character:ryoga hibiki -> 角色:响良牙
+character:shampoo -> 角色:珊璞
+character:tribbie -> 角色:缇宝
+character:trianne -> 角色:缇安
+character:trinnon -> 角色:缇宁
+character:castorice -> 角色:遐蝶
+character:biscione -> 角色:比肖内
+character:the herta -> 角色:大黑塔
+character:xueyi -> 角色:雪衣
+character:scene -> 角色:稀音
+character:sizzles jelly queen -> 角色:SizzlesJellyQueen
+character:kei shindou -> 角色:新藤景
+character:miyako miyamura -> 角色:宫村宫子
+character:yuuko amamiya -> 角色:雨宫优子
+character:chihiro shindou -> 角色:新藤千寻
+character:mizuki hayama -> 角色:羽山瑞希
+character:setsuna ogiso -> 角色:小木曾雪菜
+character:haruki kitahara -> 角色:北原春希
+character:rina ogata -> 角色:绪方理奈
+character:chiaki izumi -> 角色:和泉千晶
+character:mari kazaoka -> 角色:风冈麻理
+character:kazusa touma -> 角色:冬马和纱
+character:yuki morikawa -> 角色:森川由绮
+character:touya fujii -> 角色:藤井冬弥
+character:chizuru kashiwagi -> 角色:柏木千鹤
+character:shouto todoroki -> 角色:轰焦冻
+character:popess johanna -> 角色:女教皇若安
 group:1 -> 团队:1
 group:13 -> 团队:13
 group:27 -> 团队:27
@@ -21166,6 +21202,18 @@ group:yoga dojo -> 团队:ヨガ道場
 group:parasute -> 团队:みずのウロ（ぷらすて）
 group:misanga -> 团队:ミサンガ
 group:panda ekisu -> 团队:パンダエキス
+group:weiss children -> 团队:ヴァイスチルドレン
+group:fairytale hardcover -> 团队:フェアリーテールHARDCOVER
+group:stereorange -> 团队:stereorange
+group:meitei works -> 团队:酩酊works
+group:chouya waneko -> 团队:蝶屋和猫
+group:horenso metro -> 团队:ほうれん草メトロ
+group:devils tongue -> 团队:Devil’s Tongue
+group:rampel -> 团队:らんぺる
+group:torinosu -> 团队:鸟之巢
+group:kyou majo -> 团队:京まじょ！
+group:yokaranu yakara -> 团队:よからヌ夜空
+group:yamaneko box -> 团队:山猫BOX
 artist:2 -> 艺术家:2
 artist:7 -> 艺术家:7
 artist:8 -> 艺术家:8
@@ -23708,7 +23756,7 @@ artist:kanno takanori -> 艺术家:南乃さざん
 artist:takehana note -> 艺术家:竹花ノート
 artist:sakuraba hikaru -> 艺术家:桜庭光
 artist:wolflong -> 艺术家:╰狼龍
-artist:toyosaki shu -> 艺术家:豊咲
+artist:toyosaki shu -> 艺术家:一咲
 artist:mutou koucha -> 艺术家:无糖红茶
 artist:kurihara kenshirou -> 艺术家:栗原ケンシロウ
 artist:matsumotoke -> 艺术家:松本家御愛用
@@ -33584,7 +33632,7 @@ artist:honashi -> 艺术家:Honashi
 artist:hayanye r -> 艺术家:はやにぇR
 artist:awamiku -> 艺术家:あわこと
 artist:barakey -> 艺术家:バラキー
-artist:ricerice -> 艺术家:飯桶君
+artist:ricerice -> 艺术家:饭桶君
 artist:ahbai -> 艺术家:阿白
 artist:parsley -> 艺术家:パセリ
 artist:ochin-sama -> 艺术家:おちんさま
@@ -34288,7 +34336,7 @@ artist:nekoma kotomitsu -> 艺术家:猫間ことみつ
 artist:particular -> 艺术家:ぱてくらー
 artist:karashina en -> 艺术家:カラシナ円
 artist:hagakure kurage -> 艺术家:葉隠くらげ
-artist:tamon sakaki -> 艺术家:多纹サカキ
+artist:tamon sakaki -> 艺术家:多紋サカキ
 artist:asano tooru -> 艺术家:あさの透
 artist:uiri -> 艺术家:ういり
 artist:fujiyoshi -> 艺术家:ふじよし
@@ -34705,6 +34753,31 @@ artist:dochashiko -> 艺术家:どちゃしこ
 artist:dorozumi -> 艺术家:どろずみ
 artist:trotonope -> 艺术家:TROTONOPE爾灣
 artist:kosmos beta -> 艺术家:Kosmos β
+artist:kurarome -> 艺术家:くらろめ
+artist:higeneko -> 艺术家:胡子猫
+artist:choujirooo -> 艺术家:超ジロー
+artist:warubo -> 艺术家:わるボ
+artist:siose tamotsu -> 艺术家:シオセタモツ
+artist:sugane fleen -> 艺术家:スガネフリーン
+artist:natsume mila -> 艺术家:棗Mila
+artist:imakane kei -> 艺术家:いまかねけい
+artist:masumi -> 艺术家:ますみ
+artist:ogano momomo -> 艺术家:小鹿野ももも
+artist:keishirou -> 艺术家:けい志ろう
+artist:chouya waneko -> 艺术家:蝶屋わねこ
+artist:yunkaiming -> 艺术家:云开明
+artist:kasuga ae -> 艺术家:春日あえ
+artist:comodox -> 艺术家:comodox
+artist:yuki asuka -> 艺术家:雪あすか
+artist:betock -> 艺术家:betock
+artist:jakelian -> 艺术家:Jakelian
+artist:yokara -> 艺术家:よから
+artist:partner -> 艺术家:ぱるとねる
+artist:nanase miori -> 艺术家:ナナセミオリ
+artist:kinagi rea -> 艺术家:きなぎれあ
+artist:norisuke -> 艺术家:乃莉助
+artist:kontetsu -> 艺术家:こんてつ
+artist:accter -> 艺术家:accter
 cosplayer:otohara an -> Coser:乙原あん
 cosplayer:rioko -> Coser:凉凉子
 cosplayer:atsuki -> Coser:あつき
