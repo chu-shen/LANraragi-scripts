@@ -4700,7 +4700,7 @@ character:nera briscoletti -> 角色:芙萝菈
 character:crimson viper -> 角色:深红毒蛇
 character:blue mary -> 角色:布鲁玛丽
 character:king -> 角色:琼
-character:dark magician girl -> 角色:黑魔术少女
+character:dark magician girl -> 角色:黑魔导女孩（黑魔术少女）
 character:silent magician -> 角色:沉默魔术师
 character:marcille donato -> 角色:玛露西尔
 character:fumina hoshino -> 角色:星野文奈
@@ -8157,6 +8157,61 @@ character:touya fujii -> 角色:藤井冬弥
 character:chizuru kashiwagi -> 角色:柏木千鹤
 character:shouto todoroki -> 角色:轰焦冻
 character:popess johanna -> 角色:女教皇若安
+character:sae chabashira -> 角色:茶柱佐枝
+character:hae-in cha -> 角色:车慧仁
+character:kitchen dragonmaid -> 角色:龙女仆・炊事龙女
+character:chamber dragonmaid -> 角色:龙女仆・客房龙女
+character:prishe -> 角色:普利修
+character:parlor dragonmaid -> 角色:龙女仆・侍应龙女
+character:nurse dragonmaid -> 角色:龙女仆・护育龙女
+character:dogmatika ecclesia the virtuous -> 角色:教导的圣女 艾克莉西娅
+character:traptrix rafflesia -> 角色:大王花之虫惑魔
+character:arias the labrynth butler -> 角色:白银城的执事 阿里安斯
+character:traptrix allomerus -> 角色:树栖蚁之虫惑魔
+character:traptrix nepenthes -> 角色:蜜笼之虫惑魔
+character:diabellstar the black witch -> 角色:黑魔女 迪亚贝尔斯塔
+character:traptrix pinguicula -> 角色:蜜堇之虫惑魔
+character:tearlaments kitkallos -> 角色:泪冠哀歌・琪多卡洛斯
+character:tearlaments scheiren -> 角色:泪冠哀歌・赛莲
+character:tour guide from the underworld -> 角色:魔界发现世行死亡向导 （ 由魔界到现世的死亡导游 ）
+character:tri-brigade kitt -> 角色:铁兽战线 姬特
+character:witchcrafter haine -> 角色:魔女工艺・裁缝海涅（ 魔女术工匠·服装女巫 ）
+character:witchcrafter madame verre -> 角色:魔女工艺掌门・玻璃匠薇儿 （ 魔女术师傅·玻璃女巫 ）
+character:dinomorphia kentregina -> 角色:恐啡肽骇龙・肯特莱钉娜
+character:i p masquerena -> 角色:I：P百变莱娜
+character:live twin ki-sikil -> 角色:直播☆双子 姬丝吉尔
+character:evil twin ki-sikil -> 角色:邪恶★双子 姬丝吉尔
+character:evil twin lil-la -> 角色:邪恶★双子 璃拉
+character:fallen of albaz -> 角色:阿尔白斯之落胤 （ 阿不思的落胤 ）
+character:swordsoul of mo ye -> 角色:相剑师－莫邪
+character:pa-san -> 角色:音响师（PA桑）
+character:the iris swordsoul -> 角色:妖眼的相剑师
+character:witchcrafter genni -> 角色:魔女工艺・万能杰妮（ 魔女术熟练工 ）
+character:witchcrafter potterie -> 角色:魔女工艺・陶艺玻特丽（ 魔女术工匠·陶器女巫 ）
+character:gagaga girl -> 角色:我我我女孩
+character:mystical elf -> 角色:圣精灵
+character:yubel -> 角色:尤贝尔
+character:sky striker ace - roze -> 角色:闪刀姬－萝杰（ 闪刀姬-露世 ）
+character:rei saotome -> 角色:早乙女礼
+character:jun manjoume -> 角色:万丈目准
+character:dark magician -> 角色:黑魔导（ 黑魔术师 ）
+character:yugi mutou -> 角色:武藤游戏
+character:yami yugi -> 角色:阿图姆（暗游戏）
+character:yuuya sakaki -> 角色:榊游矢
+character:seto kaiba -> 角色:海马濑人
+character:inko midoriya -> 角色:绿谷引子
+character:ryuko tsuchikawa -> 角色:皮克茜-鲍勃
+character:tomoko shiretoko -> 角色:知床知子
+character:shino sousaki -> 角色:送崎信乃（曼德勒猫）
+character:elesis -> 角色:艾丽希斯
+character:maya natsume -> 角色:枣真夜
+character:helen parr -> 角色:巴荷莉
+character:princess anna -> 角色:安娜公主
+character:mimikyu -> 角色:谜拟丘
+character:nurse joy -> 角色:乔伊
+character:officer jenny -> 角色:君莎
+character:james -> 角色:小次郎
+character:jessie -> 角色:武藏
 group:1 -> 团队:1
 group:13 -> 团队:13
 group:27 -> 团队:27
@@ -21214,6 +21269,8 @@ group:torinosu -> 团队:鸟之巢
 group:kyou majo -> 团队:京まじょ！
 group:yokaranu yakara -> 团队:よからヌ夜空
 group:yamaneko box -> 团队:山猫BOX
+group:chirimen naoyuki -> 团队:ちりめんなおゆき
+group:haru tanuki-ya -> 团队:春狸屋
 artist:2 -> 艺术家:2
 artist:7 -> 艺术家:7
 artist:8 -> 艺术家:8
@@ -21623,7 +21680,7 @@ artist:amaduyu tatsuki -> 艺术家:甘露树
 artist:kawata hisashi -> 艺术家:カワタヒサシ
 artist:mitsumi misato -> 艺术家:みつみ美里
 artist:nakamura takeshi -> 艺术家:なかむらたけし
-artist:minase syu -> 艺术家:水濑修
+artist:minase syu -> 艺术家:水瀬修
 artist:yoshiura kazuya -> 艺术家:由浦カズヤ
 artist:erect sawaru -> 艺术家:エレクトさわる
 artist:katsurai yoshiaki -> 艺术家:桂井よしあき
@@ -32320,7 +32377,7 @@ artist:tsuzuki kazuhiko -> 艺术家:都築和彦
 artist:tsuzuki masumi -> 艺术家:つづきますみ
 artist:tsuzura -> 艺术家:つづら
 artist:tsuzurao kaya -> 艺术家:九尾かや
-artist:tsuzuri -> 艺术家:水瀬修
+artist:tsuzuri -> 艺术家:綴り
 artist:tt -> 艺术家:tt
 artist:ttl -> 艺术家:ttl
 artist:ttuunn -> 艺术家:つん
@@ -34778,6 +34835,11 @@ artist:kinagi rea -> 艺术家:きなぎれあ
 artist:norisuke -> 艺术家:乃莉助
 artist:kontetsu -> 艺术家:こんてつ
 artist:accter -> 艺术家:accter
+artist:naoyuki -> 艺术家:なおゆき
+artist:gin-chan -> 艺术家:銀ちゃん
+artist:iren -> 艺术家:iren
+artist:mizuse noa -> 艺术家:水聖のあ
+artist:dhimetoro -> 艺术家:ディメトロ
 cosplayer:otohara an -> Coser:乙原あん
 cosplayer:rioko -> Coser:凉凉子
 cosplayer:atsuki -> Coser:あつき
