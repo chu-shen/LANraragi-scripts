@@ -111,6 +111,7 @@ language:rewrite -> 语言:改写
 parody:86 -> 原作:86 -不存在的战区-
 parody:300 -> 原作:300
 parody:original -> 原作:原创
+parody:various -> 原作:多作品
 parody:touhou project -> 原作:东方Project
 parody:moetan -> 原作:萌单✏️
 parody:kanon -> 原作:Kanon❄
@@ -2442,6 +2443,10 @@ parody:natsumes book of friends -> 原作:夏目友人帐
 parody:kurokami -> 原作:黑神
 parody:chrome shelled regios -> 原作:钢壳都市雷吉欧斯
 parody:ga-rei -> 原作:食灵-零-
+parody:jin ping mei -> 原作:金瓶梅
+parody:eiken -> 原作:巨乳学园
+parody:medalist -> 原作:金牌得主（舞冰的祈愿）
+parody:arakawa under the bridge -> 原作:荒川爆笑团
 character:alice -> 角色:爱丽丝
 character:akane hino -> 角色:日野茜
 character:ibuki -> 角色:伊吹
@@ -6827,7 +6832,7 @@ character:ak-12 -> 角色:AK-12 | 露契娅
 character:an-94 -> 角色:AN-94 | 安提娅
 character:kalina -> 角色:格琳娜
 character:ump45 -> 角色:UMP45 | 莱娅
-character:vsk-94 -> 角色:VSK-94
+character:vsk-94 -> 角色:VSK-94 | 妮基塔
 character:g11 -> 角色:G11 | 米什缇
 character:desert eagle -> 角色:沙漠之鹰
 character:ump9 -> 角色:UMP9 | 莱娜
@@ -7036,7 +7041,7 @@ character:endministrator -> 角色:管理员
 character:perlica -> 角色:佩丽卡
 character:absinthe -> 角色:苦艾
 character:misha necron -> 角色:米夏·涅库罗
-character:sentouki - roze -> 角色:闪刀姬-露世
+character:sky striker ace - roze -> 角色:闪刀姬-露世
 character:kooh -> 角色:酷儿
 character:aaya saitou -> 角色:齐藤亚绫
 character:kiiko kawakami -> 角色:川上纪衣子
@@ -8173,36 +8178,35 @@ character:diabellstar the black witch -> 角色:黑魔女 迪亚贝尔斯塔
 character:traptrix pinguicula -> 角色:蜜堇之虫惑魔
 character:tearlaments kitkallos -> 角色:泪冠哀歌・琪多卡洛斯
 character:tearlaments scheiren -> 角色:泪冠哀歌・赛莲
-character:tour guide from the underworld -> 角色:魔界发现世行死亡向导 （ 由魔界到现世的死亡导游 ）
+character:tour guide from the underworld -> 角色:魔界发现世行死亡向导
 character:tri-brigade kitt -> 角色:铁兽战线 姬特
-character:witchcrafter haine -> 角色:魔女工艺・裁缝海涅（ 魔女术工匠·服装女巫 ）
-character:witchcrafter madame verre -> 角色:魔女工艺掌门・玻璃匠薇儿 （ 魔女术师傅·玻璃女巫 ）
+character:witchcrafter haine -> 角色:魔女工艺・裁缝海涅
+character:witchcrafter madame verre -> 角色:魔女工艺掌门・玻璃匠薇儿
 character:dinomorphia kentregina -> 角色:恐啡肽骇龙・肯特莱钉娜
 character:i p masquerena -> 角色:I：P百变莱娜
 character:live twin ki-sikil -> 角色:直播☆双子 姬丝吉尔
 character:evil twin ki-sikil -> 角色:邪恶★双子 姬丝吉尔
 character:evil twin lil-la -> 角色:邪恶★双子 璃拉
-character:fallen of albaz -> 角色:阿尔白斯之落胤 （ 阿不思的落胤 ）
+character:fallen of albaz -> 角色:阿尔白斯之落胤
 character:swordsoul of mo ye -> 角色:相剑师－莫邪
-character:pa-san -> 角色:音响师（PA桑）
+character:pa-san -> 角色:音响师
 character:the iris swordsoul -> 角色:妖眼的相剑师
-character:witchcrafter genni -> 角色:魔女工艺・万能杰妮（ 魔女术熟练工 ）
-character:witchcrafter potterie -> 角色:魔女工艺・陶艺玻特丽（ 魔女术工匠·陶器女巫 ）
+character:witchcrafter genni -> 角色:魔女工艺・万能杰妮
+character:witchcrafter potterie -> 角色:魔女工艺・陶艺玻特丽
 character:gagaga girl -> 角色:我我我女孩
 character:mystical elf -> 角色:圣精灵
 character:yubel -> 角色:尤贝尔
-character:sky striker ace - roze -> 角色:闪刀姬－萝杰（ 闪刀姬-露世 ）
 character:rei saotome -> 角色:早乙女礼
 character:jun manjoume -> 角色:万丈目准
-character:dark magician -> 角色:黑魔导（ 黑魔术师 ）
+character:dark magician -> 角色:黑魔导
 character:yugi mutou -> 角色:武藤游戏
-character:yami yugi -> 角色:阿图姆（暗游戏）
+character:yami yugi -> 角色:阿图姆
 character:yuuya sakaki -> 角色:榊游矢
 character:seto kaiba -> 角色:海马濑人
 character:inko midoriya -> 角色:绿谷引子
 character:ryuko tsuchikawa -> 角色:皮克茜-鲍勃
 character:tomoko shiretoko -> 角色:知床知子
-character:shino sousaki -> 角色:送崎信乃（曼德勒猫）
+character:shino sousaki -> 角色:送崎信乃
 character:elesis -> 角色:艾丽希斯
 character:maya natsume -> 角色:枣真夜
 character:helen parr -> 角色:巴荷莉
@@ -8212,6 +8216,21 @@ character:nurse joy -> 角色:乔伊
 character:officer jenny -> 角色:君莎
 character:james -> 角色:小次郎
 character:jessie -> 角色:武藏
+character:varesa -> 角色:瓦雷莎
+character:land -> 角色:兰托
+character:iselda -> 角色:伊塞尔达
+character:iansan -> 角色:伊安珊
+character:inori yuitsuka -> 角色:结束祈
+character:roxanne -> 角色:罗克珊
+character:kou ichinomiya -> 角色:市之宫行
+character:jean colbert -> 角色:柯尔贝尔
+character:california -> 角色:加利福尼亚
+character:vittorio veneto -> 角色:维托里奥·维内托
+character:voroshilov -> 角色:伏罗希洛夫
+character:fortune -> 角色:命运女神
+character:masachika kuze -> 角色:久世政近
+character:cantarella -> 角色:坎特蕾拉
+character:phoebe -> 角色:菲比
 group:1 -> 团队:1
 group:13 -> 团队:13
 group:27 -> 团队:27
@@ -21271,6 +21290,10 @@ group:yokaranu yakara -> 团队:よからヌ夜空
 group:yamaneko box -> 团队:山猫BOX
 group:chirimen naoyuki -> 团队:ちりめんなおゆき
 group:haru tanuki-ya -> 团队:春狸屋
+group:taihen na hentai -> 团队:たいへんなへんたい
+group:ebiharami -> 团队:エビハラミ
+group:shirudakuya -> 团队:汁濁屋
+group:uneunesuruzo -> 团队:うねうねするぞ
 artist:2 -> 艺术家:2
 artist:7 -> 艺术家:7
 artist:8 -> 艺术家:8
@@ -21835,7 +21858,7 @@ artist:shimaji -> 艺术家:しまじ
 artist:tenro aya -> 艺术家:天路あや
 artist:meme50 -> 艺术家:メメ50
 artist:menea the dog -> 艺术家:メネア・ザ・ドッグ
-artist:makibe kataru -> 艺术家:牧部かたる
+artist:makibe kataru -> 艺术家:牧部かたる | 牧村あかり
 artist:ikeshita maue -> 艺术家:池下真上
 artist:ikuhana niro -> 艺术家:几花にいろ
 artist:c.r -> 艺术家:しーあーる
@@ -22041,7 +22064,7 @@ artist:cheewts -> 艺术家:ちいうつ
 artist:katsura airi -> 艺术家:桂あいり
 artist:koori -> 艺术家:粉织
 artist:red-rum -> 艺术家:RED-RUM
-artist:ryoh-zoh -> 艺术家:椋藏
+artist:ryoh-zoh -> 艺术家:椋蔵
 artist:shouji nigou -> 艺术家:庄司二号
 artist:henrybird -> 艺术家:半里バード9
 artist:homing -> 艺术家:ホーミング
@@ -22055,7 +22078,7 @@ artist:monogusa wolf -> 艺术家:ものぐさうるふ
 artist:moroha -> 艺术家:乙
 artist:naitou satoshi -> 艺术家:乃藤悟志
 artist:oonuki makuri -> 艺术家:大貫まくり
-artist:sabashi renya -> 艺术家:左桥レンヤ
+artist:sabashi renya -> 艺术家:左橋レンヤ
 artist:t.k-1 -> 艺术家:T.K-1
 artist:tachibana surimu -> 艺术家:橘すりむ
 artist:takahashi kobato -> 艺术家:高橋こばと
@@ -23151,7 +23174,7 @@ artist:kumaco -> 艺术家:くまこ
 artist:kuroshibe -> 艺术家:クロシベ
 artist:akise -> 艺术家:秋濑
 artist:fukuguri yuuto -> 艺术家:福栗悠斗
-artist:futaba yae -> 艺术家:双叶八重
+artist:futaba yae -> 艺术家:双葉八重
 artist:koorizu -> 艺术家:コオリズ
 artist:kumataro -> 艺术家:隈太郎
 artist:mokkouyou bond -> 艺术家:木工用ボンド
@@ -23850,7 +23873,7 @@ artist:mahito -> 艺术家:真人
 artist:anon 2-okunen -> 艺术家:あのん2亿年
 artist:zikataro -> 艺术家:自家太郎
 artist:footaro -> 艺术家:辻風太郎
-artist:mokuzu -> 艺术家:もくず
+artist:mokuzu -> 艺术家:もくず | くずのもくず
 artist:mizuno kurage -> 艺术家:水乃くらげ
 artist:aoi -> 艺术家:あおい
 artist:uguisu mochi -> 艺术家:うぐいす餅
@@ -25357,7 +25380,7 @@ artist:angie nishikawa -> 艺术家:アンジー西川
 artist:aniki -> 艺术家:アニキ
 artist:anji -> 艺术家:杏二
 artist:ankoromochi -> 艺术家:あんころもち
-artist:anma -> 艺术家:安间
+artist:anma -> 艺术家:安間
 artist:anmitsu sou -> 艺术家:あんみつ草
 artist:ann -> 艺术家:Ann
 artist:annie -> 艺术家:あにぃ
@@ -26606,7 +26629,7 @@ artist:gomu -> 艺术家:ゴム
 artist:gon -> 艺术家:ごん
 artist:gon heihachi -> 艺术家:ゴン平八
 artist:gonbuto -> 艺术家:ごんぶと
-artist:gonta -> 艺术家:ゴンタ
+artist:gonta -> 艺术家:ゴンタ | ごんた
 artist:gonza -> 艺术家:gonza
 artist:gonzaburo- -> 艺术家:ゴンざぶろー
 artist:gorgon -> 艺术家:ゴルゴン
@@ -30482,7 +30505,7 @@ artist:phantom -> 艺术家:ふぁんとむ
 artist:philan -> 艺术家:Philan
 artist:philly -> 艺术家:Philly
 artist:phoenicia masako -> 艺术家:フェニキア雅子
-artist:pi-ko -> 艺术家:ぴーこ
+artist:pi-ko -> 艺术家:ぴーこ/日衣子
 artist:pia pia -> 艺术家:Pia☆Pia
 artist:piano -> 艺术家:ぴあの
 artist:piaroo -> 艺术家:Piaroo
@@ -34840,6 +34863,28 @@ artist:gin-chan -> 艺术家:銀ちゃん
 artist:iren -> 艺术家:iren
 artist:mizuse noa -> 艺术家:水聖のあ
 artist:dhimetoro -> 艺术家:ディメトロ
+artist:akinashi koyomi -> 艺术家:秋梨こよみ | 春夏冬こよみ
+artist:kerenme -> 艺术家:ケレンメ
+artist:kasoku -> 艺术家:加速
+artist:tanaka naburu -> 艺术家:NABURU
+artist:satochizu -> 艺术家:さとちず
+artist:t landolt -> 艺术家:Tランドルト
+artist:gemba -> 艺术家:としゃおぶ 裏
+artist:yumekawa dododo-chan -> 艺术家:夢叶羽どどどちゃん
+artist:fenghuang moya -> 艺术家:鳳凰モヤ
+artist:hatte miina -> 艺术家:八手美以菜
+artist:denpa yukkuri -> 艺术家:でんぱゆっくり
+artist:nekoshiro memo -> 艺术家:猫代メモ
+artist:yuuto -> 艺术家:ゆうと
+artist:mukimoto koko -> 艺术家:剥元ここ
+artist:itou usagi -> 艺术家:いとううさぎ
+artist:nakano hitomi -> 艺术家:中埜人見
+artist:shuuhen kouichi -> 艺术家:周辺コウイチ
+artist:kuba yodomu -> 艺术家:紅端よどむ
+artist:kuriame kururu -> 艺术家:栗飴くるる
+artist:usanomura kamekichi -> 艺术家:兎ノ村亀吉
+artist:fujiwara kyosuke -> 艺术家:藤原恭輔
+artist:kuramoto zen -> 艺术家:倉本膳
 cosplayer:otohara an -> Coser:乙原あん
 cosplayer:rioko -> Coser:凉凉子
 cosplayer:atsuki -> Coser:あつき
@@ -35247,6 +35292,7 @@ male:horse cock -> 男性:马根
 male:huge penis -> 男性:巨根
 male:multiple penises -> 男性:鸡鸡复鸡鸡
 male:penis birth -> 男性:阴茎出产
+male:penis bumps -> 男性:阴茎凸起
 male:penis enlargement -> 男性:阴茎生长
 male:phimosis -> 男性:包茎
 male:prostate massage -> 男性:前列腺按摩
@@ -35269,6 +35315,7 @@ male:big ass -> 男性:大屁股
 male:enema -> 男性:灌肠
 male:farting -> 男性:放屁
 male:multiple assjob -> 男性:多重尻交
+male:multiple tails -> 男性:多尾
 male:pegging -> 男性:爆菊
 male:spanking -> 男性:打屁股
 male:tail -> 男性:尾巴
@@ -35424,6 +35471,7 @@ male:domination loss -> 男性:统治丢失
 male:food on body -> 男性:男体盛
 male:forniphilia -> 男性:人体家具
 male:human cattle -> 男性:人类饲养
+male:ruined orgasm -> 男性:高潮泡汤
 male:property tag -> 男性:财产标签
 male:josou seme -> 男性:女装攻
 male:orgasm denial -> 男性:高潮禁止
@@ -35815,6 +35863,7 @@ female:horse cock -> 女性:马根
 female:huge penis -> 女性:巨根
 female:multiple penises -> 女性:鸡鸡复鸡鸡
 female:penis birth -> 女性:阴茎出产
+female:penis bumps -> 女性:阴茎凸起
 female:penis enlargement -> 女性:阴茎生长
 female:phimosis -> 女性:包茎
 female:prostate massage -> 女性:前列腺按摩
@@ -35845,6 +35894,7 @@ female:big ass -> 女性:大屁股
 female:enema -> 女性:灌肠
 female:farting -> 女性:放屁
 female:multiple assjob -> 女性:多重尻交
+female:multiple tails -> 女性:多尾
 female:spanking -> 女性:打屁股
 female:tail -> 女性:尾巴
 female:tailphagia -> 女性:尾巴吞食
@@ -36013,6 +36063,7 @@ female:domination loss -> 女性:统治丢失
 female:food on body -> 女性:女体盛
 female:forniphilia -> 女性:人体家具
 female:human cattle -> 女性:人类饲养
+female:ruined orgasm -> 女性:高潮泡汤
 female:property tag -> 女性:财产标签
 female:orgasm denial -> 女性:高潮禁止
 female:petplay -> 女性:人宠
@@ -36185,3 +36236,4 @@ other:kodomo only -> 其他:仅儿童
 other:no penetration -> 其他:无插入
 other:nudity only -> 其他:仅裸体
 other:object insertion only -> 其他:仅物体插入
+other:onsen -> 其他:温泉
