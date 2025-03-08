@@ -216,7 +216,7 @@ parody:shakugan no shana -> 原作:灼眼的夏娜
 parody:the melancholy of haruhi suzumiya -> 原作:凉宫春日的忧郁
 parody:kannagi -> 原作:神薙
 parody:kashimashi -> 原作:女生爱女生
-parody:to heart -> 原作:ToHeart
+parody:to heart -> 原作:To Heart
 parody:toheart2 -> 原作:ToHeart2
 parody:k-on -> 原作:轻音少女
 parody:he is my master -> 原作:我的主人
@@ -673,7 +673,7 @@ parody:magi the labyrinth of magic -> 原作:魔笛MAGI
 parody:ultraman -> 原作:奥特曼
 parody:we bare bears -> 原作:咱们裸熊
 parody:gravity falls -> 原作:怪诞小镇
-parody:karakai jouzu no takagi-san -> 原作:擅长捉弄人的高木同学
+parody:karakai jouzu no takagi-san -> 原作:擅长捉弄的高木同学
 parody:goshogun -> 原作:战国魔神豪将军
 parody:plawres sanshiro -> 原作:无敌三四郎
 parody:hime-chans ribbon -> 原作:缎带魔法少女
@@ -2447,6 +2447,9 @@ parody:jin ping mei -> 原作:金瓶梅
 parody:eiken -> 原作:巨乳学园
 parody:medalist -> 原作:金牌得主（舞冰的祈愿）
 parody:arakawa under the bridge -> 原作:荒川爆笑团
+parody:mamotte shugogetten -> 原作:守护月天
+parody:popolocrois -> 原作:波波罗古洛伊斯物语
+parody:jubei-chan -> 原作:十兵卫
 character:alice -> 角色:爱丽丝
 character:akane hino -> 角色:日野茜
 character:ibuki -> 角色:伊吹
@@ -8231,6 +8234,12 @@ character:fortune -> 角色:命运女神
 character:masachika kuze -> 角色:久世政近
 character:cantarella -> 角色:坎特蕾拉
 character:phoebe -> 角色:菲比
+character:chi nishikata -> 角色:西片千
+character:monarch -> 角色:君主
+character:principal -> 角色:校长(出包王女)
+character:istina -> 角色:真理
+character:otonose kanade -> 角色:音乃瀬奏
+character:mayer -> 角色:梅尔
 group:1 -> 团队:1
 group:13 -> 团队:13
 group:27 -> 团队:27
@@ -21294,6 +21303,13 @@ group:taihen na hentai -> 团队:たいへんなへんたい
 group:ebiharami -> 团队:エビハラミ
 group:shirudakuya -> 团队:汁濁屋
 group:uneunesuruzo -> 团队:うねうねするぞ
+group:beans mame -> 团队:ビーンズ豆
+group:bishojojisan -> 团队:美少女おじさん
+group:yankee ha mama -> 团队:ヤンキーはママ
+group:hikarino -> 团队:ヒカリノ
+group:koubou no sabaki -> 团队:光芒の裁き
+group:yori manga seisakusho -> 团队:より漫画制作所
+group:gyoza baby -> 团队:餃子ベビー
 artist:2 -> 艺术家:2
 artist:7 -> 艺术家:7
 artist:8 -> 艺术家:8
@@ -32740,7 +32756,7 @@ artist:xopc -> 艺术家:XOPC
 artist:xxzero -> 艺术家:xxzero
 artist:y -> 艺术家:Y
 artist:ya -> 艺术家:ヤッ
-artist:yabuki mao -> 艺术家:矢吹マオ
+artist:yabuki mao -> 艺术家:矢吹マオ | 森下真央
 artist:yabuno uguisu -> 艺术家:やぶのうぐいす
 artist:yaburebouki akuta -> 艺术家:破箒芥
 artist:yac -> 艺术家:YAC
@@ -34885,6 +34901,12 @@ artist:kuriame kururu -> 艺术家:栗飴くるる
 artist:usanomura kamekichi -> 艺术家:兎ノ村亀吉
 artist:fujiwara kyosuke -> 艺术家:藤原恭輔
 artist:kuramoto zen -> 艺术家:倉本膳
+artist:kozuki kanna -> 艺术家:湖月神無
+artist:tsurukame mayo -> 艺术家:鶴亀まよ
+artist:bisho oji -> 艺术家:びしょおじ
+artist:mutou shio -> 艺术家:無糖しお
+artist:yori man -> 艺术家:よりマン
+artist:mochitose aguri -> 艺术家:餅千歳あぐり
 cosplayer:otohara an -> Coser:乙原あん
 cosplayer:rioko -> Coser:凉凉子
 cosplayer:atsuki -> Coser:あつき
@@ -34999,6 +35021,7 @@ cosplayer:oni hitomi -> Coser:鬼瞳
 cosplayer:hualing hana -> Coser:花玲
 cosplayer:sadako momo -> Coser:贞子蜜桃
 cosplayer:xing lan -> Coser:星澜是澜澜叫澜妹呀
+cosplayer:aoi momoko -> Coser:Momoko葵葵
 male:age progression -> 男性:年龄增长
 male:age regression -> 男性:返老还童
 male:dilf -> 男性:熟男
