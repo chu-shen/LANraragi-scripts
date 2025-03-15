@@ -2307,7 +2307,7 @@ parody:seitokai no ichizon -> 原作:学生会的一己之见
 parody:tsuritama -> 原作:钓球
 parody:mahou shoujo ni akogarete -> 原作:憧憬成为魔法少女
 parody:myo-chan sensei wa kaku katariki -> 原作:小美代老师如是说
-parody:kusuriya no hitorigoto -> 原作:药师少女的独语
+parody:kusuriya no hitorigoto -> 原作:药屋少女的呢喃（药师少女的独语）
 parody:equestria girls -> 原作:小马宝莉：魔法公主
 parody:palworld -> 原作:幻兽帕普
 parody:limbus company -> 原作:边狱公司
@@ -2450,6 +2450,8 @@ parody:arakawa under the bridge -> 原作:荒川爆笑团
 parody:mamotte shugogetten -> 原作:守护月天
 parody:popolocrois -> 原作:波波罗古洛伊斯物语
 parody:jubei-chan -> 原作:十兵卫
+parody:aharen-san wa hakarenai -> 原作:测不准的阿波连同学
+parody:dies irae -> 原作:末日审判书 -查拉图斯特拉如是说-
 character:alice -> 角色:爱丽丝
 character:akane hino -> 角色:日野茜
 character:ibuki -> 角色:伊吹
@@ -8240,6 +8242,11 @@ character:principal -> 角色:校长(出包王女)
 character:istina -> 角色:真理
 character:otonose kanade -> 角色:音乃瀬奏
 character:mayer -> 角色:梅尔
+character:shadowheart -> 角色:影心
+character:sena juo -> 角色:十王星南
+character:mainz -> 角色:美因茨
+character:chinatsu kuramoto -> 角色:仓本千夏
+character:kei kuramoto -> 角色:仓本圭
 group:1 -> 团队:1
 group:13 -> 团队:13
 group:27 -> 团队:27
@@ -21310,6 +21317,11 @@ group:hikarino -> 团队:ヒカリノ
 group:koubou no sabaki -> 团队:光芒の裁き
 group:yori manga seisakusho -> 团队:より漫画制作所
 group:gyoza baby -> 团队:餃子ベビー
+group:nurume no coffee -> 团队:ぬるめの珈琲
+group:jun tokutyu kuromask -> 团队:準特注くろますく
+group:kanmigokoro -> 团队:甘味心
+group:tohonifun -> 团队:徒歩二分
+group:gokunama kinringo -> 团队:極生きんりんご
 artist:2 -> 艺术家:2
 artist:7 -> 艺术家:7
 artist:8 -> 艺术家:8
@@ -23949,7 +23961,7 @@ artist:mizuki takehito -> 艺术家:みづきたけひと
 artist:takahashi tetsuya -> 艺术家:高桥哲哉
 artist:hiten -> 艺术家:Hiten
 artist:inugami kira -> 艺术家:狗神煌
-artist:korie riko -> 艺术家:捆枝莉子
+artist:korie riko -> 艺术家:梱枝莉子
 artist:hasune -> 艺术家:はすね
 artist:muku -> 艺术家:muku
 artist:kurou -> 艺术家:九郎
@@ -27747,7 +27759,7 @@ artist:kakudai -> 艺术家:カクダイ
 artist:kakugari ani -> 艺术家:カクガリ兄
 artist:kakuka -> 艺术家:かくか
 artist:kakutou oukoku -> 艺术家:格闘王国
-artist:kakuzato yun -> 艺术家:角砂糖ゆん
+artist:kakuzato yun -> 艺术家:角砂糖ゆん | すがる春
 artist:kakyouin chiroru -> 艺术家:華京院ちろる
 artist:kamado -> 艺术家:かまど
 artist:kamata -> 艺术家:かまた
@@ -34907,6 +34919,13 @@ artist:bisho oji -> 艺术家:びしょおじ
 artist:mutou shio -> 艺术家:無糖しお
 artist:yori man -> 艺术家:よりマン
 artist:mochitose aguri -> 艺术家:餅千歳あぐり
+artist:ashina mellow -> 艺术家:芦名めろう
+artist:chano -> 艺术家:茶野
+artist:gan -> 艺术家:雁氷
+artist:kuro 5ma -> 艺术家:黒5Ma
+artist:punching namatamago -> 艺术家:パンチング生卵
+artist:gyuusuke -> 艺术家:G祐介
+artist:masutabe shou -> 艺术家:増多部翔
 cosplayer:otohara an -> Coser:乙原あん
 cosplayer:rioko -> Coser:凉凉子
 cosplayer:atsuki -> Coser:あつき
