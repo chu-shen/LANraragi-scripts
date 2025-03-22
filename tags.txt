@@ -918,7 +918,7 @@ parody:kanokon -> 原作:我的狐仙女友
 parody:ladies versus butlers -> 原作:大小姐×执事！
 parody:arpeggio of blue steel -> 原作:苍蓝钢铁的琶音
 parody:maken-ki -> 原作:魔剑姬！
-parody:expelled from paradise -> 原作:乐园追放 -Expelled from Paradise-
+parody:expelled from paradise -> 原作:乐园追放
 parody:glasslip -> 原作:玻璃之唇
 parody:hanasaku iroha -> 原作:花开伊吕波
 parody:akaneiro ni somaru saka -> 原作:茜色染红的街道
@@ -2452,6 +2452,24 @@ parody:popolocrois -> 原作:波波罗古洛伊斯物语
 parody:jubei-chan -> 原作:十兵卫
 parody:aharen-san wa hakarenai -> 原作:测不准的阿波连同学
 parody:dies irae -> 原作:末日审判书 -查拉图斯特拉如是说-
+parody:seven of seven -> 原作:七人之奈奈
+parody:futari ecchi -> 原作:夫妻成长日记
+parody:jutaijima -> 原作:受胎岛
+parody:sengoku basara -> 原作:战国BASARA
+parody:mobile suit gundam hathaways flash -> 原作:机动战士高达 闪光的哈萨维
+parody:tales of destiny 2 -> 原作:宿命传说2
+parody:sound voltex -> 原作:音律炫动
+parody:project a-ko -> 原作:A子计划
+parody:triton of the sea -> 原作:小飞龙
+parody:getter robo -> 原作:盖塔机器人
+parody:muteki koujin daitarn 3 -> 原作:无敌钢人泰坦3
+parody:mobile suit gundam gquuuuuux -> 原作:机动战士高达：跨时之战
+parody:lovers koi ni ochitara... -> 原作:LOVERS～恋に落ちたら・・・～
+parody:green akizora no screen -> 原作:GREEN ～秋空的Screen～
+parody:patlabor -> 原作:机动警察
+parody:vampire master dark crimson -> 原作:暗夜吸血鬼
+parody:sumomomo momomo -> 原作:地上最强新娘
+parody:criminal girls -> 原作:罪恶少女
 character:alice -> 角色:爱丽丝
 character:akane hino -> 角色:日野茜
 character:ibuki -> 角色:伊吹
@@ -5228,7 +5246,7 @@ character:batgirl -> 角色:蝙蝠少女
 character:barbara gordon -> 角色:芭芭拉·戈登
 character:blackfire -> 角色:黑火
 character:bruce wayne -> 角色:布鲁斯·韦恩
-character:jinx -> 角色:金克斯
+character:jinx -> 角色:金克丝
 character:lex luthor -> 角色:莱克斯·卢瑟
 character:poison ivy -> 角色:毒藤女
 character:raven -> 角色:渡鸦
@@ -6894,7 +6912,7 @@ character:kriss vector -> 角色:维克托
 character:vector -> 角色:维克托
 character:mp40 -> 角色:MP40
 character:mp5 -> 角色:MP5 | 佩莉
-character:ro635 -> 角色:RO635
+character:ro635 -> 角色:RO635 | 洛贝拉
 character:skorpion -> 角色:蝎式
 character:mp7 -> 角色:MP7 | 奇塔
 character:sten mkii -> 角色:司登MkⅡ
@@ -7177,7 +7195,7 @@ character:ami nonomura -> 角色:野野村亚美
 character:indomitable -> 角色:不挠
 character:kurumi tsuchimikado -> 角色:土御门胡桃
 character:ada wong -> 角色:艾达·王
-character:yamato takeru -> 角色:日本武尊
+character:yamato takeru -> 角色:大和武尊（日本武尊）
 character:wriothesley -> 角色:莱欧斯利
 character:rin uehara -> 角色:上原燐
 character:himeno -> 角色:姬野
@@ -7663,7 +7681,7 @@ character:whisperain -> 角色:絮雨
 character:andreana -> 角色:安哲拉
 character:degenbrecher -> 角色:锏
 character:saileach -> 角色:琴柳
-character:pekoras mother -> 角色:佩克拉妈妈
+character:pekoras mother -> 角色:佩克拉妈咪
 character:unzen -> 角色:云仙
 character:mualani -> 角色:玛拉妮
 character:shiori fujisaki -> 角色:藤崎诗织
@@ -8247,6 +8265,36 @@ character:sena juo -> 角色:十王星南
 character:mainz -> 角色:美因茨
 character:chinatsu kuramoto -> 角色:仓本千夏
 character:kei kuramoto -> 角色:仓本圭
+character:takeda shingen -> 角色:武田信玄（武田晴信）
+character:serie -> 角色:赛丽艾
+character:sousuke aizen -> 角色:蓝染惣右介
+character:francesca lucchini -> 角色:弗兰西斯卡·鲁奇尼
+character:rover -> 角色:漂泊者
+character:ascalon -> 角色:阿斯卡纶
+character:ling -> 角色:令
+character:gladiia -> 角色:歌蕾蒂娅
+character:spongebob squarepants -> 角色:海绵宝宝
+character:queen grimhilde -> 角色:邪恶皇后
+character:rena ryuuguu -> 角色:龙宫礼奈
+character:miyo takano -> 角色:鹰野三四
+character:mion sonozaki -> 角色:园崎魅音
+character:hanyuu -> 角色:羽入
+character:shion sonozaki -> 角色:园崎诗音
+character:satoshi houjou -> 角色:北条悟史
+character:keiichi maebara -> 角色:前原圭一
+character:sasaki -> 角色:佐佐木
+character:chiaki motomiya -> 角色:元宫千秋
+character:louisville -> 角色:路易斯维尔
+character:prinz heinrich -> 角色:海恩里希亲王
+character:tsumugi shinonome -> 角色:东云纺
+character:mia kashiwagi -> 角色:柏木美亚
+character:chinatsu hinata -> 角色:日向千夏
+character:kaguya hoshikawa -> 角色:星河辉耶
+character:kurumi kohibari -> 角色:小云雀来海
+character:yuu kotegawa -> 角色:古手川游
+character:mikuru natsuki -> 角色:夏树实玖瑠
+character:michiko tanaka -> 角色:田中满子
+character:ichigo morino -> 角色:森野莓
 group:1 -> 团队:1
 group:13 -> 团队:13
 group:27 -> 团队:27
@@ -21322,6 +21370,9 @@ group:jun tokutyu kuromask -> 团队:準特注くろますく
 group:kanmigokoro -> 团队:甘味心
 group:tohonifun -> 团队:徒歩二分
 group:gokunama kinringo -> 团队:極生きんりんご
+group:bekkou kansoku -> 团队:べっこう観測
+group:yaseuma lo-ru -> 团队:やせうまロール
+group:bullfrog lab -> 团队:うしがえるラボ
 artist:2 -> 艺术家:2
 artist:7 -> 艺术家:7
 artist:8 -> 艺术家:8
@@ -21897,7 +21948,7 @@ artist:yotsuba chika -> 艺术家:四葉チカ
 artist:hashimoto takashi -> 艺术家:桥本隆
 artist:suzuhira hiro -> 艺术家:铃平广
 artist:nishimata aoi -> 艺术家:西又葵
-artist:hadumi rio -> 艺术家:羽纯里约
+artist:hadumi rio -> 艺术家:羽纯RIO
 artist:matsushita makako -> 艺术家:松下まかこ
 artist:sakura hanpen -> 艺术家:桜はんぺん
 artist:hatori piyoko -> 艺术家:羽鳥ぴよこ
@@ -23743,7 +23794,7 @@ artist:mameojitan -> 艺术家:まめおじたん
 artist:giuniu -> 艺术家:ぎうにう
 artist:sabusuka -> 艺术家:サブスカ
 artist:senji -> 艺术家:煎路
-artist:komowata haruka -> 艺术家:こもわた遥華
+artist:komowata haruka -> 艺术家:菰绵遥华
 artist:murakami suigun -> 艺术家:村上水军
 artist:takanae kyourin -> 艺术家:高苗京鈴
 artist:shirabe shiki -> 艺术家:調四季
@@ -34926,6 +34977,24 @@ artist:kuro 5ma -> 艺术家:黒5Ma
 artist:punching namatamago -> 艺术家:パンチング生卵
 artist:gyuusuke -> 艺术家:G祐介
 artist:masutabe shou -> 艺术家:増多部翔
+artist:bekkou kansoku -> 艺术家:べっこう観測
+artist:gyuutan -> 艺术家:牛タン
+artist:jukkaku komado -> 艺术家:十角小窓
+artist:hiraga daidai -> 艺术家:平賀だいだい
+artist:oyuno mizuwari -> 艺术家:緒湯乃みずわり
+artist:iumu -> 艺术家:iumu
+artist:sanfu -> 艺术家:散夫
+artist:owari ningen -> 艺术家:おわりにんげん
+artist:2l cola -> 艺术家:2L可乐
+artist:fractal underground studio -> 艺术家:Fractal Underground Studio
+artist:lokulo no mawasimono -> 艺术家:ろくろの回し者
+artist:juanha -> 艺术家:卷哈
+artist:ryukishi07 -> 艺术家:龙骑士07
+artist:setsuna rin -> 艺术家:刹那凛
+artist:hr555 -> 艺术家:666（hr555）
+artist:tksn -> 艺术家:つくすん
+artist:akaishizawa takashi -> 艺术家:赤石沢贵士
+artist:muchimuchi chamuchi -> 艺术家:無知無知ちゃむち
 cosplayer:otohara an -> Coser:乙原あん
 cosplayer:rioko -> Coser:凉凉子
 cosplayer:atsuki -> Coser:あつき
