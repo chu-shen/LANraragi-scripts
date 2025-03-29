@@ -2023,7 +2023,7 @@ parody:dragon crisis -> 原作:龙之界点
 parody:who framed roger rabbit -> 原作:谁陷害了兔子罗杰
 parody:the bad guys -> 原作:坏蛋联盟
 parody:hige o soru. soshite joshikousei o hirou. -> 原作:剃须。然后捡到女高中生。
-parody:horimiya -> 原作:堀桑与宫村君
+parody:horimiya -> 原作:堀与宫村
 parody:ef a tale of memories -> 原作:悠久之翼
 parody:gaikotsu kishi-sama tadaima isekai e odekakechuu -> 原作:骸骨骑士大人异世界冒险中
 parody:kou-1 desu ga isekai de joushu hajimemashita -> 原作:虽然才高一却在异世界当起城主
@@ -2470,6 +2470,12 @@ parody:patlabor -> 原作:机动警察
 parody:vampire master dark crimson -> 原作:暗夜吸血鬼
 parody:sumomomo momomo -> 原作:地上最强新娘
 parody:criminal girls -> 原作:罪恶少女
+parody:michiko to hatchin -> 原作:道子与哈金
+parody:kemeko deluxe -> 原作:钢铁新娘
+parody:super gals -> 原作:辣妹当家
+parody:geten no hana -> 原作:下天之华
+parody:closers -> 原作:CLOSERS
+parody:maou no ore ga dorei elf o yome ni shitanda ga dou medereba ii -> 原作:身为魔王的我娶了奴隶精灵为妻，该如何表白我的爱？
 character:alice -> 角色:爱丽丝
 character:akane hino -> 角色:日野茜
 character:ibuki -> 角色:伊吹
@@ -8295,6 +8301,28 @@ character:yuu kotegawa -> 角色:古手川游
 character:mikuru natsuki -> 角色:夏树实玖瑠
 character:michiko tanaka -> 角色:田中满子
 character:ichigo morino -> 角色:森野莓
+character:uika misumi -> 角色:三角初华
+character:nyamu yutenji -> 角色:祐天寺若麦
+character:clay -> 角色:克雷伊
+character:mabayu aki -> 角色:爱生眩
+character:junko kaname -> 角色:鹿目询子
+character:asaba tokisaki -> 角色:朱鹭咲浅羽
+character:mio tokisaki -> 角色:朱鹭咲澪
+character:hotaru -> 角色:萤
+character:adam smasher -> 角色:亚当·重锤
+character:claudia enfield -> 角色:克劳蒂雅·恩菲尔德
+character:julis-alexia von riessfeld -> 角色:尤莉丝·爱雷克西亚·冯·里斯妃特
+character:kirin toudou -> 角色:刀藤绮凛
+character:saya sasamiya -> 角色:沙沙宫纱夜
+character:nephelia -> 角色:涅菲莉亚
+character:kyouko hori -> 角色:堀京子
+character:mutsuki shindou -> 角色:进藤睦月
+character:leona -> 角色:蕾欧娜
+character:tenka izumo -> 角色:出云天花
+character:kyouka uzen -> 角色:羽前京香
+character:reina akatsuki -> 角色:晓零菜
+character:grace -> 角色:格莉丝·霍华德
+character:fuuko izumo -> 角色:出云风子
 group:1 -> 团队:1
 group:13 -> 团队:13
 group:27 -> 团队:27
@@ -8363,7 +8391,7 @@ group:clochette -> 团队:Clochette
 group:honey soft -> 团队:HONEY SOFT
 group:appetite -> 团队:アパタイト
 group:pakopako soft -> 团队:ぱこぱこそふと
-group:neko neko soft -> 团队:猫猫软件
+group:neko neko soft -> 团队:猫猫社
 group:abhar -> 团队:ABHAR
 group:abhar tronc -> 团队:ABHAR Tronc
 group:incarose -> 团队:インカローズ
@@ -34995,6 +35023,25 @@ artist:hr555 -> 艺术家:666（hr555）
 artist:tksn -> 艺术家:つくすん
 artist:akaishizawa takashi -> 艺术家:赤石沢贵士
 artist:muchimuchi chamuchi -> 艺术家:無知無知ちゃむち
+artist:machida poyo -> 艺术家:町田ぽよ
+artist:manakano sashi -> 艺术家:真中野さし
+artist:moyanosuke -> 艺术家:もやのすけ
+artist:minamax -> 艺术家:みなまっくす
+artist:nawofu -> 艺术家:ナヲフ
+artist:negito ron -> 艺术家:葱戸ロン
+artist:ojou -> 艺术家:オジョウ
+artist:romupi -> 艺术家:ROMUPI
+artist:anteiru -> 艺术家:あんている
+artist:kaedeko -> 艺术家:楓子
+artist:turumiya mimi -> 艺术家:鶴宮みみ
+artist:juzu dengaku -> 艺术家:数珠田楽
+artist:inukai rippo -> 艺术家:犬飼りっぽ
+artist:usagi piyoko -> 艺术家:兎ぴよこ
+artist:xiao chai hu -> 艺术家:小柴胡
+artist:suzuki senpai -> 艺术家:铃木先辈
+artist:wesley morse -> 艺术家:Wesley Morse
+artist:tou tou -> 艺术家:糖tou
+artist:makulu -> 艺术家:Lumakulu
 cosplayer:otohara an -> Coser:乙原あん
 cosplayer:rioko -> Coser:凉凉子
 cosplayer:atsuki -> Coser:あつき
