@@ -2476,6 +2476,8 @@ parody:super gals -> 原作:辣妹当家
 parody:geten no hana -> 原作:下天之华
 parody:closers -> 原作:CLOSERS
 parody:maou no ore ga dorei elf o yome ni shitanda ga dou medereba ii -> 原作:身为魔王的我娶了奴隶精灵为妻，该如何表白我的爱？
+parody:girumasu -> 原作:虽然是公会柜台小姐，但是因为讨厌加班所以要去单挑BOSS
+parody:crusher joe -> 原作:宇宙先锋
 character:alice -> 角色:爱丽丝
 character:akane hino -> 角色:日野茜
 character:ibuki -> 角色:伊吹
@@ -3970,7 +3972,7 @@ character:artemis -> 角色:阿耳忒弥斯
 character:altera -> 角色:阿蒂拉
 character:boudica -> 角色:布狄卡
 character:mysterious heroine x -> 角色:谜之女主角X
-character:mysterious heroine x alter -> 角色:谜之女主角X Alter
+character:mysterious heroine x alter -> 角色:谜之女主角X〔Alter〕
 character:olga marie animusphere -> 角色:奥尔加玛丽·阿尼姆斯菲亚
 character:paul bunyan -> 角色:保罗·班扬
 character:kiara sessyoin -> 角色:杀生院祈荒
@@ -5269,7 +5271,7 @@ character:le malin -> 角色:恶毒
 character:suzuki hina -> 角色:铃木雏
 character:tanaka hime -> 角色:田中姬
 character:nobukatsu oda -> 角色:织田信胜
-character:okita souji alter -> 角色:冲田总司Alter
+character:okita souji alter -> 角色:冲田总司〔Alter〕
 character:frostnova -> 角色:霜星
 character:achikita chinami -> 角色:うさぎ工房
 character:athena asamiya -> 角色:麻宫雅典娜
@@ -5998,7 +6000,6 @@ character:edmond dantes -> 角色:爱德蒙·唐泰斯（岩窟王）
 character:ariane glenys maple -> 角色:阿里安
 character:yukihana lamy -> 角色:雪花菈米
 character:scarlet witch -> 角色:绯红女巫
-character:wanda maximoff -> 角色:旺达
 character:camie utsushimi -> 角色:现见凯米
 character:tsubame koyasu -> 角色:子安燕
 character:akari acura -> 角色:阿卡莉·亚裘拉
@@ -8323,6 +8324,17 @@ character:kyouka uzen -> 角色:羽前京香
 character:reina akatsuki -> 角色:晓零菜
 character:grace -> 角色:格莉丝·霍华德
 character:fuuko izumo -> 角色:出云风子
+character:alina clover -> 角色:阿莉娜·克洛瓦
+character:rindo chihaya -> 角色:轮堂千速
+character:marie antoinette alter -> 角色:玛丽·安托瓦内特〔Alter〕（黑蛋糕）
+character:zani -> 角色:赞妮
+character:lieselotte sherlock -> 角色:莉瑟罗特・沙尔洛克
+character:beta -> 角色:贝塔
+character:sophie neuenmuller -> 角色:苏菲·诺伊恩缪拉
+character:orie takadate -> 角色:高楯欧丽叶
+character:mint -> 角色:薄绿
+character:almond eye -> 角色:杏目
+character:maya yotsuba -> 角色:四叶真夜
 group:1 -> 团队:1
 group:13 -> 团队:13
 group:27 -> 团队:27
@@ -21401,6 +21413,10 @@ group:gokunama kinringo -> 团队:極生きんりんご
 group:bekkou kansoku -> 团队:べっこう観測
 group:yaseuma lo-ru -> 团队:やせうまロール
 group:bullfrog lab -> 团队:うしがえるラボ
+group:runabare -> 团队:るなばれ
+group:koukishin -> 团队:光輝心
+group:loli chahan -> 团队:ロリチャーハン
+group:hashibiroko -> 团队:ハシビロ湖
 artist:2 -> 艺术家:2
 artist:7 -> 艺术家:7
 artist:8 -> 艺术家:8
@@ -23031,7 +23047,7 @@ artist:hidaka sora -> 艺术家:日高空
 artist:mamabe mami -> 艺术家:眞々部まみ
 artist:sakusyaaya -> 艺术家:作者文
 artist:ruschuto -> 艺术家:るしゅーと
-artist:murata range -> 艺术家:村田蓮爾
+artist:murata range -> 艺术家:村田莲尔
 artist:haguhagu -> 艺术家:はぐはぐ
 artist:reitou mikan -> 艺术家:れいとうみかん
 artist:ruuen rouga -> 艺术家:龙炎狼牙
@@ -24405,7 +24421,7 @@ artist:taya -> 艺术家:TAYA
 artist:kamaboko -> 艺术家:釜ボコ
 artist:mountainhan -> 艺术家:山含
 artist:ahugan sugita -> 艺术家:アフガン杉田
-artist:kurebayashi asami -> 艺术家:暮林あさ美
+artist:kurebayashi asami -> 艺术家:暮林朝美
 artist:oshiro -> 艺术家:阿白
 artist:hakaishin -> 艺术家:破坏神
 artist:muryotaro -> 艺术家:むりょたろ
@@ -34976,7 +34992,7 @@ artist:kasoku -> 艺术家:加速
 artist:tanaka naburu -> 艺术家:NABURU
 artist:satochizu -> 艺术家:さとちず
 artist:t landolt -> 艺术家:Tランドルト
-artist:gemba -> 艺术家:としゃおぶ 裏
+artist:gemba -> 艺术家:Gemba
 artist:yumekawa dododo-chan -> 艺术家:夢叶羽どどどちゃん
 artist:fenghuang moya -> 艺术家:鳳凰モヤ
 artist:hatte miina -> 艺术家:八手美以菜
@@ -35042,6 +35058,24 @@ artist:suzuki senpai -> 艺术家:铃木先辈
 artist:wesley morse -> 艺术家:Wesley Morse
 artist:tou tou -> 艺术家:糖tou
 artist:makulu -> 艺术家:Lumakulu
+artist:shouchan -> 艺术家:摩霧彰
+artist:hinata aosuke -> 艺术家:日向あお助
+artist:natsume uraraka -> 艺术家:棗麗
+artist:chida yuki -> 艺术家:ちだゆうき
+artist:todoroki kangoku -> 艺术家:轰かんごく
+artist:ray oriha -> 艺术家:レイ=オリハ
+artist:chousetsu -> 艺术家:ちょうせつ
+artist:erocchi -> 艺术家:エロッチ
+artist:gozenchu -> 艺术家:娯禅宙
+artist:fukamichi ranou -> 艺术家:深道卵黄
+artist:fukuki tete -> 艺术家:鰒生てて
+artist:gareki noyama -> 艺术家:がれきのやま
+artist:hachi mega -> 艺术家:八メガ
+artist:keishouryaku -> 艺术家:敬称略
+artist:tokisudeni osushi -> 艺术家:ときすでにおすし
+artist:hon -> 艺术家:本
+artist:obake -> 艺术家:obake
+artist:zuikou kou -> 艺术家:瑞弘コウ
 cosplayer:otohara an -> Coser:乙原あん
 cosplayer:rioko -> Coser:凉凉子
 cosplayer:atsuki -> Coser:あつき
@@ -35157,6 +35191,7 @@ cosplayer:hualing hana -> Coser:花玲
 cosplayer:sadako momo -> Coser:贞子蜜桃
 cosplayer:xing lan -> Coser:星澜是澜澜叫澜妹呀
 cosplayer:aoi momoko -> Coser:Momoko葵葵
+cosplayer:enako -> Coser:えなこ
 male:age progression -> 男性:年龄增长
 male:age regression -> 男性:返老还童
 male:dilf -> 男性:熟男
@@ -35371,6 +35406,7 @@ male:unusual pupils -> 男性:异瞳
 male:nose fuck -> 男性:鼻交
 male:nose hook -> 男性:鼻吊钩
 male:smell -> 男性:气味
+male:adventitious mouth -> 男性:畸位口
 male:big lips -> 男性:大嘴唇💋
 male:blowjob -> 男性:口交
 male:blowjob face -> 男性:口交颜
@@ -35542,6 +35578,7 @@ male:miko -> 男性:巫女装
 male:military -> 男性:军装
 male:nazi -> 男性:纳粹军装
 male:ninja -> 男性:忍者装
+male:nudism -> 男性:裸体主义
 male:nun -> 男性:修女服
 male:nurse -> 男性:护士装
 male:painted nails -> 男性:美甲
@@ -36122,6 +36159,7 @@ female:metal armor -> 女性:金属盔甲
 female:miko -> 女性:巫女装
 female:military -> 女性:军装
 female:nazi -> 女性:纳粹军装
+female:nudism -> 女性:裸体主义
 female:nun -> 女性:修女服
 female:nurse -> 女性:护士装
 female:painted nails -> 女性:美甲
