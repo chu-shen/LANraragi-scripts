@@ -2478,6 +2478,18 @@ parody:closers -> 原作:CLOSERS
 parody:maou no ore ga dorei elf o yome ni shitanda ga dou medereba ii -> 原作:身为魔王的我娶了奴隶精灵为妻，该如何表白我的爱？
 parody:girumasu -> 原作:虽然是公会柜台小姐，但是因为讨厌加班所以要去单挑BOSS
 parody:crusher joe -> 原作:宇宙先锋
+parody:puella magi suzune magica -> 原作:魔法少女铃音
+parody:senjou no fuga -> 原作:战场的赋格曲
+parody:sentai red isekai de boukensha ni naru -> 原作:红战士在异世界成了冒险者
+parody:windbreaker -> 原作:WIND BREAKER 防风铃
+parody:natsu no ame -> 原作:夏之雨
+parody:sakura musubi -> 原作:樱花结
+parody:your diary -> 原作:your diary
+parody:amesarasa -> 原作:雨之布～雨君之恋
+parody:cafe sourire -> 原作:CAFE SOURIRE
+parody:magical suite prism nana -> 原作:魔幻组曲 棱镜娜娜
+parody:solatorobo -> 原作:天空机器人
+parody:shinseiki inma seiden -> 原作:新世紀淫魔聖伝
 character:alice -> 角色:爱丽丝
 character:akane hino -> 角色:日野茜
 character:ibuki -> 角色:伊吹
@@ -8335,6 +8347,18 @@ character:orie takadate -> 角色:高楯欧丽叶
 character:mint -> 角色:薄绿
 character:almond eye -> 角色:杏目
 character:maya yotsuba -> 角色:四叶真夜
+character:suzune amano -> 角色:天乃铃音
+character:tsubaki mikoto -> 角色:美琴椿
+character:junia -> 角色:阿玛琉莉斯
+character:gummy -> 角色:古米
+character:namazuo toushirou -> 角色:鲶尾藤四郎
+character:honebami toushirou -> 角色:骨喰藤四郎
+character:shiori shiomiya -> 角色:汐宫栞
+character:najimi osana -> 角色:长名奈津美
+character:boothill -> 角色:波提欧
+character:angelina kudou shields -> 角色:安洁莉娜·库都·希尔兹
+character:iyo -> 角色:壹与
+character:motoko izumi -> 角色:和泉许子
 group:1 -> 团队:1
 group:13 -> 团队:13
 group:27 -> 团队:27
@@ -8470,7 +8494,7 @@ group:tech gian -> 团队:TECH GIAN
 group:electromagneticwave -> 团队:ElectromagneticWave
 group:usotsukiya -> 团队:嘘つき屋
 group:archetype -> 团队:ARCHETYPE
-group:afterschool of the 5th year -> 团队:5年目の放课后
+group:afterschool of the 5th year -> 团队:5年级的放课后
 group:tsf no f -> 团队:TSFのF
 group:number2 -> 团队:Number2
 group:plant -> 团队:PLANT
@@ -21417,6 +21441,15 @@ group:runabare -> 团队:るなばれ
 group:koukishin -> 团队:光輝心
 group:loli chahan -> 团队:ロリチャーハン
 group:hashibiroko -> 团队:ハシビロ湖
+group:home not found -> 团队:家が見つかりません
+group:kirikirimai -> 团队:切切枚
+group:inari koubou -> 团队:いなり工房
+group:yakitori umihal -> 团队:やきとり海春
+group:kamikuraryuu doukoukai -> 团队:神倉流同好会
+group:heisei strawberry -> 团队:平成ストロベリー
+group:morioka syachu -> 团队:盛岡社中
+group:tarara no karaage -> 团队:たららのからあげ
+group:sankotsu yoga club -> 团队:散骨ヨガ倶楽部
 artist:2 -> 艺术家:2
 artist:7 -> 艺术家:7
 artist:8 -> 艺术家:8
@@ -23971,7 +24004,7 @@ artist:aduki -> 艺术家:あづき
 artist:inui waon -> 艺术家:乾和音
 artist:majima shiroyuki -> 艺术家:间岛白幸
 artist:sougetsu nonono -> 艺术家:草月野々乃
-artist:wantan meo -> 艺术家:云吞芽央
+artist:wantan meo -> 艺术家:雲呑めお
 artist:kemuri haku -> 艺术家:煙ハク
 artist:kani biimu -> 艺术家:かにビーム
 artist:watanohara -> 艺术家:わたのはら
@@ -27477,7 +27510,7 @@ artist:imaki hitotose -> 艺术家:春夏秋冬
 artist:imari -> 艺术家:伊万里
 artist:imawano lem -> 艺术家:忌野Lem
 artist:imazon -> 艺术家:今ゾン
-artist:imiju -> 艺术家:寒天
+artist:imiju -> 艺术家:忌呪
 artist:imotarei -> 艺术家:イモタレ
 artist:imozuka panikuru -> 艺术家:芋塚ぱにくる
 artist:imperial boy -> 艺术家:帝国少年
@@ -35076,6 +35109,17 @@ artist:tokisudeni osushi -> 艺术家:ときすでにおすし
 artist:hon -> 艺术家:本
 artist:obake -> 艺术家:obake
 artist:zuikou kou -> 艺术家:瑞弘コウ
+artist:satou aji -> 艺术家:砂糖鯵
+artist:shirakumo zen -> 艺术家:白雲ゼン
+artist:sasaria -> 艺术家:沙々々
+artist:tennen inari -> 艺术家:天然いなり
+artist:daitai taida -> 艺术家:だいたい怠惰
+artist:domoran spika -> 艺术家:奴裳嵐すぴか
+artist:rapa -> 艺术家:らぱ☆
+artist:tarara -> 艺术家:たらら
+artist:yamazaki zetsu -> 艺术家:山崎舌
+artist:retsuriko oomori -> 艺术家:れつりこ大盛り
+artist:nishiogi -> 艺术家:西荻
 cosplayer:otohara an -> Coser:乙原あん
 cosplayer:rioko -> Coser:凉凉子
 cosplayer:atsuki -> Coser:あつき
@@ -35192,6 +35236,7 @@ cosplayer:sadako momo -> Coser:贞子蜜桃
 cosplayer:xing lan -> Coser:星澜是澜澜叫澜妹呀
 cosplayer:aoi momoko -> Coser:Momoko葵葵
 cosplayer:enako -> Coser:えなこ
+cosplayer:da da juan juan xiao juan -> Coser:大大卷卷小卷
 male:age progression -> 男性:年龄增长
 male:age regression -> 男性:返老还童
 male:dilf -> 男性:熟男
