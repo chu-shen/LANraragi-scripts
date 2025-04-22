@@ -1610,7 +1610,7 @@ parody:honzuki no gekokujou -> 原作:小书痴的下克上
 parody:oide yo mizuryuu kei land -> 原作:欢迎光临！水龙敬乐园
 parody:shuriken sentai ninninger -> 原作:手里剑战队忍忍者
 parody:hajimete no hitozuma -> 原作:第一次的人妻体验
-parody:sdorica -> 原作:Sdorica
+parody:sdorica -> 原作:Sdorica 万象物语
 parody:kaifuku jutsushi no yarinaoshi -> 原作:回复术士的重启人生
 parody:sd gundam sangokuden -> 原作:SD高达三国传
 parody:promare -> 原作:普罗米亚
@@ -2493,6 +2493,9 @@ parody:shinseiki inma seiden -> 原作:新世纪淫魔圣传
 parody:majestic prince -> 原作:银河机攻队 MAJESTIC PRINCE
 parody:kimi to boku no saigo no senjou aruiwa sekai ga hajimaru seisen -> 原作:你与我最后的战场，亦或是世界起始的圣战
 parody:campione -> 原作:弑神者
+parody:pandora hearts -> 原作:潘多拉之心
+parody:knights college -> 原作:Knights College -骑士学院-
+parody:dislyte -> 原作:众神派对
 character:alice -> 角色:爱丽丝
 character:akane hino -> 角色:日野茜
 character:ibuki -> 角色:伊吹
@@ -3501,7 +3504,7 @@ character:aya fujisaki -> 角色:藤崎绫
 character:rin kujou -> 角色:九条凛
 character:mea kurosaki -> 角色:黑咲芽亚
 character:nana asta deviluke -> 角色:娜娜·阿斯塔·戴比路克
-character:momo velia deviluke -> 角色:梦梦(茉茉)·贝莉雅·戴比路克
+character:momo velia deviluke -> 角色:梦梦·贝莉雅·戴比路克
 character:riko yuusaki -> 角色:夕崎梨子
 character:sephie michaela deviluke -> 角色:赛菲·米卡埃拉·戴比路克
 character:tearju lunatique -> 角色:提亚悠·鲁娜提克
@@ -4035,7 +4038,7 @@ character:miyu edelfelt -> 角色:美游·艾德费尔特
 character:sella -> 角色:塞拉
 character:euryale -> 角色:尤瑞艾莉（二姐）
 character:shiki ryougi -> 角色:两仪式
-character:stheno -> 角色:斯忒诺
+character:stheno -> 角色:斯忒诺（大姐）
 character:mordred pendragon -> 角色:莫德雷德·潘德拉贡
 character:queen of sheba -> 角色:示巴女王
 character:wu zetian -> 角色:武则天
@@ -5812,7 +5815,7 @@ character:battler ushiromiya -> 角色:右代宫战人
 character:sideroca -> 角色:铸铁
 character:utage -> 角色:宴
 character:siege -> 角色:推进之王
-character:barghest -> 角色:巴格斯特
+character:barghest -> 角色:巴格斯特（妖高）
 character:yellow heart -> 角色:黄色之心
 character:orange heart -> 角色:橙色之心
 character:kotonoha katsura -> 角色:桂言叶
@@ -5864,8 +5867,8 @@ character:meidri -> 角色:梅朵莉
 character:crimvael -> 角色:克莉姆
 character:samus aran -> 角色:萨姆斯·亚兰
 character:otome saotome -> 角色:早乙女乙女
-character:melusine -> 角色:美露莘
-character:baobhan sith -> 角色:芭万·希
+character:melusine -> 角色:美露莘（妖兰）
+character:baobhan sith -> 角色:芭万·希（妖崔）
 character:suomi -> 角色:索米
 character:guilmon -> 角色:基尔兽
 character:impmon -> 角色:小妖兽
@@ -8390,6 +8393,18 @@ character:narberal gamma -> 角色:娜贝拉尔·伽玛
 character:lupusregina beta -> 角色:露普斯蕾琪娜·贝塔
 character:renner theiere chardelon ryle vaiself -> 角色:拉娜·提耶儿·夏尔敦·莱儿·凡瑟芙
 character:pardofelis -> 角色:帕朵菲利斯
+character:maiden -> 角色:梅登
+character:cartethyia -> 角色:卡提希娅
+character:honami ichinose -> 角色:一之濑帆波
+character:himmel -> 角色:辛美尔
+character:sense -> 角色:赞泽
+character:oz vessalius -> 角色:奥兹‧贝萨流士
+character:gilbert nightray -> 角色:基尔巴特·奈特雷伊
+character:sharon rainsworth -> 角色:夏萝·兰兹华斯
+character:xerxes break -> 角色:扎古席兹·布雷克
+character:reim lunettes -> 角色:雷姆·鲁内杰
+character:koujirou shinomiya -> 角色:四宫小次郎
+character:misogi kumagawa -> 角色:球磨川禊
 group:1 -> 团队:1
 group:13 -> 团队:13
 group:27 -> 团队:27
@@ -21484,6 +21499,13 @@ group:sankotsu yoga club -> 团队:散骨ヨガ倶楽部
 group:futo fukutsu -> 团队:フトーフクツ
 group:mugimeshiya -> 团队:むぎめしや
 group:melt syndrome -> 团队:メルトシンドローム
+group:fkrfactory -> 团队:FKRfactory
+group:kurosumi yakousho -> 团队:イタリ屋×黒墨夜行書
+group:nedia region -> 团队:えぬりーじょん
+group:hayaku jk ni naritai -> 团队:はやくJKになりたい
+group:aihara workshop -> 团队:和原工房
+group:toumin daikon -> 团队:冬眠だいこん
+group:ringo ameya -> 团队:りんご飴屋
 artist:2 -> 艺术家:2
 artist:7 -> 艺术家:7
 artist:8 -> 艺术家:8
@@ -21852,7 +21874,7 @@ artist:kuroya shinobu -> 艺术家:黑谷忍
 artist:san sheng wan -> 艺术家:三生万
 artist:el -> 艺术家:える
 artist:mango pudding -> 艺术家:芒果布丁
-artist:wakamiya santa -> 艺术家:若宫参太
+artist:wakamiya santa -> 艺术家:若宮参太 | 月下冴喜
 artist:shungiku tenudon -> 艺术家:春菊天うどん
 artist:mikaduki neko -> 艺术家:三日月ネコ
 artist:aihara shouta -> 艺术家:相原翔太
@@ -28690,7 +28712,7 @@ artist:kuraoka aki -> 艺术家:倉岡亜妃
 artist:kurasaki aya -> 艺术家:倉崎あや
 artist:kurasawa kyosyo -> 艺术家:倉澤京章
 artist:kurata ichiro -> 艺术家:倉田いち朗
-artist:kurata muto -> 艺术家:武藤久良
+artist:kurata muto -> 艺术家:倉田むと
 artist:kurata shinji -> 艺术家:倉田シンジ
 artist:kuratsuka riko -> 艺术家:倉塚りこ
 artist:kuraya -> 艺术家:蔵屋
@@ -35167,6 +35189,14 @@ artist:tianoblue -> 艺术家:ティアノブルー
 artist:repamido -> 艺术家:れぱみど
 artist:domon -> 艺术家:ドモン
 artist:tomura suisen -> 艺术家:戸村水仙
+artist:fukura hagi -> 艺术家:吹浦ハギ
+artist:aihara you -> 艺术家:和原ヨウ
+artist:amaguri -> 艺术家:甘guri
+artist:aronyan -> 艺术家:あろにゃん
+artist:super koneko -> 艺术家:スーパー子猫
+artist:borusiti -> 艺术家:ぼるしち
+artist:geulimykun -> 艺术家:GeulimYKUN
+artist:mochizuki jun -> 艺术家:望月淳
 cosplayer:otohara an -> Coser:乙原あん
 cosplayer:rioko -> Coser:凉凉子
 cosplayer:atsuki -> Coser:あつき
@@ -35284,6 +35314,7 @@ cosplayer:xing lan -> Coser:星澜是澜澜叫澜妹呀
 cosplayer:aoi momoko -> Coser:Momoko葵葵
 cosplayer:enako -> Coser:えなこ
 cosplayer:da da juan juan xiao juan -> Coser:大大卷卷小卷
+cosplayer:rakuraku -> Coser:落落Raku
 male:age progression -> 男性:年龄增长
 male:age regression -> 男性:返老还童
 male:dilf -> 男性:熟男
