@@ -1995,7 +1995,7 @@ parody:grandia -> 原作:冒險奇譚
 parody:grappler baki -> 原作:刃牙
 parody:mayonaka no tantei nightwalker -> 原作:真夜中的侦探
 parody:boku no kokoro no yabai yatsu -> 原作:我内心的糟糕念头
-parody:inaka ni kaeru to yakeni natsuita kasshoku ponytail shota ga iru -> 原作:单马尾表弟 (暂译)
+parody:inaka ni kaeru to yakeni natsuita kasshoku ponytail shota ga iru -> 原作:单马尾表弟
 parody:paripi koumei -> 原作:派对浪客诸葛孔明
 parody:sore ga seiyuu -> 原作:那就是声优！
 parody:advance of zeta -> 原作:ADVANCE OF Ζ 提坦斯的旗下
@@ -2064,7 +2064,7 @@ parody:bikkuriman -> 原作:仙魔大战
 parody:munou na nana -> 原作:无能力者娜娜
 parody:nurarihyon no mago -> 原作:滑头鬼之孙
 parody:bomber girl -> 原作:轰炸女孩
-parody:burn the witch -> 原作:龙与魔女（BURN THE WITCH）
+parody:burn the witch -> 原作:龙与魔女
 parody:hataraku onii-san -> 原作:打工小哥
 parody:tomica kizuna gattai earth granner -> 原作:极速牵绊 地球先锋队
 parody:netojuu no susume -> 原作:网络胜利组
@@ -2094,7 +2094,7 @@ parody:mato seihei no slave -> 原作:魔都精兵的奴隶
 parody:bocchi the rock -> 原作:孤独摇滚！
 parody:scp foundation -> 原作:SCP基金会
 parody:kinnikuman -> 原作:金肉人
-parody:ever 17 -> 原作:Ever17（时空轮回）
+parody:ever 17 -> 原作:时空轮回
 parody:memories off -> 原作:告别回忆
 parody:shiei no sona-nyl -what a beautiful memories- -> 原作:紫影的索纳尼尔 ～何等美好的记忆～
 parody:katawa shoujo -> 原作:片轮少女
@@ -2190,7 +2190,7 @@ parody:gremlins -> 原作:小魔怪
 parody:lazytown -> 原作:懒人小镇
 parody:deltarune -> 原作:三角符文
 parody:vampire knight -> 原作:吸血鬼骑士
-parody:blue reflection -> 原作:蔚蓝反射（幻舞少女之剑）
+parody:blue reflection -> 原作:蔚蓝反射
 parody:fumikiri jikan -> 原作:平交道时间
 parody:all out -> 原作:ALL OUT!!
 parody:kuma miko -> 原作:熊巫女
@@ -2307,7 +2307,7 @@ parody:seitokai no ichizon -> 原作:学生会的一己之见
 parody:tsuritama -> 原作:钓球
 parody:mahou shoujo ni akogarete -> 原作:憧憬成为魔法少女
 parody:myo-chan sensei wa kaku katariki -> 原作:小美代老师如是说
-parody:kusuriya no hitorigoto -> 原作:药屋少女的呢喃（药师少女的独语）
+parody:kusuriya no hitorigoto -> 原作:药屋少女的呢喃
 parody:equestria girls -> 原作:小马宝莉：魔法公主
 parody:palworld -> 原作:幻兽帕普
 parody:limbus company -> 原作:边狱公司
@@ -2445,7 +2445,7 @@ parody:chrome shelled regios -> 原作:钢壳都市雷吉欧斯
 parody:ga-rei -> 原作:食灵-零-
 parody:jin ping mei -> 原作:金瓶梅
 parody:eiken -> 原作:巨乳学园
-parody:medalist -> 原作:金牌得主（舞冰的祈愿）
+parody:medalist -> 原作:金牌得主
 parody:arakawa under the bridge -> 原作:荒川爆笑团
 parody:mamotte shugogetten -> 原作:守护月天
 parody:popolocrois -> 原作:波波罗古洛伊斯物语
@@ -2496,6 +2496,7 @@ parody:campione -> 原作:弑神者
 parody:pandora hearts -> 原作:潘多拉之心
 parody:knights college -> 原作:Knights College -骑士学院-
 parody:dislyte -> 原作:众神派对
+parody:bobs burgers -> 原作:开心汉堡店
 character:alice -> 角色:爱丽丝
 character:akane hino -> 角色:日野茜
 character:ibuki -> 角色:伊吹
@@ -3994,7 +3995,7 @@ character:mysterious heroine x alter -> 角色:谜之女主角X〔Alter〕
 character:olga marie animusphere -> 角色:奥尔加玛丽·阿尼姆斯菲亚
 character:paul bunyan -> 角色:保罗·班扬
 character:kiara sessyoin -> 角色:杀生院祈荒
-character:astolfo -> 角色:阿斯托尔福（阿福）
+character:astolfo -> 角色:阿斯托尔福
 character:protagonist -> 角色:主人公
 character:minamoto no raikou -> 角色:源赖光
 character:meltryllis -> 角色:梅尔特莉莉丝
@@ -4021,7 +4022,7 @@ character:sion eltnam atlasia -> 角色:紫苑·艾尔特纳姆·阿特拉西亚
 character:dracula -> 角色:德古拉
 character:francis drake -> 角色:弗朗西斯·德雷克
 character:elizabeth bathory -> 角色:伊丽莎白·巴托里
-character:hakuno kishinami -> 角色:岸波白野（扎比）
+character:hakuno kishinami -> 角色:岸波白野
 character:hassan of serenity -> 角色:静谧之哈桑
 character:medb -> 角色:梅芙
 character:len -> 角色:莲
@@ -4032,13 +4033,13 @@ character:achilles -> 角色:阿喀琉斯
 character:atalanta -> 角色:阿塔兰忒
 character:kairi sisigou -> 角色:狮子劫界离
 character:miyako arima -> 角色:有间都古
-character:chloe von einzbern -> 角色:克洛伊·冯·爱因兹贝伦（小黑）
+character:chloe von einzbern -> 角色:克洛伊·冯·爱因兹贝伦
 character:luviagelita edelfelt -> 角色:露维亚瑟琳塔·艾德费尔特
 character:miyu edelfelt -> 角色:美游·艾德费尔特
 character:sella -> 角色:塞拉
-character:euryale -> 角色:尤瑞艾莉（二姐）
+character:euryale -> 角色:尤瑞艾莉
 character:shiki ryougi -> 角色:两仪式
-character:stheno -> 角色:斯忒诺（大姐）
+character:stheno -> 角色:斯忒诺
 character:mordred pendragon -> 角色:莫德雷德·潘德拉贡
 character:queen of sheba -> 角色:示巴女王
 character:wu zetian -> 角色:武则天
@@ -4059,12 +4060,12 @@ character:ibaraki douji -> 角色:茨木童子
 character:anne bonny -> 角色:安妮·伯妮
 character:mary read -> 角色:玛莉·瑞德
 character:brynhildr -> 角色:布伦希尔德
-character:cleopatra -> 角色:克里奥帕特拉（艳后）
-character:ereshkigal -> 角色:埃列什基伽勒（艾蕾）
+character:cleopatra -> 角色:克里奥帕特拉
+character:ereshkigal -> 角色:埃列什基伽勒
 character:helena blavatsky -> 角色:海伦娜·布拉瓦茨基
 character:leonardo da vinci -> 角色:莱昂纳多·达·芬奇
-character:marie antoinette -> 角色:玛丽·安托瓦内特（蛋糕）
-character:mata hari -> 角色:玛塔哈丽（舞娘）
+character:marie antoinette -> 角色:玛丽·安托瓦内特
+character:mata hari -> 角色:玛塔哈丽
 character:medusa -> 角色:美杜莎
 character:musashi miyamoto -> 角色:宫本武藏
 character:nobunaga oda -> 角色:织田信长
@@ -4078,7 +4079,7 @@ character:nero claudius bride -> 角色:尼禄·克劳狄乌斯〔新娘〕
 character:chacha -> 角色:恰恰 | 茶茶
 character:lavinia whateley -> 角色:拉薇妮亚·沃特雷
 character:artoria pendragon rider alter -> 角色:阿尔托莉雅·潘德拉贡〔Alter〕（Rider）
-character:katsushika hokusai -> 角色:葛饰北斋（阿荣）
+character:katsushika hokusai -> 角色:葛饰北斋
 character:saint martha -> 角色:玛尔达
 character:murasaki shikibu -> 角色:紫式部
 character:kazuto kirigaya -> 角色:桐谷和人（桐人）
@@ -4114,7 +4115,7 @@ character:erio mondial -> 角色:艾力奥·曼迪尔
 character:hayate yagami -> 角色:八神疾风
 character:shamal -> 角色:莎玛尔
 character:signum -> 角色:希格纳姆
-character:vita -> 角色:薇塔(崩坏3)
+character:vita -> 角色:薇塔
 character:reinforce -> 角色:琳芙斯
 character:fuka reventon -> 角色:风香·雷文顿
 character:corona timil -> 角色:珂罗娜·缇米尔
@@ -4754,7 +4755,7 @@ character:nera briscoletti -> 角色:芙萝菈
 character:crimson viper -> 角色:深红毒蛇
 character:blue mary -> 角色:布鲁玛丽
 character:king -> 角色:琼
-character:dark magician girl -> 角色:黑魔导女孩（黑魔术少女）
+character:dark magician girl -> 角色:黑魔导女孩
 character:silent magician -> 角色:沉默魔术师
 character:marcille donato -> 角色:玛露西尔
 character:fumina hoshino -> 角色:星野文奈
@@ -5232,7 +5233,7 @@ character:takamiya rion -> 角色:鹰宫莉音
 character:ruka sarashina -> 角色:更科瑠夏
 character:sumi sakurasawa -> 角色:樱泽墨
 character:mami nanami -> 角色:七海麻美
-character:frankenstein -> 角色:弗兰肯斯坦（肯娘）
+character:frankenstein -> 角色:弗兰肯斯坦
 character:nina maehara -> 角色:前原仁菜
 character:uruka takemoto -> 角色:武元润香
 character:fumino furuhashi -> 角色:古桥文乃
@@ -5457,7 +5458,7 @@ character:mona megistus -> 角色:莫娜·梅姬斯图斯
 character:aether -> 角色:空
 character:fischl -> 角色:菲谢尔
 character:eula lawrence -> 角色:优菈·劳伦斯
-character:barbara pegg -> 角色:芭芭拉(原神)
+character:barbara pegg -> 角色:芭芭拉·佩奇
 character:chongyun -> 角色:重云
 character:xingqiu -> 角色:行秋
 character:lisa minci -> 角色:丽莎·敏兹
@@ -5779,7 +5780,7 @@ character:clarisse -> 角色:克拉莉丝
 character:hilda boreas greyrat -> 角色:希尔达·伯雷亚斯·格雷拉特
 character:zenith greyrat -> 角色:塞妮丝·格雷拉特
 character:lilia greyrat -> 角色:莉莉雅·格雷拉特
-character:hakunon -> 角色:白野（扎比子）
+character:hakunon -> 角色:白野
 character:yoshikage kira -> 角色:吉良吉影
 character:fuka toyokawa -> 角色:丰川风花
 character:kana yabuki -> 角色:矢吹可奈
@@ -5815,7 +5816,7 @@ character:battler ushiromiya -> 角色:右代宫战人
 character:sideroca -> 角色:铸铁
 character:utage -> 角色:宴
 character:siege -> 角色:推进之王
-character:barghest -> 角色:巴格斯特（妖高）
+character:barghest -> 角色:巴格斯特
 character:yellow heart -> 角色:黄色之心
 character:orange heart -> 角色:橙色之心
 character:kotonoha katsura -> 角色:桂言叶
@@ -5867,8 +5868,8 @@ character:meidri -> 角色:梅朵莉
 character:crimvael -> 角色:克莉姆
 character:samus aran -> 角色:萨姆斯·亚兰
 character:otome saotome -> 角色:早乙女乙女
-character:melusine -> 角色:美露莘（妖兰）
-character:baobhan sith -> 角色:芭万·希（妖崔）
+character:melusine -> 角色:美露莘
+character:baobhan sith -> 角色:芭万·希
 character:suomi -> 角色:索米
 character:guilmon -> 角色:基尔兽
 character:impmon -> 角色:小妖兽
@@ -5927,7 +5928,7 @@ character:lu bu -> 角色:吕布
 character:namiko -> 角色:奈美子
 character:hass -> 角色:莲
 character:kazuha kaedehara -> 角色:枫原万叶
-character:scaramouche -> 角色:「散兵」（国崩）
+character:scaramouche -> 角色:「散兵」斯卡拉姆齐
 character:himiko -> 角色:卑弥呼
 character:zenobia -> 角色:芝诺比阿
 character:paris -> 角色:帕里斯
@@ -6595,7 +6596,7 @@ character:kishinami -> 角色:岸波
 character:jingei -> 角色:迅鲸
 character:chougei -> 角色:长鲸
 character:cyllene -> 角色:星月
-character:queen draco -> 角色:妖妃德拉科（兽尼禄）
+character:queen draco -> 角色:妖妃德拉科
 character:march 7th -> 角色:三月七
 character:himari akeboshi -> 角色:明星日鞠
 character:asta -> 角色:艾丝妲 | 亚斯塔
@@ -6603,7 +6604,7 @@ character:garou -> 角色:饿狼
 character:himeko -> 角色:姬子
 character:herta -> 角色:黑塔
 character:stelle -> 角色:星（开拓者）
-character:clara -> 角色:克拉拉(崩坏：星穹铁道)
+character:clara -> 角色:克拉拉
 character:nene ayachi -> 角色:绫地宁宁
 character:neeko -> 角色:妮蔻
 character:nidalee -> 角色:奈德丽
@@ -7220,7 +7221,7 @@ character:ami nonomura -> 角色:野野村亚美
 character:indomitable -> 角色:不挠
 character:kurumi tsuchimikado -> 角色:土御门胡桃
 character:ada wong -> 角色:艾达·王
-character:yamato takeru -> 角色:大和武尊（日本武尊）
+character:yamato takeru -> 角色:大和武尊
 character:wriothesley -> 角色:莱欧斯利
 character:rin uehara -> 角色:上原燐
 character:himeno -> 角色:姬野
@@ -7465,7 +7466,7 @@ character:dagda -> 角色:达哥达
 character:harmonie -> 角色:和弦
 character:beanstalk -> 角色:豆苗
 character:nicole demara -> 角色:妮可·德玛拉
-character:ranmaru mori -> 角色:森兰丸（谜之兰丸X）
+character:ranmaru mori -> 角色:森兰丸
 character:taisui xingjun -> 角色:太岁星君
 character:nemo marine -> 角色:尼莫水兵
 character:jun gotou -> 角色:五岛润
@@ -8344,7 +8345,7 @@ character:grace -> 角色:格莉丝·霍华德
 character:fuuko izumo -> 角色:出云风子
 character:alina clover -> 角色:阿莉娜·克洛瓦
 character:rindo chihaya -> 角色:轮堂千速
-character:marie antoinette alter -> 角色:玛丽·安托瓦内特〔Alter〕（黑蛋糕）
+character:marie antoinette alter -> 角色:玛丽·安托瓦内特〔Alter〕
 character:zani -> 角色:赞妮
 character:lieselotte sherlock -> 角色:莉瑟罗特・沙尔洛克
 character:beta -> 角色:贝塔
@@ -8380,7 +8381,7 @@ character:sasami sasasegawa -> 角色:笹濑川佐佐美
 character:tsugumi shirasaki -> 角色:白崎绪美
 character:theresa -> 角色:特蕾西娅
 character:orsola aquinas -> 角色:奥索拉·阿奎纳
-character:neuro-sama -> 角色:Neuro-sama（神经元大人）
+character:neuro-sama -> 角色:Neuro-sama
 character:yuki nonaka -> 角色:野中柚希
 character:basara toujou -> 角色:东城刃更
 character:erica blandelli -> 角色:艾丽卡·布朗特里
@@ -8405,6 +8406,24 @@ character:xerxes break -> 角色:扎古席兹·布雷克
 character:reim lunettes -> 角色:雷姆·鲁内杰
 character:koujirou shinomiya -> 角色:四宫小次郎
 character:misogi kumagawa -> 角色:球磨川禊
+character:mabel pines -> 角色:梅宝·派恩斯
+character:dipper pines -> 角色:迪普·派恩斯
+character:wendy corduroy -> 角色:温蒂·克多莱
+character:pacifica northwest -> 角色:帕西菲卡·诺斯韦斯特
+character:gideon gleeful -> 角色:吉登恩·葛里夫
+character:bill cipher -> 角色:比尔·赛弗
+character:katara -> 角色:卡塔拉
+character:azula -> 角色:阿祖拉
+character:marco diaz -> 角色:马可·迪亚兹
+character:claude claudel -> 角色:克洛德·克劳戴
+character:yune -> 角色:汤音
+character:nachoneko -> 角色:Nachoneko
+character:mountain -> 角色:山
+character:jin qiu -> 角色:金秋
+character:riruru -> 角色:莉露露
+character:firewhistle -> 角色:火哨
+character:ump40 -> 角色:UMP40 | 莱妮
+character:fleurdelys -> 角色:芙露提莉斯
 group:1 -> 团队:1
 group:13 -> 团队:13
 group:27 -> 团队:27
@@ -20447,7 +20466,6 @@ group:yakihebi -> 团队:やきへび
 group:yakimisomura -> 团队:ヤキミソ村
 group:yakimorokoshi -> 团队:やきもろこし
 group:yakinasu teishoku -> 团队:焼き茄子定食
-group:yakiniku teishoku -> 团队:焼肉定食
 group:yakinikuya yusi -> 团队:焼肉屋由史
 group:yakisaba teishoku -> 团队:焼鯖定食
 group:yakisaketeishoku -> 团队:焼鮭定食
@@ -21506,6 +21524,17 @@ group:hayaku jk ni naritai -> 团队:はやくJKになりたい
 group:aihara workshop -> 团队:和原工房
 group:toumin daikon -> 团队:冬眠だいこん
 group:ringo ameya -> 团队:りんご飴屋
+group:mobius unleashed -> 团队:Mobius Unleashed
+group:sakyu syogkun -> 团队:砂丘将軍
+group:denshiko -> 团队:でんしこ!
+group:units -> 团队:units
+group:esseknuck -> 团队:えっせなっく
+group:naminori navy -> 团队:波乗りネイビー
+group:yoru no okazu shokudou -> 团队:夜ノヲカズ食堂
+group:mamekkusei -> 团队:マメック星
+group:namako production -> 团队:なまこぷろだくしょん
+group:natsu no seikatsu -> 团队:なつのせいかつ
+group:strong shuzou -> 团队:ストロング酒造
 artist:2 -> 艺术家:2
 artist:7 -> 艺术家:7
 artist:8 -> 艺术家:8
@@ -22316,7 +22345,6 @@ artist:uramac -> 艺术家:うらまっく
 artist:isawa nohri -> 艺术家:いさわのーり
 artist:kinomoto anzu -> 艺术家:木之本杏
 artist:misumi tsubaki -> 艺术家:三澄ツバキ
-artist:nekodanshaku -> 艺术家:猫男爵
 artist:oosawa ofuda -> 艺术家:大沢おふだ
 artist:ryoumoto hatsumi -> 艺术家:岭本八美
 artist:salad -> 艺术家:さらだ
@@ -24486,7 +24514,7 @@ artist:harada shoutarou -> 艺术家:原田将太郎
 artist:kyougoku shin -> 艺术家:京極しん
 artist:yamamori -> 艺术家:山森
 artist:daki makura -> 艺术家:滝まくら
-artist:nagishiro mito -> 艺术家:凪白みと
+artist:nagishiro mito -> 艺术家:凪白水户
 artist:minase nagi -> 艺术家:みなせなぎ
 artist:nii manabu -> 艺术家:仁井学
 artist:o-zicha -> 艺术家:おーじ茶
@@ -32100,7 +32128,7 @@ artist:takeponian -> 艺术家:たけぽにあん
 artist:takese nono -> 艺术家:高瀬乃々
 artist:takeshima eku -> 艺术家:竹嶋えく
 artist:takeshisu -> 艺术家:タケシス
-artist:takeshita kenjirou -> 艺术家:竹下けんじろう
+artist:takeshita kenjirou -> 艺术家:猫男爵
 artist:taketora suzume -> 艺术家:竹虎スズメ
 artist:takeu -> 艺术家:たけう
 artist:takeuchi reona -> 艺术家:竹内玲于奈
@@ -34064,7 +34092,7 @@ artist:shuru-ban -> 艺术家:しゅる版
 artist:yoongonji -> 艺术家:尹坤志
 artist:mobuta -> 艺术家:モブ太
 artist:xiaozi xiao -> 艺术家:笑笑饺子
-artist:shura -> 艺术家:朱雷
+artist:shura -> 艺术家:しゅら
 artist:kokonobi -> 艺术家:九尾
 artist:pooh -> 艺术家:ぷぅ
 artist:irono -> 艺术家:ゐろの
@@ -34189,7 +34217,6 @@ artist:aota sora -> 艺术家:あおたそら
 artist:4uu -> 艺术家:4UU
 artist:miginer -> 艺术家:みぎなー
 artist:kenko shindan-chan -> 艺术家:健康診断ちゃん
-artist:hibari -> 艺术家:雲雀ひな
 artist:neko no youchuu -> 艺术家:猫の幼虫
 artist:to hegemonikon -> 艺术家:ト！ヘーゲモニコン
 artist:agagaga -> 艺术家:あがががが
@@ -34360,7 +34387,7 @@ artist:habe rin -> 艺术家:羽部凛
 artist:doshima -> 艺术家:どうしま
 artist:amatsuji -> 艺术家:あまつじ
 artist:huyumitsu -> 艺术家:ふゆみつ
-artist:yakinikuteishoku -> 艺术家:烧肉定食
+artist:yakiniku teishoku -> 艺术家:烧肉定食
 artist:hoshisaka ami -> 艺术家:星坂網
 artist:pyomaru -> 艺术家:ぴょまる
 artist:kinoshita kou -> 艺术家:木ノ下コウ
@@ -35197,6 +35224,24 @@ artist:super koneko -> 艺术家:スーパー子猫
 artist:borusiti -> 艺术家:ぼるしち
 artist:geulimykun -> 艺术家:GeulimYKUN
 artist:mochizuki jun -> 艺术家:望月淳
+artist:cothswoller -> 艺术家:Cothswoller
+artist:linda sejic -> 艺术家:Linda Šejic
+artist:linda -> 艺术家:LINDA
+artist:asanine luno -> 艺术家:朝仁寝ルノ
+artist:yasuhiro -> 艺术家:ヤスヒロ
+artist:katsura yoshihiro -> 艺术家:桂よしひろ
+artist:hibari hina -> 艺术家:雲雀ひな
+artist:outotsu den -> 艺术家:凹凸でん
+artist:nayuta takumi -> 艺术家:那由他琢己
+artist:kuro maihana -> 艺术家:黒舞花
+artist:knuck -> 艺术家:なっく
+artist:ebinavy -> 艺术家:エビネイビー
+artist:chouriin -> 艺术家:調理員
+artist:myuu -> 艺术家:ミュー
+artist:hakujitsu mamire -> 艺术家:白日まみれ
+artist:inukaki -> 艺术家:いぬかき
+artist:shouri no oushi rei -> 艺术家:勝利の雄牛レイ
+artist:gachou -> 艺术家:蛾蝶
 cosplayer:otohara an -> Coser:乙原あん
 cosplayer:rioko -> Coser:凉凉子
 cosplayer:atsuki -> Coser:あつき
@@ -35457,6 +35502,7 @@ male:bite mark -> 男性:咬痕
 male:body writing -> 男性:身体写作
 male:body painting -> 男性:身体绘画
 male:dark skin -> 男性:黑皮
+male:depth grading -> 男性:深度分级
 male:freckles -> 男性:雀斑
 male:gyaru-oh -> 男性:黄毛
 male:large tattoo -> 男性:全身纹身
@@ -35607,10 +35653,12 @@ male:cock ring -> 男性:锁精环
 male:frottage -> 男性:阴茎摩擦🤺
 male:horse cock -> 男性:马根
 male:huge penis -> 男性:巨根
+male:knotted penis -> 男性:龟头球
 male:multiple penises -> 男性:鸡鸡复鸡鸡
 male:penis birth -> 男性:阴茎出产
 male:penis bumps -> 男性:阴茎凸起
 male:penis enlargement -> 男性:阴茎生长
+male:penis reduction -> 男性:阴茎缩小
 male:phimosis -> 男性:包茎
 male:prostate massage -> 男性:前列腺按摩
 male:retractable penis -> 男性:可伸缩阴茎
@@ -36018,6 +36066,7 @@ female:bite mark -> 女性:咬痕
 female:body writing -> 女性:身体写作
 female:body painting -> 女性:身体绘画
 female:dark skin -> 女性:黑皮
+female:depth grading -> 女性:深度分级
 female:freckles -> 女性:雀斑
 female:gyaru -> 女性:辣妹
 female:large tattoo -> 女性:全身纹身
@@ -36179,10 +36228,12 @@ female:cock ring -> 女性:锁精环
 female:frottage -> 女性:阴茎摩擦🤺
 female:horse cock -> 女性:马根
 female:huge penis -> 女性:巨根
+female:knotted penis -> 女性:龟头球
 female:multiple penises -> 女性:鸡鸡复鸡鸡
 female:penis birth -> 女性:阴茎出产
 female:penis bumps -> 女性:阴茎凸起
 female:penis enlargement -> 女性:阴茎生长
+female:penis reduction -> 女性:阴茎缩小
 female:phimosis -> 女性:包茎
 female:prostate massage -> 女性:前列腺按摩
 female:retractable penis -> 女性:可伸缩阴茎
@@ -36472,6 +36523,7 @@ female:low scat -> 女性:低存在排便
 female:low smegma -> 女性:低存在阴垢
 female:focus anal -> 女性:高存在肛交
 female:focus blowjob -> 女性:高存在口交
+female:focus cunnilingus -> 女性:高存在舔阴
 female:focus paizuri -> 女性:高存在乳交
 mixed:kodomo doushi -> 混合:两小无猜
 mixed:animal on animal -> 混合:兽兽
