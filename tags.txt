@@ -8423,7 +8423,15 @@ character:jin qiu -> 角色:金秋
 character:riruru -> 角色:莉露露
 character:firewhistle -> 角色:火哨
 character:ump40 -> 角色:UMP40 | 莱妮
-character:fleurdelys -> 角色:芙露提莉斯
+character:fleurdelys -> 角色:芙露德莉斯
+character:cecilia immergreen -> 角色:塞西莉亞·伊默格林
+character:noel -> 角色:诺耶尔
+character:hajime iwaizumi -> 角色:岩泉一
+character:tooru oikawa -> 角色:及川彻
+character:sukeban smg -> 角色:女番长(smg)
+character:harusaki nodoka -> 角色:春先和香
+character:sora haruno -> 角色:樱乃空
+character:sayaka maizono -> 角色:舞园沙耶香
 group:1 -> 团队:1
 group:13 -> 团队:13
 group:27 -> 团队:27
@@ -21535,6 +21543,9 @@ group:mamekkusei -> 团队:マメック星
 group:namako production -> 团队:なまこぷろだくしょん
 group:natsu no seikatsu -> 团队:なつのせいかつ
 group:strong shuzou -> 团队:ストロング酒造
+group:narukami hanten -> 团队:なるかみ飯店
+group:uchidome -> 团队:ウチドメ
+group:yukemuri hitsuji -> 团队:ゆけむりひつじ
 artist:2 -> 艺术家:2
 artist:7 -> 艺术家:7
 artist:8 -> 艺术家:8
@@ -35242,6 +35253,12 @@ artist:hakujitsu mamire -> 艺术家:白日まみれ
 artist:inukaki -> 艺术家:いぬかき
 artist:shouri no oushi rei -> 艺术家:勝利の雄牛レイ
 artist:gachou -> 艺术家:蛾蝶
+artist:konno -> 艺术家:紺野
+artist:higa yukari -> 艺术家:緋賀ゆかり
+artist:kirisawa saki -> 艺术家:桐沢咲
+artist:lao gong -> 艺术家:老攻
+artist:nanashi no hitsuji -> 艺术家:名無しの羊
+artist:aster crowley -> 艺术家:Aster Crowley
 cosplayer:otohara an -> Coser:乙原あん
 cosplayer:rioko -> Coser:凉凉子
 cosplayer:atsuki -> Coser:あつき
