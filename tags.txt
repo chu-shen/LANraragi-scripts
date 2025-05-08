@@ -2497,6 +2497,10 @@ parody:pandora hearts -> 原作:潘多拉之心
 parody:knights college -> 原作:Knights College -骑士学院-
 parody:dislyte -> 原作:众神派对
 parody:bobs burgers -> 原作:开心汉堡店
+parody:murder drones -> 原作:无机杀手
+parody:puniru wa kawaii slime -> 原作:可爱史莱姆噗尼露
+parody:haite kudasai takamine-san -> 原作:鹰峰同学请穿上衣服
+parody:girls frontline neural cloud -> 原作:少女前线：云图计划
 character:alice -> 角色:爱丽丝
 character:akane hino -> 角色:日野茜
 character:ibuki -> 角色:伊吹
@@ -8432,6 +8436,18 @@ character:sukeban smg -> 角色:女番长(smg)
 character:harusaki nodoka -> 角色:春先和香
 character:sora haruno -> 角色:樱乃空
 character:sayaka maizono -> 角色:舞园沙耶香
+character:golding -> 角色:戈尔丁
+character:rouji chante -> 角色:卢吉·尚特
+character:plusle -> 角色:正电拍拍
+character:minun -> 角色:负电拍拍
+character:tama sakai -> 角色:多摩境
+character:roka shibasaki -> 角色:柴崎芦花
+character:kenji kazama -> 角色:风间坚次
+character:karen himemiya -> 角色:姬宫华恋
+character:kaju nukumizu -> 角色:温水佳树
+character:uzuki kou -> 角色:卯月コウ
+character:takane takamine -> 角色:鹰峰高岭
+character:yuuri kozukata -> 角色:不来方夕莉
 group:1 -> 团队:1
 group:13 -> 团队:13
 group:27 -> 团队:27
@@ -21546,6 +21562,10 @@ group:strong shuzou -> 团队:ストロング酒造
 group:narukami hanten -> 团队:なるかみ飯店
 group:uchidome -> 团队:ウチドメ
 group:yukemuri hitsuji -> 团队:ゆけむりひつじ
+group:chaseta no niwa -> 团队:ちゃせたの庭
+group:nanka no su -> 团队:何かの巣
+group:shibire na memai -> 团队:痺れな目眩
+group:seiun neopolis -> 团队:青雲ネオポリス
 artist:2 -> 艺术家:2
 artist:7 -> 艺术家:7
 artist:8 -> 艺术家:8
@@ -35259,6 +35279,21 @@ artist:kirisawa saki -> 艺术家:桐沢咲
 artist:lao gong -> 艺术家:老攻
 artist:nanashi no hitsuji -> 艺术家:名無しの羊
 artist:aster crowley -> 艺术家:Aster Crowley
+artist:kagura wsk -> 艺术家:かぐーら
+artist:chaseta -> 艺术家:茶世太
+artist:nako sir -> 艺术家:なこ汁
+artist:chero -> 艺术家:ちぇろ
+artist:rikoping2000 -> 艺术家:りこぴん2000
+artist:sirotategosha -> 艺术家:白楯误射
+artist:gendai x -> 艺术家:哏呔X
+artist:shinima -> 艺术家:しにま
+artist:fishinloli -> 艺术家:フィッシンローリ
+artist:moririn-monson -> 艺术家:モリリン・モンソン
+artist:hakuhi -> 艺术家:剥皮
+artist:takarama otoko -> 艺术家:高良間男
+artist:kojima lala -> 艺术家:仔縞楽々
+artist:aoi kojika -> 艺术家:あおいこじか
+artist:fuji norihiro -> 艺术家:藤のりひろ
 cosplayer:otohara an -> Coser:乙原あん
 cosplayer:rioko -> Coser:凉凉子
 cosplayer:atsuki -> Coser:あつき
