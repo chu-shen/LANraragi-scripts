@@ -2501,6 +2501,12 @@ parody:murder drones -> 原作:无机杀手
 parody:puniru wa kawaii slime -> 原作:可爱史莱姆噗尼露
 parody:haite kudasai takamine-san -> 原作:鹰峰同学请穿上衣服
 parody:girls frontline neural cloud -> 原作:少女前线：云图计划
+parody:happy sugar life -> 原作:砂糖的幸福生活
+parody:captain tsubasa -> 原作:足球小将
+parody:do it yourself -> 原作:Do It Yourself!!
+parody:blue comet spt layzner -> 原作:苍蓝流星SPT雷兹纳
+parody:himesama goumon no jikan desu -> 原作:公主大人，接下来是“拷问”时间
+parody:rune factory 4 -> 原作:符文工厂4
 character:alice -> 角色:爱丽丝
 character:akane hino -> 角色:日野茜
 character:ibuki -> 角色:伊吹
@@ -8448,6 +8454,19 @@ character:kaju nukumizu -> 角色:温水佳树
 character:uzuki kou -> 角色:卯月コウ
 character:takane takamine -> 角色:鹰峰高岭
 character:yuuri kozukata -> 角色:不来方夕莉
+character:shio koube -> 角色:神户盐
+character:satou matsuzaka -> 角色:松板砂糖
+character:lemuen -> 角色:蕾缪安
+character:aoba utsumi -> 角色:内海青叶
+character:sylvia van hossen -> 角色:希尔薇娅·范·霍森
+character:kabru -> 角色:卡布尔
+character:cattleya -> 角色:卡特莱娜
+character:escoffier -> 角色:爱可菲
+character:pina asahina -> 角色:朝比奈菲娜
+character:princess -> 角色:公主
+character:torture tortura -> 角色:绝顶之惨叫姬·折磨小姐
+character:provence -> 角色:普罗旺斯
+character:zebstrika -> 角色:雷电斑马
 group:1 -> 团队:1
 group:13 -> 团队:13
 group:27 -> 团队:27
@@ -12165,7 +12184,6 @@ group:chloroplast -> 团队:くろろぷらすと
 group:cho-jin hakaba -> 团队:超人墓場
 group:choco biscuits -> 团队:ちょこ★びすけっつ
 group:choco box -> 团队:choco BOX
-group:choco croissant -> 团队:チョコクロワッサン
 group:choco zakura -> 团队:ちょこざくら
 group:choco-banana -> 团队:ちょこばなな。
 group:chocobits -> 团队:Chocobits
@@ -21566,6 +21584,14 @@ group:chaseta no niwa -> 团队:ちゃせたの庭
 group:nanka no su -> 团队:何かの巣
 group:shibire na memai -> 团队:痺れな目眩
 group:seiun neopolis -> 团队:青雲ネオポリス
+group:morokoshi batake -> 团队:もろこし畑
+group:imokenpi kinenbi -> 团队:いもけんぴ記念日
+group:chocomint potatochips -> 团队:チョコミントポテトチップス
+group:haien kikan -> 团队:排煙機関
+group:fisticuffsclub -> 团队:FC倶楽部
+group:hentaikey -> 团队:HentaiKey
+group:yawaraka seinikuten -> 团队:滑らか精肉店
+group:shiawase hitotsubu -> 团队:しあわせ一粒
 artist:2 -> 艺术家:2
 artist:7 -> 艺术家:7
 artist:8 -> 艺术家:8
@@ -25016,7 +25042,7 @@ artist:shiramizu mizuchi -> 艺术家:白瑞みずち
 artist:majima tetsurou -> 艺术家:真島てつろー
 artist:super zombie -> 艺术家:超级僵尸
 artist:seuma -> 艺术家:せうま
-artist:ryoma -> 艺术家:きただりょうま
+artist:ryoma -> 艺术家:北田竜馬
 artist:kannko -> 艺术家:缶子
 artist:sencha -> 艺术家:せんちゃ
 artist:miyazaki hayao -> 艺术家:宫崎骏
@@ -26220,10 +26246,9 @@ artist:chiyomi -> 艺术家:chiYOMI
 artist:chizakya -> 艺术家:ちざきゃ
 artist:chizu -> 艺术家:ちず
 artist:chizuru -> 艺术家:ちづる
-artist:chocco coronetto -> 艺术家:チョココロネット
+artist:choco coronet -> 艺术家:チョココロネット
 artist:chocho -> 艺术家:チョチョ
 artist:choco -> 艺术家:CHOCO
-artist:choco coronet -> 艺术家:チョココロネット
 artist:chocomint -> 艺术家:ちょこみんと
 artist:chocore -> 艺术家:ちょこれ
 artist:choko yarou -> 艺术家:ちょこ野郎
@@ -30753,7 +30778,6 @@ artist:pastachin -> 艺术家:パスタチン
 artist:pato-chan -> 艺术家:パトちゃん
 artist:patori -> 艺术家:ぱとり
 artist:patricia -> 艺术家:パトリシア
-artist:patrick hateman -> 艺术家:Patrick Hateman
 artist:pd -> 艺术家:Pd
 artist:peach -> 艺术家:Peach
 artist:peat lock -> 艺术家:ぴーと・ろっく
@@ -30961,7 +30985,7 @@ artist:reiji -> 艺术家:れゐぢ
 artist:reika -> 艺术家:零花
 artist:reimei -> 艺术家:黎明
 artist:reine -> 艺术家:レーヌ
-artist:reishiki aria -> 艺术家:零式アリア
+artist:zeroshiki aria -> 艺术家:零式アリア
 artist:rekisitaihoonoji -> 艺术家:レキシタイふのじ
 artist:reku -> 艺术家:れく
 artist:rela -> 艺术家:Rela
@@ -35294,6 +35318,17 @@ artist:takarama otoko -> 艺术家:高良間男
 artist:kojima lala -> 艺术家:仔縞楽々
 artist:aoi kojika -> 艺术家:あおいこじか
 artist:fuji norihiro -> 艺术家:藤のりひろ
+artist:conpota-ju -> 艺术家:こんぽたーじゅ
+artist:min poteito -> 艺术家:みんぽていと
+artist:numata shizumu -> 艺术家:沼田しずむ
+artist:gekimabu -> 艺术家:激マブ
+artist:natsume tsuna -> 艺术家:夏目つな
+artist:kamasu -> 艺术家:kamasu
+artist:motaki -> 艺术家:もたき
+artist:momi yuro -> 艺术家:揉ゆろ
+artist:shinozaki ui -> 艺术家:篠崎うい
+artist:yatsuki hiyori -> 艺术家:八樹ひより
+artist:gulp -> 艺术家:5⁹5⁹
 cosplayer:otohara an -> Coser:乙原あん
 cosplayer:rioko -> Coser:凉凉子
 cosplayer:atsuki -> Coser:あつき
@@ -35412,6 +35447,9 @@ cosplayer:aoi momoko -> Coser:Momoko葵葵
 cosplayer:enako -> Coser:えなこ
 cosplayer:da da juan juan xiao juan -> Coser:大大卷卷小卷
 cosplayer:rakuraku -> Coser:落落Raku
+cosplayer:zhuimingyou -> Coser:日奈娇
+cosplayer:shiraga yanko -> Coser:Shiraga Yanko
+cosplayer:byoru -> Coser:Byoru
 male:age progression -> 男性:年龄增长
 male:age regression -> 男性:返老还童
 male:dilf -> 男性:熟男
