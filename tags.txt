@@ -8482,6 +8482,7 @@ character:amate yuzuriha -> 角色:天手·让叶
 character:ishigami nozomi -> 角色:石神望
 character:alpha -> 角色:阿尔法
 character:red shoes -> 角色:红舞鞋
+character:suisui -> 角色:水水
 group:1 -> 团队:1
 group:13 -> 团队:13
 group:27 -> 团队:27
