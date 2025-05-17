@@ -2507,6 +2507,12 @@ parody:do it yourself -> 原作:Do It Yourself!!
 parody:blue comet spt layzner -> 原作:苍蓝流星SPT雷兹纳
 parody:himesama goumon no jikan desu -> 原作:公主大人，接下来是“拷问”时间
 parody:rune factory 4 -> 原作:符文工厂4
+parody:suki na ko ga megane wo wasureta -> 原作:喜欢的人忘记戴眼镜了
+parody:liz to aoi tori -> 原作:莉兹与青鸟
+parody:eiyuu-ou bu o kiwameru tame tenseisu -> 原作:英雄王，为了穷尽武道而转生～而后成为世界最强见习骑士♀～
+parody:onimusha -> 原作:鬼武者
+parody:kara no shoujo -> 原作:壳之少女
+parody:heavy metal l-gaim -> 原作:重战机
 character:alice -> 角色:爱丽丝
 character:akane hino -> 角色:日野茜
 character:ibuki -> 角色:伊吹
@@ -7317,7 +7323,7 @@ character:maggie simpson -> 角色:玛吉·辛普森
 character:edna krabappel -> 角色:埃德娜·克拉巴佩尔
 character:patty bouvier -> 角色:帕蒂·布维尔
 character:selma bouvier -> 角色:塞尔玛·布维尔
-character:natsumi onitsuka -> 角色:鬼塚夏美
+character:natsumi onitsuka -> 角色:鬼冢夏美
 character:wien margarete -> 角色:维恩·玛格丽特
 character:shellin burgundy -> 角色:谢林·勃艮第
 character:levi ackerman -> 角色:利威尔·阿克曼
@@ -8467,6 +8473,15 @@ character:princess -> 角色:公主
 character:torture tortura -> 角色:绝顶之惨叫姬·折磨小姐
 character:provence -> 角色:普罗旺斯
 character:zebstrika -> 角色:雷电斑马
+character:dp-12 -> 角色:DP-12
+character:ai mie -> 角色:三重爱
+character:tomari onitsuka -> 角色:鬼冢冬毬
+character:sana miyoshi -> 角色:三好纱南
+character:cipher -> 角色:赛飞儿
+character:amate yuzuriha -> 角色:天手·让叶
+character:ishigami nozomi -> 角色:石神望
+character:alpha -> 角色:阿尔法
+character:red shoes -> 角色:红舞鞋
 group:1 -> 团队:1
 group:13 -> 团队:13
 group:27 -> 团队:27
@@ -21592,6 +21607,9 @@ group:fisticuffsclub -> 团队:FC倶楽部
 group:hentaikey -> 团队:HentaiKey
 group:yawaraka seinikuten -> 团队:滑らか精肉店
 group:shiawase hitotsubu -> 团队:しあわせ一粒
+group:toei animation -> 团队:东映动画
+group:torihamu holic -> 团队:とりはむほりっく
+group:gakugakuya-san -> 团队:がくがく屋さん
 artist:2 -> 艺术家:2
 artist:7 -> 艺术家:7
 artist:8 -> 艺术家:8
@@ -25872,7 +25890,7 @@ artist:ashura kumo -> 艺术家:阿修羅クモ
 artist:asio -> 艺术家:アシオ
 artist:asitaba tomorou -> 艺术家:明日葉友婁
 artist:aska takuya -> 艺术家:飛鳥拓哉
-artist:asou -> 艺术家:阿宗
+artist:asou -> 艺术家:麻生
 artist:asou shin -> 艺术家:麻生シン
 artist:aspara daisuke -> 艺术家:アスパラダイスケ
 artist:assteka -> 艺术家:あずてか
@@ -35329,6 +35347,12 @@ artist:momi yuro -> 艺术家:揉ゆろ
 artist:shinozaki ui -> 艺术家:篠崎うい
 artist:yatsuki hiyori -> 艺术家:八樹ひより
 artist:gulp -> 艺术家:5⁹5⁹
+artist:bera -> 艺术家:Bera
+artist:necotaki -> 艺术家:猫滝
+artist:saki rinku -> 艺术家:咲凛玖
+artist:matsumoto jikyuuryoku -> 艺术家:松本持久力
+artist:yamamura umi -> 艺术家:山村うみ
+artist:kutsukake -> 艺术家:くつかけ
 cosplayer:otohara an -> Coser:乙原あん
 cosplayer:rioko -> Coser:凉凉子
 cosplayer:atsuki -> Coser:あつき
