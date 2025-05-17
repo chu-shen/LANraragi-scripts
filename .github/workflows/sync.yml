@@ -1,0 +1,15 @@
+name: Sync Plugins
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "33 2 * * *"
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: chmod +x sync_plugins.sh && ./sync_plugins.sh
+      - uses: EndBug/add-and-commit@v9
+        with:
+          add: "plugins/"
+          default_author: github_actions
