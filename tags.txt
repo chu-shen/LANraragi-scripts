@@ -1395,7 +1395,7 @@ parody:alias carnival -> 原作:ALIA's CARNIVAL!
 parody:tesagure bukatsu-mono -> 原作:摸索吧！部活剧
 parody:dna2 -> 原作:DNA²
 parody:guardians of the galaxy -> 原作:银河护卫队
-parody:legendz -> 原作:龙王传说
+parody:legendz -> 原作:龙王传说（苏生龙王传说）
 parody:cross ange -> 原作:天使与龙的轮舞
 parody:dungeon fighter online -> 原作:地下城与勇士
 parody:warhammer -> 原作:战锤
@@ -1880,7 +1880,7 @@ parody:bratz -> 原作:Bratz
 parody:brave 10 -> 原作:BRAVE10
 parody:brave express might gaine -> 原作:勇者特急队
 parody:brave fencer musashi -> 原作:勇敢的剑士 武藏传
-parody:brave nine -> 原作:Brave Nine
+parody:brave nine -> 原作:棕色尘埃
 parody:brave story -> 原作:勇者物语
 parody:bravestarr -> 原作:布雷斯塔警长
 parody:breakers -> 原作:BREAKERS
@@ -2513,6 +2513,12 @@ parody:eiyuu-ou bu o kiwameru tame tenseisu -> 原作:英雄王，为了穷尽�
 parody:onimusha -> 原作:鬼武者
 parody:kara no shoujo -> 原作:壳之少女
 parody:heavy metal l-gaim -> 原作:重战机
+parody:ufo princess valkyrie -> 原作:圆盘皇女
+parody:bastard -> 原作:BASTARD!! －暗黑的破坏神－
+parody:catherine -> 原作:凯瑟琳
+parody:the road to el dorado -> 原作:勇闯黄金城
+parody:rignetta-san no bouken -> 原作:莉吉妮塔的冒險
+parody:stellar blade -> 原作:剑星
 character:alice -> 角色:爱丽丝
 character:akane hino -> 角色:日野茜
 character:ibuki -> 角色:伊吹
@@ -8483,6 +8489,19 @@ character:ishigami nozomi -> 角色:石神望
 character:alpha -> 角色:阿尔法
 character:red shoes -> 角色:红舞鞋
 character:suisui -> 角色:水水
+character:arshes nei -> 角色:安雪丝·奈伊
+character:cardigan -> 角色:卡缇
+character:shiron the windragon -> 角色:斯朗（风龙）
+character:newbie succubus -> 角色:萝莉魅魔
+character:epsilon -> 角色:伊普西龙
+character:cid kagenou -> 角色:暗影
+character:eta -> 角色:希妲
+character:mona kawai -> 角色:川井百奈
+character:lux -> 角色:拉克丝
+character:naga the serpent -> 角色:白蛇娜卡
+character:tsukasa akeuraji -> 角色:明浦路司
+character:jun yodaka -> 角色:夜鹰纯
+character:yuriko kitahara -> 角色:北原百合子
 group:1 -> 团队:1
 group:13 -> 团队:13
 group:27 -> 团队:27
@@ -21611,6 +21630,12 @@ group:shiawase hitotsubu -> 团队:しあわせ一粒
 group:toei animation -> 团队:东映动画
 group:torihamu holic -> 团队:とりはむほりっく
 group:gakugakuya-san -> 团队:がくがく屋さん
+group:chouhei sanchi no segare -> 团队:徴兵さんちの倅
+group:kimura rongaku -> 团队:木村论学
+group:rosaku koubou -> 团队:ろっさく工房
+group:momo no sake -> 团队:ももの酒
+group:momoen -> 团队:桃園
+group:otofu catastrophe -> 团队:お豆腐カタストロフィ
 artist:2 -> 艺术家:2
 artist:7 -> 艺术家:7
 artist:8 -> 艺术家:8
@@ -27510,7 +27535,7 @@ artist:hoshioki -> 艺术家:ホシオキ
 artist:hoshizaki ryuu -> 艺术家:星崎龍
 artist:hoshizora -> 艺术家:星空
 artist:hosikawa tukimi -> 艺术家:星川月海
-artist:hosizora mikoto -> 艺术家:星空ミコト
+artist:hosizora mikoto -> 艺术家:星空美琴
 artist:hosoi kouzou -> 艺术家:細井コウゾウ
 artist:hosokawa fuziemon -> 艺术家:細川ふじえもん
 artist:hot -> 艺术家:HOT
@@ -30263,7 +30288,7 @@ artist:neo black -> 艺术家:Neo Black
 artist:neo kusano -> 艺术家:NEO草野
 artist:neon ui -> 艺术家:音遠うい
 artist:neoneet -> 艺术家:寝起新人
-artist:nepuka -> 艺术家:根深
+artist:nepuka -> 艺术家:ネプカ
 artist:nerima marine -> 艺术家:ねりままりね
 artist:nerio -> 艺术家:ねりお
 artist:nero -> 艺术家:nero
@@ -35354,6 +35379,13 @@ artist:saki rinku -> 艺术家:咲凛玖
 artist:matsumoto jikyuuryoku -> 艺术家:松本持久力
 artist:yamamura umi -> 艺术家:山村うみ
 artist:kutsukake -> 艺术家:くつかけ
+artist:jared999d -> 艺术家:Jared999d
+artist:rosaku -> 艺术家:六作
+artist:nabara shouko -> 艺术家:名原しょうこ
+artist:lapis -> 艺术家:らぴぃす
+artist:oretahone -> 艺术家:おれたほね
+artist:amayadori chika -> 艺术家:雨宿チカ
+artist:tachibana lita -> 艺术家:橘りた
 cosplayer:otohara an -> Coser:乙原あん
 cosplayer:rioko -> Coser:凉凉子
 cosplayer:atsuki -> Coser:あつき
