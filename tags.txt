@@ -818,7 +818,7 @@ parody:atelier escha and logy -> 原作:艾斯卡与罗吉的工作室
 parody:atelier shallie -> 原作:夏莉的工作室
 parody:atelier sophie -> 原作:索菲的工作室
 parody:atelier firis -> 原作:菲莉丝的工作室
-parody:atelier lulua -> 原作:露露亚的工作室
+parody:atelier lulua -> 原作:露露亚的炼金工房
 parody:atelier ryza -> 原作:莱莎的工作室
 parody:atelier lina -> 原作:莉娜的工作室
 parody:my neighbor totoro -> 原作:龙猫
@@ -2519,6 +2519,10 @@ parody:catherine -> 原作:凯瑟琳
 parody:the road to el dorado -> 原作:勇闯黄金城
 parody:rignetta-san no bouken -> 原作:莉吉妮塔的冒險
 parody:stellar blade -> 原作:剑星
+parody:kimi to idol precure -> 原作:キミとアイドルプリキュア♪
+parody:she-ra and the princesses of power -> 原作:神娃之伊莎莉亚战记
+parody:inda no himekishi janne -> 原作:淫堕的姫骑士贞德
+parody:nanatsu no maken ga shihai suru -> 原作:七魔剑支配天下
 character:alice -> 角色:爱丽丝
 character:akane hino -> 角色:日野茜
 character:ibuki -> 角色:伊吹
@@ -8502,6 +8506,21 @@ character:naga the serpent -> 角色:白蛇娜卡
 character:tsukasa akeuraji -> 角色:明浦路司
 character:jun yodaka -> 角色:夜鹰纯
 character:yuriko kitahara -> 角色:北原百合子
+character:kaname chidori -> 角色:千鸟要
+character:kasumi tendo -> 角色:天道霞
+character:asagi aiba -> 角色:蓝羽浅葱
+character:nagisa akatsuki -> 角色:晓凪沙
+character:elmerulia frixell -> 角色:艾尔梅露莉亚·菲立克塞尔
+character:maki gamou -> 角色:蒲生真紀
+character:ruka kayamori -> 角色:茅森月歌
+character:yuki izumi -> 角色:和泉由希
+character:hyacine -> 角色:风堇
+character:janne grenoble -> 角色:珍妮 格雷诺布尔
+character:nanao hibiya -> 角色:奈奈绪响谷
+character:mari satsuki -> 角色:佐月麻里
+character:adelheid kanzaki -> 角色:神崎阿迪尔海德
+character:capella emerada lugunica -> 角色:卡佩菈·爱梅拉妲·露格尼卡
+character:jin-ah sung -> 角色:程肖雅丨水筱葵
 group:1 -> 团队:1
 group:13 -> 团队:13
 group:27 -> 团队:27
@@ -21636,6 +21655,8 @@ group:rosaku koubou -> 团队:ろっさく工房
 group:momo no sake -> 团队:ももの酒
 group:momoen -> 团队:桃園
 group:otofu catastrophe -> 团队:お豆腐カタストロフィ
+group:shingouya -> 团队:信号屋
+group:ajiyama -> 团队:アジ山
 artist:2 -> 艺术家:2
 artist:7 -> 艺术家:7
 artist:8 -> 艺术家:8
@@ -33342,7 +33363,7 @@ artist:yoshino. -> 艺术家:よしの。
 artist:yoshiragi -> 艺术家:ヨシラギ
 artist:yoshiron -> 艺术家:よしろん
 artist:yoshiten -> 艺术家:よし天
-artist:yoshitora -> 艺术家:YOSHITORA
+artist:yoshitora -> 艺术家:よしとら（YOSHITORA）
 artist:momomo momo -> 艺术家:桃萌 百
 artist:yoshiwo -> 艺术家:よしを
 artist:yoshiyuki -> 艺术家:ヨシユキ
@@ -35386,6 +35407,15 @@ artist:lapis -> 艺术家:らぴぃす
 artist:oretahone -> 艺术家:おれたほね
 artist:amayadori chika -> 艺术家:雨宿チカ
 artist:tachibana lita -> 艺术家:橘りた
+artist:kokonotsu -> 艺术家:ここのつ
+artist:usui rikaon -> 艺术家:雨水RikaON
+artist:ogura -> 艺术家:小倉
+artist:doranoyama -> 艺术家:どらのやま
+artist:yoshimizu -> 艺术家:よしみず
+artist:asato maaru -> 艺术家:杏里まある
+artist:ayama -> 艺术家:あ山
+artist:ruruepa -> 艺术家:るるえぱ
+artist:yokoya manjirou -> 艺术家:よこやまんじろう
 cosplayer:otohara an -> Coser:乙原あん
 cosplayer:rioko -> Coser:凉凉子
 cosplayer:atsuki -> Coser:あつき
