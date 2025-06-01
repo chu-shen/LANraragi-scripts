@@ -2523,6 +2523,7 @@ parody:kimi to idol precure -> 原作:キミとアイドルプリキュア♪
 parody:she-ra and the princesses of power -> 原作:神娃之伊莎莉亚战记
 parody:inda no himekishi janne -> 原作:淫堕的姫骑士贞德
 parody:nanatsu no maken ga shihai suru -> 原作:七魔剑支配天下
+parody:no straight roads -> 原作:曲途
 character:alice -> 角色:爱丽丝
 character:akane hino -> 角色:日野茜
 character:ibuki -> 角色:伊吹
@@ -8521,6 +8522,10 @@ character:mari satsuki -> 角色:佐月麻里
 character:adelheid kanzaki -> 角色:神崎阿迪尔海德
 character:capella emerada lugunica -> 角色:卡佩菈·爱梅拉妲·露格尼卡
 character:jin-ah sung -> 角色:程肖雅丨水筱葵
+character:samui -> 角色:萨姆伊
+character:heles -> 角色:赫尔艾斯
+character:theresia van astrea -> 角色:特蕾西亚·范·阿斯特雷亚
+character:mayuki hiiragi -> 角色:柊真雪
 group:1 -> 团队:1
 group:13 -> 团队:13
 group:27 -> 团队:27
@@ -35416,6 +35421,13 @@ artist:asato maaru -> 艺术家:杏里まある
 artist:ayama -> 艺术家:あ山
 artist:ruruepa -> 艺术家:るるえぱ
 artist:yokoya manjirou -> 艺术家:よこやまんじろう
+artist:yamazaki umetarou -> 艺术家:山咲梅太郎
+artist:maru tamanegi -> 艺术家:丸玉ねぎ
+artist:minakami mizuya -> 艺术家:水上みずや
+artist:ohara mochisuke -> 艺术家:小原モチスケ
+artist:hamazi aki -> 艺术家:はまじあき
+artist:aidi hushi -> 艺术家:爱迪护士
+artist:doogge -> 艺术家:Doogge
 cosplayer:otohara an -> Coser:乙原あん
 cosplayer:rioko -> Coser:凉凉子
 cosplayer:atsuki -> Coser:あつき
