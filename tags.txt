@@ -2524,6 +2524,11 @@ parody:she-ra and the princesses of power -> 原作:神娃之伊莎莉亚战记
 parody:inda no himekishi janne -> 原作:淫堕的姫骑士贞德
 parody:nanatsu no maken ga shihai suru -> 原作:七魔剑支配天下
 parody:no straight roads -> 原作:曲途
+parody:himitsu no aipri -> 原作:秘密的偶像公主
+parody:shachiku-san wa youjo yuurei ni iyasaretai. -> 原作:社畜小姐想被幽灵幼女治愈。
+parody:shadows house -> 原作:影宅
+parody:crosscode -> 原作:远星物语
+parody:love live bluebird -> 原作:生如百戏难！LOVELIVE! BLUEBIRD
 character:alice -> 角色:爱丽丝
 character:akane hino -> 角色:日野茜
 character:ibuki -> 角色:伊吹
@@ -8526,6 +8531,21 @@ character:samui -> 角色:萨姆伊
 character:heles -> 角色:赫尔艾斯
 character:theresia van astrea -> 角色:特蕾西亚·范·阿斯特雷亚
 character:mayuki hiiragi -> 角色:柊真雪
+character:juvia lockser -> 角色:朱比亚·罗克丝
+character:yixuan -> 角色:仪玄
+character:alisaie leveilleur -> 角色:阿莉塞·莱韦耶勒尔
+character:i-no -> 角色:茵诺
+character:hikaru shidou -> 角色:狮堂光
+character:froleytia capistrano -> 角色:芙萝蕾缇雅·卡彼斯特拉诺
+character:alicia -> 角色:阿莉莎
+character:anna respighi -> 角色:安娜‧雷斯比奇
+character:mylanndah arkar walder -> 角色:米兰达‧阿卡‧瓦尔卡
+character:lahrri feldnunt -> 角色:拉丽·菲尔德南多
+character:ravel phoenix -> 角色:蕾维儿·菲尼克斯
+character:bready -> 角色:布蕾德
+character:mana -> 角色:玛娜
+character:plymouth -> 角色:普利茅斯
+character:mitsuki hoshikawa -> 角色:星川未月
 group:1 -> 团队:1
 group:13 -> 团队:13
 group:27 -> 团队:27
@@ -10163,7 +10183,7 @@ group:gakushokutei -> 团队:学食亭
 group:nagisa no yoko -> 团队:渚のヨーコ
 group:ruiketsuan -> 团队:泪穴庵
 group:ribi dou -> 团队:RIBI堂
-group:anmonkan -> 团队:暗梦馆
+group:anmonkan -> 团队:闇夢館
 group:dairoku kadan -> 团队:第六花坛
 group:salt choc -> 团队:塩ちょこ
 group:sawayaka tokunou milk -> 团队:爽やか特濃みるく
@@ -21662,6 +21682,13 @@ group:momoen -> 团队:桃園
 group:otofu catastrophe -> 团队:お豆腐カタストロフィ
 group:shingouya -> 团队:信号屋
 group:ajiyama -> 团队:アジ山
+group:minamo zuki -> 团队:水面月
+group:tororodon -> 团队:とろろどん
+group:dasshifunnyuu teishoku -> 团队:脱脂粉乳定食
+group:ryoushi ookami -> 团队:量子オオカミ
+group:rimu-chan chi -> 团队:りむちゃんち
+group:fukuneko mofumofu -> 团队:福猫モフモフ
+group:conium socrates -> 团队:ドクニンジンソクラテス
 artist:2 -> 艺术家:2
 artist:7 -> 艺术家:7
 artist:8 -> 艺术家:8
@@ -23540,8 +23567,8 @@ artist:namaniku atk -> 艺术家:なまにくATK
 artist:kumaco -> 艺术家:くまこ
 artist:kuroshibe -> 艺术家:クロシベ
 artist:akise -> 艺术家:秋濑
-artist:fukuguri yuuto -> 艺术家:福栗悠斗
-artist:futaba yae -> 艺术家:双叶八重
+artist:fukuguri yuuto -> 艺术家:栗福みのる
+artist:futaba yae -> 艺术家:双葉八重
 artist:koorizu -> 艺术家:コオリズ
 artist:kumataro -> 艺术家:隈太郎
 artist:mokkouyou bond -> 艺术家:木工用ボンド
@@ -23854,7 +23881,7 @@ artist:hayashida toranosuke -> 艺术家:林田虎之助
 artist:buchou chinke -> 艺术家:部長ちんけ
 artist:asakura kukuri -> 艺术家:アサクラククリ
 artist:nanao naru -> 艺术家:七尾奈留
-artist:kirishima ayu -> 艺术家:雾岛鲇
+artist:kirishima ayu -> 艺术家:霧島鮎
 artist:keita naruzawa -> 艺术家:Keita Naruzawa
 artist:amami sen -> 艺术家:天观仙
 artist:juujou tatami -> 艺术家:十畳たたみ
@@ -28167,7 +28194,7 @@ artist:kaneda asao -> 艺术家:金田麻生
 artist:kaneda shotaro -> 艺术家:金田正太郎
 artist:kanei yoh -> 艺术家:鐘井楊
 artist:kaneko ako -> 艺术家:金子アコ
-artist:kaneko rin -> 艺术家:金子鈴
+artist:kaneko lin -> 艺术家:金子鈴
 artist:kaneneko -> 艺术家:カネ-ネコ
 artist:kanesada keishi -> 艺术家:兼処敬士
 artist:kaneta -> 艺术家:かねた
@@ -29718,7 +29745,6 @@ artist:mizuno mumomo -> 艺术家:水野むもも
 artist:mizuno poppo -> 艺术家:水翠野ポッポ
 artist:mizuno sao -> 艺术家:水野早桜
 artist:mizunoe nemone -> 艺术家:壬星ねもね
-artist:mizusaka saki -> 艺术家:水坂早希
 artist:mizusawa -> 艺术家:水澤
 artist:mizusawa mimori -> 艺术家:水沢深森
 artist:mizusawa nagi -> 艺术家:水沢凪
@@ -32088,7 +32114,6 @@ artist:suzuse -> 艺术家:涼瀬
 artist:suzushiro nazuna -> 艺术家:蘿蔔なずな
 artist:suzushiro yutaka -> 艺术家:すずしろゆたか
 artist:suzushiro -> 艺术家:すずしろ
-artist:suzuta yume -> 艺术家:鈴田ゆめ
 artist:swa -> 艺术家:SWA
 artist:swakichi -> 艺术家:すわきち
 artist:syanal -> 艺术家:しゃーなる
@@ -32186,7 +32211,7 @@ artist:takaishi fuu -> 艺术家:高石ふう
 artist:takako -> 艺术家:タカコ
 artist:takaku shouko -> 艺术家:高久尚子
 artist:takaku toshihiko -> 艺术家:高久としひこ
-artist:takaku tubby -> 艺术家:高句タビー
+artist:takaku tubby -> 艺术家:高句タビー | シロノマヒロ
 artist:takamiya -> 艺术家:たかみや
 artist:takamiya sakura -> 艺术家:鷹宮沙玖羅
 artist:takamori3 -> 艺术家:たかもり3
@@ -33368,7 +33393,7 @@ artist:yoshino. -> 艺术家:よしの。
 artist:yoshiragi -> 艺术家:ヨシラギ
 artist:yoshiron -> 艺术家:よしろん
 artist:yoshiten -> 艺术家:よし天
-artist:yoshitora -> 艺术家:よしとら（YOSHITORA）
+artist:yoshitora -> 艺术家:よしとら
 artist:momomo momo -> 艺术家:桃萌 百
 artist:yoshiwo -> 艺术家:よしを
 artist:yoshiyuki -> 艺术家:ヨシユキ
@@ -35428,6 +35453,18 @@ artist:ohara mochisuke -> 艺术家:小原モチスケ
 artist:hamazi aki -> 艺术家:はまじあき
 artist:aidi hushi -> 艺术家:爱迪护士
 artist:doogge -> 艺术家:Doogge
+artist:hanimemeo -> 艺术家:ハニメメオ
+artist:mochisaka mitsuki -> 艺术家:妖精タヌモチ | もちさかみつき
+artist:tamayura tatara -> 艺术家:玉響多々良
+artist:sumiya zeniko -> 艺术家:澄谷ゼニコ
+artist:yuuki konefu -> 艺术家:遊亀こねふ
+artist:masaki seimei -> 艺术家:真崎清明
+artist:byakudan -> 艺术家:ビャクダン
+artist:dasshifunnyuu -> 艺术家:脱脂粉乳
+artist:suiroh -> 艺术家:垂狼
+artist:momoroco -> 艺术家:ももろこ
+artist:yuu hi -> 艺术家:ゆう？ひ？
+artist:shamakho -> 艺术家:沙マコ
 cosplayer:otohara an -> Coser:乙原あん
 cosplayer:rioko -> Coser:凉凉子
 cosplayer:atsuki -> Coser:あつき
@@ -36797,3 +36834,4 @@ other:no penetration -> 其他:无插入
 other:nudity only -> 其他:仅裸体
 other:object insertion only -> 其他:仅物体插入
 other:onsen -> 其他:温泉
+other:sentou -> 其他:浴场
