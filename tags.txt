@@ -2529,6 +2529,7 @@ parody:shachiku-san wa youjo yuurei ni iyasaretai. -> 原作:社畜小姐想被�
 parody:shadows house -> 原作:影宅
 parody:crosscode -> 原作:远星物语
 parody:love live bluebird -> 原作:生如百戏难！LOVELIVE! BLUEBIRD
+parody:manyuu hikenchou -> 原作:魔乳秘劍帖
 character:alice -> 角色:爱丽丝
 character:akane hino -> 角色:日野茜
 character:ibuki -> 角色:伊吹
@@ -6294,7 +6295,7 @@ character:shokudaikiri mitsutada -> 角色:烛台切光忠
 character:horikawa kunihiro -> 角色:堀川国广
 character:vajra -> 角色:瓦姬拉
 character:tighnari -> 角色:提纳里
-character:hinata wakaba -> 角色:若葉日向
+character:hinata wakaba -> 角色:若叶日向
 character:chihiro kagami -> 角色:各务千寻
 character:perrine h. clostermann -> 角色:佩琳·H·克洛斯特曼
 character:bronya zaychik -> 角色:布洛妮娅·扎伊切克
@@ -8546,6 +8547,20 @@ character:bready -> 角色:布蕾德
 character:mana -> 角色:玛娜
 character:plymouth -> 角色:普利茅斯
 character:mitsuki hoshikawa -> 角色:星川未月
+character:yat sen -> 角色:逸仙
+character:phainon -> 角色:白厄
+character:candace flynn -> 角色:凯蒂丝‧福林
+character:isabella garcia-shapiro -> 角色:伊莎贝拉·格拉希夏普罗
+character:rei nomasa -> 角色:野正丽
+character:ju fufu -> 角色:橘福福
+character:natsuki minamiya -> 角色:南宫那月
+character:chifusa manyuu -> 角色:魔乳千房
+character:fenris -> 角色:芬里斯
+character:hina chono -> 角色:蝶野雏
+character:yuri lowell -> 角色:由利·罗威尔
+character:flynn scifo -> 角色:弗林·西佛
+character:percival -> 角色:帕西瓦尔
+character:minami kotobuki -> 角色:寿美奈美
 group:1 -> 团队:1
 group:13 -> 团队:13
 group:27 -> 团队:27
@@ -21689,6 +21704,7 @@ group:ryoushi ookami -> 团队:量子オオカミ
 group:rimu-chan chi -> 团队:りむちゃんち
 group:fukuneko mofumofu -> 团队:福猫モフモフ
 group:conium socrates -> 团队:ドクニンジンソクラテス
+group:masumasu soul gorilla -> 团队:ますますソウルゴリラ
 artist:2 -> 艺术家:2
 artist:7 -> 艺术家:7
 artist:8 -> 艺术家:8
@@ -35465,6 +35481,15 @@ artist:suiroh -> 艺术家:垂狼
 artist:momoroco -> 艺术家:ももろこ
 artist:yuu hi -> 艺术家:ゆう？ひ？
 artist:shamakho -> 艺术家:沙マコ
+artist:ripple moon -> 艺术家:漣漪月影
+artist:shirauokei -> 艺术家:白鱼京
+artist:oisuke -> 艺术家:おい助
+artist:yoshino keiko -> 艺术家:吉野惠子
+artist:tsukigime jin -> 艺术家:月極仁
+artist:sasaki yukinojo -> 艺术家:佐佐木雪之丞
+artist:msg -> 艺术家:益ギガス
+artist:tobe -> 艺术家:Tobe
+artist:tenkomori -> 艺术家:森てんこ
 cosplayer:otohara an -> Coser:乙原あん
 cosplayer:rioko -> Coser:凉凉子
 cosplayer:atsuki -> Coser:あつき
@@ -35586,6 +35611,7 @@ cosplayer:rakuraku -> Coser:落落Raku
 cosplayer:zhuimingyou -> Coser:日奈娇
 cosplayer:shiraga yanko -> Coser:Shiraga Yanko
 cosplayer:byoru -> Coser:Byoru
+cosplayer:mianbing xianer -> Coser:面饼仙儿
 male:age progression -> 男性:年龄增长
 male:age regression -> 男性:返老还童
 male:dilf -> 男性:熟男
