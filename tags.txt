@@ -2530,6 +2530,13 @@ parody:shadows house -> 原作:影宅
 parody:crosscode -> 原作:远星物语
 parody:love live bluebird -> 原作:生如百戏难！LOVELIVE! BLUEBIRD
 parody:manyuu hikenchou -> 原作:魔乳秘劍帖
+parody:shangri-la frontier -> 原作:香格里拉边境～粪作猎人向神作游戏发起挑战
+parody:dragon poker -> 原作:龙族扑克
+parody:project zomboid -> 原作:僵尸毁灭工程
+parody:liars bar -> 原作:骗子酒吧
+parody:steam detectives -> 原作:快杰蒸汽侦探团
+parody:utau -> 原作:UTAU
+parody:arcaea -> 原作:韵律源点
 character:alice -> 角色:爱丽丝
 character:akane hino -> 角色:日野茜
 character:ibuki -> 角色:伊吹
@@ -8561,6 +8568,18 @@ character:yuri lowell -> 角色:由利·罗威尔
 character:flynn scifo -> 角色:弗林·西佛
 character:percival -> 角色:帕西瓦尔
 character:minami kotobuki -> 角色:寿美奈美
+character:zuo le -> 角色:左乐
+character:tosa -> 角色:土佐
+character:sorahoshi kirame -> 角色:空星煌
+character:suzumiya suzume -> 角色:雀宮すずめ
+character:teto kasane -> 角色:重音teto
+character:shu ouma -> 角色:樱满集
+character:hare menjoume -> 角色:校条祭
+character:vivian banshee -> 角色:薇薇安
+character:lain paterson -> 角色:兰·帕特森
+character:usugumo -> 角色:薄云
+character:sweety -> 角色:红豆
+character:eve -> 角色:伊芙
 group:1 -> 团队:1
 group:13 -> 团队:13
 group:27 -> 团队:27
@@ -21705,6 +21724,13 @@ group:rimu-chan chi -> 团队:りむちゃんち
 group:fukuneko mofumofu -> 团队:福猫モフモフ
 group:conium socrates -> 团队:ドクニンジンソクラテス
 group:masumasu soul gorilla -> 团队:ますますソウルゴリラ
+group:gachimochogura -> 团队:がちもちょぐら
+group:tsukigime -> 团队:月極
+group:hiyokokan -> 团队:ひよこ缶
+group:glowmercury -> 团队:GlowMercury
+group:alluvial comet -> 团队:藤川フレ
+group:negiumaya -> 团队:ねぎうま屋
+group:fuaku yuu -> 团队:不悪遊
 artist:2 -> 艺术家:2
 artist:7 -> 艺术家:7
 artist:8 -> 艺术家:8
@@ -21861,7 +21887,7 @@ artist:yuki higasinakano -> 艺术家:ゆーき東中野
 artist:nosada -> 艺术家:乃定
 artist:yukibuster z -> 艺术家:ユキバスターZ
 artist:roga -> 艺术家:RoGa
-artist:bonnari -> 艺术家:ぼんなり
+artist:bonnari -> 艺术家:ぼんなり | TATSUBON
 artist:komone ushio -> 艺术家:相音うしお
 artist:yuriko -> 艺术家:白河子
 artist:nanno koto -> 艺术家:南野琴
@@ -31574,7 +31600,7 @@ artist:sekihan -> 艺术家:せきはん
 artist:sekihara -> 艺术家:せきはら
 artist:sekino takehiro -> 艺术家:関野武弘
 artist:sekiyu -> 艺术家:石油
-artist:sella -> 艺术家:せら
+artist:sella -> 艺术家:世良
 artist:semahiro -> 艺术家:せまひろ
 artist:semimaru semi -> 艺术家:蝉丸せみ
 artist:semino yuu -> 艺术家:蝉のゆう
@@ -35490,6 +35516,15 @@ artist:sasaki yukinojo -> 艺术家:佐佐木雪之丞
 artist:msg -> 艺术家:益ギガス
 artist:tobe -> 艺术家:Tobe
 artist:tenkomori -> 艺术家:森てんこ
+artist:gachi mouchou -> 艺术家:ガチ盲腸
+artist:gyuunyuukeepaa -> 艺术家:牛乳ケーパー
+artist:kinoko gohan -> 艺术家:きのこごはん
+artist:asamiya kia -> 艺术家:麻宫骑亚
+artist:kashiwamori tama -> 艺术家:柏森たま。
+artist:pietro -> 艺术家:ぴえとろ
+artist:sukoyakagumi -> 艺术家:健康组
+artist:carpsukidayo -> 艺术家:吉本
+artist:negiuma -> 艺术家:ねぎうま
 cosplayer:otohara an -> Coser:乙原あん
 cosplayer:rioko -> Coser:凉凉子
 cosplayer:atsuki -> Coser:あつき
