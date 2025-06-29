@@ -2537,6 +2537,11 @@ parody:liars bar -> 原作:骗子酒吧
 parody:steam detectives -> 原作:快杰蒸汽侦探团
 parody:utau -> 原作:UTAU
 parody:arcaea -> 原作:韵律源点
+parody:hatsukoi zombie -> 原作:初恋僵尸
+parody:yarinaoshi reijou wa ryuutei heika wo kouryakuchuu -> 原作:重生大小姐正在攻略龙帝陛下
+parody:gakuen alice -> 原作:爱丽丝学园
+parody:a hat in time -> 原作:时光之帽
+parody:invader zim -> 原作:外星入侵者ZIM
 character:alice -> 角色:爱丽丝
 character:akane hino -> 角色:日野茜
 character:ibuki -> 角色:伊吹
@@ -8580,6 +8585,19 @@ character:lain paterson -> 角色:兰·帕特森
 character:usugumo -> 角色:薄云
 character:sweety -> 角色:红豆
 character:eve -> 角色:伊芙
+character:ameri azazel -> 角色:阿萨兹勒·艾梅莉
+character:mei ebino -> 角色:江火野芽衣
+character:outis -> 角色:奥提斯
+character:lilith -> 角色:莉莉丝
+character:ryoshu -> 角色:良秀
+character:arisa -> 角色:亚里沙
+character:irene -> 角色:艾丽妮
+character:feri al-fayed -> 角色:菲莉·阿尔法德
+character:mirabel aalton -> 角色:米拉贝尔·亚尔顿
+character:justine -> 角色:芮丝汀娜
+character:roselia millstein -> 角色:罗赛莉亚·米尔斯汀
+character:elaine auclair -> 角色:艾蕾因·奥克雷尔
+character:banri tada -> 角色:多田万里
 group:1 -> 团队:1
 group:13 -> 团队:13
 group:27 -> 团队:27
@@ -21731,6 +21749,9 @@ group:glowmercury -> 团队:GlowMercury
 group:alluvial comet -> 团队:藤川フレ
 group:negiumaya -> 团队:ねぎうま屋
 group:fuaku yuu -> 团队:不悪遊
+group:hyogashi aquarium -> 团队:氷菓子アクアリウム
+group:nico nico genki -> 团队:にこにこげんき
+group:fusen -> 团队:ふせん
 artist:2 -> 艺术家:2
 artist:7 -> 艺术家:7
 artist:8 -> 艺术家:8
@@ -35525,6 +35546,12 @@ artist:pietro -> 艺术家:ぴえとろ
 artist:sukoyakagumi -> 艺术家:健康组
 artist:carpsukidayo -> 艺术家:吉本
 artist:negiuma -> 艺术家:ねぎうま
+artist:rum raisin -> 艺术家:ラムレーズン
+artist:oku -> 艺术家:オク
+artist:samegami -> 艺术家:雨神
+artist:hinasumire -> 艺术家:ひなすみれ
+artist:takahashi mugi -> 艺术家:高橋むぎ
+artist:keihh -> 艺术家:Keihh
 cosplayer:otohara an -> Coser:乙原あん
 cosplayer:rioko -> Coser:凉凉子
 cosplayer:atsuki -> Coser:あつき
