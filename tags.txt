@@ -21752,6 +21752,8 @@ group:fuaku yuu -> 团队:不悪遊
 group:hyogashi aquarium -> 团队:氷菓子アクアリウム
 group:nico nico genki -> 团队:にこにこげんき
 group:fusen -> 团队:ふせん
+group:kaiten kikan -> 团队:回転キカン
+group:morigami no yashiro -> 团队:森神的社
 artist:2 -> 艺术家:2
 artist:7 -> 艺术家:7
 artist:8 -> 艺术家:8
@@ -35552,6 +35554,8 @@ artist:samegami -> 艺术家:雨神
 artist:hinasumire -> 艺术家:ひなすみれ
 artist:takahashi mugi -> 艺术家:高橋むぎ
 artist:keihh -> 艺术家:Keihh
+artist:rita -> 艺术家:りた
+artist:eggutarto -> 艺术家:エッグタルト
 cosplayer:otohara an -> Coser:乙原あん
 cosplayer:rioko -> Coser:凉凉子
 cosplayer:atsuki -> Coser:あつき
