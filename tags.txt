@@ -2542,6 +2542,8 @@ parody:yarinaoshi reijou wa ryuutei heika wo kouryakuchuu -> 原作:重生大小
 parody:gakuen alice -> 原作:爱丽丝学园
 parody:a hat in time -> 原作:时光之帽
 parody:invader zim -> 原作:外星入侵者ZIM
+parody:tower of god -> 原作:神之塔
+parody:kick buttowski suburban daredevil -> 原作:冒险王奇克
 character:alice -> 角色:爱丽丝
 character:akane hino -> 角色:日野茜
 character:ibuki -> 角色:伊吹
@@ -4247,7 +4249,7 @@ character:lucy ... yamagami -> 角色:山神露西【以下略】
 character:yutaka hasebe -> 角色:长谷部丰
 character:tomoki sakurai -> 角色:樱井智树
 character:ikaros -> 角色:伊卡洛斯
-character:nymph -> 角色:妮姆芙
+character:nymph -> 角色:妮姆芙/妮芙
 character:astraea -> 角色:阿斯特蕾亚
 character:chaos -> 角色:卡奥斯
 character:sohara mitsuki -> 角色:见月楚原
@@ -6923,7 +6925,7 @@ character:pa-15 -> 角色:PA-15 | 芙洛伦
 character:agent -> 角色:代理人
 character:welrod mkii -> 角色:维尔德MkⅡ
 character:ak-12 -> 角色:AK-12 | 露契娅
-character:an-94 -> 角色:AN-94 | 安提娅
+character:an-94 -> 角色:AN-94 | 埃芙 | 安提娅
 character:kalina -> 角色:格琳娜
 character:ump45 -> 角色:UMP45 | 莱娅
 character:vsk-94 -> 角色:VSK-94 | 妮基塔
@@ -6965,7 +6967,7 @@ character:st ar-15 -> 角色:ST AR-15
 character:m4a1 -> 角色:M4A1
 character:m4 sopmod ii -> 角色:M4 SOPMODII
 character:m16a1 -> 角色:M16A1 | 白烨戈
-character:ak-15 -> 角色:AK-15 | 艾尔文
+character:ak-15 -> 角色:AK-15 | 威玛西娜 | 艾尔文
 character:rpk-16 -> 角色:RPK-16 | 蕾娜特 | 恩布拉
 character:nagant revolver -> 角色:纳甘左轮 | 纳甘
 character:colt revolver -> 角色:柯尔特左轮
@@ -8161,7 +8163,7 @@ character:cure lillian -> 角色:猫屋敷雪
 character:cure nyammy -> 角色:猫屋敷麻友
 character:millia rage -> 角色:米莉亚·蕾姬
 character:kei karuizawa -> 角色:轻井泽惠
-character:an94 -> 角色:AN-94 | 安提娅
+character:an94 -> 角色:AN-94 | 埃芙 | 安提娅
 character:yuki-onna -> 角色:雪女
 character:makiatto -> 角色:玛琦朵
 character:kyouko machi -> 角色:町京子
@@ -8579,7 +8581,7 @@ character:sorahoshi kirame -> 角色:空星煌
 character:suzumiya suzume -> 角色:雀宮すずめ
 character:teto kasane -> 角色:重音teto
 character:shu ouma -> 角色:樱满集
-character:hare menjoume -> 角色:校条祭
+character:hare menjou -> 角色:校条祭
 character:vivian banshee -> 角色:薇薇安
 character:lain paterson -> 角色:兰·帕特森
 character:usugumo -> 角色:薄云
@@ -8598,6 +8600,15 @@ character:justine -> 角色:芮丝汀娜
 character:roselia millstein -> 角色:罗赛莉亚·米尔斯汀
 character:elaine auclair -> 角色:艾蕾因·奥克雷尔
 character:banri tada -> 角色:多田万里
+character:inojin yamanaka -> 角色:山中井阵
+character:kendall perkins -> 角色:肯黛尔·柏金
+character:amane suou -> 角色:周防天音
+character:eblana dublinn -> 角色:死芒（爱布拉娜·都柏林）
+character:yukime -> 角色:雪女
+character:haruhime sanjouno -> 角色:春姬
+character:sharon holygrail -> 角色:莎朗·霍莉格雷尔
+character:kisara -> 角色:木更
+character:anira -> 角色:阿妮拉
 group:1 -> 团队:1
 group:13 -> 团队:13
 group:27 -> 团队:27
@@ -19901,7 +19912,7 @@ group:tk-brand -> 团队:TK-Brand
 group:tk-bros -> 团队:TK-BROS
 group:tkciao -> 团队:tkciao
 group:tkspower -> 团队:TKSpower
-group:tlg -> 团队:ねこのこね
+group:tlg -> 团队:TLG
 group:tmg -> 团队:TMG
 group:tmtkdou -> 团队:TMTK堂
 group:tnc. -> 团队:TNC.
@@ -21754,6 +21765,10 @@ group:nico nico genki -> 团队:にこにこげんき
 group:fusen -> 团队:ふせん
 group:kaiten kikan -> 团队:回転キカン
 group:morigami no yashiro -> 团队:森神的社
+group:line out -> 团队:ラインアウト
+group:tamazushi -> 团队:珠寿司
+group:haizuriya -> 团队:はいずり屋
+group:tetsuyashiki -> 团队:铁屋敷
 artist:2 -> 艺术家:2
 artist:7 -> 艺术家:7
 artist:8 -> 艺术家:8
@@ -26247,7 +26262,7 @@ artist:bouko -> 艺术家:bouko
 artist:bourne -> 艺术家:ボーン
 artist:bouto -> 艺术家:帽都
 artist:bov -> 艺术家:bov
-artist:bowalia -> 艺术家:タケユウ
+artist:bowalia -> 艺术家:bowalia
 artist:bowcan -> 艺术家:ぼーかん
 artist:bowieknife -> 艺术家:ボウイナイフ
 artist:brave -> 艺术家:brave
@@ -35556,6 +35571,9 @@ artist:takahashi mugi -> 艺术家:高橋むぎ
 artist:keihh -> 艺术家:Keihh
 artist:rita -> 艺术家:りた
 artist:eggutarto -> 艺术家:エッグタルト
+artist:flasher -> 艺术家:ふらっしゃー
+artist:zurita -> 艺术家:ずり太
+artist:onkyu -> 艺术家:オンキュウ
 cosplayer:otohara an -> Coser:乙原あん
 cosplayer:rioko -> Coser:凉凉子
 cosplayer:atsuki -> Coser:あつき
@@ -35678,6 +35696,7 @@ cosplayer:zhuimingyou -> Coser:日奈娇
 cosplayer:shiraga yanko -> Coser:Shiraga Yanko
 cosplayer:byoru -> Coser:Byoru
 cosplayer:mianbing xianer -> Coser:面饼仙儿
+cosplayer:una cosplayer -> Coser:角色扮演者
 male:age progression -> 男性:年龄增长
 male:age regression -> 男性:返老还童
 male:dilf -> 男性:熟男
@@ -36877,13 +36896,13 @@ other:comic -> 其他:西方漫画
 other:extraneous ads -> 其他:外部广告
 other:figure -> 其他:手办
 other:full color -> 其他:全彩
-other:game sprite -> 其他:像素画
 other:how to -> 其他:教程
 other:multipanel sequence -> 其他:多格序列
 other:multi-work series -> 其他:系列作品
 other:non-h game manual -> 其他:无H游戏手册
 other:non-h imageset -> 其他:无H图片集
 other:paperchild -> 其他:纸片人
+other:pixel art -> 其他:像素画
 other:redraw -> 其他:重绘
 other:screenshots -> 其他:截图
 other:sketch lines -> 其他:线稿
@@ -36925,5 +36944,6 @@ other:kodomo only -> 其他:仅儿童
 other:no penetration -> 其他:无插入
 other:nudity only -> 其他:仅裸体
 other:object insertion only -> 其他:仅物体插入
+other:classroom -> 其他:教室
 other:onsen -> 其他:温泉
 other:sentou -> 其他:浴场
