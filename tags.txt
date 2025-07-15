@@ -2544,6 +2544,12 @@ parody:a hat in time -> 原作:时光之帽
 parody:invader zim -> 原作:外星入侵者ZIM
 parody:tower of god -> 原作:神之塔
 parody:kick buttowski suburban daredevil -> 原作:冒险王奇克
+parody:watashi ga koibito ni nareru wake nai jan muri muri muri ja nakatta -> 原作:我们不可能成为恋人！绝对不行。
+parody:mamahaha no tsurego ga motokano datta -> 原作:继母的拖油瓶是我的前女友
+parody:hikikomari kyuuketsuki no monmon -> 原作:家里蹲吸血姬的苦闷
+parody:gimai seikatsu -> 原作:关于我在无意间被隔壁的天使变成废柴这件事
+parody:kakkou no iinazuke -> 原作:杜鹃的婚约
+parody:shiunji-ke no kodomotachi -> 原作:紫云寺家的兄弟姐妹
 character:alice -> 角色:爱丽丝
 character:akane hino -> 角色:日野茜
 character:ibuki -> 角色:伊吹
@@ -8609,6 +8615,17 @@ character:haruhime sanjouno -> 角色:春姬
 character:sharon holygrail -> 角色:莎朗·霍莉格雷尔
 character:kisara -> 角色:木更
 character:anira -> 角色:阿妮拉
+character:buena vista -> 角色:迷人景致
+character:win variation -> 角色:凯旋芭蕾
+character:yume irido -> 角色:伊理户结女
+character:uta -> 角色:乌塔
+character:terakomari gandesblood -> 角色:黛拉可玛莉·岗德森布莱德
+character:nihilego -> 角色:虚吾伊德
+character:saki ayase -> 角色:绫濑沙季
+character:erika amano -> 角色:天野艾丽嘉
+character:sachi umino -> 角色:海野凪
+character:banri shiunji -> 角色:紫云寺万里
+character:la folia rihavein -> 角色:拉·芙利亚·利哈瓦因
 group:1 -> 团队:1
 group:13 -> 团队:13
 group:27 -> 团队:27
@@ -16252,7 +16269,7 @@ group:mercurochrome -> 团队:ま～きゅろ
 group:meringue -> 团队:めれんげ
 group:merino -> 团队:めりの
 group:merkmal -> 团队:めるくまーる
-group:meromero melon -> 团队:xoxoメロン
+group:meromero melon -> 团队:xoxo蜜瓜
 group:meromerofactory xl -> 团队:メロメロファクトリーXL
 group:meronpanchu -> 团队:めろんぱんちゅ
 group:meroro -> 团队:meroro
@@ -21769,6 +21786,26 @@ group:line out -> 团队:ラインアウト
 group:tamazushi -> 团队:珠寿司
 group:haizuriya -> 团队:はいずり屋
 group:tetsuyashiki -> 团队:铁屋敷
+group:shioyamachicurry -> 团队:塩屋町curry
+group:megitune works -> 团队:めぎつねワークス
+group:sugar milk syndrome -> 团队:糖乳病
+group:haruiro -> 团队:ハルイロ
+group:kitashirakawa die hard -> 团队:北白川虎胆龙威
+group:harvest moon -> 团队:丰收之月
+group:bukimi no tanigoto aishitai -> 团队:せんちめんたるはやし
+group:pressed glass -> 团队:プレスドグラス
+group:k.cap inc. -> 团队:椎日けえ
+group:kijitora tei -> 团队:きじとら亭
+group:sashi minasu -> 团队:さしみなす
+group:gunyuukakkyo -> 团队:グンユウカッキョ
+group:dehumidification room -> 团队:除湿部屋
+group:fuwafuwa party night -> 团队:ふわふわぱーりない
+group:tosen heavy industry -> 团队:东泉重工
+group:samurai gekko -> 团队:サムライゲッコー
+group:montage -> 团队:モンタージュ
+group:rakura club -> 团队:楽らクラブ
+group:itohanana -> 团队:イトハナナ
+group:shirasudon -> 团队:しらすどん
 artist:2 -> 艺术家:2
 artist:7 -> 艺术家:7
 artist:8 -> 艺术家:8
@@ -23054,7 +23091,7 @@ artist:butcha-u -> 艺术家:ブッチャーU
 artist:nekomata naomi -> 艺术家:ねこまたなおみ
 artist:kiichi -> 艺术家:きいち
 artist:norve watanabe -> 艺术家:なーべ渡辺
-artist:jin -> 艺术家:Jin
+artist:jin -> 艺术家:迅
 artist:luv p -> 艺术家:Luv P
 artist:rozer -> 艺术家:ROZER
 artist:mame danuki -> 艺术家:まめだぬき
@@ -26943,7 +26980,7 @@ artist:fumikiri -> 艺术家:ふみきり
 artist:fumio -> 艺术家:フミオ
 artist:fumitani yasunori -> 艺术家:フミタニヤスノリ
 artist:fumiya -> 艺术家:文哉
-artist:fumizuki misoka -> 艺术家:文月みそか
+artist:fumizuki misoka -> 艺术家:文月晦日 | 文月みそか
 artist:fumotono mikoto -> 艺术家:梺乃みこと
 artist:funabori nariaki -> 艺术家:船堀斉晃
 artist:funakura -> 艺术家:ふなくら
@@ -35574,6 +35611,27 @@ artist:eggutarto -> 艺术家:エッグタルト
 artist:flasher -> 艺术家:ふらっしゃー
 artist:zurita -> 艺术家:ずり太
 artist:onkyu -> 艺术家:オンキュウ
+artist:momico -> 艺术家:もみ子
+artist:shioya coluli -> 艺术家:塩屋こるり
+artist:mago xiejin -> 艺术家:魔术师邪金
+artist:futarou -> 艺术家:フタロウ
+artist:haruna hisui -> 艺术家:春名翡翠
+artist:kusunoki majiri -> 艺术家:やまのみき
+artist:burisuke -> 艺术家:ぶりすけ
+artist:kouda hayato -> 艺术家:国府田隼人
+artist:sanada ikki -> 艺术家:真田一辉
+artist:rarigo -> 艺术家:ラリったゴリラ
+artist:kakido -> 艺术家:かきど
+artist:monaka ouji -> 艺术家:モナカ王子
+artist:sakura no roko -> 艺术家:櫻ノろこ
+artist:baisi -> 艺术家:白糸
+artist:gumpuu -> 艺术家:グンプウ
+artist:shigatsu shiduki -> 艺术家:四月しづき
+artist:takato suzunosuke -> 艺术家:たかとうすずのすけ
+artist:rakura -> 艺术家:らくら
+artist:ranfu -> 艺术家:らんふ
+artist:nagito -> 艺术家:なぎと
+artist:hasumi -> 艺术家:はすみ
 cosplayer:otohara an -> Coser:乙原あん
 cosplayer:rioko -> Coser:凉凉子
 cosplayer:atsuki -> Coser:あつき
