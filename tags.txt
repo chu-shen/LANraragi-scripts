@@ -2551,6 +2551,10 @@ parody:gimai seikatsu -> 原作:关于我在无意间被隔壁的天使变成废
 parody:kakkou no iinazuke -> 原作:杜鹃的婚约
 parody:shiunji-ke no kodomotachi -> 原作:紫云寺家的兄弟姐妹
 parody:kamisama ni natta hi -> 原作:成神之日
+parody:total drama island -> 原作:孤岛生存大乱斗
+parody:kill blue -> 原作:杀手青春
+parody:konohana kitan -> 原作:此花绮谭
+parody:grisaia phantom trigger -> 原作:灰色：幻影扳机
 character:alice -> 角色:爱丽丝
 character:akane hino -> 角色:日野茜
 character:ibuki -> 角色:伊吹
@@ -8630,6 +8634,14 @@ character:la folia rihavein -> 角色:拉·芙利亚·利哈瓦因
 character:mydei -> 角色:万敌
 character:chisa -> 角色:千咲
 character:baizhi -> 角色:白芷
+character:alice thymefield -> 角色:爱丽丝·泰姆菲尔德
+character:noren mitsuoka -> 角色:蜜冈乃莲
+character:hermione -> 角色:赫敏
+character:empress -> 角色:仲裁者·恩普雷斯·III
+character:san jacinto -> 角色:圣哈辛托
+character:michiru matsushima -> 角色:松岛满
+character:kazuki kazami -> 角色:风见一姬
+character:yuuji kazami -> 角色:风见雄二
 group:1 -> 团队:1
 group:13 -> 团队:13
 group:27 -> 团队:27
@@ -21810,6 +21822,7 @@ group:montage -> 团队:モンタージュ
 group:rakura club -> 团队:楽らクラブ
 group:itohanana -> 团队:イトハナナ
 group:shirasudon -> 团队:しらすどん
+group:akashiba honpo -> 团队:赤柴本舗
 artist:2 -> 艺术家:2
 artist:7 -> 艺术家:7
 artist:8 -> 艺术家:8
@@ -25434,7 +25447,7 @@ artist:hamadamiku -> 艺术家:浜田みく
 artist:nanasaki -> 艺术家:七崎
 artist:satsuki misuzu -> 艺术家:皐月深鈴
 artist:haneru -> 艺术家:HaneRu
-artist:manbou -> 艺术家:マンボー
+artist:manbo -> 艺术家:マンボー
 artist:mokuseirokku -> 艺术家:木星ろっく
 artist:ment -> 艺术家:ment
 artist:nardack -> 艺术家:Nardack
@@ -35639,6 +35652,15 @@ artist:hasumi -> 艺术家:はすみ
 artist:ikisugi shokudou -> 艺术家:イキスギ食堂
 artist:robo mikan -> 艺术家:ロボみかん
 artist:big bomber -> 艺术家:ビッグボンバー
+artist:kongjian cuoluan -> 艺术家:空间错乱
+artist:gustave dore -> 艺术家:古斯塔夫•多雷
+artist:miwa kitsune -> 艺术家:三輪きつね
+artist:naosuke -> 艺术家:星ナオスケ
+artist:igusa -> 艺术家:胃草
+artist:cobaco mimiz -> 艺术家:小箱みみず
+artist:noda guri -> 艺术家:野田ぐり
+artist:mochimochi yusaku -> 艺术家:餅望ゆさく
+artist:kadose ara -> 艺术家:門瀬粗
 cosplayer:otohara an -> Coser:乙原あん
 cosplayer:rioko -> Coser:凉凉子
 cosplayer:atsuki -> Coser:あつき
