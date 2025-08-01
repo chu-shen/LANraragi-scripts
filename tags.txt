@@ -484,7 +484,7 @@ parody:gunsmith cats -> 原作:猫眼女枪手
 parody:puzzle and dragons -> 原作:智龙迷城
 parody:senki zesshou symphogear -> 原作:战姬绝唱Symphogear
 parody:shaman king -> 原作:通灵王
-parody:gegege no kitarou -> 原作:怪怪怪的鬼太郎
+parody:gegege no kitarou -> 原作:咯咯咯的鬼太郎
 parody:marmalade boy -> 原作:橘子酱男孩
 parody:esper mami -> 原作:超能力魔美
 parody:fushigi no umi no nadia -> 原作:蓝宝石之谜
@@ -8642,6 +8642,10 @@ character:san jacinto -> 角色:圣哈辛托
 character:michiru matsushima -> 角色:松岛满
 character:kazuki kazami -> 角色:风见一姬
 character:yuuji kazami -> 角色:风见雄二
+character:shimanto -> 角色:四万十
+character:agnes -> 角色:阿妮埃斯
+character:hanako-san -> 角色:花子小姐
+character:kitarou -> 角色:鬼太郎
 group:1 -> 团队:1
 group:13 -> 团队:13
 group:27 -> 团队:27
@@ -35661,6 +35665,10 @@ artist:cobaco mimiz -> 艺术家:小箱みみず
 artist:noda guri -> 艺术家:野田ぐり
 artist:mochimochi yusaku -> 艺术家:餅望ゆさく
 artist:kadose ara -> 艺术家:門瀬粗
+artist:yoneyama mai -> 艺术家:米山舞
+artist:shiben -> 艺术家:史本
+artist:ctrlz77 -> 艺术家:ctrlz77
+artist:mochida koyubi -> 艺术家:餅田こゆび
 cosplayer:otohara an -> Coser:乙原あん
 cosplayer:rioko -> Coser:凉凉子
 cosplayer:atsuki -> Coser:あつき
@@ -35784,6 +35792,7 @@ cosplayer:shiraga yanko -> Coser:Shiraga Yanko
 cosplayer:byoru -> Coser:Byoru
 cosplayer:mianbing xianer -> Coser:面饼仙儿
 cosplayer:una cosplayer -> Coser:角色扮演者
+cosplayer:fangqiao yepo -> Coser:坊桥夜泊
 male:age progression -> 男性:年龄增长
 male:age regression -> 男性:返老还童
 male:dilf -> 男性:熟男
