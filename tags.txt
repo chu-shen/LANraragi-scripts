@@ -8646,6 +8646,14 @@ character:shimanto -> 角色:四万十
 character:agnes -> 角色:阿妮埃斯
 character:hanako-san -> 角色:花子小姐
 character:kitarou -> 角色:鬼太郎
+character:cyrene -> 角色:昔涟
+character:mukuro hoshimiya -> 角色:星宫六喰
+character:sophia valentine -> 角色:索菲娅•瓦伦丁
+character:phrolova -> 角色:弗洛洛
+character:kiyohime lancer -> 角色:清姬Alter [Lancer]
+character:yuzuha ukinami -> 角色:浮波柚叶
+character:aino -> 角色:爱诺
+character:kriemhild -> 角色:克里姆希尔德
 group:1 -> 团队:1
 group:13 -> 团队:13
 group:27 -> 团队:27
@@ -8759,7 +8767,7 @@ group:atelier sakura team.ntr -> 团队:樱花工作室 Team.NTR
 group:atelier sakura mount position -> 团队:樱花工作室 Mount Position
 group:atelier sakura extra -> 团队:樱花工作室 eXtra
 group:abel software -> 团队:AbelSoftware
-group:type-moon -> 团队:🌙TYPE-MOON
+group:type-moon -> 团队:TYPE-MOON
 group:nitroplus -> 团队:Nitro+
 group:5pb -> 团队:5pb.
 group:aniseed -> 团队:AniSeed
@@ -21827,6 +21835,8 @@ group:rakura club -> 团队:楽らクラブ
 group:itohanana -> 团队:イトハナナ
 group:shirasudon -> 团队:しらすどん
 group:akashiba honpo -> 团队:赤柴本舗
+group:yagihitsuji nikusenmonten -> 团队:山羊羊肉専門店
+group:mara nekonabe -> 团队:麻辣猫鍋
 artist:2 -> 艺术家:2
 artist:7 -> 艺术家:7
 artist:8 -> 艺术家:8
@@ -25006,7 +25016,7 @@ artist:kuroharuto -> 艺术家:くろはると
 artist:oomori -> 艺术家:大盛り
 artist:yasson yoshiyuki -> 艺术家:やっそん義之
 artist:hiyori mizuki -> 艺术家:陽寄瑞貴
-artist:fushoku -> 艺术家:腐蝕
+artist:fushoku -> 艺术家:腐蚀
 artist:coupe -> 艺术家:こっぺ
 artist:panchira steak -> 艺术家:ぱんちらステーキ
 artist:saizu nitou gunsou -> 艺术家:才津二等軍曹
@@ -32241,7 +32251,7 @@ artist:suzumiya kazuki -> 艺术家:涼宮和貴
 artist:suzumiya kiriha -> 艺术家:鈴宮きりは
 artist:suzumori uina -> 艺术家:鈴森ういな
 artist:suzune rai -> 艺术家:鈴根らい
-artist:suzune yuuji -> 艺术家:鈴音ゆうじ
+artist:suzune yuuji -> 艺术家:鈴音ゆうじ | おいもとじろう
 artist:suzunokei -> 艺术家:スズノケイ
 artist:suzunomoku -> 艺术家:すずのもく
 artist:suzurame -> 艺术家:スズラメ
@@ -35669,6 +35679,10 @@ artist:yoneyama mai -> 艺术家:米山舞
 artist:shiben -> 艺术家:史本
 artist:ctrlz77 -> 艺术家:ctrlz77
 artist:mochida koyubi -> 艺术家:餅田こゆび
+artist:yuimisu -> 艺术家:ゆいみす
+artist:yagihitsuji -> 艺术家:山羊羊
+artist:okkuu tarou -> 艺术家:億劫太郎
+artist:uniyukke -> 艺术家:雲丹肉膾
 cosplayer:otohara an -> Coser:乙原あん
 cosplayer:rioko -> Coser:凉凉子
 cosplayer:atsuki -> Coser:あつき
