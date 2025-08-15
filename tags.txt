@@ -8654,6 +8654,18 @@ character:kiyohime lancer -> 角色:清姬Alter [Lancer]
 character:yuzuha ukinami -> 角色:浮波柚叶
 character:aino -> 角色:爱诺
 character:kriemhild -> 角色:克里姆希尔德
+character:enkidu -> 角色:恩奇都
+character:violet parr -> 角色:巴小倩
+character:yuna -> 角色:尤娜
+character:she-hulk -> 角色:女浩克
+character:manchester -> 角色:曼彻斯特
+character:suffren -> 角色:絮弗伦
+character:evernight -> 角色:长夜月
+character:ai sorakado -> 角色:空门蓝
+character:tsumugi wenders -> 角色:䌷文德斯
+character:gneisenau -> 角色:格奈森瑙
+character:albion -> 角色:阿尔比恩
+character:imadake dabuchi tabemi -> 角色:现在就吃双层芝士汉堡
 group:1 -> 团队:1
 group:13 -> 团队:13
 group:27 -> 团队:27
@@ -21837,6 +21849,18 @@ group:shirasudon -> 团队:しらすどん
 group:akashiba honpo -> 团队:赤柴本舗
 group:yagihitsuji nikusenmonten -> 团队:山羊羊肉専門店
 group:mara nekonabe -> 团队:麻辣猫鍋
+group:tarou project -> 团队:太郎プロジェクト
+group:tgcomics -> 团队:TG Comics
+group:yoneya -> 团队:よねや
+group:tokonatsu sanshouuo -> 团队:常夏山椒魚
+group:toriaezu milk -> 团队:とりあえずミルク
+group:engawatei -> 团队:えんがわ亭
+group:sankaku batsumaru -> 团队:三角罰丸
+group:sarasara chazuke -> 团队:さらさらちゃづけ
+group:bonnou sousaku -> 团队:煩悩創作
+group:mori no hito -> 团队:森の人
+group:yuunagi promenade -> 团队:夕凪プロムナード
+group:nekketsu nezumojuku -> 团队:熱血ねずも塾
 artist:2 -> 艺术家:2
 artist:7 -> 艺术家:7
 artist:8 -> 艺术家:8
@@ -34900,7 +34924,7 @@ artist:sheryama -> 艺术家:シャーやま
 artist:hoshara -> 艺术家:ほしゃら
 artist:panna -> 艺术家:ぱんな
 artist:sabuustar -> 艺术家:さぶ～☆
-artist:mokuyama hito -> 艺术家:木山ひと
+artist:mokuyama hito -> 艺术家:木山ヒト
 artist:kurotsuki machi -> 艺术家:黒月マチ
 artist:mameneko -> 艺术家:まめ猫
 artist:richard bahman -> 艺术家:リヒャルト・バフマン
@@ -35683,6 +35707,25 @@ artist:yuimisu -> 艺术家:ゆいみす
 artist:yagihitsuji -> 艺术家:山羊羊
 artist:okkuu tarou -> 艺术家:億劫太郎
 artist:uniyukke -> 艺术家:雲丹肉膾
+artist:kuroda shohei -> 艺术家:阿賀まりの
+artist:ore tarou -> 艺术家:俺太郎
+artist:jab -> 艺术家:JAB
+artist:seiren -> 艺术家:Seiren
+artist:nill -> 艺术家:Nill
+artist:tom reynolds -> 艺术家:Tom Reynolds
+artist:tgtrinity -> 艺术家:TGTrinity
+artist:thetransformistress -> 艺术家:TheTransformistress
+artist:pandoras box -> 艺术家:Pandora's Box
+artist:ruuwanmm -> 艺术家:るぅ1mm
+artist:chirota rochi -> 艺术家:チロ田ろち
+artist:pegina -> 艺术家:ぺぎな
+artist:anabuki bouhatei -> 艺术家:穴吹防波堤
+artist:sushizumi -> 艺术家:スシズミ
+artist:engawa -> 艺术家:えんがわ
+artist:dosukoi annin -> 艺术家:どすこい杏仁
+artist:torifune -> 艺术家:トリフネ
+artist:sacha -> 艺术家:さちゃ
+artist:calamity -> 艺术家:カラミティ
 cosplayer:otohara an -> Coser:乙原あん
 cosplayer:rioko -> Coser:凉凉子
 cosplayer:atsuki -> Coser:あつき
@@ -35807,6 +35850,7 @@ cosplayer:byoru -> Coser:Byoru
 cosplayer:mianbing xianer -> Coser:面饼仙儿
 cosplayer:una cosplayer -> Coser:角色扮演者
 cosplayer:fangqiao yepo -> Coser:坊桥夜泊
+cosplayer:jiuqi -> Coser:九柒喵
 male:age progression -> 男性:年龄增长
 male:age regression -> 男性:返老还童
 male:dilf -> 男性:熟男
@@ -36041,6 +36085,7 @@ male:piss drinking -> 男性:饮尿
 male:rimjob -> 男性:舔肛
 male:saliva -> 男性:唾液
 male:smoking -> 男性:吸烟🚬
+male:split tongue -> 男性:分叉舌
 male:tooth brushing -> 男性:刷牙
 male:unusual teeth -> 男性:异齿
 male:vomit -> 男性:呕吐🤮
@@ -36607,6 +36652,7 @@ female:piss drinking -> 女性:饮尿
 female:rimjob -> 女性:舔肛
 female:saliva -> 女性:唾液
 female:smoking -> 女性:吸烟🚬
+female:split tongue -> 女性:分叉舌
 female:tooth brushing -> 女性:刷牙
 female:unusual teeth -> 女性:异齿
 female:vomit -> 女性:呕吐🤮
@@ -37054,6 +37100,8 @@ other:kodomo only -> 其他:仅儿童
 other:no penetration -> 其他:无插入
 other:nudity only -> 其他:仅裸体
 other:object insertion only -> 其他:仅物体插入
+other:bathing room -> 其他:浴室
+other:beach -> 其他:沙滩
 other:classroom -> 其他:教室
 other:onsen -> 其他:温泉
 other:sentou -> 其他:浴场
