@@ -1,6 +1,7 @@
 rows:female -> 内容索引:女性
 rows:male -> 内容索引:男性
 rows:mixed -> 内容索引:混合
+rows:location -> 内容索引:地点
 rows:language -> 内容索引:语言
 rows:other -> 内容索引:其他
 rows:group -> 内容索引:团队
@@ -123,7 +124,7 @@ parody:little busters -> 原作:Little Busters!⚾🐈
 parody:rewrite -> 原作:Rewrite
 parody:ore no imouto ga konna ni kawaii wake ga nai -> 原作:我的妹妹不可能那么可爱
 parody:kantai collection -> 原作:舰队Collection
-parody:pokemon -> 原作:精灵宝可梦
+parody:pokemon -> 原作:宝可梦
 parody:higurashi no naku koro ni -> 原作:寒蝉鸣泣之时🔪
 parody:saki -> 原作:天才麻将少女🀄️
 parody:puella magi madoka magica -> 原作:魔法少女小圆
@@ -756,7 +757,7 @@ parody:the sims -> 原作:模拟人生
 parody:the big o -> 原作:魅影巨神
 parody:the lion king -> 原作:狮子王
 parody:frozen -> 原作:冰雪奇缘
-parody:mortal kombat -> 原作:格斗之王
+parody:mortal kombat -> 原作:真人快打
 parody:aladdin -> 原作:阿拉丁
 parody:the little mermaid -> 原作:小美人鱼
 parody:atlantis the lost empire -> 原作:亚特兰蒂斯：失落的帝国
@@ -2555,6 +2556,15 @@ parody:total drama island -> 原作:孤岛生存大乱斗
 parody:kill blue -> 原作:杀手青春
 parody:konohana kitan -> 原作:此花绮谭
 parody:grisaia phantom trigger -> 原作:灰色：幻影扳机
+parody:b-robo kabutack -> 原作:铁甲小宝
+parody:perfect blue -> 原作:未麻的部屋
+parody:wreck it ralph -> 原作:无敌破坏王
+parody:ruby gillman teenage kraken -> 原作:变身吉妹
+parody:clarence -> 原作:我爱阿噗
+parody:elden ring nightreign -> 原作:艾尔登法环黑夜君临
+parody:black survival -> 原作:黑色幸存者
+parody:ruri no houseki -> 原作:琉璃的宝石
+parody:kawarazaki-ke no ichizoku -> 原作:河原崎家的一族
 character:alice -> 角色:爱丽丝
 character:akane hino -> 角色:日野茜
 character:ibuki -> 角色:伊吹
@@ -7050,7 +7060,7 @@ character:crow armbrust -> 角色:克洛·安布斯特
 character:yshtola rhul -> 角色:雅·修特拉·路尔
 character:fine motion -> 角色:美妙姿势
 character:air groove -> 角色:气槽
-character:matikane tannhauser -> 角色:待兼诗歌剧
+character:matikanetannhauser -> 角色:待兼诗歌剧
 character:ash ketchum -> 角色:小智
 character:jirachi -> 角色:基拉祈
 character:mew -> 角色:梦幻
@@ -7071,7 +7081,7 @@ character:illumi zoldyck -> 角色:伊路米·揍敌客
 character:charybdis -> 角色:卡律布狄斯
 character:elbe -> 角色:易北
 character:anchorage -> 角色:安克雷奇
-character:jade -> 角色:亚德
+character:jade -> 角色:翡翠|洁德
 character:scylla -> 角色:斯库拉
 character:algerie -> 角色:阿尔及利亚
 character:erika -> 角色:莉佳
@@ -7777,7 +7787,7 @@ character:suzune horikita -> 角色:堀北铃音
 character:fauna -> 角色:塞莱希·法娜
 character:momo ayase -> 角色:绫濑桃
 character:andrew graves -> 角色:安德鲁·格雷夫斯
-character:mrs. graves -> 角色:格雷夫斯太太
+character:renee graves -> 角色:蕾妮·格雷夫斯
 character:ashley graves -> 角色:阿什利·格雷夫斯
 character:greythroat -> 角色:灰喉
 character:pepe -> 角色:佩佩
@@ -8666,6 +8676,37 @@ character:tsumugi wenders -> 角色:䌷文德斯
 character:gneisenau -> 角色:格奈森瑙
 character:albion -> 角色:阿尔比恩
 character:imadake dabuchi tabemi -> 角色:现在就吃双层芝士汉堡
+character:suzumi morizuki -> 角色:守月铃美
+character:shiki kamiyama -> 角色:神山识
+character:miki nomura -> 角色:野村美希
+character:miki nakano -> 角色:中野美树
+character:mima kirigoe -> 角色:雾越未麻
+character:cerydra -> 角色:刻律德菈
+character:hysilens -> 角色:海瑟音
+character:mast -> 角色:马斯特
+character:narciso anasui -> 角色:纳鲁西索·安纳苏
+character:patrick star -> 角色:派大星
+character:karen -> 角色:凯伦
+character:squidward tentacles -> 角色:章鱼哥
+character:pearl krabs -> 角色:珍珍
+character:man ray -> 角色:射线恶魔
+character:pingping -> 角色:萍萍
+character:kang-jin star -> 角色:亢金龙
+character:rakshasi -> 角色:铁扇公主
+character:professor oak -> 角色:大木博士
+character:vanellope von schweetz -> 角色:云妮洛普·凡史威兹
+character:taffyta muttonfudge -> 角色:太妃糖
+character:massachusetts -> 角色:马萨诸塞
+character:kongiku -> 角色:绀菊
+character:okoi -> 角色:阿恋
+character:tomoe sashiro -> 角色:佐城智惠
+character:chien wu -> 角色:建武
+character:sindel -> 角色:辛黛尔
+character:mileena -> 角色:美莲娜
+character:cassie cage -> 角色:凯西・凯吉
+character:sonya blade -> 角色:索尼娅・布雷德
+character:meguru inaba -> 角色:因幡巡
+character:rurudo lion -> 角色:Rurudo Lion
 group:1 -> 团队:1
 group:13 -> 团队:13
 group:27 -> 团队:27
@@ -21861,6 +21902,24 @@ group:bonnou sousaku -> 团队:煩悩創作
 group:mori no hito -> 团队:森の人
 group:yuunagi promenade -> 团队:夕凪プロムナード
 group:nekketsu nezumojuku -> 团队:熱血ねずも塾
+group:yawaraka toge robot -> 团队:やわらかトゲロボット
+group:manjuu kowai -> 团队:まんじゅうこわい
+group:natto cola -> 团队:納豆コーラ
+group:aizuki amagasaten -> 团队:藍月雨傘店
+group:sin mal-chan doukoukai -> 团队:シン·マールちゃん同好会
+group:happy mayonnaise -> 团队:ハッピーマヨネーズ
+group:echie kokufuku aka -> 团队:えち絵克服アカ
+group:shirokujichu -> 团队:白九時中
+group:kairaku -> 团队:快楽
+group:petra-beta -> 团队:Petra-β
+group:ray-raw -> 团队:Ray-Raw
+group:paiwohasa-mu -> 团队:パイオハサーム
+group:q doujin -> 团队:Q同人
+group:tooka chaya -> 团队:十日茶屋
+group:arumike -> 团队:あるみ家
+group:raid socks -> 团队:レイドソックス
+group:neko no mimi -> 团队:ねこのみみ
+group:maron shugi -> 团队:マロン主義
 artist:2 -> 艺术家:2
 artist:7 -> 艺术家:7
 artist:8 -> 艺术家:8
@@ -22938,7 +22997,7 @@ artist:alp -> 艺术家:あるぷ
 artist:chiba toshirou -> 艺术家:チバトシロウ
 artist:choco pahe -> 艺术家:チョコぱへ
 artist:hal -> 艺术家:HAL
-artist:haruhisky -> 艺术家:春日喜欢
+artist:haruhisky -> 艺术家:はるきち
 artist:ichinomiya yuu -> 艺术家:一宮夕羽
 artist:inago -> 艺术家:INAGO
 artist:maki daikichi -> 艺术家:牧だいきち
@@ -24794,7 +24853,7 @@ artist:negom -> 艺术家:ネゴム
 artist:opanchu -> 艺术家:おぱんちゅ
 artist:xion -> 艺术家:Xion
 artist:tomoki tomonori -> 艺术家:ともきとものり
-artist:pistonring nishizawa -> 艺术家:西泽みずき
+artist:pistonring nishizawa -> 艺术家:西泽水木
 artist:kokuryuugan -> 艺术家:黑龙眼
 artist:kazakami sudare -> 艺术家:かざかみすだれ
 artist:paryi -> 艺术家:帕里
@@ -25469,7 +25528,7 @@ artist:testame -> 艺术家:ツリサス
 artist:jj -> 艺术家:jj
 artist:sesena yau -> 艺术家:せせなやう
 artist:cai pi jun -> 艺术家:菜さん
-artist:hara -> 艺术家:はらへら（へら）
+artist:hara -> 艺术家:はらへら
 artist:nenobi -> 艺术家:子野日
 artist:maki hideto -> 艺术家:牧秀人
 artist:sahara ikkou -> 艺术家:佐原一光
@@ -30376,7 +30435,7 @@ artist:narukami ginryu -> 艺术家:鳴神銀龍
 artist:narukami x -> 艺术家:鳴神X
 artist:narumi -> 艺术家:ナルみ
 artist:narumi meiko -> 艺术家:鳴海鳴子
-artist:narumi yuu -> 艺术家:鸣海优
+artist:narumi yuu -> 艺术家:成海优
 artist:narusawa aya -> 艺术家:鳴沢綾
 artist:narusawa sora -> 艺术家:成沢 空
 artist:naruse -> 艺术家:なるせ
@@ -30800,7 +30859,6 @@ artist:ohsugi yukihiro -> 艺术家:大杉 ゆきひろ
 artist:ohtsuki suzuki -> 艺术家:大槻涼樹
 artist:oimo -> 艺术家:おいも
 artist:oimori yura -> 艺术家:及森ゆうら
-artist:oimoto jirou -> 艺术家:おいもとじろう
 artist:ojii -> 艺术家:おじい
 artist:ojii-chan -> 艺术家:おじいちゃん
 artist:okabayashi beru -> 艺术家:岡林べる
@@ -32275,7 +32333,7 @@ artist:suzumiya kazuki -> 艺术家:涼宮和貴
 artist:suzumiya kiriha -> 艺术家:鈴宮きりは
 artist:suzumori uina -> 艺术家:鈴森ういな
 artist:suzune rai -> 艺术家:鈴根らい
-artist:suzune yuuji -> 艺术家:鈴音ゆうじ | おいもとじろう
+artist:suzune yuuji -> 艺术家:鈴音ゆうじ（おいもとじろう）
 artist:suzunokei -> 艺术家:スズノケイ
 artist:suzunomoku -> 艺术家:すずのもく
 artist:suzurame -> 艺术家:スズラメ
@@ -34177,7 +34235,7 @@ artist:shiba aya -> 艺术家:柴あや
 artist:kiyoshi -> 艺术家:キヨシ
 artist:shiworiita -> 艺术家:シヲリイタ
 artist:kitakawa touta -> 艺术家:北河トウタ
-artist:okiha -> 艺术家:沖葉
+artist:okiha -> 艺术家:冲叶
 artist:uekura eku -> 艺术家:上倉エク
 artist:dendoro kakariya -> 艺术家:澱泥カカリヤ
 artist:cucchiore -> 艺术家:くっきおーれ
@@ -35375,7 +35433,7 @@ artist:shimesaba kohada -> 艺术家:染鲭小鳍
 artist:amakawa akito -> 艺术家:天河慊人
 artist:lunalia -> 艺术家:瑠奈璃亚
 artist:yaezaki rai -> 艺术家:八重咲らい
-artist:narumi yu -> 艺术家:鸣海优
+artist:narumi yu -> 艺术家:鳴海ゆう
 artist:kimoshi -> 艺术家:きもし
 artist:yufuck -> 艺术家:ゆfuck
 artist:guguta -> 艺术家:咕咕挞
@@ -35726,6 +35784,33 @@ artist:dosukoi annin -> 艺术家:どすこい杏仁
 artist:torifune -> 艺术家:トリフネ
 artist:sacha -> 艺术家:さちゃ
 artist:calamity -> 艺术家:カラミティ
+artist:umiwashi -> 艺术家:うみわし
+artist:yuumi -> 艺术家:ゆうみ
+artist:molta -> 艺术家:もるた
+artist:tatanpo -> 艺术家:たたんぽ
+artist:kyutai x -> 艺术家:球体-x
+artist:shinkoui -> 艺术家:杏行为
+artist:aizuki kaname -> 艺术家:藍月要
+artist:shimizu daigorou -> 艺术家:純水大五郎
+artist:sumi kichi -> 艺术家:角角吉
+artist:asla -> 艺术家:アスラ
+artist:nasubi ninja -> 艺术家:なすびニンジャ
+artist:dk. senie -> 艺术家:Dκ. Senie
+artist:monota -> 艺术家:ものた
+artist:microa -> 艺术家:Microa
+artist:irokohaku -> 艺术家:色琥珀
+artist:shake chazuke -> 艺术家:しゃけちゃづけ
+artist:ishinose -> 艺术家:イシノセ
+artist:soda mizu -> 艺术家:そーだみず
+artist:vierzeck -> 艺术家:Vierzeck
+artist:yzr -> 艺术家:YZR
+artist:fuya -> 艺术家:Fuya
+artist:loooyd -> 艺术家:Loooyd
+artist:kisaragi tyuta -> 艺术家:如月宙太
+artist:penguinteatea -> 艺术家:PenguinTeaTea
+artist:baba arumi -> 艺术家:马场あるみ
+artist:tricky -> 艺术家:トリッキー
+artist:nichijou -> 艺术家:日常
 cosplayer:otohara an -> Coser:乙原あん
 cosplayer:rioko -> Coser:凉凉子
 cosplayer:atsuki -> Coser:あつき
@@ -35851,6 +35936,15 @@ cosplayer:mianbing xianer -> Coser:面饼仙儿
 cosplayer:una cosplayer -> Coser:角色扮演者
 cosplayer:fangqiao yepo -> Coser:坊桥夜泊
 cosplayer:jiuqi -> Coser:九柒喵
+cosplayer:blacqkl -> Coser:白莉爱吃巧克力
+cosplayer:nyako -> Coser:Nyako喵子
+cosplayer:hachi -> Coser:Hachi小芭
+cosplayer:umeko j -> Coser:Umeko J
+cosplayer:arashi heartgramm -> Coser:Arashi Heartgramm
+cosplayer:messie huang -> Coser:Messie Huang
+cosplayer:yamisung -> Coser:Yamisung
+cosplayer:demon mika -> Coser:Demon Mika
+cosplayer:yamazaki reina -> Coser:山崎レイナ
 male:age progression -> 男性:年龄增长
 male:age regression -> 男性:返老还童
 male:dilf -> 男性:熟男
@@ -37100,8 +37194,9 @@ other:kodomo only -> 其他:仅儿童
 other:no penetration -> 其他:无插入
 other:nudity only -> 其他:仅裸体
 other:object insertion only -> 其他:仅物体插入
-other:bathing room -> 其他:浴室
-other:beach -> 其他:沙滩
-other:classroom -> 其他:教室
-other:onsen -> 其他:温泉
-other:sentou -> 其他:浴场
+location:bathing room -> 地点:浴室
+location:beach -> 地点:沙滩
+location:classroom -> 地点:教室
+location:infirmary -> 地点:保健室
+location:onsen -> 地点:温泉
+location:sentou -> 地点:浴场
