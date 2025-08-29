@@ -8707,6 +8707,40 @@ character:cassie cage -> 角色:凯西・凯吉
 character:sonya blade -> 角色:索尼娅・布雷德
 character:meguru inaba -> 角色:因幡巡
 character:rurudo lion -> 角色:Rurudo Lion
+character:tan otori -> 角色:尾鸟绽
+character:houjou -> 角色:北条
+character:nefelpitou -> 角色:尼菲比特
+character:goreinu -> 角色:果列奴
+character:ororon -> 角色:欧洛伦
+character:mikari tachibana -> 角色:橘美花莉
+character:emilie -> 角色:艾梅莉埃
+character:ouka shiunji -> 角色:紫云寺讴华
+character:steve -> 角色:史蒂夫
+character:alex -> 角色:艾莉克斯
+character:villager -> 角色:村民
+character:ender dragon -> 角色:末影龙
+character:jenny -> 角色:珍妮
+character:ari -> 角色:阿里
+character:zombie -> 角色:僵尸
+character:rana -> 角色:拉娜
+character:chie hoshinomiya -> 角色:星之宫知惠
+character:maya satou -> 角色:佐藤麻耶
+character:aine chidorigafuchi -> 角色:千鸟渊爱音
+character:mahiru hiragi -> 角色:柊真昼
+character:silvervale -> 角色:樱花狼灵
+character:lu shaotang -> 角色:陆少糖
+character:boise -> 角色:博伊西（树城）
+character:sussex -> 角色:苏塞克斯
+character:angelica rapha redgrave -> 角色:安洁莉卡·拉法·雷德格里夫
+character:nonoa miyamae -> 角色:宫前乃乃亚
+character:miharu ayase -> 角色:绫濑美春
+character:miuna shiodome -> 角色:潮留美海
+character:ajisai sena -> 角色:濑名紫阳花
+character:renako amaori -> 角色:甘织玲奈子
+character:yuzu -> 角色:柊柚子
+character:panty anarchy -> 角色:潘迪
+character:stocking anarchy -> 角色:史朵巾
+character:guild girl -> 角色:柜台小姐
 group:1 -> 团队:1
 group:13 -> 团队:13
 group:27 -> 团队:27
@@ -19868,7 +19902,7 @@ group:teionyakedo -> 团队:低音火傷
 group:teisoku sonic -> 团队:低速ソニック
 group:teito bouei ryodan -> 团队:帝都防衛旅団
 group:teketo -> 团队:TEKETO
-group:tekireiki ni shokuchuudoku -> 团队:適齢期に食中毒
+group:tekireiki ni shokuchuudoku -> 团队:适龄期に食中毒
 group:tekitou -> 团队:適当
 group:tekkamaki -> 团队:鉄華巻
 group:tekken dynamite -> 团队:鉄拳ダイナマイト
@@ -21920,6 +21954,13 @@ group:arumike -> 团队:あるみ家
 group:raid socks -> 团队:レイドソックス
 group:neko no mimi -> 团队:ねこのみみ
 group:maron shugi -> 团队:マロン主義
+group:sunagimo shortcake -> 团队:砂肝ショートケーキ
+group:mimizuki mimizuku. -> 团队:ミミ好きミミ尽ク
+group:shizuma no ie -> 团队:しづまの家
+group:kyabiramuuru -> 团队:キャビラムール
+group:one or eight -> 团队:ワンオアエイト
+group:tonikakuushi -> 团队:イチヒ
+group:hiyashi makura -> 团队:ひやしまくら
 artist:2 -> 艺术家:2
 artist:7 -> 艺术家:7
 artist:8 -> 艺术家:8
@@ -31744,7 +31785,7 @@ artist:sawai delta -> 艺术家:澤井デルタ
 artist:sawaki saki -> 艺术家:澤木沙樹
 artist:sawako -> 艺术家:サワコ
 artist:sawamura -> 艺术家:澤村
-artist:sawamura ao -> 艺术家:沢村青
+artist:sawamura ao -> 艺术家:泽村青
 artist:sawamura kina -> 艺术家:さわむらきな
 artist:sawarano goan -> 艺术家:さわらの五庵
 artist:sawasaki -> 艺术家:沢崎
@@ -31898,7 +31939,7 @@ artist:shijima kiri -> 艺术家:しじま嬉吏
 artist:shijima yukio -> 艺术家:四島由紀夫
 artist:shijimi -> 艺术家:しじみ
 artist:shijokko -> 艺术家:しじょっこ
-artist:shijou mako -> 艺术家:士嬢マコ(・c_・ )
+artist:shijou mako -> 艺术家:士嬢マコ
 artist:shijou sadafumi -> 艺术家:四条定史
 artist:shikage nagi -> 艺术家:しかげなぎ
 artist:shikanari -> 艺术家:シカナリ
@@ -35811,6 +35852,15 @@ artist:penguinteatea -> 艺术家:PenguinTeaTea
 artist:baba arumi -> 艺术家:马场あるみ
 artist:tricky -> 艺术家:トリッキー
 artist:nichijou -> 艺术家:日常
+artist:naruse miyabi -> 艺术家:成瀬みやび
+artist:lionneko -> 艺术家:れおねこ
+artist:shizuma -> 艺术家:しづま
+artist:shasha inu -> 艺术家:しゃしゃ犬
+artist:h2 -> 艺术家:英知通 (h2)
+artist:odochi -> 艺术家:おどち
+artist:an-telin -> 艺术家:an-telin
+artist:bonbaie -> 艺术家:盆場家
+artist:baiqin hyakkin -> 艺术家:百禽Hyakkin
 cosplayer:otohara an -> Coser:乙原あん
 cosplayer:rioko -> Coser:凉凉子
 cosplayer:atsuki -> Coser:あつき
