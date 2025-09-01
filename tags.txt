@@ -2565,6 +2565,9 @@ parody:elden ring nightreign -> 原作:艾尔登法环黑夜君临
 parody:black survival -> 原作:黑色幸存者
 parody:ruri no houseki -> 原作:琉璃的宝石
 parody:kawarazaki-ke no ichizoku -> 原作:河原崎家的一族
+parody:nageki no bourei ha intai shitai -> 原作:叹气的亡灵想隐退
+parody:shinmai renkinjutsushi no tenpo keiei -> 原作:新人炼金术师的店铺经营
+parody:atri -> 原作:亚托莉-我挚爱的时光
 character:alice -> 角色:爱丽丝
 character:akane hino -> 角色:日野茜
 character:ibuki -> 角色:伊吹
@@ -2851,7 +2854,7 @@ character:wakaba -> 角色:若叶
 character:hatsushimo -> 角色:初霜
 character:shiratsuyu -> 角色:白露
 character:shigure -> 角色:时雨
-character:murasame -> 角色:村雨
+character:murasame -> 角色:丛雨 | 村雨
 character:yuudachi -> 角色:夕立
 character:samidare -> 角色:五月雨
 character:suzukaze -> 角色:凉风
@@ -7099,7 +7102,7 @@ character:mina simington -> 角色:狭雾深影
 character:romin kirishima -> 角色:雾岛露明
 character:yuzu hiiragi -> 角色:柊柚子
 character:sera -> 角色:塞拉
-character:chloe -> 角色:小春
+character:chloe -> 角色:克洛伊(黑兽) | 小春
 character:stella vermillion -> 角色:史黛菈·法米利昂
 character:ikki kurogane -> 角色:黑铁一辉
 character:bort -> 角色:圆粒金刚石
@@ -8741,6 +8744,49 @@ character:yuzu -> 角色:柊柚子
 character:panty anarchy -> 角色:潘迪
 character:stocking anarchy -> 角色:史朵巾
 character:guild girl -> 角色:柜台小姐
+character:aki adagaki -> 角色:安达垣爱姬
+character:mai ouduka -> 角色:王塚真唯
+character:hee-jin park -> 角色:朴熙真
+character:akane hououji -> 角色:凤凰寺红叶
+character:ouka makuzawa -> 角色:幕泽樱花
+character:riho tsukishima -> 角色:月岛流星
+character:rin onigawara -> 角色:鬼瓦轮
+character:yukana yame -> 角色:八女由佳奈
+character:mylene rapha holfort -> 角色:米莲努·拉法·霍尔佛特
+character:arcana -> 角色:阿尔卡纳
+character:shushu suruga -> 角色:骏河朱朱
+character:yuuki wakura -> 角色:和仓优希
+character:yumina urnea belfast -> 角色:由美娜·艾尔涅雅·贝尔法斯特
+character:mei mei -> 角色:冥冥
+character:shizuku yaegashi -> 角色:八重㭴雫
+character:rei miyamoto -> 角色:宫本丽
+character:yukino mifuyu -> 角色:雪乃深冬
+character:iuno -> 角色:尤诺
+character:tino shade -> 角色:蒂诺·薛德
+character:ninym ralei -> 角色:妮妮姆·拉雷
+character:mariabelle -> 角色:玛莉亚贝尔
+character:kaguya -> 角色:辉夜
+character:prim fiorire -> 角色:普莉姆·菲尔丽热
+character:modeus -> 角色:墨狄斯
+character:haruka takamori -> 角色:鹰守遥
+character:zima -> 角色:凛冬
+character:koshimizu toru -> 角色:小清水透
+character:kikuchiyo mibu -> 角色:壬生菊千代
+character:morgana -> 角色:莫甘娜
+character:sakurada hane -> 角色:樱田羽
+character:ai enma -> 角色:阎魔爱
+character:serena fuoco le brillante de la grazia -> 角色:塞蕾娜·胡奥科·尔·布里兰特·德·拉·格拉齐亚
+character:sarasa feed -> 角色:莎拉莎·菲朵
+character:danjin -> 角色:丹瑾
+character:yomi isayama -> 角色:谏山黄泉
+character:durga -> 角色:杜尔迦
+character:marianne von edmund -> 角色:玛莉安奴·冯·艾德蒙
+character:atri -> 角色:亚托莉
+character:huyan zhuo -> 角色:呼延灼
+character:ronova -> 角色:若娜瓦
+character:yuki kaai -> 角色:歌爱雪
+character:poppy -> 角色:波琵
+character:tsumugi kasukabe -> 角色:春日部䌷
 group:1 -> 团队:1
 group:13 -> 团队:13
 group:27 -> 团队:27
@@ -21961,6 +22007,12 @@ group:kyabiramuuru -> 团队:キャビラムール
 group:one or eight -> 团队:ワンオアエイト
 group:tonikakuushi -> 团队:イチヒ
 group:hiyashi makura -> 团队:ひやしまくら
+group:midareuchi -> 团队:乱れ击ち
+group:otogidou -> 团队:オトギ堂
+group:shirokuma dango -> 团队:しろくまだんご
+group:muru no honbako -> 团队:ムルの本箱
+group:lose -> 团队:Lose
+group:dodeca vitamin -> 团队:ドデカビタミン
 artist:2 -> 艺术家:2
 artist:7 -> 艺术家:7
 artist:8 -> 艺术家:8
@@ -27731,7 +27783,7 @@ artist:hirayan -> 艺术家:ひらやん
 artist:hirno -> 艺术家:Hirno
 artist:hiro kari -> 艺术家:ひろ(仮)
 artist:hiro kazuki -> 艺术家:比呂カズキ
-artist:hirob816 -> 艺术家:HiRoB816
+artist:hirob816 -> 艺术家:ひろびー
 artist:hiroe rei -> 艺术家:広江礼威
 artist:hirogoori akio -> 艺术家:広郡明生
 artist:hiroichi -> 艺术家:ヒロイチ
@@ -34032,7 +34084,7 @@ artist:k-ko -> 艺术家:K子
 artist:sisyamo 2 percent -> 艺术家:sisyamo2%
 artist:metacora -> 艺术家:めたこら
 artist:kangoku meika -> 艺术家:監獄銘菓
-artist:souseki -> 艺术家:層積
+artist:souseki -> 艺术家:层积
 artist:manno -> 艺术家:まんの
 artist:tamada heijun -> 艺术家:玉田平準
 artist:nagai go -> 艺术家:永井豪
@@ -35861,6 +35913,22 @@ artist:odochi -> 艺术家:おどち
 artist:an-telin -> 艺术家:an-telin
 artist:bonbaie -> 艺术家:盆場家
 artist:baiqin hyakkin -> 艺术家:百禽Hyakkin
+artist:qr -> 艺术家:QR
+artist:inaba reito -> 艺术家:稲葉れいと
+artist:kajiking -> 艺术家:家事王
+artist:periodo -> 艺术家:ピリオド
+artist:kan-non ritsu -> 艺术家:观音リツ
+artist:san p. dro -> 艺术家:San P. dro
+artist:sukima nozoki -> 艺术家:隙間 覗
+artist:akisuko -> 艺术家:あきすこ
+artist:chongqi shu -> 艺术家:充气薯
+artist:izumi taichi -> 艺术家:泉たいち
+artist:fujii akiko -> 艺术家:ふじいあきこ
+artist:sasaki kazuyuki -> 艺术家:佐咲和由喜
+artist:umehisa -> 艺术家:梅久
+artist:greatnaosuke -> 艺术家:良い直助
+artist:saki kaori -> 艺术家:咲香里
+artist:you yue yue -> 艺术家:幼月月
 cosplayer:otohara an -> Coser:乙原あん
 cosplayer:rioko -> Coser:凉凉子
 cosplayer:atsuki -> Coser:あつき
