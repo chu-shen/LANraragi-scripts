@@ -1155,7 +1155,7 @@ parody:fist of the north star -> 原作:北斗神拳
 parody:monster girl quest -> 原作:勇者大战魔物娘
 parody:ghost sweeper mikami -> 原作:GS美神 极乐大作战！！
 parody:battle athletes -> 原作:大运动会
-parody:knights of ramune -> 原作:柠檬汽水骑士
+parody:knights of ramune -> 原作:骑士柠檬汽水
 parody:saint tail -> 原作:怪盗圣少女
 parody:kyouran kazoku nikki -> 原作:狂乱家族日记
 parody:2x2 shinobuden -> 原作:酷伊忍者传
@@ -2054,7 +2054,7 @@ parody:words worth -> 原作:光与影的传说
 parody:drifters -> 原作:漂流武士
 parody:counter side -> 原作:Counter:Side
 parody:kunoichi tsubaki no mune no uchi -> 原作:女忍者椿的心事
-parody:kanojo mo kanojo -> 原作:女友成双
+parody:kanojo mo kanojo -> 原作:女友成双（女友成堆）
 parody:ero trap dungeon -> 原作:色情迷宫
 parody:yofukashi no uta -> 原作:彻夜之歌
 parody:zannen onna kanbu black general-san -> 原作:遗憾女干部黑暗将军小姐
@@ -2545,7 +2545,7 @@ parody:a hat in time -> 原作:时光之帽
 parody:invader zim -> 原作:外星入侵者ZIM
 parody:tower of god -> 原作:神之塔
 parody:kick buttowski suburban daredevil -> 原作:冒险王奇克
-parody:watashi ga koibito ni nareru wake nai jan muri muri muri ja nakatta -> 原作:我们不可能成为恋人！绝对不行。
+parody:watashi ga koibito ni nareru wake nai jan muri muri muri ja nakatta -> 原作:我们不可能成为恋人，绝对不行！
 parody:mamahaha no tsurego ga motokano datta -> 原作:继母的拖油瓶是我的前女友
 parody:hikikomari kyuuketsuki no monmon -> 原作:家里蹲吸血姬的苦闷
 parody:gimai seikatsu -> 原作:义妹生活
@@ -4009,7 +4009,7 @@ character:blake belladonna -> 角色:布蕾克·贝拉多娜
 character:yang xiao long -> 角色:阳小龙
 character:erika chiba -> 角色:千叶艾莉卡
 character:haruka ono -> 角色:小野遥
-character:honoka mitsui -> 角色:光井穗香
+character:honoka mitsui -> 角色:光井穗乃香
 character:mari watanabe -> 角色:渡边摩利
 character:mayumi saegusa -> 角色:七草真由美
 character:miyuki shiba -> 角色:司波深雪
@@ -4279,7 +4279,7 @@ character:lucy ... yamagami -> 角色:山神露西【以下略】
 character:yutaka hasebe -> 角色:长谷部丰
 character:tomoki sakurai -> 角色:樱井智树
 character:ikaros -> 角色:伊卡洛斯
-character:nymph -> 角色:妮姆芙/妮芙
+character:nymph -> 角色:妮姆芙 | 妮芙
 character:astraea -> 角色:阿斯特蕾亚
 character:chaos -> 角色:卡奥斯
 character:sohara mitsuki -> 角色:见月楚原
@@ -5204,7 +5204,7 @@ character:stephanie -> 角色:史蒂芬妮
 character:stephanie dola -> 角色:史蒂芬妮·多拉
 character:jibril -> 角色:吉普莉尔
 character:sora -> 角色:空 | 小空
-character:chizuru ichinose -> 角色:一之濑千鹤
+character:chizuru ichinose -> 角色:一之濑千鹤（水原千鹤）
 character:kazuya kinoshita -> 角色:木之下和也
 character:sukoya kana -> 角色:健屋花那
 character:makaino ririmu -> 角色:魔界之莉莉姆
@@ -5331,7 +5331,7 @@ character:krebskulm -> 角色:库尔姆
 character:chocola -> 角色:巧克力
 character:cinnamon -> 角色:桂
 character:coconut -> 角色:椰子
-character:vanilla -> 角色:香草
+character:vanilla -> 角色:香草 | 香子兰
 character:shinku nikaidou -> 角色:二阶堂真红
 character:shiori kashiwazaki -> 角色:柏崎栞
 character:link -> 角色:林克
@@ -5532,7 +5532,7 @@ character:musae koyama -> 角色:小山梦冴
 character:mineko kazama -> 角色:风间峰子
 character:south dakota -> 角色:南达科他
 character:mona megistus -> 角色:莫娜·梅姬斯图斯
-character:aether -> 角色:空
+character:aether -> 角色:空（旅行者）
 character:fischl -> 角色:菲谢尔
 character:eula lawrence -> 角色:优菈·劳伦斯
 character:barbara pegg -> 角色:芭芭拉·佩奇
@@ -6876,8 +6876,8 @@ character:hare omagari -> 角色:小钩晴
 character:karen aijo -> 角色:爱城华恋
 character:sawako kuronuma -> 角色:黑沼爽子
 character:izumi shishidou -> 角色:狮子堂泉
-character:lynette -> 角色:琳妮特
-character:focalors -> 角色:芙宁娜
+character:lynette -> 角色:琳妮特·雪奈茨芙娜
+character:focalors -> 角色:芙宁娜·德·枫丹
 character:mizuki -> 角色:水月
 character:ayame kajou -> 角色:华城绫女
 character:kirche augusta frederica von anhalt zerbst -> 角色:丘鲁克·奥古斯都·菲列特利加·封·安哈尔特·泽鲁普斯特
@@ -8169,7 +8169,7 @@ character:rachel alucard -> 角色:雷其儿·阿尔卡特
 character:sakura ritsuki -> 角色:樱凛月
 character:natsumi kyouno -> 角色:镜野七罪
 character:otogi -> 角色:音葵
-character:ein -> 角色:无
+character:ein -> 角色:无 | 爱因
 character:ohr -> 角色:光
 character:sof -> 角色:限
 character:gamma -> 角色:伽马
@@ -8448,7 +8448,7 @@ character:todo kohaku -> 角色:东堂琥珀
 character:trigger -> 角色:扳机
 character:astgenne -> 角色:星源
 character:poncirus -> 角色:青枳
-character:lin yuhsia -> 角色:林
+character:lin yuhsia -> 角色:林（林雨霞）
 character:nightmare -> 角色:夜魔
 character:kotori kanbe -> 角色:神户小鸟
 character:vivian -> 角色:薇薇安
@@ -8829,6 +8829,31 @@ character:momohina nano -> 角色:桃雛なの
 character:kaoruko waguri -> 角色:和栗薰子
 character:akari watanabe -> 角色:渡边星
 character:vermouth -> 角色:贝尔摩得（苦艾酒）
+character:kiyotaka ayanokouji -> 角色:绫小路清隆
+character:touka kirishima -> 角色:霧嶋董香
+character:mini yaemori -> 角色:八重森弥妮
+character:angelina -> 角色:安洁莉娜
+character:ban -> 角色:班
+character:cacao -> 角色:可可
+character:rika hoshizaki -> 角色:星崎理香
+character:saki saki -> 角色:佐木咲
+character:coquelic -> 角色:可可莉克
+character:mint fantome -> 角色:Mint Fantôme
+character:cantabile -> 角色:晓歌
+character:jashin-chan -> 角色:邪神酱
+character:pekora -> 角色:佩可拉
+character:pino -> 角色:皮诺
+character:poporon -> 角色:波波隆
+character:minos -> 角色:米诺斯
+character:kyon-kyon -> 角色:僵僵
+character:yusa -> 角色:游佐
+character:ecute -> 角色:伊库特
+character:atre -> 角色:亚特蕾
+character:lierre -> 角色:莉薇露
+character:lauma -> 角色:菈乌玛
+character:shino kiryuu -> 角色:桐生紫乃
+character:christina beltrum -> 角色:克莉丝汀娜·贝尔托姆
+character:hibiscus -> 角色:芙蓉
 group:1 -> 团队:1
 group:13 -> 团队:13
 group:27 -> 团队:27
@@ -22074,6 +22099,14 @@ group:tana kara marriage -> 团队:棚からマリアージュ
 group:gdbdby -> 团队:gdbdby
 group:shinoz -> 团队:SHINOZ!
 group:gyoumuyou jiga -> 团队:業務用自我
+group:nanashi factory -> 团队:ななし工房
+group:tj studio -> 团队:TJ_studio
+group:noir complex -> 团队:Noir Complex
+group:danimaru studio -> 团队:だにまるstudio
+group:oishii ko -> 团队:オイシイこ
+group:masumi pan koubou -> 团队:ますみパン工房
+group:momoiro intake -> 团队:桃色インテーク
+group:hitsuji no udonya -> 团队:ひつじのうどん屋
 artist:2 -> 艺术家:2
 artist:7 -> 艺术家:7
 artist:8 -> 艺术家:8
@@ -25024,7 +25057,7 @@ artist:mgmee -> 艺术家:MGMEE
 artist:nathaniel pennel -> 艺术家:Pennel
 artist:hadron9 -> 艺术家:HADRON9
 artist:supu -> 艺术家:すぷ
-artist:kitaku -> 艺术家:きたく
+artist:kitaku -> 艺术家:きたく | 仲町まち
 artist:shirota dai -> 艺术家:白田太
 artist:moyazou -> 艺术家:もや造
 artist:kuguri oimo -> 艺术家:九栗おいも
@@ -34829,7 +34862,7 @@ artist:umako -> 艺术家:ウマ子
 artist:kumamoto aichi -> 艺术家:熊本愛知
 artist:arata -> 艺术家:アラタ
 artist:yumemi gachi -> 艺术家:夢ミガチ
-artist:sinobiin -> 艺术家:しのびん
+artist:sinobiin -> 艺术家:忍见
 artist:funnyaka -> 艺术家:フンニャカ
 artist:yonaka ao -> 艺术家:よなかあお
 artist:scaf -> 艺术家:SCAF（すかーふ）
@@ -35704,7 +35737,7 @@ artist:juzu dengaku -> 艺术家:数珠田楽
 artist:inukai rippo -> 艺术家:犬飼りっぽ
 artist:usagi piyoko -> 艺术家:兎ぴよこ
 artist:xiao chai hu -> 艺术家:小柴胡
-artist:suzuki senpai -> 艺术家:铃木先辈
+artist:suzuki senpai -> 艺术家:铃木先辈 | スズオ
 artist:wesley morse -> 艺术家:Wesley Morse
 artist:tou tou -> 艺术家:糖tou
 artist:makulu -> 艺术家:Lumakulu
@@ -36028,6 +36061,24 @@ artist:shinozaki kyoko -> 艺术家:篠崎キョーコ
 artist:sera shousa -> 艺术家:せら少佐
 artist:yoshi yoshiyuki -> 艺术家:芳よしゆき
 artist:ddugyu -> 艺术家:DDUGYU
+artist:moepu. -> 艺术家:もえぷ。
+artist:pomita -> 艺术家:ぽみ太
+artist:awan -> 艺术家:阿浣
+artist:peter h. l. -> 艺术家:Peterhl
+artist:hanawa maroru -> 艺术家:花輪マロル
+artist:yoshiki-chan -> 艺术家:よしきちゃん
+artist:toji -> 艺术家:冬至
+artist:marui shiro -> 艺术家:四角いくろ丸
+artist:mikaze maruto -> 艺术家:緑風マルト
+artist:yuruta -> 艺术家:ゆるた
+artist:nr -> 艺术家:NR
+artist:cm you -> 艺术家:CM羊
+artist:ratatatat74 -> 艺术家:ratatatat74
+artist:chirinu iroha -> 艺术家:ちりぬいろは
+artist:uchigawa -> 艺术家:ウチガワ
+artist:itsukane -> 艺术家:五日寝
+artist:hurure -> 艺术家:ふるーれ
+artist:inamimi -> 艺术家:いなみみ
 cosplayer:otohara an -> Coser:乙原あん
 cosplayer:rioko -> Coser:凉凉子
 cosplayer:atsuki -> Coser:あつき
@@ -36168,6 +36219,7 @@ cosplayer:xansoon -> Coser:轩萧学姐
 cosplayer:caticornplay -> Coser:Caticornplay
 cosplayer:kiki rose -> Coser:Kiki Rose
 cosplayer:momocat -> Coser:慕慕momo
+cosplayer:neneko -> Coser:Neneko
 male:age progression -> 男性:年龄增长
 male:age regression -> 男性:返老还童
 male:dilf -> 男性:熟男
