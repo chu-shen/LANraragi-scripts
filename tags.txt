@@ -2297,7 +2297,7 @@ parody:tottemo luckyman -> 原作:幸运超人
 parody:super radical gag family -> 原作:浦安铁筋家族
 parody:edomae elf -> 原作:江户前精灵
 parody:eizouken ni wa te wo dasu na -> 原作:别对映像研出手！
-parody:rikei ga koi ni ochita no de shuomei shite mita. -> 原作:理科生坠入情网，故尝试证明。
+parody:rikei ga koi ni ochita no de shuomei shite mita. -> 原作:理科生坠入情网，故尝试证明
 parody:yu-gi-oh go rush -> 原作:游戏王GO RUSH
 parody:tearmoon teikoku monogatari -> 原作:堤亚穆帝国物语～从断头台开始，公主重生后的逆转人生～
 parody:invincible -> 原作:无敌少侠
@@ -2574,6 +2574,10 @@ parody:saikyou tank no meikyuu kouryaku -> 原作:最强肉盾的迷宫攻略
 parody:yoshinaga-san chi no gargoyle -> 原作:吉永家的石像怪
 parody:kaoru hana wa rin to saku -> 原作:薰香花朵凛然绽放
 parody:fuufu ijou koibito miman. -> 原作:夫妇以上，恋人未满
+parody:silent witch chinmoku no majo no kakushigoto -> 原作:沉默的魔女
+parody:no.1 sentai gozyuger -> 原作:头号战队豪兽者
+parody:lovely x cation -> 原作:LOVELY×CATION
+parody:wanmei shijie -> 原作:完美世界
 character:alice -> 角色:爱丽丝
 character:akane hino -> 角色:日野茜
 character:ibuki -> 角色:伊吹
@@ -4397,7 +4401,7 @@ character:yotsugi ononoki -> 角色:斧乃木余接
 character:seiya kanie -> 角色:可儿江西也
 character:isuzu sento -> 角色:千斗五十铃
 character:latifa fleuranza -> 角色:拉媞珐·芙尔兰札
-character:salama -> 角色:萨拉玛
+character:salama -> 角色:莎罗曼
 character:sylphy -> 角色:西尔菲
 character:muse -> 角色:缪斯
 character:kobory -> 角色:柯波莉
@@ -5655,7 +5659,6 @@ character:faris nyannyan -> 角色:菲利斯·喵喵
 character:anzu -> 角色:杏子
 character:hitomi mishima -> 角色:三岛瞳
 character:komekko -> 角色:米米
-character:airi akizuki -> 角色:秋月爱莉
 character:kouzou akizuki -> 角色:秋月孝三
 character:marina akizuki -> 角色:秋月真理奈
 character:sana kuranaka -> 角色:仓中纱奈
@@ -8155,7 +8158,7 @@ character:b. jenet -> 角色:B·珍妮特
 character:venus -> 角色:启明星
 character:nano eiai -> 角色:荣逢凪乃
 character:sayaka kirasaka -> 角色:煌坂纱矢华
-character:priestess -> 角色:普瑞赛斯
+character:priestess -> 角色:普瑞赛斯 | 女神官
 character:homura kougetsu -> 角色:焰·皋月
 character:miku -> 角色:未来
 character:zorome -> 角色:纯位数
@@ -8820,7 +8823,7 @@ character:mulberry -> 角色:桑葚
 character:nicole watterson -> 角色:妮蔻·沃特森
 character:tina howard -> 角色:蒂娜·霍华德
 character:lisara restall -> 角色:莉萨拉·雷斯托
-character:eve 07 -> 角色:伊芙（剑星）
+character:eve 07 -> 角色:伊芙
 character:nowa sugaya -> 角色:菅谷乃羽
 character:noelle silva -> 角色:诺艾儿·席尔瓦
 character:il capitano -> 角色:「队长」卡皮塔诺
@@ -8854,6 +8857,26 @@ character:lauma -> 角色:菈乌玛
 character:shino kiryuu -> 角色:桐生紫乃
 character:christina beltrum -> 角色:克莉丝汀娜·贝尔托姆
 character:hibiscus -> 角色:芙蓉
+character:ayame himuro -> 角色:冰室菖蒲
+character:monica everett -> 角色:莫妮卡·埃瓦雷特
+character:lorea -> 角色:洛雷娅
+character:subaru hoshina -> 角色:保科昴
+character:kei yonagi -> 角色:夜凪景
+character:chiyoko momoshiro -> 角色:百城千世子
+character:yuki isurugi -> 角色:石动雪
+character:nagi arato -> 角色:荒砥凪
+character:machiko mai -> 角色:真知子老师
+character:elizabeth -> 角色:伊丽莎白
+character:lilith aensland -> 角色:莉莉丝·安斯兰特
+character:liu shen -> 角色:柳神
+character:lulushi loo -> 角色:露露西·露
+character:chisa kotegawa -> 角色:古手川千纱
+character:secre swallowtail -> 角色:塞科蕾・斯瓦罗忒尔（尼禄）
+character:hakuren -> 角色:哈克莲
+character:hiraku machio -> 角色:街尾火乐
+character:ria -> 角色:莉亚
+character:sophia ascart -> 角色:索菲亚·亚斯卡鲁特
+character:mary hunt -> 角色:梅丽·亨特
 group:1 -> 团队:1
 group:13 -> 团队:13
 group:27 -> 团队:27
@@ -12375,7 +12398,7 @@ group:campers -> 团队:きゃんぱーず
 group:camrism -> 团队:カムリズム
 group:can do now -> 团队:キャンドゥーなう!
 group:canaria -> 团队:canaria
-group:canary to tsubame -> 团队:カナリアとつばめ
+group:canary and swallow -> 团队:カナリアとつばめ
 group:candy pop -> 团队:Candy Pop
 group:candy-ya -> 团队:キャンディー屋
 group:candyman -> 团队:Candyman
@@ -21762,7 +21785,7 @@ group:showa shojo -> 团队:昭和少女
 group:tankonbu. -> 团队:たんこんぶ。
 group:tamani wa shinruchuu -> 团队:たまには杏露酒
 group:tamamo-ya -> 团队:たまも屋
-group:teruterugirl -> 团队:天乃辉
+group:teruterugirl -> 团队:てるてるがーる
 group:shimanami -> 团队:しまなみ
 group:rakure cheese koubou -> 团队:らくれチーズ工房
 group:akatsuki oboezu -> 团队:あかつきおぼえず
@@ -22107,6 +22130,14 @@ group:oishii ko -> 团队:オイシイこ
 group:masumi pan koubou -> 团队:ますみパン工房
 group:momoiro intake -> 团队:桃色インテーク
 group:hitsuji no udonya -> 团队:ひつじのうどん屋
+group:honshiro nikori -> 团队:本白にこり
+group:mumei no katsudon -> 团队:無名のカツ丼
+group:chinu chinu-ya -> 团队:ちぬちぬ屋
+group:girotin ginza -> 团队:ギロチン銀座
+group:pokapoka tengoku -> 团队:ポカポカ天国
+group:yofukashi no heya -> 团队:よふかしのへや
+group:rokugo sha -> 团队:ろくご社
+group:hipcomix -> 团队:HIPCOMIX
 artist:2 -> 艺术家:2
 artist:7 -> 艺术家:7
 artist:8 -> 艺术家:8
@@ -25033,7 +25064,7 @@ artist:miginohito mitsuru -> 艺术家:右の人みつる
 artist:hidari kagetora -> 艺术家:左カゲトラ
 artist:suruga kreuz -> 艺术家:駿河クロイツ
 artist:mauve -> 艺术家:Mauve
-artist:saeki sola -> 艺术家:佐伯ソラ
+artist:saeki sora -> 艺术家:佐伯ソラ
 artist:tange suzuki -> 艺术家:丹下スズキ
 artist:neji -> 艺术家:寝路
 artist:negom -> 艺术家:ネゴム
@@ -36079,6 +36110,24 @@ artist:uchigawa -> 艺术家:ウチガワ
 artist:itsukane -> 艺术家:五日寝
 artist:hurure -> 艺术家:ふるーれ
 artist:inamimi -> 艺术家:いなみみ
+artist:nananooto -> 艺术家:ななのーと
+artist:fixzhuzhu -> 艺术家:fixzhuzhu
+artist:conoha noa -> 艺术家:木葉のあ
+artist:panriru -> 艺术家:ぱんりる
+artist:fureshika -> 艺术家:ふれしか
+artist:uracine -> 艺术家:うらちーぬ
+artist:girotin -> 艺术家:ギロチン
+artist:pokapechie -> 艺术家:ポカペチエ
+artist:yonayona -> 艺术家:夜な夜な
+artist:batten kyuki -> 艺术家:八转九起
+artist:takashiro syouseki -> 艺术家:高代硝石
+artist:muko -> 艺术家:萌子芽
+artist:sic phuck -> 艺术家:Sic Phuck
+artist:jpeger -> 艺术家:Jpeger
+artist:feeri -> 艺术家:ふぇぇり
+artist:buki -> 艺术家:武器
+artist:chakamaruya-san -> 艺术家:ちゃかまる屋さん
+artist:nekofugu dango -> 艺术家:ねこふぐだんご
 cosplayer:otohara an -> Coser:乙原あん
 cosplayer:rioko -> Coser:凉凉子
 cosplayer:atsuki -> Coser:あつき
@@ -36220,6 +36269,9 @@ cosplayer:caticornplay -> Coser:Caticornplay
 cosplayer:kiki rose -> Coser:Kiki Rose
 cosplayer:momocat -> Coser:慕慕momo
 cosplayer:neneko -> Coser:Neneko
+cosplayer:evenink -> Coser:Evenink
+cosplayer:jean wanwan -> Coser:Jean Wanwan
+cosplayer:sharkparty -> Coser:Sharkparty
 male:age progression -> 男性:年龄增长
 male:age regression -> 男性:返老还童
 male:dilf -> 男性:熟男
