@@ -209,7 +209,7 @@ parody:disgaea -> 原作:魔界战记
 parody:chuunibyou demo koi ga shitai -> 原作:中二病也要谈恋爱！
 parody:ano hi mita hana no namae wo bokutachi wa mada shiranai -> 原作:我们仍未知道那天所看见的花的名字。
 parody:amagi brilliant park -> 原作:甘城光辉游乐园
-parody:hidan no aria -> 原作:绯弹的亚莉亚🔫
+parody:hidan no aria -> 原作:绯弹的亚里亚
 parody:steinsgate -> 原作:命运石之门
 parody:lucky star -> 原作:幸运☆星
 parody:zero no tsukaima -> 原作:零之使魔
@@ -2578,6 +2578,13 @@ parody:silent witch chinmoku no majo no kakushigoto -> 原作:沉默的魔女
 parody:no.1 sentai gozyuger -> 原作:头号战队豪兽者
 parody:lovely x cation -> 原作:LOVELY×CATION
 parody:wanmei shijie -> 原作:完美世界
+parody:kyokou suiri -> 原作:虚构推理
+parody:beheneko -> 原作:S级怪兽《贝希摩斯》被误认成小猫，成为精灵女孩的骑士一起生活
+parody:hima-ten -> 原作:妃真与殿！
+parody:akuyaku reijo level 99 -> 原作:反派千金等级99～我是隐藏头目但不是魔王～
+parody:koujo denka no kateikyoushi -> 原作:公爵千金的家庭教师
+parody:amakano -> 原作:甜蜜女友
+parody:amakano 2 -> 原作:甜蜜女友2
 character:alice -> 角色:爱丽丝
 character:akane hino -> 角色:日野茜
 character:ibuki -> 角色:伊吹
@@ -5305,7 +5312,7 @@ character:yue -> 角色:月
 character:shea haulia -> 角色:希娅·哈乌利亚
 character:kaori shirasaki -> 角色:白崎香织
 character:hanako honda -> 角色:本田华子
-character:olivia -> 角色:奥莉薇
+character:olivia -> 角色:奥莉薇亚
 character:kasumi nomura -> 角色:野村香纯
 character:merribit stapleton -> 角色:梅莉毕德･斯泰普尔顿
 character:tanya von degurechaff -> 角色:谭雅·提古雷查夫
@@ -7055,7 +7062,7 @@ character:magillanica lou mayvin -> 角色:玛琪露
 character:topaz -> 角色:托帕
 character:jingliu -> 角色:镜流
 character:dan heng -> 角色:丹恒
-character:caelus -> 角色:穹
+character:caelus -> 角色:穹（开拓者）
 character:pozemka -> 角色:鸿雪
 character:kotori toyomi -> 角色:丰见柯托莉
 character:frieren -> 角色:芙莉莲
@@ -8537,7 +8544,7 @@ character:princess -> 角色:公主
 character:torture tortura -> 角色:绝顶之惨叫姬·折磨小姐
 character:provence -> 角色:普罗旺斯
 character:zebstrika -> 角色:雷电斑马
-character:dp-12 -> 角色:DP-12
+character:dp-12 -> 角色:DP-12 | 海伦
 character:ai mie -> 角色:三重爱
 character:tomari onitsuka -> 角色:鬼冢冬毬
 character:sana miyoshi -> 角色:三好纱南
@@ -8877,6 +8884,30 @@ character:hiraku machio -> 角色:街尾火乐
 character:ria -> 角色:莉亚
 character:sophia ascart -> 角色:索菲亚·亚斯卡鲁特
 character:mary hunt -> 角色:梅丽·亨特
+character:ade -> 角色:爱德
+character:airi sakura -> 角色:佐仓爱里
+character:mio ibuki -> 角色:伊吹澪
+character:seed -> 角色:席德
+character:charlotte hazelrink -> 角色:夏洛特·海瑟林克
+character:rouge -> 角色:露姬
+character:gretel -> 角色:葛丽特
+character:tiara basori -> 角色:马剃天爱星
+character:kanoe itagaki -> 角色:板垣鹿江
+character:sandrone -> 角色:桑多涅
+character:aoi asahina -> 角色:朝日奈 葵
+character:lanterby -> 角色:兰塔比
+character:matsuri oyama -> 角色:绪山茉里
+character:yumiella dolkness -> 角色:尤蜜拉·多克尼斯
+character:reina mishima -> 角色:三岛丽奈
+character:cherno kegaard -> 角色:琴诺·凯郭尔
+character:fenny golden -> 角色:芬妮·戈尔登
+character:katya klein -> 角色:凯茜娅·克莱因
+character:lyfe bestla -> 角色:里芙·贝斯特拉
+character:kuzunoha -> 角色:葛叶
+character:erato -> 角色:埃拉托（明日方舟）
+character:suou asagiri -> 角色:朝雾周防
+character:aventurine -> 角色:砂金
+character:halford -> 角色:哈尔福德
 group:1 -> 团队:1
 group:13 -> 团队:13
 group:27 -> 团队:27
@@ -10919,7 +10950,7 @@ group:rin yuu -> 团队:Rin☆Yuu
 group:citron no mori -> 团队:しとろんの杜
 group:mugen jirai -> 团队:无限地雷
 group:pion -> 团队:Pion
-group:kuragamo -> 团队:蔵鴨
+group:kuragamo -> 团队:藏鸭
 group:kaguya hime koubou -> 团队:火愚夜姫工房
 group:ikujinashi no fetishist -> 团队:いくじなしのフェティシスト
 group:fuzuii undou -> 团队:不随意運動
@@ -22138,6 +22169,13 @@ group:pokapoka tengoku -> 团队:ポカポカ天国
 group:yofukashi no heya -> 团队:よふかしのへや
 group:rokugo sha -> 团队:ろくご社
 group:hipcomix -> 团队:HIPCOMIX
+group:alps1mando -> 团队:アルプス一万堂
+group:yudepopo -> 团队:茹でぽぽ
+group:yowatoro -> 团队:よわトロ
+group:ahoderasouryo -> 团队:アホ寺僧侶
+group:nonomiya -> 团队:ノノミヤ
+group:glovety -> 团队:Glovety
+group:akaneya gu-tara ten -> 团队:茜屋ぐーたら店
 artist:2 -> 艺术家:2
 artist:7 -> 艺术家:7
 artist:8 -> 艺术家:8
@@ -24200,7 +24238,7 @@ artist:alpaca club -> 艺术家:あるぱかくらぶ
 artist:berosu -> 艺术家:べろす
 artist:silly -> 艺术家:しりー
 artist:sekiri -> 艺术家:せきり
-artist:midorino tanuki -> 艺术家:翠野タヌキ
+artist:midorino tanuki -> 艺术家:翠野狸
 artist:kanna hisashi -> 艺术家:かんな久
 artist:kitahara eiji -> 艺术家:北原エイジ
 artist:aoi miharu -> 艺术家:蒼井ミハル
@@ -24579,7 +24617,7 @@ artist:gayarou -> 艺术家:☆画野朗
 artist:yashiro seika -> 艺术家:八城惺架
 artist:tokiwa midori -> 艺术家:常磐绿
 artist:tsubaki jushirou -> 艺术家:椿十四郎
-artist:tukinowagamo -> 艺术家:月ノ輪ガモ
+artist:tukinowagamo -> 艺术家:月ノ轮ガモ
 artist:uron rei -> 艺术家:ウーロン・レイ
 artist:mushanokouji shizuka -> 艺术家:武者小路静香
 artist:emori uki -> 艺术家:江森うき
@@ -27730,7 +27768,7 @@ artist:hasumi hiro -> 艺术家:ハスミヒロ
 artist:hasumi tsuina -> 艺术家:蓮見ついな
 artist:hasuno -> 艺术家:ハスノ
 artist:hasunoue baitsu -> 艺术家:はすの上梅津
-artist:hata -> 艺术家:ハタ
+artist:hata -> 艺术家:波多
 artist:hata jinshichi -> 艺术家:湊甚七
 artist:hatachi -> 艺术家:はたち
 artist:ekataraf -> 艺术家:エカタラフ
@@ -28657,7 +28695,7 @@ artist:kanif -> 艺术家:Kanif
 artist:kanikama -> 艺术家:カニカマ
 artist:kanikoro -> 艺术家:KANIKORO
 artist:kanimaru -> 艺术家:かにまる
-artist:kanimura ebio -> 艺术家:かに村えびお
+artist:kanimura ebio -> 艺术家:蟹村虾夫
 artist:kanitaro -> 艺术家:かに太郎
 artist:kanitoon -> 艺术家:蟹丹
 artist:kanju -> 艺术家:kanju
@@ -32790,7 +32828,7 @@ artist:tamiko -> 艺术家:たみこ
 artist:tamineko -> 艺术家:タミネコ
 artist:tamo -> 艺术家:たも
 artist:tamochi -> 艺术家:田持
-artist:tamon ketsuyuki -> 艺术家:多門結之
+artist:tamon ketsuyuki -> 艺术家:多门结之
 artist:tamori tadaji -> 艺术家:たもりただぢ
 artist:tamu -> 艺术家:たむ
 artist:tamuhi -> 艺术家:タムヒ
@@ -36128,6 +36166,20 @@ artist:feeri -> 艺术家:ふぇぇり
 artist:buki -> 艺术家:武器
 artist:chakamaruya-san -> 艺术家:ちゃかまる屋さん
 artist:nekofugu dango -> 艺术家:ねこふぐだんご
+artist:banjie wazi -> 艺术家:半截袜子
+artist:yagami sai -> 艺术家:夜神纱衣
+artist:arisane -> 艺术家:アリサネ
+artist:rapisu -> 艺术家:ラピス
+artist:mutsuki aki -> 艺术家:夢月あき
+artist:toi deisuke -> 艺术家:土肥泥助
+artist:neko kuni ou -> 艺术家:猫国王
+artist:kuzukirimoti -> 艺术家:屑雾饼
+artist:akaneya -> 艺术家:茜屋
+artist:amagiri miki -> 艺术家:天霧三木
+artist:tries -> 艺术家:とりえす
+artist:tsuji santa -> 艺术家:津路参汰
+artist:madoguchi isogu -> 艺术家:窓口いそぐ
+artist:yukikuni -> 艺术家:雪国
 cosplayer:otohara an -> Coser:乙原あん
 cosplayer:rioko -> Coser:凉凉子
 cosplayer:atsuki -> Coser:あつき
@@ -36272,6 +36324,7 @@ cosplayer:neneko -> Coser:Neneko
 cosplayer:evenink -> Coser:Evenink
 cosplayer:jean wanwan -> Coser:Jean Wanwan
 cosplayer:sharkparty -> Coser:Sharkparty
+cosplayer:jiuqujean -> Coser:九曲Jean
 male:age progression -> 男性:年龄增长
 male:age regression -> 男性:返老还童
 male:dilf -> 男性:熟男
