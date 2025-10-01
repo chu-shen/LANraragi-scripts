@@ -8908,6 +8908,13 @@ character:erato -> 角色:埃拉托（明日方舟）
 character:suou asagiri -> 角色:朝雾周防
 character:aventurine -> 角色:砂金
 character:halford -> 角色:哈尔福德
+character:wilhelmina -> 角色:威廉明娜（棕色尘埃2）
+character:sylvia -> 角色:席比雅
+character:galatea -> 角色:伽拉忒亚
+character:mimori tougou -> 角色:东乡美森
+character:miyo sakurai -> 角色:樱井美代
+character:kirara onisaki -> 角色:鬼崎绮罗罗
+character:ayano kosaka -> 角色:香坂绫乃
 group:1 -> 团队:1
 group:13 -> 团队:13
 group:27 -> 团队:27
@@ -9835,7 +9842,7 @@ group:homuraya -> 团队:ほむら屋★プレアデス
 group:heavy bunny addiction -> 团队:H.B.A
 group:mata ashita. -> 团队:また明日。
 group:muses garden -> 团队:MUSES GARDEN
-group:nekomataya -> 团队:ねこまた屋
+group:nekomataya -> 团队:猫又屋
 group:oving -> 团队:OVing
 group:ditama kikaku -> 团队:ぢたま企画
 group:crespirit -> 团队:CreSpirit
@@ -14797,7 +14804,7 @@ group:ichinichi atelier -> 团队:いちにちアトリエ
 group:ichinichijuu guttari -> 团队:一日中ぐったり
 group:ichino nijou -> 团队:いちのにじょう
 group:ichinose -> 团队:一ノ瀬
-group:ichiokumangenjaya -> 团队:一億万軒茶屋
+group:ichiokumangenjaya -> 团队:一亿万轩茶屋
 group:ichiokunen wakusei -> 团队:1亿年惑星
 group:ichiya neko no yume -> 团队:一夜猫の夢
 group:ichiya teikoku -> 团队:壱屋帝国
@@ -15270,7 +15277,7 @@ group:kanie-don -> 团队:鹿贄どん
 group:kanifry -> 团队:カニフライ
 group:kanikieru -> 团队:カニキエル
 group:kaniman -> 团队:かにまん
-group:kanimura hanten -> 团队:蟹村飯店
+group:kanimura hanten -> 团队:蟹村饭店
 group:kaniparadise -> 团队:かにぱらだいす
 group:kaniya -> 团队:かに家
 group:kankyokusetsu -> 团队:寒極雪
@@ -22176,6 +22183,8 @@ group:ahoderasouryo -> 团队:アホ寺僧侶
 group:nonomiya -> 团队:ノノミヤ
 group:glovety -> 团队:Glovety
 group:akaneya gu-tara ten -> 团队:茜屋ぐーたら店
+group:erorhythm -> 团队:EroRhythm
+group:izumi no miyako -> 团队:和泉都
 artist:2 -> 艺术家:2
 artist:7 -> 艺术家:7
 artist:8 -> 艺术家:8
@@ -24644,7 +24653,7 @@ artist:sakura ani -> 艺术家:桜あに
 artist:tsukishima yuuko -> 艺术家:月岛优子
 artist:tomoshibi hidekazu -> 艺术家:赤提灯
 artist:kamisyakujii yubeshi -> 艺术家:紙石神井ゆべし
-artist:kurosu gatari -> 艺术家:黒巣ガタリ
+artist:kurosu gatari -> 艺术家:黑巢ガタリ
 artist:doku denpa -> 艺术家:毒でんぱ
 artist:dokiyuri -> 艺术家:どきゆり
 artist:tamagoro -> 艺术家:たまごろー
@@ -36180,6 +36189,10 @@ artist:tries -> 艺术家:とりえす
 artist:tsuji santa -> 艺术家:津路参汰
 artist:madoguchi isogu -> 艺术家:窓口いそぐ
 artist:yukikuni -> 艺术家:雪国
+artist:miyo sakurai -> 艺术家:樱井美代
+artist:kataokasan -> 艺术家:kataokasan
+artist:niwarhythm -> 艺术家:にわりズム
+artist:nagomi yayado -> 艺术家:和水ややど
 cosplayer:otohara an -> Coser:乙原あん
 cosplayer:rioko -> Coser:凉凉子
 cosplayer:atsuki -> Coser:あつき
