@@ -1446,7 +1446,7 @@ parody:donkey kong -> 原作:大金刚
 parody:whistle -> 原作:哨声响起
 parody:ore ga suki nano wa imouto dakedo imouto ja nai -> 原作:我喜欢的是小说里的你
 parody:seishun buta yarou wa bunny girl senpai no yume o minai -> 原作:青春猪头少年不会梦到兔女郎学姐
-parody:ssss.gridman -> 原作:SSSS.GRIDMAN
+parody:ssss.gridman -> 原作:电光超人古立特
 parody:barbie -> 原作:芭比娃娃
 parody:hellboy -> 原作:地狱男爵
 parody:akebi no mi -> 原作:山姬之实
@@ -1962,7 +1962,7 @@ parody:cross game -> 原作:幸运四叶草
 parody:crush gear nitro -> 原作:新超激力战斗车
 parody:crypt killer -> 原作:妖霸天下
 parody:cyberbots -> 原作:装甲战士
-parody:cyberpunk -> 原作:赛博朋克
+parody:cyberpunk -> 原作:赛博朋克 边缘行者
 parody:d.gray-man -> 原作:驱魔少年
 parody:d.n.angel -> 原作:天使怪盗
 parody:d.p.s. -> 原作:D.P.S.
@@ -2023,7 +2023,7 @@ parody:jewelpet tinkle -> 原作:宝石宠物Twinkle☆
 parody:dragon crisis -> 原作:龙之界点
 parody:who framed roger rabbit -> 原作:谁陷害了兔子罗杰
 parody:the bad guys -> 原作:坏蛋联盟
-parody:hige o soru. soshite joshikousei o hirou. -> 原作:剃须。然后捡到女高中生。
+parody:hige o soru. soshite joshikousei o hirou. -> 原作:剃须，然后捡到女高中生
 parody:horimiya -> 原作:堀与宫村
 parody:ef a tale of memories -> 原作:悠久之翼
 parody:gaikotsu kishi-sama tadaima isekai e odekakechuu -> 原作:骸骨骑士大人异世界冒险中
@@ -2585,6 +2585,12 @@ parody:akuyaku reijo level 99 -> 原作:反派千金等级99～我是隐藏头�
 parody:koujo denka no kateikyoushi -> 原作:公爵千金的家庭教师
 parody:amakano -> 原作:甜蜜女友
 parody:amakano 2 -> 原作:甜蜜女友2
+parody:slay the spire -> 原作:杀戮尖塔
+parody:dan vs. -> 原作:DAN VS.
+parody:no im not a human -> 原作:寻找伪人
+parody:seijo no maryoku wa bannou desu -> 原作:圣女魔力无所不能
+parody:ore wa subete wo parry suru -> 原作:我要“招架”一切 ～反误解的世界最强想成为冒险者～
+parody:sinisistar -> 原作:哥特少女勇闯恶魔城
 character:alice -> 角色:爱丽丝
 character:akane hino -> 角色:日野茜
 character:ibuki -> 角色:伊吹
@@ -2615,7 +2621,7 @@ character:yumemi okazaki -> 角色:冈崎梦美
 character:elly -> 角色:艾丽
 character:gengetsu -> 角色:幻月
 character:mugetsu -> 角色:梦月
-character:kurumi -> 角色:胡桃
+character:kurumi -> 角色:胡桃（莉可丽丝）
 character:yumeko -> 角色:梦子
 character:shinki -> 角色:神绮
 character:rumia -> 角色:露米娅
@@ -6763,7 +6769,7 @@ character:fu xuan -> 角色:符玄
 character:qingque -> 角色:青雀
 character:sin mal -> 角色:杏·玛尔
 character:bailu -> 角色:白露
-character:tingyun -> 角色:停云
+character:tingyun -> 角色:停云（忘归人）
 character:bronya rand -> 角色:布洛妮娅·兰德
 character:shuuko komi -> 角色:古见秀子
 character:kana arima -> 角色:有马加奈
@@ -6856,7 +6862,7 @@ character:kaya shiranui -> 角色:不知火花耶
 character:mine aomori -> 角色:苍森美弥
 character:mina konoe -> 角色:近卫弥奈
 character:marina ikekura -> 角色:池仓玛丽娜
-character:eimi izumimoto -> 角色:和元泉艾米
+character:eimi izumimoto -> 角色:和泉元艾米
 character:megu shimokura -> 角色:下仓惠
 character:serina sumi -> 角色:鹫见芹娜
 character:ayumu iwabitsu -> 角色:岩柜步梦
@@ -7100,7 +7106,7 @@ character:illumi zoldyck -> 角色:伊路米·揍敌客
 character:charybdis -> 角色:卡律布狄斯
 character:elbe -> 角色:易北
 character:anchorage -> 角色:安克雷奇
-character:jade -> 角色:翡翠|洁德
+character:jade -> 角色:翡翠（慈玉女士）
 character:scylla -> 角色:斯库拉
 character:algerie -> 角色:阿尔及利亚
 character:erika -> 角色:莉佳
@@ -8183,7 +8189,7 @@ character:ein -> 角色:无 | 爱因
 character:ohr -> 角色:光
 character:sof -> 角色:限
 character:gamma -> 角色:伽马
-character:yuuna yunohana -> 角色:幽奈
+character:yuuna yunohana -> 角色:汤之花幽奈
 character:akari hoshizaki -> 角色:星咲明里
 character:type-37 daika -> 角色:37式黛卡
 character:kosuzu kachimachi -> 角色:徒町小铃
@@ -8299,7 +8305,7 @@ character:chizuru kashiwagi -> 角色:柏木千鹤
 character:shouto todoroki -> 角色:轰焦冻
 character:popess johanna -> 角色:女教皇若安
 character:sae chabashira -> 角色:茶柱佐枝
-character:hae-in cha -> 角色:车慧仁
+character:hae-in cha -> 角色:车慧仁 | 向坂雫
 character:kitchen dragonmaid -> 角色:龙女仆・炊事龙女
 character:chamber dragonmaid -> 角色:龙女仆・客房龙女
 character:prishe -> 角色:普利修
@@ -8830,7 +8836,7 @@ character:mulberry -> 角色:桑葚
 character:nicole watterson -> 角色:妮蔻·沃特森
 character:tina howard -> 角色:蒂娜·霍华德
 character:lisara restall -> 角色:莉萨拉·雷斯托
-character:eve 07 -> 角色:伊芙
+character:eve 07 -> 角色:伊芙（剑星）
 character:nowa sugaya -> 角色:菅谷乃羽
 character:noelle silva -> 角色:诺艾儿·席尔瓦
 character:il capitano -> 角色:「队长」卡皮塔诺
@@ -8915,6 +8921,39 @@ character:mimori tougou -> 角色:东乡美森
 character:miyo sakurai -> 角色:樱井美代
 character:kirara onisaki -> 角色:鬼崎绮罗罗
 character:ayano kosaka -> 角色:香坂绫乃
+character:syndra -> 角色:辛德拉
+character:hakuryuu -> 角色:白龙
+character:irelia -> 角色:艾瑞莉娅（刀锋舞者）
+character:sovetskaya belorussiya -> 角色:苏维埃贝拉罗斯
+character:sovetsky soyuz -> 角色:苏维埃罗西亚
+character:prinz adalbert -> 角色:阿达尔伯特亲王 | 阿德莉娅亲王
+character:latifa -> 角色:拉蒂法
+character:liselotte cretia -> 角色:莉赛萝黛·库雷提雅
+character:dahlia -> 角色:塔利雅
+character:osaragi -> 角色:大佛
+character:esil radiru -> 角色:艾希尔·拉迪鲁
+character:nitocris alter -> 角色:尼托克丽丝〔Alter〕
+character:nemo professor -> 角色:尼莫教授
+character:moze -> 角色:貊泽
+character:mio -> 角色:澪
+character:vivi nefertari -> 角色:薇薇·奈菲鲁塔丽
+character:lihua -> 角色:梨花
+character:sei takanashi -> 角色:小鸟游圣
+character:pairin -> 角色:白铃
+character:lynneburg clays -> 角色:林涅波尔格·克雷斯
+character:hinata sakaguchi -> 角色:坂口日向
+character:luminous valentine -> 角色:露米娜丝·瓦伦丁
+character:sagiri ameno -> 角色:雨野狭雾
+character:chisaki miyazaki -> 角色:宫崎千纱希
+character:witch -> 角色:魔女
+character:cow girl -> 角色:牧牛妹
+character:akane sakuramori -> 角色:樱森朱音
+character:teltina liz wargray avallost -> 角色:蒂露缇娜·莉兹·瓦古雷·阿瓦鲁罗斯特
+character:yihdra arvoln -> 角色:伊多拉·阿波罗
+character:ironmouse -> 角色:铁鼠
+character:shiraori -> 角色:白织（蜘蛛子）
+character:eri shirao -> 角色:白尾绘里
+character:peter strasser -> 角色:彼得·史特拉塞
 group:1 -> 团队:1
 group:13 -> 团队:13
 group:27 -> 团队:27
@@ -10065,7 +10104,7 @@ group:nyuu koubou -> 团队:にゅう工房
 group:freehand tamashii -> 团队:フリーハンド魂
 group:tabuchi-san chi -> 团队:たぶちさんち
 group:2d creative -> 团队:2Dクリエイティブ
-group:higuma-ya -> 团队:ひぐま屋
+group:higuma-ya -> 团队:罴屋
 group:clearmana plum -> 团队:クリアマナ・プラム
 group:hanjuku iriko dashi -> 团队:半熟いりこ出汁
 group:pururun estate -> 团队:プルルンエステ
@@ -22133,7 +22172,7 @@ group:mimizuki mimizuku. -> 团队:ミミ好きミミ尽ク
 group:shizuma no ie -> 团队:しづまの家
 group:kyabiramuuru -> 团队:キャビラムール
 group:one or eight -> 团队:ワンオアエイト
-group:tonikakuushi -> 团队:イチヒ
+group:tonikakuushi -> 团队:兎に角牛
 group:hiyashi makura -> 团队:ひやしまくら
 group:midareuchi -> 团队:乱れ击ち
 group:otogidou -> 团队:オトギ堂
@@ -22185,6 +22224,14 @@ group:glovety -> 团队:Glovety
 group:akaneya gu-tara ten -> 团队:茜屋ぐーたら店
 group:erorhythm -> 团队:EroRhythm
 group:izumi no miyako -> 团队:和泉都
+group:keisei yuan -> 团队:傾世遊庵
+group:yukidoke hachinosu -> 团队:雪解けハチノス
+group:urahara doll -> 团队:うらはらドール
+group:bloody mary -> 团队:血腥玛丽
+group:alecubicsoft -> 团队:AleCubicSoft
+group:resoman manga koubou -> 团队:Resoman漫画工房
+group:momofes -> 团队:桃祭
+group:enbudou -> 团队:炎舞堂
 artist:2 -> 艺术家:2
 artist:7 -> 艺术家:7
 artist:8 -> 艺术家:8
@@ -23261,7 +23308,7 @@ artist:mtu -> 艺术家:MtU
 artist:alp -> 艺术家:あるぷ
 artist:chiba toshirou -> 艺术家:チバトシロウ
 artist:choco pahe -> 艺术家:チョコぱへ
-artist:hal -> 艺术家:HAL
+artist:hal -> 艺术家:hal | なにがしナニカ
 artist:haruhisky -> 艺术家:はるきち
 artist:ichinomiya yuu -> 艺术家:一宮夕羽
 artist:inago -> 艺术家:INAGO
@@ -23905,7 +23952,7 @@ artist:kagutsuchi -> 艺术家:カグツチ
 artist:nyuu -> 艺术家:にゅう
 artist:kani club -> 艺术家:蟹俱乐部
 artist:tabuchi -> 艺术家:たぶち
-artist:nora higuma -> 艺术家:野良ヒグマ
+artist:nora higuma -> 艺术家:野良罴
 artist:tohyama eight -> 艺术家:东山エイト
 artist:shakuhachi nameko -> 艺术家:尺八ナメコ
 artist:bai asuka -> 艺术家:呗飞鸟
@@ -36193,6 +36240,17 @@ artist:miyo sakurai -> 艺术家:樱井美代
 artist:kataokasan -> 艺术家:kataokasan
 artist:niwarhythm -> 艺术家:にわりズム
 artist:nagomi yayado -> 艺术家:和水ややど
+artist:enryu -> 艺术家:えんりゅう
+artist:hachikari -> 艺术家:はちかり
+artist:noumiso kaimentai -> 艺术家:脳みそ海綿隊
+artist:jimador -> 艺术家:ヒマドール
+artist:niku to gohan -> 艺术家:肉与饭
+artist:viali -> 艺术家:びあり
+artist:chokai -> 艺术家:鳥海
+artist:yamashita nigou -> 艺术家:山下二号
+artist:dian dian di di -> 艺术家:点点滴滴
+artist:kubikiri -> 艺术家:首切り
+artist:onizuka frill -> 艺术家:鬼塚フリル
 cosplayer:otohara an -> Coser:乙原あん
 cosplayer:rioko -> Coser:凉凉子
 cosplayer:atsuki -> Coser:あつき
