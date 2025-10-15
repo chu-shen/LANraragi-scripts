@@ -118,7 +118,7 @@ parody:moetan -> 原作:萌单✏️
 parody:kanon -> 原作:Kanon❄
 parody:air -> 原作:AIR🕊
 parody:clannad -> 原作:CLANNAD👪
-parody:angel beats -> 原作:Angel Beats!❤
+parody:angel beats -> 原作:天使的心跳
 parody:charlotte -> 原作:Charlotte🌠
 parody:little busters -> 原作:Little Busters!⚾🐈
 parody:rewrite -> 原作:Rewrite
@@ -347,7 +347,7 @@ parody:final fantasy iii -> 原作:最终幻想III
 parody:final fantasy iv -> 原作:最终幻想IV
 parody:final fantasy v -> 原作:最终幻想V
 parody:final fantasy vi -> 原作:最终幻想VI
-parody:final fantasy vii -> 原作:最终幻想VII
+parody:final fantasy vii -> 原作:最终幻想7
 parody:final fantasy viii -> 原作:最终幻想VIII
 parody:final fantasy ix -> 原作:最终幻想IX
 parody:final fantasy x -> 原作:最终幻想X
@@ -1995,7 +1995,7 @@ parody:ryuugajou nanana no maizoukin -> 原作:龙娘七七七埋藏的宝藏
 parody:grandia -> 原作:冒險奇譚
 parody:grappler baki -> 原作:刃牙
 parody:mayonaka no tantei nightwalker -> 原作:真夜中的侦探
-parody:boku no kokoro no yabai yatsu -> 原作:我内心的糟糕念头
+parody:boku no kokoro no yabai yatsu -> 原作:我心里危险的东西
 parody:inaka ni kaeru to yakeni natsuita kasshoku ponytail shota ga iru -> 原作:单马尾表弟
 parody:paripi koumei -> 原作:派对浪客诸葛孔明
 parody:sore ga seiyuu -> 原作:那就是声优！
@@ -2591,6 +2591,19 @@ parody:no im not a human -> 原作:寻找伪人
 parody:seijo no maryoku wa bannou desu -> 原作:圣女魔力无所不能
 parody:ore wa subete wo parry suru -> 原作:我要“招架”一切 ～反误解的世界最强想成为冒险者～
 parody:sinisistar -> 原作:哥特少女勇闯恶魔城
+parody:bridge to terabithia -> 原作:仙境之桥
+parody:hametsu no oukoku -> 原作:破灭之国
+parody:inyouchuu -> 原作:淫妖蟲
+parody:fate samurai remnant -> 原作:Fate/Samurai Remnant
+parody:etotama -> 原作:干支魂
+parody:idolish7 -> 原作:IDOLiSH7
+parody:night wizard -> 原作:暗夜魔法使
+parody:16bit sensation -> 原作:16bit的感动
+parody:shy -> 原作:SHY腼腆英雄
+parody:saikyou no shienshoku wajutsushi de aru ore wa sekai saikyou clan wo shitagaeru -> 原作:最狂辅助职业【话术士】世界最强战团听我号令
+parody:hazure waku -> 原作:依靠被嫌弃的【状态异常技能】而成为最强的我最终蹂躏一切
+parody:witch watch -> 原作:魔女与使魔
+parody:miracle nikki -> 原作:奇迹暖暖
 character:alice -> 角色:爱丽丝
 character:akane hino -> 角色:日野茜
 character:ibuki -> 角色:伊吹
@@ -2599,11 +2612,11 @@ character:hisui -> 角色:翡翠 | 飞彗
 character:rider -> 角色:Rider | 龙女
 character:maya -> 角色:摩耶
 character:jeanne darc -> 角色:圣女贞德
-character:katsuragi -> 角色:葛城
+character:katsuragi -> 角色:葛城(鹖)
 character:kasumi -> 角色:霞
 character:leo -> 角色:丽王 | 利昂
 character:haruna -> 角色:榛名 | 春奈
-character:chitose -> 角色:千岁
+character:chitose -> 角色:千岁(鹂)
 character:murakumo -> 角色:丛 | 丛云
 character:nachi -> 角色:那智
 character:kagura -> 角色:神乐
@@ -2787,7 +2800,7 @@ character:setsuna yuki -> 角色:优木雪菜
 character:emma verde -> 角色:艾玛·维尔德
 character:rina tennoji -> 角色:天王寺璃奈
 character:rensouhou-chan -> 角色:连装炮酱
-character:chiyoda -> 角色:千代田
+character:chiyoda -> 角色:千代田(鹃)
 character:akebono -> 角色:曙
 character:ushio -> 角色:潮
 character:ikazuchi -> 角色:雷
@@ -2806,34 +2819,34 @@ character:re-class -> 角色:战舰RE级
 character:ta-class -> 角色:战舰TA级
 character:wo-class -> 角色:空母WO级
 character:teitoku -> 角色:提督
-character:nagato -> 角色:长门 | 鲨
-character:mutsu -> 角色:陆奥
+character:nagato -> 角色:长门(鲨)
+character:mutsu -> 角色:陆奥(鲛)
 character:ise -> 角色:伊势
 character:hyuuga -> 角色:日向
-character:yukikaze -> 角色:雪风
-character:akagi -> 角色:赤城
-character:kaga -> 角色:加贺
-character:souryuu -> 角色:苍龙
-character:hiryuu -> 角色:飞龙
-character:shimakaze -> 角色:岛风 | 芒
-character:fubuki -> 角色:吹雪
-character:shirayuki -> 角色:白雪
+character:yukikaze -> 角色:雪风(莲)
+character:akagi -> 角色:赤城(凰)
+character:kaga -> 角色:加贺(鸾)
+character:souryuu -> 角色:苍龙(蛟)
+character:hiryuu -> 角色:飞龙(龙)
+character:shimakaze -> 角色:岛风(芒)
+character:fubuki -> 角色:吹雪(桐)
+character:shirayuki -> 角色:白雪(杉)
 character:hatsuyuki -> 角色:初雪
-character:miyuki -> 角色:深雪
+character:miyuki -> 角色:深雪(梧)
 character:isonami -> 角色:矶波
-character:ayanami -> 角色:绫波
+character:ayanami -> 角色:绫波(柚)
 character:shikinami -> 角色:敷波
 character:ooi -> 角色:大井
 character:kitakami -> 角色:北上
-character:kongou -> 角色:金刚
-character:hiei -> 角色:比睿
+character:kongou -> 角色:金刚(鲤)
+character:hiei -> 角色:比叡(鲟)
 character:kirishima -> 角色:雾岛
-character:houshou -> 角色:凤翔
+character:houshou -> 角色:凤翔(凤)
 character:fusou -> 角色:扶桑
 character:yamashiro -> 角色:山城
 character:tenryuu -> 角色:天龙
 character:tatsuta -> 角色:龙田
-character:ryuujou -> 角色:龙骧
+character:ryuujou -> 角色:龙骧(枭)
 character:mutsuki -> 角色:睦月
 character:kisaragi -> 角色:如月
 character:satsuki -> 角色:皋月
@@ -2847,10 +2860,10 @@ character:tama -> 角色:多摩
 character:kiso -> 角色:木曾
 character:nagara -> 角色:长良
 character:isuzu -> 角色:五十铃
-character:natori -> 角色:名取
+character:natori -> 角色:名取(猽)
 character:yura -> 角色:由良
 character:sendai -> 角色:川内
-character:jintsuu -> 角色:神通
+character:jintsuu -> 角色:神通(貎)
 character:naka -> 角色:那珂
 character:mogami -> 角色:最上
 character:furutaka -> 角色:古鹰
@@ -2859,11 +2872,11 @@ character:aoba -> 角色:青叶
 character:myoukou -> 角色:妙高
 character:ashigara -> 角色:足柄
 character:haguro -> 角色:羽黑
-character:takao -> 角色:高雄 | 獒
-character:atago -> 角色:爱宕
+character:takao -> 角色:高雄(獒)
+character:atago -> 角色:爱宕(犬)
 character:choukai -> 角色:鸟海
 character:tone -> 角色:利根
-character:chikuma -> 角色:筑摩
+character:chikuma -> 角色:筑摩(狘)
 character:hiyou -> 角色:飞鹰
 character:junyou -> 角色:隼鹰
 character:oboro -> 角色:胧
@@ -2878,7 +2891,7 @@ character:hatsushimo -> 角色:初霜
 character:shiratsuyu -> 角色:白露
 character:shigure -> 角色:时雨
 character:murasame -> 角色:丛雨 | 村雨
-character:yuudachi -> 角色:夕立
+character:yuudachi -> 角色:夕立(椿)
 character:samidare -> 角色:五月雨
 character:suzukaze -> 角色:凉风
 character:asashio -> 角色:朝潮
@@ -2890,20 +2903,20 @@ character:kagerou -> 角色:阳炎
 character:shiranui -> 角色:不知火
 character:kuroshio -> 角色:黑潮
 character:shouhou -> 角色:祥凤
-character:shoukaku -> 角色:翔鹤
-character:zuikaku -> 角色:瑞鹤
-character:kinu -> 角色:鬼怒
+character:shoukaku -> 角色:翔鹤(鹬)
+character:zuikaku -> 角色:瑞鹤(鹤)
+character:kinu -> 角色:鬼怒(猤)
 character:abukuma -> 角色:阿武隈
 character:yuubari -> 角色:夕张
 character:zuihou -> 角色:瑞凤
-character:mikuma -> 角色:三隈
+character:mikuma -> 角色:三隈(狻)
 character:hatsukaze -> 角色:初风
 character:maikaze -> 角色:舞风
 character:kinugasa -> 角色:衣笠
 character:i-19 -> 角色:伊19
-character:suzuya -> 角色:铃谷
+character:suzuya -> 角色:铃谷(狺)
 character:kumano -> 角色:熊野
-character:i-168 -> 角色:伊168
+character:i-168 -> 角色:伊168(伊吕波)
 character:i-58 -> 角色:伊58
 character:i-8 -> 角色:伊8
 character:yamato -> 角色:大和
@@ -2911,12 +2924,12 @@ character:akigumo -> 角色:秋云
 character:yuugumo -> 角色:夕云
 character:makigumo -> 角色:卷云
 character:naganami -> 角色:长波
-character:agano -> 角色:阿贺野
+character:agano -> 角色:阿贺野(豼)
 character:noshiro -> 角色:能代
 character:yahagi -> 角色:矢矧
-character:sakawa -> 角色:酒匂
-character:musashi -> 角色:武藏 | 鳄
-character:taihou -> 角色:大凤 | 鹩
+character:sakawa -> 角色:酒匂(貄)
+character:musashi -> 角色:武藏(鳄)
+character:taihou -> 角色:大凤(鹩)
 character:katori -> 角色:香取
 character:i-401 -> 角色:伊401
 character:akitsu maru -> 角色:秋津丸
@@ -2936,7 +2949,7 @@ character:taigei -> 角色:大鲸
 character:ryuuhou -> 角色:龙凤
 character:tokitsukaze -> 角色:时津风
 character:unryuu -> 角色:云龙
-character:amagi -> 角色:天城 | 鳐
+character:amagi -> 角色:天城(鳐)
 character:harusame -> 角色:春雨
 character:hayashimo -> 角色:早霜
 character:kiyoshimo -> 角色:清霜
@@ -2945,7 +2958,7 @@ character:yamagumo -> 角色:山云
 character:nowaki -> 角色:野分
 character:akizuki -> 角色:秋月
 character:teruzuki -> 角色:照月
-character:hatsuzuki -> 角色:初月
+character:hatsuzuki -> 角色:初月(檚)
 character:takanami -> 角色:高波
 character:asashimo -> 角色:朝霜
 character:u-511 -> 角色:U-511
@@ -2963,12 +2976,12 @@ character:zara -> 角色:扎拉
 character:pola -> 角色:波拉
 character:mizuho -> 角色:瑞穗
 character:okinami -> 角色:冲波
-character:kazagumo -> 角色:风云
+character:kazagumo -> 角色:风云(枟)
 character:arashi -> 角色:岚
 character:hagikaze -> 角色:萩风
 character:oyashio -> 角色:亲潮
-character:yamakaze -> 角色:山风
-character:umikaze -> 角色:海风
+character:yamakaze -> 角色:山风(杣)
+character:umikaze -> 角色:海风(菪)
 character:kawakaze -> 角色:江风
 character:hayasui -> 角色:速吸
 character:kashima -> 角色:鹿岛
@@ -2983,7 +2996,7 @@ character:minazuki -> 角色:水无月
 character:i-26 -> 角色:伊26
 character:hamanami -> 角色:滨波
 character:fujinami -> 角色:藤波
-character:uranami -> 角色:浦波
+character:uranami -> 角色:浦波(朴)
 character:commandant teste -> 角色:特斯特长官
 character:richelieu -> 角色:黎塞留
 character:i-400 -> 角色:伊400
@@ -2995,7 +3008,7 @@ character:ark royal -> 角色:皇家方舟
 character:shimushu -> 角色:占守
 character:kunashiri -> 角色:国后
 character:jervis -> 角色:贾维斯 | 杰维斯
-character:suzutsuki -> 角色:凉月
+character:suzutsuki -> 角色:凉月(栎)
 character:etorofu -> 角色:择捉
 character:matsuwa -> 角色:松轮
 character:sado -> 角色:佐渡
@@ -3022,9 +3035,9 @@ character:portland -> 角色:波特兰
 character:cygnet -> 角色:小天鹅
 character:kent -> 角色:肯特
 character:hammann -> 角色:哈曼
-character:mikasa -> 角色:三笠
+character:mikasa -> 角色:三笠(鲐)
 character:st. louis -> 角色:圣路易斯
-character:san diego -> 角色:圣地亚哥
+character:san diego -> 角色:圣地亚哥(圣戴安娜)
 character:long island -> 角色:长岛
 character:javelin -> 角色:标枪
 character:nelson -> 角色:纳尔逊
@@ -5725,7 +5738,7 @@ character:yui ikari -> 角色:碇唯
 character:gendo ikari -> 角色:碇源堂
 character:kensou sie -> 角色:椎拳崇
 character:andy bogard -> 角色:安迪·博加德
-character:azuma -> 角色:吾妻 | 猉
+character:azuma -> 角色:吾妻(猉)
 character:gorgon -> 角色:戈尔贡
 character:repulse -> 角色:反击
 character:north carolina -> 角色:北卡罗来纳
@@ -6033,7 +6046,7 @@ character:caitlyn -> 角色:凯特琳
 character:nikaido -> 角色:二阶堂
 character:reno -> 角色:里诺
 character:aegir -> 角色:埃吉尔
-character:shinano -> 角色:信浓
+character:shinano -> 角色:信浓(鵗)
 character:foxhound -> 角色:狐提
 character:pamiat merkuria -> 角色:水星纪念
 character:nurnberg -> 角色:纽伦堡
@@ -7616,7 +7629,7 @@ character:zhu yuan -> 角色:朱鸢
 character:inori yuzuriha -> 角色:楪祈
 character:kotone fujita -> 角色:藤田琴音
 character:acheron -> 角色:黄泉
-character:asanagi -> 角色:朝凪
+character:asanagi -> 角色:朝凪(桎)
 character:toji fushiguro -> 角色:伏黑甚尔
 character:curtana -> 角色:卡提那
 character:alisa mikhailovna kujou -> 角色:艾莉莎·米哈伊罗夫纳·九条
@@ -7801,7 +7814,7 @@ character:andreana -> 角色:安哲拉
 character:degenbrecher -> 角色:锏
 character:saileach -> 角色:琴柳
 character:pekoras mother -> 角色:佩克拉妈咪
-character:unzen -> 角色:云仙 | 猃
+character:unzen -> 角色:云仙 (猃)
 character:mualani -> 角色:玛拉妮
 character:shiori fujisaki -> 角色:藤崎诗织
 character:kiwi araga -> 角色:阿良河基维
@@ -8375,7 +8388,7 @@ character:cantarella -> 角色:坎特蕾拉
 character:phoebe -> 角色:菲比
 character:chi nishikata -> 角色:西片千
 character:monarch -> 角色:君主
-character:principal -> 角色:校长
+character:principal -> 角色:校长（出包王女）
 character:istina -> 角色:真理
 character:otonose kanade -> 角色:音乃濑奏
 character:mayer -> 角色:梅尔
@@ -8622,7 +8635,7 @@ character:flynn scifo -> 角色:弗林·西佛
 character:percival -> 角色:帕西瓦尔
 character:minami kotobuki -> 角色:寿美奈美
 character:zuo le -> 角色:左乐
-character:tosa -> 角色:土佐
+character:tosa -> 角色:土佐(䲠)
 character:sorahoshi kirame -> 角色:空星煌
 character:suzumiya suzume -> 角色:雀宮すずめ
 character:teto kasane -> 角色:重音teto
@@ -8677,7 +8690,7 @@ character:san jacinto -> 角色:圣哈辛托
 character:michiru matsushima -> 角色:松岛满
 character:kazuki kazami -> 角色:风见一姬
 character:yuuji kazami -> 角色:风见雄二
-character:shimanto -> 角色:四万十
+character:shimanto -> 角色:四万十 (虒)
 character:agnes -> 角色:阿妮埃斯
 character:hanako-san -> 角色:花子小姐
 character:kitarou -> 角色:鬼太郎
@@ -8922,7 +8935,7 @@ character:miyo sakurai -> 角色:樱井美代
 character:kirara onisaki -> 角色:鬼崎绮罗罗
 character:ayano kosaka -> 角色:香坂绫乃
 character:syndra -> 角色:辛德拉
-character:hakuryuu -> 角色:白龙
+character:hakuryuu -> 角色:白龙(鹫)
 character:irelia -> 角色:艾瑞莉娅（刀锋舞者）
 character:sovetskaya belorussiya -> 角色:苏维埃贝拉罗斯
 character:sovetsky soyuz -> 角色:苏维埃罗西亚
@@ -8954,6 +8967,30 @@ character:ironmouse -> 角色:铁鼠
 character:shiraori -> 角色:白织（蜘蛛子）
 character:eri shirao -> 角色:白尾绘里
 character:peter strasser -> 角色:彼得·史特拉塞
+character:jin-woo sung -> 角色:程肖宇
+character:irina shidou -> 角色:紫藤伊莉娜
+character:kuroka -> 角色:黑歌
+character:grayfia lucifuge -> 角色:葛瑞菲雅·路基弗古斯
+character:venelana gremory -> 角色:维妮拉娜·吉蒙里
+character:serafall leviathan -> 角色:赛拉芙露·利维坦
+character:yasaka -> 角色:八坂
+character:seiha shiunji -> 角色:紫云寺清叶
+character:cesario -> 角色:西沙里奥
+character:akemi kurihama -> 角色:栗浜明美
+character:uri-tan -> 角色:小瓜(瓜仔)
+character:nukota natsuna -> 角色:猫田なつな
+character:kimidori mero -> 角色:키미도리_메로
+character:teru momijiyama -> 角色:红叶山辉
+character:aoi sakamoto -> 角色:坂本葵
+character:bo-ra lee -> 角色:李宝拉
+character:ren -> 角色:莲
+character:rosanna -> 角色:罗珊娜
+character:sylpha langlis -> 角色:希尔法·兰格里斯
+character:mifuyu azusa -> 角色:梓美冬
+character:seras ashrain -> 角色:瑟拉丝·亚休连
+character:nico wakatsuki -> 角色:若月妮可
+character:ting an -> 角色:定安
+character:emma frost -> 角色:艾玛·弗罗斯特
 group:1 -> 团队:1
 group:13 -> 团队:13
 group:27 -> 团队:27
@@ -12668,7 +12705,7 @@ group:chise -> 团队:千世
 group:chiukorone -> 团队:ちうころね
 group:chizakiya -> 团队:ちざき屋
 group:chloroplast -> 团队:くろろぷらすと
-group:cho-jin hakaba -> 团队:超人墓場
+group:cho-jin hakaba -> 团队:超人墓场
 group:choco biscuits -> 团队:ちょこ★びすけっつ
 group:choco box -> 团队:choco BOX
 group:choco zakura -> 团队:ちょこざくら
@@ -14247,7 +14284,7 @@ group:hairyo fusoku -> 团队:配慮不足
 group:haisui no jin -> 团队:ハイスイノ陣
 group:haitokukan -> 团队:背德漢
 group:hajimari to owari -> 团队:はじまりとおわり
-group:hakaba -> 团队:墓場
+group:hakaba -> 团队:墓场
 group:hakidame no koganemushi -> 团队:掃き溜めのこがねむし
 group:hakka onsen -> 团队:ハッカ温泉
 group:hakkakyou -> 团队:八卦鏡
@@ -15418,7 +15455,7 @@ group:katuraya -> 团队:カツラ屋
 group:kaudenya lab -> 团队:高電壓Lab
 group:kawaisouko -> 团队:可哀想子
 group:kawaisounako -> 团队:かわいそうな子
-group:kawanakashima kobo -> 团队:川中島工房
+group:kawanakashima kobo -> 团队:川中岛工房
 group:kawasaki jian -> 团队:川崎事案
 group:kawasemi -> 团队:翡翠
 group:kawauso no hokanko cg -> 团队:kawauso no hokanko CG
@@ -21928,7 +21965,7 @@ group:noa no hakobune -> 团队:ノアの方舟
 group:sanshoku nerune -> 团队:三食ねるね
 group:j9 kagekidan -> 团队:J9歌剧团
 group:tatahot -> 团队:TATAHOT
-group:higashikoiwa hutomomo uchuu kenkyuujo -> 团队:东小岩ふともも宇宙研究所
+group:higashikoiwa hutomomo uchuu kenkyuujo -> 团队:东小岩太股宇宙研究所
 group:thai doujinshi doukoukai -> 团队:タイ同人誌同好会
 group:kure no genki na goaisatsu -> 团队:暮れの元气なご挨拶
 group:wakuwaku dining -> 团队:WAKUWAKU DINING
@@ -22232,6 +22269,24 @@ group:alecubicsoft -> 团队:AleCubicSoft
 group:resoman manga koubou -> 团队:Resoman漫画工房
 group:momofes -> 团队:桃祭
 group:enbudou -> 团队:炎舞堂
+group:bavarois-bass -> 团队:ババロアバス
+group:rokisonin koubou -> 团队:ろきそにん工房
+group:ryoojuku club -> 团队:凌辱俱乐部
+group:sansendengaku -> 团队:山川田楽
+group:mendako suizokukan -> 团队:めんだこ水族館
+group:sashikiz -> 团队:刺傷
+group:hashioki -> 团队:箸置き
+group:kurozume fuuta -> 团队:黒爪フータ
+group:atsuatsu mikan -> 团队:热热蜜柑
+group:jason shiina -> 团队:Jason椎名
+group:cappuccino -> 团队:卡布奇诺
+group:saneyarou -> 团队:さね野郎
+group:itsumo nemui -> 团队:いつもねむい
+group:urushibara koubou -> 团队:漆原工房
+group:onizukachris -> 团队:鬼塚クリス
+group:uchi no yoko -> 团队:ウチの横
+group:lemon drop -> 团队:れもんどろっぷ
+group:shishimusha -> 团队:猪武者
 artist:2 -> 艺术家:2
 artist:7 -> 艺术家:7
 artist:8 -> 艺术家:8
@@ -25429,7 +25484,7 @@ artist:yd -> 艺术家:yd
 artist:azuma yuki -> 艺术家:东由希
 artist:enokido -> 艺术家:エノキドォ
 artist:gokubuto mayuge -> 艺术家:极太眉毛
-artist:hakaba -> 艺术家:墓場
+artist:hakaba -> 艺术家:墓场
 artist:hitotsuba -> 艺术家:ひとつば
 artist:furyouhin -> 艺术家:ニャ獣（不良品）
 artist:gesundheit -> 艺术家:ゲズンタイト
@@ -25676,7 +25731,7 @@ artist:jiyu2 -> 艺术家:磁油2
 artist:yoshida -> 艺术家:吉田
 artist:dokukinokozin -> 艺术家:毒茸人
 artist:danrenji -> 艺术家:だんれんじ
-artist:kiri-kiri mai -> 艺术家:ギリギリ舞
+artist:kiri-kiri mai -> 艺术家:斩斩舞
 artist:oshino -> 艺术家:推乃
 artist:shiramizu mizuchi -> 艺术家:白瑞みずち
 artist:majima tetsurou -> 艺术家:真島てつろー
@@ -27664,7 +27719,7 @@ artist:haji -> 艺术家:ﾊｼﾞ
 artist:hajime -> 艺术家:創
 artist:hajime-san. -> 艺术家:はじめさん。
 artist:hajin -> 艺术家:Hajin
-artist:hakaba yodomu -> 艺术家:墓場淀夢
+artist:hakaba yodomu -> 艺术家:墓场淀梦
 artist:hakai taitei -> 艺术家:破坏大帝
 artist:hakano shinshi -> 艺术家:ハカノシンシ
 artist:hakiata -> 艺术家:はきあた
@@ -28891,7 +28946,7 @@ artist:kawamoto hiroshi -> 艺术家:河本ひろし
 artist:kawamoto yutsuki -> 艺术家:河本ゆつき
 artist:kawamura tsukasa -> 艺术家:川邑司
 artist:kawana -> 艺术家:かわな
-artist:kawanakajima -> 艺术家:川中島
+artist:kawanakajima -> 艺术家:川中岛
 artist:kawanishi yuuji -> 艺术家:かわにしゆうじ
 artist:kawano masatoshi -> 艺术家:川乃雅慧
 artist:kawanuma uotsuri -> 艺术家:川沼魚釣
@@ -31672,7 +31727,7 @@ artist:rimviolet -> 艺术家:rimviolet
 artist:rin -> 艺术家:rin
 artist:rindoh -> 艺术家:竜瞳
 artist:rindou akira -> 艺术家:りんどうあきら
-artist:ringo -> 艺术家:りんご
+artist:ringo -> 艺术家:林檎
 artist:ringo amee -> 艺术家:林檎あめぇ
 artist:ringo anu -> 艺术家:りんごあぬ
 artist:ringo no kisetsu. -> 艺术家:りんごの季節。
@@ -33581,7 +33636,7 @@ artist:wakachiko -> 艺术家:わかちこ
 artist:wakaki tamiki -> 艺术家:若木民喜
 artist:wakamesan -> 艺术家:ワカメさん
 artist:wakamiya teresa -> 艺术家:我宮てれさ
-artist:wakatsuki -> 艺术家:若月
+artist:wakatsuki -> 艺术家:若月(若)
 artist:wako -> 艺术家:わこ
 artist:wakura -> 艺术家:わくら
 artist:wakyo -> 艺术家:Wakyo
@@ -36251,6 +36306,38 @@ artist:yamashita nigou -> 艺术家:山下二号
 artist:dian dian di di -> 艺术家:点点滴滴
 artist:kubikiri -> 艺术家:首切り
 artist:onizuka frill -> 艺术家:鬼塚フリル
+artist:bareisho tarou -> 艺术家:马铃薯太郎
+artist:manzoku ippon -> 艺术家:满足一本
+artist:hara kyuuren -> 艺术家:原きゅうれん
+artist:kourui -> 艺术家:紅涙
+artist:inushida -> 艺术家:いぬしだ
+artist:tarona -> 艺术家:タロ名
+artist:yudoufu -> 艺术家:汤豆腐
+artist:wataya shingu -> 艺术家:棉谷寝具
+artist:akajiro -> 艺术家:红城
+artist:furuyama tsukuru -> 艺术家:古山造
+artist:oruka -> 艺术家:織夏
+artist:gusari -> 艺术家:ぐさり
+artist:nakayoshi -> 艺术家:なかよShi
+artist:momono eri -> 艺术家:桃野衿
+artist:uyuu -> 艺术家:烏有
+artist:doraias kazuyo -> 艺术家:ドライアス一世
+artist:kokemomo -> 艺术家:こけもも
+artist:aa mou souiu koto ni naru -> 艺术家:ああもうそういうことになる
+artist:sawtatsu -> 艺术家:そうたつ
+artist:nannomaru -> 艺术家:なんの丸
+artist:mashin gehyul -> 艺术家:魔神ゲヒュール
+artist:migita -> 艺术家:みぎた
+artist:shidare aya -> 艺术家:しだれ彩
+artist:neko daifuku -> 艺术家:猫大福
+artist:taba -> 艺术家:束
+artist:hoshino chisara -> 艺术家:星野千更
+artist:namiki kojiro -> 艺术家:双木こじろ
+artist:togashi yoshihiro -> 艺术家:富㭴义博
+artist:omochaman -> 艺术家:おもちゃまん
+artist:hanamaru sensei -> 艺术家:はなまる先生
+artist:koiso usu -> 艺术家:小磯臼
+artist:inobuta -> 艺术家:猪豚
 cosplayer:otohara an -> Coser:乙原あん
 cosplayer:rioko -> Coser:凉凉子
 cosplayer:atsuki -> Coser:あつき
@@ -36396,6 +36483,7 @@ cosplayer:evenink -> Coser:Evenink
 cosplayer:jean wanwan -> Coser:Jean Wanwan
 cosplayer:sharkparty -> Coser:Sharkparty
 cosplayer:jiuqujean -> Coser:九曲Jean
+cosplayer:yangyi -> Coser:杨衣
 male:age progression -> 男性:年龄增长
 male:age regression -> 男性:返老还童
 male:dilf -> 男性:熟男
