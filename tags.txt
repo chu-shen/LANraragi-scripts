@@ -2604,6 +2604,8 @@ parody:saikyou no shienshoku wajutsushi de aru ore wa sekai saikyou clan wo shit
 parody:hazure waku -> 原作:依靠被嫌弃的【状态异常技能】而成为最强的我最终蹂躏一切
 parody:witch watch -> 原作:魔女与使魔
 parody:miracle nikki -> 原作:奇迹暖暖
+parody:bakuage sentai boonboomger -> 原作:爆上战队奔奔者
+parody:mahou shoujo no majo saiban -> 原作:魔法少女的魔女审判
 character:alice -> 角色:爱丽丝
 character:akane hino -> 角色:日野茜
 character:ibuki -> 角色:伊吹
@@ -2613,12 +2615,12 @@ character:rider -> 角色:Rider | 龙女
 character:maya -> 角色:摩耶
 character:jeanne darc -> 角色:圣女贞德
 character:katsuragi -> 角色:葛城(鹖)
-character:kasumi -> 角色:霞
+character:kasumi -> 角色:霞(蕸)
 character:leo -> 角色:丽王 | 利昂
-character:haruna -> 角色:榛名 | 春奈
+character:haruna -> 角色:榛名(鲑) | 春奈
 character:chitose -> 角色:千岁(鹂)
 character:murakumo -> 角色:丛 | 丛云
-character:nachi -> 角色:那智
+character:nachi -> 角色:那智(狏)
 character:kagura -> 角色:神乐
 character:ram -> 角色:拉姆
 character:ink nijihara -> 角色:虹原茵可
@@ -2803,7 +2805,7 @@ character:rensouhou-chan -> 角色:连装炮酱
 character:chiyoda -> 角色:千代田(鹃)
 character:akebono -> 角色:曙
 character:ushio -> 角色:潮
-character:ikazuchi -> 角色:雷
+character:ikazuchi -> 角色:雷(梓)
 character:kamoi -> 角色:神威
 character:maruyu -> 角色:丸输
 character:z3 -> 角色:Z3
@@ -2821,8 +2823,8 @@ character:wo-class -> 角色:空母WO级
 character:teitoku -> 角色:提督
 character:nagato -> 角色:长门(鲨)
 character:mutsu -> 角色:陆奥(鲛)
-character:ise -> 角色:伊势
-character:hyuuga -> 角色:日向
+character:ise -> 角色:伊势(鳌)
+character:hyuuga -> 角色:日向(螯)
 character:yukikaze -> 角色:雪风(莲)
 character:akagi -> 角色:赤城(凰)
 character:kaga -> 角色:加贺(鸾)
@@ -2840,74 +2842,74 @@ character:ooi -> 角色:大井
 character:kitakami -> 角色:北上
 character:kongou -> 角色:金刚(鲤)
 character:hiei -> 角色:比叡(鲟)
-character:kirishima -> 角色:雾岛
+character:kirishima -> 角色:雾岛(鳗)
 character:houshou -> 角色:凤翔(凤)
-character:fusou -> 角色:扶桑
-character:yamashiro -> 角色:山城
+character:fusou -> 角色:扶桑(魟)
+character:yamashiro -> 角色:山城(鲼)
 character:tenryuu -> 角色:天龙
 character:tatsuta -> 角色:龙田
 character:ryuujou -> 角色:龙骧(枭)
-character:mutsuki -> 角色:睦月
-character:kisaragi -> 角色:如月
+character:mutsuki -> 角色:睦月(松)
+character:kisaragi -> 角色:如月(樟)
 character:satsuki -> 角色:皋月
-character:fumizuki -> 角色:文月
-character:nagatsuki -> 角色:长月
+character:fumizuki -> 角色:文月(橗)
+character:nagatsuki -> 角色:长月(枨)
 character:kikuzuki -> 角色:菊月
-character:mikazuki -> 角色:三日月
+character:mikazuki -> 角色:三日月(檧)
 character:mochizuki -> 角色:望月
 character:kuma -> 角色:球磨
 character:tama -> 角色:多摩
 character:kiso -> 角色:木曾
-character:nagara -> 角色:长良
-character:isuzu -> 角色:五十铃
+character:nagara -> 角色:长良(貊)
+character:isuzu -> 角色:五十铃(貉)
 character:natori -> 角色:名取(猽)
-character:yura -> 角色:由良
-character:sendai -> 角色:川内
+character:yura -> 角色:由良(㹨)
+character:sendai -> 角色:川内(貆)
 character:jintsuu -> 角色:神通(貎)
-character:naka -> 角色:那珂
-character:mogami -> 角色:最上
-character:furutaka -> 角色:古鹰
+character:naka -> 角色:那珂(豻)
+character:mogami -> 角色:最上(猨)
+character:furutaka -> 角色:古鹰(狼)
 character:kako -> 角色:加古
-character:aoba -> 角色:青叶
-character:myoukou -> 角色:妙高
-character:ashigara -> 角色:足柄
-character:haguro -> 角色:羽黑
+character:aoba -> 角色:青叶(犹)
+character:myoukou -> 角色:妙高(獌)
+character:ashigara -> 角色:足柄(狳)
+character:haguro -> 角色:羽黑(犰)
 character:takao -> 角色:高雄(獒)
 character:atago -> 角色:爱宕(犬)
 character:choukai -> 角色:鸟海
 character:tone -> 角色:利根
 character:chikuma -> 角色:筑摩(狘)
-character:hiyou -> 角色:飞鹰
-character:junyou -> 角色:隼鹰
+character:hiyou -> 角色:飞鹰(鸱)
+character:junyou -> 角色:隼鹰(鸢)
 character:oboro -> 角色:胧
 character:sazanami -> 角色:涟
-character:akatsuki -> 角色:晓
-character:hibiki -> 角色:响
-character:inazuma -> 角色:电
-character:hatsuharu -> 角色:初春
+character:akatsuki -> 角色:晓(枫)
+character:hibiki -> 角色:响(栀)
+character:inazuma -> 角色:电(柏)
+character:hatsuharu -> 角色:初春(梅)
 character:nenohi -> 角色:子日
-character:wakaba -> 角色:若叶
-character:hatsushimo -> 角色:初霜
-character:shiratsuyu -> 角色:白露
-character:shigure -> 角色:时雨
+character:wakaba -> 角色:若叶(楉)
+character:hatsushimo -> 角色:初霜(檨)
+character:shiratsuyu -> 角色:白露(梿)
+character:shigure -> 角色:时雨(栴)
 character:murasame -> 角色:丛雨 | 村雨
 character:yuudachi -> 角色:夕立(椿)
 character:samidare -> 角色:五月雨
 character:suzukaze -> 角色:凉风
-character:asashio -> 角色:朝潮
-character:ooshio -> 角色:大潮
-character:michishio -> 角色:满潮
-character:arashio -> 角色:荒潮
+character:asashio -> 角色:朝潮(棹)
+character:ooshio -> 角色:大潮(荙)
+character:michishio -> 角色:满潮(樠)
+character:arashio -> 角色:荒潮(栘)
 character:arare -> 角色:霰
-character:kagerou -> 角色:阳炎
-character:shiranui -> 角色:不知火
-character:kuroshio -> 角色:黑潮
-character:shouhou -> 角色:祥凤
+character:kagerou -> 角色:阳炎(萩)
+character:shiranui -> 角色:不知火(蒲)
+character:kuroshio -> 角色:黑潮(蓉)
+character:shouhou -> 角色:祥凤(鹞)
 character:shoukaku -> 角色:翔鹤(鹬)
 character:zuikaku -> 角色:瑞鹤(鹤)
 character:kinu -> 角色:鬼怒(猤)
-character:abukuma -> 角色:阿武隈
-character:yuubari -> 角色:夕张
+character:abukuma -> 角色:阿武隈(貃)
+character:yuubari -> 角色:夕张(狐)
 character:zuihou -> 角色:瑞凤
 character:mikuma -> 角色:三隈(狻)
 character:hatsukaze -> 角色:初风
@@ -2917,13 +2919,13 @@ character:i-19 -> 角色:伊19
 character:suzuya -> 角色:铃谷(狺)
 character:kumano -> 角色:熊野
 character:i-168 -> 角色:伊168(伊吕波)
-character:i-58 -> 角色:伊58
+character:i-58 -> 角色:伊58(冴矢)
 character:i-8 -> 角色:伊8
 character:yamato -> 角色:大和
 character:akigumo -> 角色:秋云
 character:yuugumo -> 角色:夕云
 character:makigumo -> 角色:卷云
-character:naganami -> 角色:长波
+character:naganami -> 角色:长波(苌)
 character:agano -> 角色:阿贺野(豼)
 character:noshiro -> 角色:能代
 character:yahagi -> 角色:矢矧
@@ -2934,11 +2936,11 @@ character:katori -> 角色:香取
 character:i-401 -> 角色:伊401
 character:akitsu maru -> 角色:秋津丸
 character:yayoi -> 角色:弥生
-character:uzuki -> 角色:卯月
-character:isokaze -> 角色:矶风
-character:urakaze -> 角色:浦风
-character:tanikaze -> 角色:谷风
-character:hamakaze -> 角色:滨风
+character:uzuki -> 角色:卯月(楙)
+character:isokaze -> 角色:矶风(柉)
+character:urakaze -> 角色:浦风(槆)
+character:tanikaze -> 角色:谷风(栭)
+character:hamakaze -> 角色:滨风(樇)
 character:bismarck -> 角色:俾斯麦
 character:z1 -> 角色:Z1
 character:prinz eugen -> 角色:欧根亲王
@@ -2979,21 +2981,21 @@ character:okinami -> 角色:冲波
 character:kazagumo -> 角色:风云(枟)
 character:arashi -> 角色:岚
 character:hagikaze -> 角色:萩风
-character:oyashio -> 角色:亲潮
+character:oyashio -> 角色:亲潮(藮)
 character:yamakaze -> 角色:山风(杣)
 character:umikaze -> 角色:海风(菪)
 character:kawakaze -> 角色:江风
 character:hayasui -> 角色:速吸
 character:kashima -> 角色:鹿岛
-character:kamikaze -> 角色:神风
+character:kamikaze -> 角色:神风(榊)
 character:asakaze -> 角色:朝风
 character:harukaze -> 角色:春风
-character:matsukaze -> 角色:松风
-character:hatakaze -> 角色:旗风
+character:matsukaze -> 角色:松风(棡)
+character:hatakaze -> 角色:旗风(樋)
 character:amagiri -> 角色:天雾
 character:sagiri -> 角色:狭雾
-character:minazuki -> 角色:水无月
-character:i-26 -> 角色:伊26
+character:minazuki -> 角色:水无月(杌)
+character:i-26 -> 角色:伊26(双叶梦)
 character:hamanami -> 角色:滨波
 character:fujinami -> 角色:藤波
 character:uranami -> 角色:浦波(朴)
@@ -8568,7 +8570,7 @@ character:ai mie -> 角色:三重爱
 character:tomari onitsuka -> 角色:鬼冢冬毬
 character:sana miyoshi -> 角色:三好纱南
 character:cipher -> 角色:赛飞儿
-character:amate yuzuriha -> 角色:天手·让叶
+character:amate yuzuriha -> 角色:天手让叶
 character:ishigami nozomi -> 角色:石神望
 character:alpha -> 角色:阿尔法
 character:red shoes -> 角色:红舞鞋
@@ -8991,6 +8993,29 @@ character:seras ashrain -> 角色:瑟拉丝·亚休连
 character:nico wakatsuki -> 角色:若月妮可
 character:ting an -> 角色:定安
 character:emma frost -> 角色:艾玛·弗罗斯特
+character:laezel -> 角色:莱埃泽尔
+character:othinus -> 角色:欧提努斯（只眼）
+character:awaki musujime -> 角色:结标淡希
+character:junko hokaze -> 角色:帆风润子
+character:lessar -> 角色:蕾莎
+character:laura stuart -> 角色:萝拉·斯图亚特
+character:rakko yumiya -> 角色:弓箭猎虎
+character:mitori kouzaku -> 角色:警策看取
+character:nyaan -> 角色:尼娅安
+character:comoli harcourt -> 角色:小森·哈珂特
+character:anan natsume -> 角色:夏目安安
+character:hiro nikaidou -> 角色:二阶堂希罗
+character:ema sakuraba -> 角色:樱羽艾玛
+character:friedrich carl -> 角色:腓德雷卡·卡尔
+character:trafalgar -> 角色:特拉法尔加
+character:kursk -> 角色:库尔斯克
+character:marco polo -> 角色:马可·波罗
+character:alabama -> 角色:阿拉巴马
+character:scharnhorst -> 角色:沙恩霍斯特
+character:brest -> 角色:布雷斯特
+character:yorck -> 角色:约克（伊冯娜）
+character:lutzow -> 角色:吕佐夫（露西）
+character:mio misumi -> 角色:深澄澪
 group:1 -> 团队:1
 group:13 -> 团队:13
 group:27 -> 团队:27
@@ -14798,7 +14823,7 @@ group:houenken -> 团队:方円軒
 group:hougyoku densetsu -> 团队:宝玉伝説
 group:houjuan -> 团队:峯寿庵
 group:houkago paradise -> 团队:放課後パラダイス
-group:houkiboshi -> 团队:箒星
+group:houkiboshi -> 团队:彗星
 group:hououya -> 团队:鳳凰屋
 group:houruri -> 团队:蓬瑠璃
 group:house game -> 团队:ハウスゲーム
@@ -22287,6 +22312,13 @@ group:onizukachris -> 团队:鬼塚クリス
 group:uchi no yoko -> 团队:ウチの横
 group:lemon drop -> 团队:れもんどろっぷ
 group:shishimusha -> 团队:猪武者
+group:amenohimogamo -> 团队:あめのひもがも
+group:azabumi -> 团队:麻布味
+group:uzura frontier -> 团队:うずらフロンティア
+group:beni murasaki -> 团队:红紫
+group:natsunohara -> 团队:夏乃原
+group:aoba no kisetsu -> 团队:青羽の季節
+group:koisiya -> 团队:恋紙屋
 artist:2 -> 艺术家:2
 artist:7 -> 艺术家:7
 artist:8 -> 艺术家:8
@@ -35412,7 +35444,7 @@ artist:kurosaki shun -> 艺术家:黒咲俊
 artist:isoi -> 艺术家:あいそい
 artist:maij chichico -> 艺术家:明治乳子
 artist:guremasu -> 艺术家:ぐれます
-artist:alpha91 -> 艺术家:Alpha91
+artist:alpha91 -> 艺术家:Alpha
 artist:marumaromi -> 艺术家:まるまろみ
 artist:inchore -> 艺术家:陰ちょれ
 artist:bujidearu -> 艺术家:ぶじである
@@ -36338,6 +36370,38 @@ artist:omochaman -> 艺术家:おもちゃまん
 artist:hanamaru sensei -> 艺术家:はなまる先生
 artist:koiso usu -> 艺术家:小磯臼
 artist:inobuta -> 艺术家:猪豚
+artist:rinri kan -> 艺术家:リンリ缶
+artist:kagaribi flare -> 艺术家:篝火ふれあ
+artist:ganmodoki -> 艺术家:かのはら
+artist:shiroron mochi -> 艺术家:しろろん餅
+artist:azabu milk -> 艺术家:麻布ミルク
+artist:houzui reno -> 艺术家:宝瑞レノ
+artist:erokun -> 艺术家:工口君
+artist:miyashiro yousuke -> 艺术家:ミヤシロヨースケ
+artist:natsushima memo -> 艺术家:夏嶋めも
+artist:yijiufantexi -> 艺术家:范特西
+artist:lichiko -> 艺术家:lllichiko
+artist:aran-k -> 艺术家:アランK
+artist:sy4 -> 艺术家:sy4
+artist:pantheon eve -> 艺术家:pantheon EVE
+artist:unfairr -> 艺术家:Unfairr
+artist:mimyo -> 艺术家:MIMYOミミョウ
+artist:mochirong -> 艺术家:モチロン
+artist:zumi -> 艺术家:Zumi
+artist:atdan -> 艺术家:原子Dan
+artist:ruochong -> 艺术家:鶸虫wlom
+artist:wei xiao -> 艺术家:唯笑
+artist:tansuan -> 艺术家:碳酸
+artist:been -> 艺术家:been
+artist:tuki usagi -> 艺术家:月兔
+artist:n9at -> 艺术家:moca
+artist:kiriko -> 艺术家:Kiriko
+artist:ling dianxia -> 艺术家:玲殿下
+artist:natsuhara aru -> 艺术家:夏原アル
+artist:aoba soyogi -> 艺术家:青羽そよぎ
+artist:byakuya yuu -> 艺术家:白夜ゆう
+artist:rhox -> 艺术家:rhox | すくらさ
+artist:shimon ryushiro -> 艺术家:子門竜士郎
 cosplayer:otohara an -> Coser:乙原あん
 cosplayer:rioko -> Coser:凉凉子
 cosplayer:atsuki -> Coser:あつき
