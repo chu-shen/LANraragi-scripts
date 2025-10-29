@@ -1589,7 +1589,7 @@ parody:rune factory -> 原作:符文工房
 parody:coraline -> 原作:鬼妈妈
 parody:dororo -> 原作:多罗罗
 parody:sekiro shadows die twice -> 原作:只狼：影逝二度
-parody:kamihime project -> 原作:神姬Project
+parody:kamihime project -> 原作:神姬计划
 parody:merc storia -> 原作:梅露可物语
 parody:twelve forever -> 原作:永远12岁
 parody:warriors orochi -> 原作:无双大蛇
@@ -2606,6 +2606,8 @@ parody:witch watch -> 原作:魔女与使魔
 parody:miracle nikki -> 原作:奇迹暖暖
 parody:bakuage sentai boonboomger -> 原作:爆上战队奔奔者
 parody:mahou shoujo no majo saiban -> 原作:魔法少女的魔女审判
+parody:ayakashi rumble -> 原作:妖怪大乱斗
+parody:legend clover -> 原作:传奇四叶草
 character:alice -> 角色:爱丽丝
 character:akane hino -> 角色:日野茜
 character:ibuki -> 角色:伊吹
@@ -9016,6 +9018,8 @@ character:brest -> 角色:布雷斯特
 character:yorck -> 角色:约克（伊冯娜）
 character:lutzow -> 角色:吕佐夫（露西）
 character:mio misumi -> 角色:深澄澪
+character:c-ms -> 角色:C-MS
+character:admiral nakhimov -> 角色:纳希莫夫海军上将
 group:1 -> 团队:1
 group:13 -> 团队:13
 group:27 -> 团队:27
@@ -16911,7 +16915,7 @@ group:mochi hasamiuchi da -> 团队:餅はさみ撃ちだっ!
 group:mochi kiss junkie -> 团队:もちxoジャンキー
 group:mochi mochi -> 团队:もちもち
 group:mochi mochi mikan -> 团队:もちもちみかん
-group:mochi-ya -> 团队:餅屋
+group:mochi-ya -> 团队:饼屋
 group:mochimochi carnevale -> 团队:もちもちCarnevale
 group:mochimochi dou -> 团队:もちもち堂
 group:mochimochitaiyo -> 团队:もちもちたいよう
@@ -22319,6 +22323,13 @@ group:beni murasaki -> 团队:红紫
 group:natsunohara -> 团队:夏乃原
 group:aoba no kisetsu -> 团队:青羽の季節
 group:koisiya -> 团队:恋紙屋
+group:solosimeji -> 团队:ソロシメジ
+group:mauboumen -> 团队:舞う棒メン
+group:nanaoya -> 团队:なな百屋
+group:taratamago -> 团队:たらたまご
+group:bambi -> 团队:花森バンビ
+group:refrevo comic -> 团队:りふれぼコミック
+group:kishiwada base -> 团队:岸和田BASE
 artist:2 -> 艺术家:2
 artist:7 -> 艺术家:7
 artist:8 -> 艺术家:8
@@ -22570,7 +22581,7 @@ artist:mitsuru -> 艺术家:みつる
 artist:rage -> 艺术家:らげ
 artist:chouzetsu bishoujo mine -> 艺术家:超绝美少女mine
 artist:fried -> 艺术家:ふりいど
-artist:kouji -> 艺术家:孝治
+artist:kouji -> 艺术家:孝至 | 孝治
 artist:sanada -> 艺术家:さなだ
 artist:shikei -> 艺术家:しけー
 artist:ruri -> 艺术家:ルリ | るり | 瑠璃
@@ -23223,7 +23234,7 @@ artist:yukie -> 艺术家:ゆき恵
 artist:raven -> 艺术家:RAVEN
 artist:sujoyushi -> 艺术家:酢醤油氏
 artist:date -> 艺术家:DATE
-artist:kase daiki -> 艺术家:加濑大辉
+artist:kase daiki -> 艺术家:加瀬大輝
 artist:nakamura kumarin -> 艺术家:中村くまりん
 artist:masago -> 艺术家:まさご
 artist:ron -> 艺术家:RON
@@ -24653,7 +24664,7 @@ artist:isobe maki -> 艺术家:イソベマキ
 artist:sensouji kinoto -> 艺术家:浅草寺きのと
 artist:shinozuka yuuji -> 艺术家:篠塚裕志
 artist:shikishiro konomi -> 艺术家:色白好
-artist:sakurayu hal -> 艺术家:樱汤ハル
+artist:sakurayu hal -> 艺术家:樱汤春
 artist:nanao yukiji -> 艺术家:七尾ゆきじ
 artist:herio -> 艺术家:ヘリを
 artist:aikawa arisa -> 艺术家:相川亚利砂
@@ -25376,7 +25387,7 @@ artist:raptor7 -> 艺术家:ラプトル７
 artist:toshi -> 艺术家:toshi
 artist:taishinkokuoh anton -> 艺术家:大秦国王安敦
 artist:wanyanaguda -> 艺术家:完颜阿骨打
-artist:kaede -> 艺术家:ゆか
+artist:kaede -> 艺术家:枫（ゆか）
 artist:fummy -> 艺术家:ふみー
 artist:shobu -> 艺术家:菖蒲
 artist:sakayama shinta -> 艺术家:茶菓山しん太
@@ -25820,7 +25831,7 @@ artist:hoshi to lucky -> 艺术家:ほしとラッキー
 artist:fuzichoco -> 艺术家:藤原
 artist:yuiga naoha -> 艺术家:由雅なおは
 artist:tousen -> 艺术家:冬扇
-artist:edogawa roman -> 艺术家:江戸川浪漫
+artist:edogawa roman -> 艺术家:江户川浪漫
 artist:kurimoti tiduru -> 艺术家:栗餅ちづる
 artist:the-sinner -> 艺术家:The-Sinner
 artist:nochanzero -> 艺术家:Nochanzero
@@ -29728,7 +29739,7 @@ artist:lew -> 艺术家:レゥ
 artist:lewis -> 艺术家:ルイス
 artist:lewis mclaren -> 艺术家:るいす・まくられん
 artist:leymei -> 艺术家:LEYMEI
-artist:liang xing -> 艺术家:狼星
+artist:liang xing -> 艺术家:梁星
 artist:libonzu -> 艺术家:吉啓
 artist:lielos -> 艺术家:ゆいれそ
 artist:lien -> 艺术家:Lien
@@ -35219,7 +35230,7 @@ artist:yawano yawa -> 艺术家:柔乃やわ
 artist:efuri -> 艺术家:えふり
 artist:suzushiro nerita -> 艺术家:鈴白ねりた
 artist:momoshika fujiko -> 艺术家:ももしか藤子
-artist:kidoban -> 艺术家:木户番
+artist:kidoban -> 艺术家:木戸番
 artist:nekoshoko -> 艺术家:猫しょこ
 artist:usagihara kuro -> 艺术家:兎原クロ
 artist:aiga -> 艺术家:アイガ
@@ -35685,7 +35696,7 @@ artist:sinoa -> 艺术家:紫のあ
 artist:xipa -> 艺术家:Xipa
 artist:serei teru -> 艺术家:せれいてる
 artist:azumaya yukiko -> 艺术家:アズマヤユキコ
-artist:hamaguchi mitama -> 艺术家:滨口味たま
+artist:hamaguchi mitama -> 艺术家:濱口味たま
 artist:kirinama -> 艺术家:桐生
 artist:magurono yukinao -> 艺术家:スタンダードアザラシ
 artist:sangai -> 艺术家:算涯
@@ -36392,7 +36403,7 @@ artist:atdan -> 艺术家:原子Dan
 artist:ruochong -> 艺术家:鶸虫wlom
 artist:wei xiao -> 艺术家:唯笑
 artist:tansuan -> 艺术家:碳酸
-artist:been -> 艺术家:been
+artist:been -> 艺术家:been(rourou)
 artist:tuki usagi -> 艺术家:月兔
 artist:n9at -> 艺术家:moca
 artist:kiriko -> 艺术家:Kiriko
@@ -36402,6 +36413,36 @@ artist:aoba soyogi -> 艺术家:青羽そよぎ
 artist:byakuya yuu -> 艺术家:白夜ゆう
 artist:rhox -> 艺术家:rhox | すくらさ
 artist:shimon ryushiro -> 艺术家:子門竜士郎
+artist:azuma kenji -> 艺术家:東犬二
+artist:miaowu sama -> 艺术家:喵呜SAMA
+artist:inaka no keshin -> 艺术家:田舎の化身
+artist:umashio -> 艺术家:うましお | 午卯ましお
+artist:izumori04 -> 艺术家:犹守零肆
+artist:rororo -> 艺术家:rororo
+artist:torino -> 艺术家:torino
+artist:nekobell -> 艺术家:nekobell
+artist:yuzuki iro -> 艺术家:柚月いろ
+artist:ogre -> 艺术家:ogre
+artist:mizikayo -> 艺术家:みじかよ(mizikayo)
+artist:meion -> 艺术家:铭音MeIoN
+artist:housou-kun -> 艺术家:Housoukun
+artist:qian yu -> 艺术家:千羽
+artist:h dash -> 艺术家:エイチダッシュ
+artist:mhk -> 艺术家:Mechamania
+artist:majima hanabishi -> 艺术家:マジマハナビシ
+artist:sea nami -> 艺术家:しーなみ
+artist:hagi -> 艺术家:萩（hagi）
+artist:yaona -> 艺术家:やおな
+artist:kumasan -> 艺术家:熊三
+artist:kokuto -> 艺术家:こくと
+artist:chifuyu appleton -> 艺术家:千冬アップルトン
+artist:fat goose -> 艺术家:肥鹅不腻（fat goose）
+artist:babi -> 艺术家:バビ
+artist:tarako -> 艺术家:tarako | taraku
+artist:kinari an -> 艺术家:きなり餡
+artist:onigawara keruri -> 艺术家:鬼瓦けるり
+artist:chingero -> 艺术家:ちんげろ
+artist:nanatsu no umi -> 艺术家:七海
 cosplayer:otohara an -> Coser:乙原あん
 cosplayer:rioko -> Coser:凉凉子
 cosplayer:atsuki -> Coser:あつき
