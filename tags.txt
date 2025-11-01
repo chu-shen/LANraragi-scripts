@@ -5451,7 +5451,7 @@ character:parvati -> 角色:帕尔瓦蒂
 character:okada izou -> 角色:冈田以藏
 character:scathach skadi -> 角色:斯卡哈·斯卡蒂
 character:caenis -> 角色:凯妮斯
-character:artoria caster -> 角色:阿尔托莉雅·卡斯特
+character:artoria caster -> 角色:阿尔托莉雅（术阶）
 character:atlanta -> 角色:亚特兰大
 character:kadoc zemlupus -> 角色:卡多克·泽姆露普斯
 character:qin liangyu -> 角色:秦良玉
@@ -9020,6 +9020,8 @@ character:lutzow -> 角色:吕佐夫（露西）
 character:mio misumi -> 角色:深澄澪
 character:c-ms -> 角色:C-MS
 character:admiral nakhimov -> 角色:纳希莫夫海军上将
+character:wamdus -> 角色:瓦姆杜斯
+character:lina inverse -> 角色:莉娜·因巴斯
 group:1 -> 团队:1
 group:13 -> 团队:13
 group:27 -> 团队:27
@@ -22330,6 +22332,8 @@ group:taratamago -> 团队:たらたまご
 group:bambi -> 团队:花森バンビ
 group:refrevo comic -> 团队:りふれぼコミック
 group:kishiwada base -> 团队:岸和田BASE
+group:anakichi -> 团队:あな吉
+group:ka y souken -> 团队:科Y総研
 artist:2 -> 艺术家:2
 artist:7 -> 艺术家:7
 artist:8 -> 艺术家:8
@@ -36443,6 +36447,16 @@ artist:kinari an -> 艺术家:きなり餡
 artist:onigawara keruri -> 艺术家:鬼瓦けるり
 artist:chingero -> 艺术家:ちんげろ
 artist:nanatsu no umi -> 艺术家:七海
+artist:morino nezumi -> 艺术家:森野ネズミ
+artist:wackan -> 艺术家:わっく艦
+artist:hyakuokuibara -> 艺术家:百億いばら
+artist:alihina -> 艺术家:有雏
+artist:uchiyama aki -> 艺术家:内山亜紀
+artist:rukia -> 艺术家:琉煌
+artist:fujisawa kamiya -> 艺术家:藤沢カミヤ
+artist:yan jhia -> 艺术家:菸宅
+artist:sakuraide ichi zakuro -> 艺术家:桜出一柘榴
+artist:sigma kaichou -> 艺术家:シグマ会長
 cosplayer:otohara an -> Coser:乙原あん
 cosplayer:rioko -> Coser:凉凉子
 cosplayer:atsuki -> Coser:あつき
