@@ -9022,6 +9022,7 @@ character:c-ms -> 角色:C-MS
 character:admiral nakhimov -> 角色:纳希莫夫海军上将
 character:wamdus -> 角色:瓦姆杜斯
 character:lina inverse -> 角色:莉娜·因巴斯
+character:akane ryuuzouji -> 角色:龙造寺茜
 group:1 -> 团队:1
 group:13 -> 团队:13
 group:27 -> 团队:27
@@ -10970,7 +10971,7 @@ group:ashitamooyasumi -> 团队:あしたもおやすみ!
 group:crown -> 团队:CROWN
 group:island of horizon -> 团队:Island of Horizon
 group:elriz -> 团队:ELRIZ
-group:yakiniku teikoku -> 团队:焼肉帝国
+group:yakiniku teikoku -> 团队:烧肉帝国
 group:gouache blue -> 团队:GOUACHE BLUE
 group:duralumin love -> 团队:ジュラルミンラブ
 group:ganryuu island -> 团队:巌流アイランド
@@ -22334,6 +22335,14 @@ group:refrevo comic -> 团队:りふれぼコミック
 group:kishiwada base -> 团队:岸和田BASE
 group:anakichi -> 团队:あな吉
 group:ka y souken -> 团队:科Y総研
+group:wild chicken -> 团队:ワイルドチキン
+group:momico-san -> 团队:もみ子さん
+group:jaryuu kyoudan -> 团队:邪竜教団
+group:milk sausage -> 团队:みるくそーせーじ
+group:tatsuwa no sato -> 团队:たつわの里
+group:picapica suppa -> 团队:picapicaすっぱ
+group:kibayashimori -> 团队:木林森
+group:wakabatei -> 团队:わかば帝
 artist:2 -> 艺术家:2
 artist:7 -> 艺术家:7
 artist:8 -> 艺术家:8
@@ -34048,7 +34057,7 @@ artist:yoshizawa megane -> 艺术家:吉沢メガネ
 artist:yoshizawa miyabi -> 艺术家:吉沢雅
 artist:yoshizawa tomoaki -> 艺术家:吉澤友章
 artist:yoshizawa vanilla -> 艺术家:芳澤ばにら
-artist:yositama -> 艺术家:英戦
+artist:yositama -> 艺术家:ヨシタマ
 artist:yosomono -> 艺术家:よそ者
 artist:yosuke -> 艺术家:ヨースケ
 artist:yosyo- -> 艺术家:ヨショー
@@ -36457,6 +36466,12 @@ artist:fujisawa kamiya -> 艺术家:藤沢カミヤ
 artist:yan jhia -> 艺术家:菸宅
 artist:sakuraide ichi zakuro -> 艺术家:桜出一柘榴
 artist:sigma kaichou -> 艺术家:シグマ会長
+artist:eichi -> 艺术家:エイチ
+artist:fuwatoro -> 艺术家:ふわとろ
+artist:kajiki tetsu -> 艺术家:カジキ鉄
+artist:tatsuwaipu -> 艺术家:たつわのさと
+artist:suppa -> 艺术家:すっぱ
+artist:sekka mushi -> 艺术家:雪花蟲
 cosplayer:otohara an -> Coser:乙原あん
 cosplayer:rioko -> Coser:凉凉子
 cosplayer:atsuki -> Coser:あつき
