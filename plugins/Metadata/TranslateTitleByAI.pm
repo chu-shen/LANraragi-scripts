@@ -15,13 +15,15 @@ sub plugin_info {
         type        => "metadata",
         namespace   => "translatetitlebyai",
         author      => "CHUSHEN",
-        version     => "1.0",
+        version     => "1.1",
         description => "Translate title by AI",
         parameters  => [
-            { type => 'string', desc => 'OpenAI API key' },
-            { type => 'string', desc => 'Translation prompt', default_value => 'Translate this title to English:' },
-            { type => 'string', desc => 'Custom API URL (optional)', default_value => 'https://api.openai.com/v1/chat/completions' },
-            { type => 'string', desc => 'Custom model name (optional)', default_value => 'gpt-3.5-turbo' }
+            { type => 'string', desc => 'OpenAI API Key' },
+            { type => 'string', desc => 'Translation Prompt', default_value => 'Translate this title to English' },
+            { type => 'string', desc => 'API URL (optional). Default: https://api.openai.com/v1/chat/completions', default_value => 'https://api.openai.com/v1/chat/completions' },
+            { type => 'string', desc => 'Model (optional). Default: gpt-3.5-turbo', default_value => 'gpt-3.5-turbo' },
+            { type => 'int', desc => 'Temperature (optional). Default: 1.3', default_value => 1.3 },
+            { type => 'string', desc => 'Tag Name (optional). Default: TranslateTitleByAI', default_value => 'TranslateTitleByAI' }
         ]
     );
 }
@@ -31,23 +33,37 @@ sub get_tags {
     my $lrr_info = shift;
     my $logger = get_plugin_logger();
 
-    my ($api_key, $custom_prompt, $custom_url, $custom_model) = @_;
+    my ($api_key, $prompt, $url, $model, $temperature, $tag_name) = @_;
+
+    unless ($api_key) {
+        $logger->error("API key is required");
+        die "API key is required\n";
+    }
+
+    $prompt = 'Translate this title to English' if !defined $prompt || $prompt eq '';
+    $url = 'https://api.openai.com/v1/chat/completions' if !defined $url || $url eq '';
+    $model = 'gpt-3.5-turbo' if !defined $model || $model eq '';
+    $temperature = 1.3 if !defined $temperature || $temperature eq '';
+    $temperature = $temperature + 0;
+    $tag_name = 'TranslateTitleByAI' if !defined $tag_name || $tag_name eq '';
+
 
     my $title = $lrr_info->{archive_title};
     my $tags = $lrr_info->{existing_tags};
 
-    my $prompt = "$custom_prompt: $title";
+    my $full_prompt = "$prompt: $title";
 
     my $ua = Mojo::UserAgent->new;
 
     my $translate = $ua->post(
-            $custom_url => {
+            $url => {
                 'Content-Type'  => 'application/json',
                 'Authorization' => "Bearer $api_key",
                 'Accept' => 'application/json'
             } => json => {
-                model       => $custom_model,
-                messages    => [{ role => "user", content => $prompt ,temperature => 1.3}],
+                model       => $model,
+                messages    => [{ role => "user", content => $full_prompt}],
+                temperature => $temperature,
                 stream      => false
             }
         );
@@ -66,7 +82,7 @@ sub get_tags {
 
     $result =decode_utf8($result);
 
-    $tags .= ",TranslateTitleByAI:$result" if $result;
+    $tags .= ",$tag_name:$result" if $result;
 
     $logger->info("Translation result: $title → $result");
     return ( tags => $tags );
