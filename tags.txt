@@ -2608,6 +2608,10 @@ parody:bakuage sentai boonboomger -> 原作:爆上战队奔奔者
 parody:mahou shoujo no majo saiban -> 原作:魔法少女的魔女审判
 parody:ayakashi rumble -> 原作:妖怪大乱斗
 parody:legend clover -> 原作:传奇四叶草
+parody:kamen rider gavv -> 原作:假面骑士加布
+parody:kowloon generic romance -> 原作:九龙大众浪漫
+parody:ninpuu sentai hurricaneger -> 原作:忍风战队破里剑者
+parody:mashin sentai kiramager -> 原作:魔进战队煌辉者
 character:alice -> 角色:爱丽丝
 character:akane hino -> 角色:日野茜
 character:ibuki -> 角色:伊吹
@@ -5160,7 +5164,7 @@ character:yume -> 角色:梦儿
 character:shihoru -> 角色:席赫露
 character:ranta -> 角色:蓝德
 character:moguzo -> 角色:莫古索
-character:merry -> 角色:梅莉
+character:merry -> 角色:梅莉 | 咩栗
 character:tamamo cat -> 角色:玉藻猫
 character:kiritan tohoku -> 角色:东北切蒲英
 character:rikka takarada -> 角色:宝多六花
@@ -9023,6 +9027,10 @@ character:admiral nakhimov -> 角色:纳希莫夫海军上将
 character:wamdus -> 角色:瓦姆杜斯
 character:lina inverse -> 角色:莉娜·因巴斯
 character:akane ryuuzouji -> 角色:龙造寺茜
+character:aisu kyuubu -> 角色:久武蓝珠
+character:reiko kujirai -> 角色:鲸井令子
+character:mirei shikishima -> 角色:敷岛魅零
+character:mamori tokonome -> 角色:处女守
 group:1 -> 团队:1
 group:13 -> 团队:13
 group:27 -> 团队:27
@@ -22343,6 +22351,9 @@ group:tatsuwa no sato -> 团队:たつわの里
 group:picapica suppa -> 团队:picapicaすっぱ
 group:kibayashimori -> 团队:木林森
 group:wakabatei -> 团队:わかば帝
+group:seinikuten -> 团队:性肉店
+group:ibukichika -> 团队:イブキチカ
+group:unian -> 团队:うに庵
 artist:2 -> 艺术家:2
 artist:7 -> 艺术家:7
 artist:8 -> 艺术家:8
@@ -24379,7 +24390,7 @@ artist:minato itoya -> 艺术家:ミナトイトヤ
 artist:shiraishinsuke -> 艺术家:白石Nスケ
 artist:soramame-san -> 艺术家:そら豆さん
 artist:wabara hiro -> 艺术家:羽原ヒロ
-artist:synchroaki -> 艺术家:しんくろあき
+artist:synchroaki -> 艺术家:synchroaki | synchron
 artist:kin no tamamushi -> 艺术家:金ノ玉虫
 artist:yamamoto hyugo -> 艺术家:山本ひゅーご
 artist:lithium -> 艺术家:Lithium
@@ -31039,7 +31050,7 @@ artist:nijou tayun -> 艺术家:二条たゆん
 artist:nijyou makoto -> 艺术家:二条マコト
 artist:nikaido kai -> 艺术家:二階堂改
 artist:nikami -> 艺术家:にかみ
-artist:niku -> 艺术家:にく
+artist:niku -> 艺术家:肉
 artist:niku jill -> 艺术家:肉Jill
 artist:nikudanmaru -> 艺术家:肉弾丸
 artist:nikuname -> 艺术家:肉ネーム
@@ -34908,7 +34919,7 @@ artist:kuma ashi s -> 艺术家:熊足S
 artist:sasai nakoto -> 艺术家:茶彩なこと
 artist:hina -> 艺术家:氷菜
 artist:yozakura souki -> 艺术家:夜桜ソウキ
-artist:susukumo nagi -> 艺术家:煤雲なぎ
+artist:susukumo nagi -> 艺术家:煤云凪
 artist:cielo -> 艺术家:CIELO
 artist:hekoman -> 艺术家:へこまん
 artist:ichinosono yui -> 艺术家:一之园唯
@@ -36152,7 +36163,7 @@ artist:shioya coluli -> 艺术家:塩屋こるり
 artist:mago xiejin -> 艺术家:魔术师邪金
 artist:futarou -> 艺术家:フタロウ
 artist:haruna hisui -> 艺术家:春名翡翠
-artist:kusunoki majiri -> 艺术家:やまのみき
+artist:kusunoki majiri -> 艺术家:楠まじり | やまのみき
 artist:burisuke -> 艺术家:ぶりすけ
 artist:kouda hayato -> 艺术家:国府田隼人
 artist:sanada ikki -> 艺术家:真田一辉
@@ -36472,6 +36483,16 @@ artist:kajiki tetsu -> 艺术家:カジキ鉄
 artist:tatsuwaipu -> 艺术家:たつわのさと
 artist:suppa -> 艺术家:すっぱ
 artist:sekka mushi -> 艺术家:雪花蟲
+artist:nishikasai munieru -> 艺术家:西葛西むにえる
+artist:mopumopu -> 艺术家:もぷもぷ
+artist:ooishi kou -> 艺术家:大石コウ
+artist:sakura muni -> 艺术家:桜むに
+artist:yuu ringo -> 艺术家:幽林檎
+artist:natsuki gumi -> 艺术家:夏木グミ
+artist:zizi -> 艺术家:zizi
+artist:takatou sora -> 艺术家:高遠そら
+artist:meis -> 艺术家:メイス
+artist:sanadame -> 艺术家:さなだめ
 cosplayer:otohara an -> Coser:乙原あん
 cosplayer:rioko -> Coser:凉凉子
 cosplayer:atsuki -> Coser:あつき
@@ -36618,6 +36639,7 @@ cosplayer:jean wanwan -> Coser:Jean Wanwan
 cosplayer:sharkparty -> Coser:Sharkparty
 cosplayer:jiuqujean -> Coser:九曲Jean
 cosplayer:yangyi -> Coser:杨衣
+cosplayer:green chacha jiang -> Coser:Green茶茶酱
 male:age progression -> 男性:年龄增长
 male:age regression -> 男性:返老还童
 male:dilf -> 男性:熟男
