@@ -2635,7 +2635,7 @@ parody:zoids genesis -> 原作:机兽创世纪
 parody:gun x sword -> 原作:枪心剑刃
 parody:deadlock -> 原作:死锁
 parody:triage x -> 原作:绝命制裁X
-parody:ran-sem hakudaku delmo tsuma no miira tori -> 原作:Ran→Sem 白浊模特妻子被榨干
+parody:ran-sem hakudaku delmo tsuma no miira tori -> 原作:Ran→Sem 白浊模特姐妹被榨干
 parody:youkoso sukebe elf no mori e -> 原作:欢迎来到浪荡精灵之森
 parody:doukyuusei 2 -> 原作:同级生2
 parody:suicide squad -> 原作:自杀小队
@@ -2662,6 +2662,15 @@ parody:beastars -> 原作:BEASTARS
 parody:tear ring saga -> 原作:尤特娜英雄战记：泪指轮传说
 parody:nukige mitai na shima ni sunderu watashi wa dou surya ii desu ka -> 原作:拔作岛
 parody:cike wu liuqi -> 原作:刺客伍六七
+parody:unicorn overlord -> 原作:圣兽之王
+parody:the unbelievable gwenpool -> 原作:匪夷所思的格温侍
+parody:the beginning after the end -> 原作:最强王者的第二人生
+parody:eternal city -> 原作:永远的7日之都
+parody:kenja no deshi o nanoru kenja -> 原作:自称贤者弟子的贤者
+parody:liar liar -> 原作:谎言游戏
+parody:gen 13 -> 原作:创世13
+parody:kaze no stigma -> 原作:风之圣痕
+parody:rin x sen hakudaku onna kyoushi to yaroudomo -> 原作:Rin X Sen 白浊女教师和男同事们
 character:alice -> 角色:爱丽丝
 character:akane hino -> 角色:日野茜
 character:ibuki -> 角色:伊吹
@@ -3490,7 +3499,7 @@ character:symmetra -> 角色:秩序之光
 character:winston -> 角色:温斯顿
 character:sombra -> 角色:黑影
 character:ana -> 角色:安娜
-character:ashe -> 角色:艾希
+character:ashe -> 角色:艾希（寒冰射手）
 character:cortana -> 角色:科塔娜
 character:gordon freeman -> 角色:戈登·弗里曼
 character:alyx vance -> 角色:爱丽克斯·凡斯
@@ -4984,7 +4993,7 @@ character:adolf hitler -> 角色:阿道夫·希特勒
 character:anne frank -> 角色:安妮·弗兰克
 character:lusamine -> 角色:露莎米奈
 character:angelise ikaruga misurugi -> 角色:安琪丽莎·斑鸠·米斯尔奇
-character:lelouch vi britannia -> 角色:鲁路修·vi·布里塔尼亚
+character:lelouch vi britannia -> 角色:鲁路修·VI·布里塔尼亚
 character:c.c. -> 角色:C.C.
 character:charlotte dunois -> 角色:夏洛特·德诺阿
 character:nena trinity -> 角色:妮娜·崔尼帝
@@ -5437,7 +5446,7 @@ character:batgirl -> 角色:蝙蝠少女
 character:barbara gordon -> 角色:芭芭拉·戈登
 character:blackfire -> 角色:黑火
 character:bruce wayne -> 角色:布鲁斯·韦恩
-character:jinx -> 角色:金克丝
+character:jinx -> 角色:金克丝（暴走萝莉）
 character:lex luthor -> 角色:莱克斯·卢瑟
 character:poison ivy -> 角色:毒藤女
 character:raven -> 角色:渡鸦
@@ -5611,7 +5620,7 @@ character:amuro ray -> 角色:阿姆罗·雷
 character:char aznable -> 角色:夏亚·阿兹纳布
 character:quess paraya -> 角色:葵司
 character:alcina dimitrescu -> 角色:阿契娜·蒂米特雷斯库
-character:akali -> 角色:阿卡丽
+character:akali -> 角色:阿卡丽（离群之刺）
 character:misae nohara -> 角色:野原美伢
 character:shinnosuke nohara -> 角色:野原新之助
 character:hiroshi nohara -> 角色:野原广志
@@ -5770,7 +5779,7 @@ character:razia -> 角色:拉丝缇娜
 character:magisa -> 角色:玛姬莎
 character:anna hiiragi -> 角色:柊杏奈
 character:shirley fenette -> 角色:夏莉·菲内特
-character:milly ashford -> 角色:米蕾·阿什弗德
+character:milly ashford -> 角色:米蕾·阿什福德
 character:anya alstreim -> 角色:阿妮亚·阿鲁斯特莱依姆
 character:kaguya sumeragi -> 角色:皇神乐耶
 character:krillin -> 角色:克林
@@ -5924,7 +5933,7 @@ character:hood -> 角色:胡德
 character:mrs. yuigahama -> 角色:由比滨妈妈
 character:mudrock -> 角色:泥岩
 character:nian -> 角色:年
-character:soraka -> 角色:索拉卡
+character:soraka -> 角色:索拉卡（众星之子）
 character:doctor -> 角色:博士
 character:dusk -> 角色:夕
 character:sabrina -> 角色:娜姿
@@ -6099,7 +6108,7 @@ character:captain nemo -> 角色:尼莫船长
 character:sukuna -> 角色:两面宿傩
 character:yuuji itadori -> 角色:虎杖悠仁
 character:megumi fushiguro -> 角色:伏黑惠
-character:caitlyn -> 角色:凯特琳
+character:caitlyn -> 角色:凯特琳（皮城女警）
 character:nikaido -> 角色:二阶堂
 character:reno -> 角色:里诺
 character:aegir -> 角色:埃吉尔
@@ -6152,7 +6161,7 @@ character:alice tendou -> 角色:天童爱丽丝
 character:hanabi hyuga -> 角色:日向花火
 character:chisato hasegawa -> 角色:长谷川千里
 character:anko kitashirakawa -> 角色:北白川馅子
-character:seraphine -> 角色:萨勒芬妮
+character:seraphine -> 角色:萨勒芬妮（星籁歌姬）
 character:erich von rerugen -> 角色:埃里希·冯·雷鲁根
 character:luciela r. sourcream -> 角色:露西艾拉·R·索克莉姆
 character:eris -> 角色:厄里斯
@@ -6534,7 +6543,7 @@ character:zekrom -> 角色:捷克罗姆
 character:zeraora -> 角色:捷拉奥拉
 character:iono -> 角色:奇树
 character:maho himemiya -> 角色:姬宫真步
-character:ahri -> 角色:阿狸
+character:ahri -> 角色:阿狸（九尾妖狐）
 character:lillia -> 角色:莉莉娅
 character:thresh -> 角色:锤石
 character:sophia nishikinomiya -> 角色:苏菲亚·锦之宫
@@ -6769,8 +6778,8 @@ character:herta -> 角色:黑塔
 character:stelle -> 角色:星（开拓者）
 character:clara -> 角色:克拉拉
 character:nene ayachi -> 角色:绫地宁宁
-character:neeko -> 角色:妮蔻
-character:nidalee -> 角色:奈德丽
+character:neeko -> 角色:妮蔻（万花通灵）
+character:nidalee -> 角色:奈德丽（狂野女猎手）
 character:vex -> 角色:薇古丝
 character:yuu nishinoya -> 角色:西谷夕
 character:asahi azumane -> 角色:东峰旭
@@ -7003,7 +7012,7 @@ character:tuscaloosa -> 角色:塔斯卡卢萨
 character:heywood l.e. -> 角色:海伍德·L·E
 character:ranger -> 角色:突击者
 character:janus -> 角色:雅努斯
-character:ornn -> 角色:奥恩
+character:ornn -> 角色:奥恩（山隐之焰）
 character:chong yue -> 角色:重岳
 character:ethan -> 角色:伊桑
 character:ren yamashiro -> 角色:山城恋
@@ -7015,7 +7024,7 @@ character:chika shiraishi -> 角色:白石千花
 character:tomoya mashiro -> 角色:真白友也
 character:constanze amalie von braunschbank-albrechtsberger -> 角色:康斯坦策·阿玛莉·冯·布朗施班克·阿尔布雷希茨贝格
 character:kaori kyan -> 角色:喜屋武香织
-character:janna -> 角色:迦娜
+character:janna -> 角色:迦娜（风暴之怒）
 character:fuyu fuiba -> 角色:风衣叶冬优
 character:jia ran -> 角色:嘉然
 character:navia -> 角色:娜维娅
@@ -7033,7 +7042,7 @@ character:marina katsuragi -> 角色:葛城真理奈
 character:executioner -> 角色:行裁者
 character:scarecrow -> 角色:稻草人
 character:hk416 -> 角色:HK416 | 可露凯
-character:dsr-50 -> 角色:DSR-50
+character:dsr-50 -> 角色:DSR-50 | 罗蕾莱
 character:ots-14 -> 角色:OTs-14 | 闪电
 character:p90 -> 角色:P90 | 米蒂尔
 character:wa2000 -> 角色:WA2000 | 玛绮朵
@@ -7111,7 +7120,7 @@ character:m45 -> 角色:m45
 character:m1 garand -> 角色:M1加兰德
 character:9a-91 -> 角色:9A-91
 character:ameli -> 角色:阿梅利
-character:m200 -> 角色:M200
+character:m200 -> 角色:M200 | 夏安
 character:kar98k -> 角色:Kar98k
 character:ots-12 -> 角色:OTs-12
 character:tmp -> 角色:TMP | 哈卜茜
@@ -7147,9 +7156,9 @@ character:courier -> 角色:讯使
 character:thorns -> 角色:棘刺
 character:issei hyoudou -> 角色:兵藤一诚
 character:chizuru shiina -> 角色:椎名千鹤
-character:miss fortune -> 角色:厄运小姐
-character:riven -> 角色:锐雯
-character:zac -> 角色:扎克
+character:miss fortune -> 角色:厄运小姐（赏金猎人）
+character:riven -> 角色:锐雯（放逐之刃）
+character:zac -> 角色:扎克（生化魔人）
 character:xenovia quarta -> 角色:洁诺薇亚·夸塔
 character:crow armbrust -> 角色:克洛·安布斯特
 character:yshtola rhul -> 角色:雅·修特拉·路尔
@@ -7454,7 +7463,7 @@ character:midari ikishima -> 角色:生志摩妄
 character:leonora nakiri -> 角色:薙切蕾欧诺拉
 character:ibuki tanga -> 角色:丹花伊吹
 character:shinobu kudo -> 角色:工藤忍
-character:gwen -> 角色:格温
+character:gwen -> 角色:格温（灵罗娃娃）
 character:princess bubblegum -> 角色:泡泡糖公主
 character:plume -> 角色:翎羽
 character:catapult -> 角色:空爆
@@ -7695,7 +7704,7 @@ character:atalanta alter -> 角色:阿塔兰忒〔Alter〕
 character:surcouf -> 角色:絮库夫
 character:yunli -> 角色:云璃
 character:saint cecilia -> 角色:塞西莉亚
-character:sona buvelle -> 角色:娑娜·布维尔
+character:sona buvelle -> 角色:娑娜（琴瑟仙女）
 character:dokibird -> 角色:Dokibird
 character:navia caspar -> 角色:娜维娅·卡萨帕
 character:shizuru kousaka -> 角色:高坂静流
@@ -8318,7 +8327,7 @@ character:shiori katase -> 角色:片濑诗织里
 character:hisui e. fiore -> 角色:翡翠·E·菲奥雷
 character:celine -> 角色:赛琳
 character:azura -> 角色:阿库娅
-character:lapis -> 角色:菈琵思
+character:lapis -> 角色:青金石
 character:lilina -> 角色:莉莉娜
 character:goldmary -> 角色:戈尔德玛莉
 character:alear -> 角色:琉尔
@@ -8991,7 +9000,7 @@ character:mimori tougou -> 角色:东乡美森
 character:miyo sakurai -> 角色:樱井美代
 character:kirara onisaki -> 角色:鬼崎绮罗罗
 character:ayano kosaka -> 角色:香坂绫乃
-character:syndra -> 角色:辛德拉
+character:syndra -> 角色:辛德拉（暗黑元首）
 character:hakuryuu -> 角色:白龙(鹫)
 character:irelia -> 角色:艾瑞莉娅（刀锋舞者）
 character:sovetskaya belorussiya -> 角色:苏维埃贝拉罗斯
@@ -8999,7 +9008,7 @@ character:sovetsky soyuz -> 角色:苏维埃罗西亚
 character:prinz adalbert -> 角色:阿达尔伯特亲王 | 阿德莉娅亲王
 character:latifa -> 角色:拉蒂法
 character:liselotte cretia -> 角色:莉赛萝黛·库雷提雅
-character:dahlia -> 角色:塔利雅
+character:dahlia -> 角色:康士坦丝 | 塔利雅
 character:osaragi -> 角色:大佛
 character:esil radiru -> 角色:艾希尔·拉迪鲁
 character:nitocris alter -> 角色:尼托克丽丝〔Alter〕
@@ -9180,7 +9189,7 @@ character:irisdina bernhard -> 角色:爱丽丝蒂娜·伯恩哈德
 character:nanaka kotegawa -> 角色:古手川奈奈华
 character:mrs. yukinoshita -> 角色:雪之下夫人
 character:leila malkal -> 角色:蕾拉·玛露卡尔
-character:selena -> 角色:赛琳娜
+character:selena -> 角色:赛琳娜 | 塞莱娜
 character:hanying -> 角色:含英
 character:liv -> 角色:丽芙
 character:sophia -> 角色:苏菲亚
@@ -9321,7 +9330,7 @@ character:skye -> 角色:斯凯
 character:shylily -> 角色:夏莉莉
 character:killer frost -> 角色:冰霜杀手
 character:cure spicy -> 角色:香辣天使
-character:emilia leblanc -> 角色:伊米利亚·勒布朗
+character:emilia leblanc -> 角色:乐芙兰（诡术妖姬）
 character:haruka niimi -> 角色:新见遥佳
 character:tokiko fuuma -> 角色:风魔时子
 character:kurenai shinganji -> 角色:心愿寺红
@@ -9475,7 +9484,7 @@ character:selphie tilmitt -> 角色:瑟尔菲·蒂尔米多
 character:celica -> 角色:赛莉卡
 character:alm -> 角色:阿鲁姆
 character:gemma -> 角色:杰玛
-character:evelynn -> 角色:伊芙琳
+character:evelynn -> 角色:伊芙琳（痛苦之拥）
 character:elisanne -> 角色:埃尔菲莉丝
 character:vanessa -> 角色:温妮莎
 character:cecilia -> 角色:瑟西莉亚
@@ -9534,8 +9543,8 @@ character:yuyu shirai -> 角色:白井梦结
 character:klaudia valentz -> 角色:科洛蒂娅·巴兰茨
 character:ruri tanigawa -> 角色:谷川琉璃
 character:akane nonohara -> 角色:野野原茜
-character:qiyana -> 角色:奇亚娜
-character:xayah -> 角色:霞
+character:qiyana -> 角色:奇亚娜（元素女皇）
+character:xayah -> 角色:霞（逆羽）
 character:elisabeth blanctorche -> 角色:伊丽莎白·布兰克托什
 character:ritsuka tachibana -> 角色:立华律香
 character:lindo tachibana -> 角色:立华林多
@@ -9751,6 +9760,74 @@ character:mimori akatsuki -> 角色:晓深森
 character:avrora florestina -> 角色:奥萝拉·弗洛雷斯缇纳
 character:rin tsukishima -> 角色:筑岛伦
 character:koyomi shizuka -> 角色:绯稻古咏
+character:eirika -> 角色:艾瑞珂
+character:mia -> 角色:米娅 | 瓦育
+character:fjorm -> 角色:菲约尔姆
+character:lugh -> 角色:鲁格
+character:brunnya -> 角色:碧尔妮娅
+character:lute -> 角色:鲁特 | 卢特
+character:karla -> 角色:卡尔拉
+character:ninian -> 角色:尼尼安
+character:nino -> 角色:妮诺
+character:schneizel el britannia -> 角色:修奈泽尔·EL·布里塔尼亚
+character:serra -> 角色:塞拉
+character:rivalz cardemonde -> 角色:利瓦尔·卡德蒙德
+character:clovis la britannia -> 角色:克洛维斯·La·布里塔尼亚
+character:myrrh -> 角色:梅尔
+character:fae -> 角色:珐
+character:mai tokiha -> 角色:鸨羽舞衣
+character:natsuki kuga -> 角色:玖我夏树
+character:thea -> 角色:缇娅 | 蒂特
+character:gilbert g.p. guilford -> 角色:基尔伯特·G·P·基尔福特
+character:shanna -> 角色:夏妮
+character:naomi inoue -> 角色:井上直美
+character:est -> 角色:爱丝特
+character:palla -> 角色:帕奥拉
+character:marianne vi britannia -> 角色:玛莉安娜·V·布里塔尼亚
+character:tianzi -> 角色:天子（蒋丽华）
+character:odysseus eu britannia -> 角色:奥德修斯·eu·布里塔尼亚
+character:gino weinberg -> 角色:吉诺·温伯格
+character:cecil -> 角色:塞西尔
+character:farina -> 角色:法瑞娜
+character:gwenpool -> 角色:格温侍
+character:florina -> 角色:芙罗利娜
+character:saya takagi -> 角色:高城沙耶
+character:sona sitri -> 角色:支取苍那
+character:lefiya viridis -> 角色:蕾菲亚·维里迪斯
+character:momo hanaki -> 角色:花戒桃
+character:clarine -> 角色:克莱丽奈
+character:roy -> 角色:罗伊
+character:fir -> 角色:菲尔
+character:sanaki kirsch altina -> 角色:莎娜琪
+character:sigrun -> 角色:希格伦
+character:tanith -> 角色:塔妮丝
+character:champagne -> 角色:香槟
+character:arizona -> 角色:亚利桑那
+character:fritz rumey -> 角色:弗里茨·鲁梅
+character:nagisa chiba -> 角色:千叶凪沙
+character:eleonor -> 角色:艾蕾欧诺尔
+character:natsu inage -> 角色:稻毛夏
+character:shamala -> 角色:通灵师
+character:fancy -> 角色:幻想号
+character:elcia harvence -> 角色:艾尔希亚·哈温斯
+character:mavis dracula -> 角色:梅菲斯
+character:tinker bell -> 角色:小叮当
+character:karenina -> 角色:卡列尼娜
+character:meloco kyoran -> 角色:狂兰Meloco
+character:perrin -> 角色:沙俪
+character:fantasque -> 角色:空想
+character:himari kino -> 角色:木野日鞠
+character:maha -> 角色:玛荷
+character:mira -> 角色:椿原米拉 | 米菈
+character:takatora toudou -> 角色:藤堂高虎
+character:shirayuki himeji -> 角色:姬路白雪
+character:zhao -> 角色:照
+character:dreizehn -> 角色:德莱茨茵
+character:malkuth -> 角色:Malkuth
+character:sugar lights -> 角色:砂糖灯
+character:hikari tsuneki -> 角色:常木耀
+character:alice lendrott -> 角色:爱丽丝·兰德洛特
+character:senna -> 角色:赛娜（涤魂圣枪）
 group:1 -> 团队:1
 group:13 -> 团队:13
 group:27 -> 团队:27
@@ -22230,7 +22307,7 @@ group:ebisujima misato -> 团队:戎島実里
 group:jikahatsudensho -> 团队:自家发电处
 group:signal violet -> 团队:Signal:Violet
 group:me no sato -> 团队:芽の里
-group:shuukyuu 8-ka -> 团队:週休8日
+group:shuukyuu 8-ka -> 团队:周休八日
 group:sagamiokiva -> 团队:さがみおきば
 group:bochi bochi no ki -> 团队:ぼちぼちの木
 group:pham -> 团队:PHAM!
@@ -23162,6 +23239,26 @@ group:baketsu purin -> 团队:バケツプリン
 group:genkai hatsudensho -> 团队:限界発電所
 group:mattan hieshou -> 团队:末端冷え性
 group:cafe momozuki -> 团队:喫茶モモヅキ
+group:kodomo to kodomo -> 团队:こどもとこども
+group:majutsu kessha kuroki tsubasa -> 团队:魔術結社・黒き翼
+group:aburi tarako-tei -> 团队:おむすびころりん
+group:nurunuru bouzu -> 团队:ぬるぬる坊主
+group:kani zousui -> 团队:かに雑炊
+group:tareme sijou syugi -> 团队:垂れ目至上主義
+group:bashou no deshi -> 团队:ばしょーの弟子
+group:meimeikomei -> 团队:めいめいこ
+group:hotate chanpon -> 团队:ほたてちゃんぽん
+group:ubuoya -> 团队:うぶお屋
+group:gin eiji -> 团队:銀エイジ
+group:studio m3 -> 团队:studio えむすり
+group:miura koudai -> 团队:三浦鋼大
+group:doron -> 团队:どろん
+group:emuo koubou -> 团队:えむお工房
+group:kuishinbou -> 团队:くいしん房
+group:sanman sanzen koiking -> 团队:三万三千こいきんぐ
+group:kitsunetsuki -> 团队:きつねつき
+group:chiyori koubou -> 团队:ちより工房
+group:amanoshima -> 团队:雨乃島
 artist:2 -> 艺术家:2
 artist:7 -> 艺术家:7
 artist:8 -> 艺术家:8
@@ -24525,7 +24622,7 @@ artist:umemaru -> 艺术家:うめ丸
 artist:eo masaka -> 艺术家:EOまさか
 artist:hanabi -> 艺术家:HANABi
 artist:kakizaki kousei -> 艺术家:垣崎コウセイ
-artist:miyamoto issa -> 艺术家:宮元一佐
+artist:miyamoto issa -> 艺术家:宫元一佐
 artist:murasaki nyaa -> 艺术家:紫☆にゃ～
 artist:okyuuri -> 艺术家:おきゅうり
 artist:parabola -> 艺术家:ぱらボら
@@ -26558,7 +26655,7 @@ artist:nibiirokaden -> 艺术家:鈍色家電
 artist:migihaji -> 艺术家:右端
 artist:miyoshino -> 艺术家:みよしの
 artist:omochi monaka -> 艺术家:おもち もなか
-artist:ootsuka reika -> 艺术家:大塚麗夏
+artist:ootsuka reika -> 艺术家:大塚丽夏
 artist:zanka -> 艺术家:ざんか
 artist:ashizuki -> 艺术家:アシズキ
 artist:abe nattou -> 艺术家:あべなっつ
@@ -27481,7 +27578,7 @@ artist:atyuto -> 艺术家:あちゅと
 artist:auauun -> 艺术家:あうあうーん
 artist:aula -> 艺术家:あうら
 artist:autumm -> 艺术家:秋
-artist:awa -> 艺术家:AwA
+artist:awa -> 艺术家:AwA | 阿波 | アワ
 artist:awamori ichitarou -> 艺术家:泡盛一太郎
 artist:awata mokane -> 艺术家:粟田もかね
 artist:aweida -> 艺术家:アウェイ田
@@ -37536,6 +37633,23 @@ artist:yamamoto seishiro -> 艺术家:山本精子漏
 artist:osuwaani -> 艺术家:オスワーニ
 artist:nakamo -> 艺术家:那鴨
 artist:tonkaraton -> 艺术家:トンカラトン
+artist:itachimaki -> 艺术家:いたちまき
+artist:mabo harusame -> 艺术家:麻婆はるさめ
+artist:ochi -> 艺术家:おち
+artist:tenki nori -> 艺术家:天気海苔
+artist:vanicooo -> 艺术家:ばにこ一
+artist:shirotobi -> 艺术家:しろとび
+artist:ubuo -> 艺术家:うぶお
+artist:re shimashima -> 艺术家:Re:しましま
+artist:takashiro go-ya -> 艺术家:高城ごーや
+artist:yonesuke -> 艺术家:よねすけ
+artist:kotora nue -> 艺术家:狐虎ぬえ
+artist:negita shio -> 艺术家:葱田盐
+artist:mayutsuba mono -> 艺术家:眉唾モノ
+artist:yug -> 艺术家:YUG
+artist:pokeeti -> 艺术家:PokeEti
+artist:panda shizuku -> 艺术家:パンダシズク
+artist:chiyori -> 艺术家:ちより
 cosplayer:otohara an -> Coser:乙原あん
 cosplayer:rioko -> Coser:凉凉子
 cosplayer:atsuki -> Coser:あつき
@@ -37683,6 +37797,7 @@ cosplayer:sharkparty -> Coser:Sharkparty
 cosplayer:jiuqujean -> Coser:九曲Jean
 cosplayer:yangyi -> Coser:杨衣
 cosplayer:green chacha jiang -> Coser:Green茶茶酱
+cosplayer:tangtang -> Coser:堂堂
 male:age progression -> 男性:年龄增长
 male:age regression -> 男性:返老还童
 male:dilf -> 男性:熟男
