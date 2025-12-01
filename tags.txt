@@ -2671,6 +2671,15 @@ parody:liar liar -> 原作:谎言游戏
 parody:gen 13 -> 原作:创世13
 parody:kaze no stigma -> 原作:风之圣痕
 parody:rin x sen hakudaku onna kyoushi to yaroudomo -> 原作:Rin X Sen 白浊女教师和男同事们
+parody:keikenzumi na kimi to keiken zero na ore ga otsukiai suru hanashi. -> 原作:位于恋爱光谱极端的我们
+parody:dispatch -> 原作:超英派遣中心
+parody:cue -> 原作:指名！
+parody:gogo sentai boukenger -> 原作:轰轰战队冒险者
+parody:ressha sentai toqger -> 原作:烈车战队特急者
+parody:hyakujuu sentai gaoranger -> 原作:百兽战队牙吠连者
+parody:kaitou sentai lupinranger vs keisatsu sentai patranger -> 原作:快盗战队鲁邦连者VS警察战队巡逻连者
+parody:seijuu sentai gingaman -> 原作:星兽战队银河人
+parody:kibou no chikara otona pretty cure 23 -> 原作:希望的力量～大人的光之美少女`23
 character:alice -> 角色:爱丽丝
 character:akane hino -> 角色:日野茜
 character:ibuki -> 角色:伊吹
@@ -4538,7 +4547,7 @@ character:takumi -> 角色:拓海
 character:charlotte -> 角色:夏洛特 | 夏洛蒂
 character:ryoma -> 角色:龙马
 character:orochi -> 角色:远吕智
-character:elise -> 角色:爱丽丝
+character:elise -> 角色:伊莉丝（蜘蛛女皇）
 character:flannel -> 角色:弗拉内尔
 character:camilla -> 角色:卡米拉
 character:felicia -> 角色:菲莉西亚
@@ -6209,8 +6218,8 @@ character:yukari miyako -> 角色:都由香里
 character:clare -> 角色:克蕾雅
 character:raki -> 角色:拉基
 character:teresa -> 角色:泰蕾莎
-character:samira -> 角色:莎弥拉
-character:katarina du couteau -> 角色:卡特琳娜·杜·克卡奥
+character:samira -> 角色:莎弥拉（沙漠玫瑰）
+character:katarina du couteau -> 角色:卡特琳娜（不祥之刃）
 character:kaltsit -> 角色:凯尔希
 character:maho hiyajo -> 角色:比屋定真帆
 character:venom -> 角色:毒液
@@ -6544,7 +6553,7 @@ character:zeraora -> 角色:捷拉奥拉
 character:iono -> 角色:奇树
 character:maho himemiya -> 角色:姬宫真步
 character:ahri -> 角色:阿狸（九尾妖狐）
-character:lillia -> 角色:莉莉娅
+character:lillia -> 角色:莉莉娅（含羞蓓蕾）
 character:thresh -> 角色:锤石
 character:sophia nishikinomiya -> 角色:苏菲亚·锦之宫
 character:anna nishikinomiya -> 角色:安娜·锦之宫
@@ -6780,10 +6789,10 @@ character:clara -> 角色:克拉拉
 character:nene ayachi -> 角色:绫地宁宁
 character:neeko -> 角色:妮蔻（万花通灵）
 character:nidalee -> 角色:奈德丽（狂野女猎手）
-character:vex -> 角色:薇古丝
+character:vex -> 角色:薇古丝（愁云使者）
 character:yuu nishinoya -> 角色:西谷夕
 character:asahi azumane -> 角色:东峰旭
-character:zoe -> 角色:佐伊
+character:zoe -> 角色:佐伊（暮光星灵）
 character:annie -> 角色:安妮
 character:yanagi uzaki -> 角色:宇崎柳
 character:baiken -> 角色:梅喧
@@ -7258,7 +7267,7 @@ character:mizar -> 角色:米扎艾尔
 character:dumon -> 角色:德鲁贝
 character:ariados -> 角色:阿利多斯
 character:latias -> 角色:拉帝亚斯
-character:endministrator -> 角色:管理员
+character:endministrator -> 角色:管理员（女）
 character:perlica -> 角色:佩丽卡
 character:absinthe -> 角色:苦艾
 character:misha necron -> 角色:米夏·涅库罗
@@ -7428,7 +7437,7 @@ character:meowscarada -> 角色:魔幻假面喵
 character:incineroar -> 角色:炽焰咆哮虎
 character:blaziken -> 角色:火焰鸡
 character:raboot -> 角色:腾蹴小将
-character:kaisa -> 角色:卡莎
+character:kaisa -> 角色:卡莎（虚空之女）
 character:wukong -> 角色:孙悟空
 character:deathclaw -> 角色:死亡爪
 character:night stalker -> 角色:夜枭
@@ -7753,7 +7762,7 @@ character:gentildonna -> 角色:贵妇人
 character:yamanin zephyr -> 角色:也文摄辉
 character:vivlos -> 角色:强击
 character:oguri cap -> 角色:小栗帽
-character:kindred -> 角色:千珏
+character:kindred -> 角色:千珏（永猎双子）
 character:jane doe -> 角色:简·杜
 character:finana ryugu -> 角色:龍宮Finana
 character:poplar taneshima -> 角色:种岛白杨
@@ -8647,7 +8656,7 @@ character:epsilon -> 角色:伊普西龙
 character:cid kagenou -> 角色:暗影
 character:eta -> 角色:伊塔
 character:mona kawai -> 角色:川井百奈
-character:lux -> 角色:拉克丝
+character:lux -> 角色:拉克丝（光辉女郎）
 character:naga the serpent -> 角色:白蛇娜卡
 character:tsukasa akeuraji -> 角色:明浦路司
 character:jun yodaka -> 角色:夜鹰纯
@@ -8873,7 +8882,7 @@ character:haruka takamori -> 角色:鹰守遥
 character:zima -> 角色:凛冬
 character:koshimizu toru -> 角色:小清水透
 character:kikuchiyo mibu -> 角色:壬生菊千代
-character:morgana -> 角色:莫甘娜
+character:morgana -> 角色:莫甘娜（堕落天使）
 character:sakurada hane -> 角色:樱田羽
 character:ai enma -> 角色:阎魔爱
 character:serena fuoco le brillante de la grazia -> 角色:塞蕾娜·胡奥科·尔·布里兰特·德·拉·格拉齐亚
@@ -8886,7 +8895,7 @@ character:atri -> 角色:亚托莉
 character:huyan zhuo -> 角色:呼延灼
 character:ronova -> 角色:若娜瓦
 character:yuki kaai -> 角色:歌爱雪
-character:poppy -> 角色:波琵
+character:poppy -> 角色:波琵 | 波比
 character:tsumugi kasukabe -> 角色:春日部䌷
 character:eclipse -> 角色:伊柯利普斯
 character:morpeah -> 角色:墨菲亚
@@ -9270,7 +9279,7 @@ character:black lilith -> 角色:黑莉莉丝
 character:kyrie ushiromiya -> 角色:右代宫雾江
 character:black wyrm -> 角色:黑龙S9
 character:alcyone -> 角色:阿尔库俄涅
-character:zeri -> 角色:泽丽
+character:zeri -> 角色:泽丽（祖安花火）
 character:yun ying -> 角色:云缨
 character:chiho sasaki -> 角色:佐佐木千穗
 character:emi yusa -> 角色:游佐惠美
@@ -9828,6 +9837,92 @@ character:sugar lights -> 角色:砂糖灯
 character:hikari tsuneki -> 角色:常木耀
 character:alice lendrott -> 角色:爱丽丝·兰德洛特
 character:senna -> 角色:赛娜（涤魂圣枪）
+character:vi -> 角色:蔚（皮城执法官）
+character:mel medarda -> 角色:梅尔（流光镜影）
+character:leblanc -> 角色:勒布朗（FFX-2）
+character:ezreal -> 角色:伊泽瑞尔（探险家）
+character:fiora -> 角色:fiora
+character:zyra -> 角色:婕拉（荆棘之兴）
+character:lissandra -> 角色:丽桑卓（冰霜女巫）
+character:sejuani -> 角色:瑟庄妮（北地之怒）
+character:trundle -> 角色:特朗德尔（巨魔之王）
+character:shauna vayne -> 角色:薇恩（暗夜猎手）
+character:kayle -> 角色:凯尔（正义天使）
+character:quinn -> 角色:奎因（德玛西亚之翼）
+character:karma -> 角色:卡尔玛（天启者）
+character:veigar -> 角色:维迦（邪恶小法师）
+character:shyvana -> 角色:希瓦娜（龙血武姬）
+character:garen -> 角色:盖伦（德玛西亚之力）
+character:fiora laurent -> 角色:菲奥娜（无双剑姬）
+character:ryze -> 角色:瑞兹（符文法师）
+character:tristana -> 角色:崔丝塔娜（麦林炮手）
+character:cassiopeia du couteau -> 角色:卡西奥佩娅（魔蛇之拥）
+character:fiddlesticks -> 角色:费德提克（远古恐惧）
+character:runa shirakawa -> 角色:白河月爱
+character:tahm kench -> 角色:塔姆（河流之王）
+character:nunu -> 角色:努努（雪原双子）
+character:teemo -> 角色:提莫（迅捷斥候）
+character:taliyah -> 角色:塔莉垭（岩雀）
+character:sivir -> 角色:希维尔（战争女神）
+character:annie hastur -> 角色:安妮（黑暗之女）
+character:milio -> 角色:米利欧（明烛）
+character:draven -> 角色:德莱文（荣耀行刑官）
+character:illaoi -> 角色:俄洛伊（海兽祭司）
+character:sett -> 角色:瑟提（腕豪）
+character:darius -> 角色:德莱厄斯（诺克萨斯之手）
+character:willump -> 角色:威朗普
+character:dr. mundo -> 角色:蒙多医生（祖安狂人）
+character:jayce -> 角色:杰斯（未来守护者）
+character:viego -> 角色:佛耶戈（破败之王）
+character:heimerdinger -> 角色:黑默丁格（大发明家）
+character:diana -> 角色:黛安娜（皎月女神）
+character:shen -> 角色:慎（暮光之眼）
+character:zilean -> 角色:基兰（时光守护者）
+character:kennen -> 角色:凯南（狂暴之心）
+character:jax -> 角色:贾克斯（武器大师）
+character:twisted fate -> 角色:崔斯特（卡牌大师）
+character:blonde blazer -> 角色:金耀光
+character:invisigal -> 角色:隐身女
+character:yunara -> 角色:芸阿娜（不破之誓）
+character:black lady -> 角色:黑色淑女
+character:azusa hamaoka -> 角色:滨冈梓
+character:kogarashi fuyuzora -> 角色:宫崎千纱希
+character:hiyori miyazaki -> 角色:宫崎日和
+character:harumu yumesaki -> 角色:梦咲春梦
+character:nonko arahabaki -> 角色:荒霸吐吞子
+character:matora mikogami -> 角色:神刀胧
+character:karura hiougi -> 角色:绯扇迦楼罗
+character:hibari ameno -> 角色:雨野云雀
+character:nadare tenko -> 角色:天狐雪崩
+character:genshiro ryuuga -> 角色:龙雅玄士郎
+character:shakuhito yoinozaka -> 角色:宵之坂酌人
+character:ouga makyouin -> 角色:魔境院逢牙
+character:yaya fushiguro -> 角色:伏黑夜夜
+character:nene fujinoki -> 角色:藤之木宁音
+character:nabiki tendo -> 角色:天道靡
+character:ukyo kuonji -> 角色:久远寺右京
+character:kagura izumi -> 角色:泉神乐
+character:kaoru shiba -> 角色:志叶薰
+character:mira shifuto -> 角色:志布户未来
+character:sakura nishihori -> 角色:西堀樱
+character:sena hayami -> 角色:速见濑奈
+character:yuuki tendou -> 角色:天童悠希
+character:kirie konami -> 角色:小南桐绘
+character:rei nasu -> 角色:那须玲
+character:shiori usami -> 角色:宇佐美栞
+character:nono fujimaru -> 角色:藤丸能乃
+character:ai kitora -> 角色:木虎蓝
+character:chika amatori -> 角色:雨取千佳
+character:reiji kizaki -> 角色:木崎礼治
+character:shuuji miwa -> 角色:三轮秀次
+character:yousuke yoneya -> 角色:米屋阳介
+character:osamu mikumo -> 角色:三云修
+character:yuuko kumagai -> 角色:熊谷友子
+character:youko katori -> 角色:香取叶子
+character:yuuichi jin -> 角色:迅悠一
+character:koharu tachibana -> 角色:橘小春
+character:yuika tachibana -> 角色:橘结花
+character:kyouka tachibana -> 角色:橘京香
 group:1 -> 团队:1
 group:13 -> 团队:13
 group:27 -> 团队:27
@@ -23259,6 +23354,11 @@ group:sanman sanzen koiking -> 团队:三万三千こいきんぐ
 group:kitsunetsuki -> 团队:きつねつき
 group:chiyori koubou -> 团队:ちより工房
 group:amanoshima -> 团队:雨乃島
+group:plateau soft -> 团队:ぷらとぉそふと
+group:shikisoku zeku -> 团队:色即絶句
+group:peimond -> 团队:ペイモンド
+group:tonosama penguin -> 团队:殿様ペンギン
+group:seiki no hero -> 团队:性器のHERO
 artist:2 -> 艺术家:2
 artist:7 -> 艺术家:7
 artist:8 -> 艺术家:8
@@ -37650,6 +37750,14 @@ artist:yug -> 艺术家:YUG
 artist:pokeeti -> 艺术家:PokeEti
 artist:panda shizuku -> 艺术家:パンダシズク
 artist:chiyori -> 艺术家:ちより
+artist:hattori psycho -> 艺术家:這禽サイコ
+artist:koyado keroyon -> 艺术家:鈷矢毒けろよん
+artist:alisame -> 艺术家:在鮫
+artist:mochioji -> 艺术家:もちおじ
+artist:umi no kyuuban -> 艺术家:海の吸盤
+artist:tanaka nunu -> 艺术家:田中ぬぬ
+artist:zorusoru -> 艺术家:ぞるそる
+artist:kazunoko -> 艺术家:数の子
 cosplayer:otohara an -> Coser:乙原あん
 cosplayer:rioko -> Coser:凉凉子
 cosplayer:atsuki -> Coser:あつき
