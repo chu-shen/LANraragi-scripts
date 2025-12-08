@@ -2680,6 +2680,19 @@ parody:hyakujuu sentai gaoranger -> 原作:百兽战队牙吠连者
 parody:kaitou sentai lupinranger vs keisatsu sentai patranger -> 原作:快盗战队鲁邦连者VS警察战队巡逻连者
 parody:seijuu sentai gingaman -> 原作:星兽战队银河人
 parody:kibou no chikara otona pretty cure 23 -> 原作:希望的力量～大人的光之美少女`23
+parody:gachiakuta -> 原作:废渊战鬼
+parody:ansatsusha de aru ore no status ga yuusha yori mo akiraka ni tsuyoi no da ga -> 原作:身为暗杀者的我明显比勇者还强
+parody:tomodachi game -> 原作:朋友游戏
+parody:sentouin hakenshimasu -> 原作:战斗员派遣中!
+parody:magic kaito -> 原作:魔术快斗
+parody:mankitsu happening -> 原作:漫画咖啡厅的艳遇危机
+parody:duet night abyss -> 原作:二重螺旋
+parody:danjo no yuujou wa seiritsu suru iya shinai -> 原作:男女之间的友情存在吗？
+parody:lonely girl ni sakaraenai -> 原作:无法拒绝孤独的她
+parody:kimi to tsuzuru utakata -> 原作:共谱泡沫恋曲
+parody:watari-kun no xx ga houkai sunzen -> 原作:渡君的xx即将崩坏
+parody:atelier yumia -> 原作:优米雅的炼金工房
+parody:watashi no oshi wa akuyaku reijou. -> 原作:我推是反派大小姐
 character:alice -> 角色:爱丽丝
 character:akane hino -> 角色:日野茜
 character:ibuki -> 角色:伊吹
@@ -5696,7 +5709,7 @@ character:minoru shiraishi -> 角色:白石稔
 character:ilulu -> 角色:伊露露
 character:perseus -> 角色:英仙座
 character:kitasan black -> 角色:北部玄驹
-character:haru urara -> 角色:春丽（春乌拉拉）
+character:haru urara -> 角色:春乌拉拉
 character:mayano top gun -> 角色:摩耶重炮
 character:rice shower -> 角色:米浴
 character:satono diamond -> 角色:里见光钻
@@ -7366,7 +7379,7 @@ character:fiammetta -> 角色:菲亚梅塔
 character:shu -> 角色:黍
 character:hahari hanazono -> 角色:花园羽羽里
 character:naoto hachiouji -> 角色:八王子直人
-character:xianyun -> 角色:闲云（留云借风真君）
+character:xianyun -> 角色:闲云
 character:aizawa ema -> 角色:蓝泽艾玛
 character:kurumi noah -> 角色:胡桃诺娅
 character:atsushi murasakibara -> 角色:紫原敦
@@ -7973,7 +7986,7 @@ character:sakura bakushin o -> 角色:樱花进王
 character:inari one -> 角色:稻荷一
 character:tamamo cross -> 角色:玉藻十字
 character:t.m. opera o -> 角色:好歌剧
-character:air shakur -> 角色:空中神宫
+character:air shakur -> 角色:<p>空中神宫</p>
 character:sakura laurel -> 角色:樱花桂冠
 character:dantsu flame -> 角色:烈焰快驹
 character:shinko windy -> 角色:新光风
@@ -8737,7 +8750,7 @@ character:banri tada -> 角色:多田万里
 character:inojin yamanaka -> 角色:山中井阵
 character:kendall perkins -> 角色:肯黛尔·柏金
 character:amane suou -> 角色:周防天音
-character:eblana dublinn -> 角色:死芒（爱布拉娜·都柏林）
+character:eblana dublinn -> 角色:死芒
 character:yukime -> 角色:雪女
 character:haruhime sanjouno -> 角色:春姬
 character:sharon holygrail -> 角色:莎朗·霍莉格雷尔
@@ -8755,7 +8768,7 @@ character:sachi umino -> 角色:海野凪
 character:banri shiunji -> 角色:紫云寺万里
 character:la folia rihavein -> 角色:拉·芙利亚·利哈瓦因
 character:mydei -> 角色:万敌
-character:chisa -> 角色:千咲
+character:chisa -> 角色:朽叶千咲
 character:baizhi -> 角色:白芷
 character:alice thymefield -> 角色:爱丽丝·泰姆菲尔德
 character:noren mitsuoka -> 角色:蜜冈乃莲
@@ -8984,7 +8997,7 @@ character:mio ibuki -> 角色:伊吹澪
 character:seed -> 角色:席德
 character:charlotte hazelrink -> 角色:夏洛特·海瑟林克
 character:rouge -> 角色:露姬
-character:gretel -> 角色:格丽特
+character:gretel -> 角色:葛丽特
 character:tiara basori -> 角色:马剃天爱星
 character:kanoe itagaki -> 角色:板垣鹿江
 character:sandrone -> 角色:桑多涅
@@ -9275,7 +9288,7 @@ character:poi -> 角色:鲍伊
 character:hongryeon -> 角色:C-77红莲
 character:sekhmet -> 角色:赛克麦特
 character:cerestia -> 角色:塞蕾斯缇雅
-character:black lilith -> 角色:黑莉莉丝
+character:black lilith -> 角色:黑莉莉丝 | 黑之莉莉丝
 character:kyrie ushiromiya -> 角色:右代宫雾江
 character:black wyrm -> 角色:黑龙S9
 character:alcyone -> 角色:阿尔库俄涅
@@ -9923,6 +9936,117 @@ character:yuuichi jin -> 角色:迅悠一
 character:koharu tachibana -> 角色:橘小春
 character:yuika tachibana -> 角色:橘结花
 character:kyouka tachibana -> 角色:橘京香
+character:paul greyrat -> 角色:保罗·格雷拉特
+character:syuen -> 角色:苏恩
+character:akemi soryuin -> 角色:奏流院朱美
+character:gina boyd -> 角色:吉娜·波特
+character:satomi tachibana -> 角色:立花里美
+character:ye shunguang -> 角色:叶瞬光
+character:piper -> 角色:派派·韦尔
+character:napoli -> 角色:那不勒斯
+character:alvitr -> 角色:亚尔薇特
+character:strasbourg -> 角色:斯特拉斯堡
+character:bai yi -> 角色:白逸
+character:amo empool -> 角色:亚默·恩普尔
+character:riyo reaper -> 角色:莉阳
+character:eishia stilza -> 角色:艾希娅·斯蒂尔扎
+character:yoru -> 角色:夜（战争恶魔）
+character:anosillus the 2nd -> 角色:阿诺西拉斯2代
+character:naaza erisuis -> 角色:纳扎·埃里斯
+character:kiyoko shimizu -> 角色:清水洁子
+character:amelia rosequartz -> 角色:艾蜜莉亚·罗丝寇兹
+character:psylocke -> 角色:灵蝶
+character:jean grey -> 角色:琴格雷
+character:todoroki hajime -> 角色:轰一
+character:toki -> 角色:鸨
+character:natsumi obata -> 角色:小幡夏美
+character:yui obata -> 角色:小幡优衣
+character:reika kurashiki -> 角色:仓敷丽华
+character:reina kurashiki -> 角色:仓敷玲奈
+character:belial -> 角色:业火之彼列
+character:snow -> 角色:雪诺
+character:honou no heine -> 角色:炎之海涅
+character:alice kisaragi -> 角色:如月爱丽丝
+character:astaroth -> 角色:阿斯塔蒂 | 阿斯塔特
+character:mei yoneme -> 角色:米女芽衣
+character:cure friendly -> 角色:犬饲彩羽
+character:cure wonderful -> 角色:犬饲小麦
+character:chasca -> 角色:恰斯卡
+character:maegami-chan -> 角色:前发酱
+character:tsumugi shirogane -> 角色:白银纺
+character:ena ibarada -> 角色:棘田惠那
+character:rui kisugi -> 角色:来生泪
+character:akemi miyano -> 角色:宫野明美
+character:aoko nakamori -> 角色:中森青子
+character:azusa enomoto -> 角色:榎本梓
+character:naeko miike -> 角色:三池苗子
+character:yumi miyamoto -> 角色:宫本由美
+character:wraith -> 角色:恶灵
+character:wattson -> 角色:沃特森（电妹）
+character:loba -> 角色:罗芭
+character:bangalore -> 角色:班加罗尔
+character:newcastle -> 角色:纽卡斯尔
+character:venture -> 角色:探奇
+character:rei suzukawa -> 角色:凉川丽
+character:lady nifle -> 角色:妮弗尔夫人
+character:psyche -> 角色:赛琪
+character:dream journey -> 角色:梦之旅
+character:venus paques -> 角色:金星复活节
+character:admire groove -> 角色:爱慕律动
+character:lucky lilac -> 角色:旺紫丁
+character:yaeno muteki -> 角色:八重无敌
+character:fenomeno -> 角色:超常骏骥
+character:tap dance city -> 角色:跳舞城
+character:furioso -> 角色:狂怒乐章
+character:blast onepiece -> 角色:防爆装束
+character:belno light -> 角色:崭新光辉
+character:norn ace -> 角色:诺伦王牌
+character:fujimasa march -> 角色:藤正进行曲
+character:air messiah -> 角色:天域圣君
+character:typhon ephemeros -> 角色:堤丰·厄斐墨洛斯
+character:rion enomoto -> 角色:榎本凛音
+character:himari inuzuka -> 角色:犬冢日葵
+character:rhein kraft -> 角色:莱茵力量
+character:muu muyu -> 角色:Muu Muyu
+character:hina kyan -> 角色:喜屋武飞夏
+character:kotori shirakawa -> 角色:白河小鸟
+character:minatsu amakase -> 角色:天枷美夏
+character:nanaka shirakawa -> 角色:白河奈奈佳
+character:miharu amakase -> 角色:天枷美春
+character:aisia -> 角色:艾西亚
+character:mako mizukoshi -> 角色:水越真子
+character:moe mizukoshi -> 角色:水越萌
+character:kanako saeki -> 角色:佐伯加奈子
+character:anzu yukimura -> 角色:雪村杏
+character:yume asakura -> 角色:朝仓梦
+character:otome asakura -> 角色:朝仓音姫
+character:tomoko morikawa -> 角色:森川智子
+character:charles yoshino -> 角色:芳乃夏露露
+character:rukawa sara -> 角色:瑠川纱罗
+character:aoi hinomoto -> 角色:阳之下葵
+character:sakura yoshino -> 角色:芳乃樱
+character:junichi asakura -> 角色:朝仓纯一
+character:akane hanasaki -> 角色:花咲茜
+character:koko tsukishima -> 角色:月岛小恋
+character:erika murasaki -> 角色:艾莉卡·紫
+character:tamaki konomiya -> 角色:胡之宫环
+character:himeno katsuragi -> 角色:葛木姬乃
+character:suzuno kamazuki -> 角色:镰月玲乃
+character:dialyn -> 角色:琉音
+character:ayaka sakurai -> 角色:樱井彩花
+character:sora honda -> 角色:本田空
+character:shizuku hoshikawa -> 角色:星川雫
+character:mitsuki ayanokouji -> 角色:矢野美月
+character:sumika tachibana -> 角色:知花纯加
+character:kanoko amamiya -> 角色:间宫果乃子
+character:satsuki tachibana -> 角色:馆花纱月
+character:yukari ishihara -> 角色:石原紫
+character:yumia liessfeldt -> 角色:优米雅·利斯菲尔德
+character:susan storm -> 角色:苏珊·斯通
+character:beat valkyrie ixseal -> 角色:爱克希尔
+character:niko -> 角色:妮可
+character:rae taylor -> 角色:零·缇拉
+character:claire francois -> 角色:克蕾雅·弗朗索瓦
 group:1 -> 团队:1
 group:13 -> 团队:13
 group:27 -> 团队:27
@@ -14850,7 +14974,7 @@ group:gamugumi -> 团队:ガムグミ
 group:gamute de kotei -> 团队:ガムテで固定
 group:ganbari machine -> 团队:ガンバリマシン
 group:gang koubou -> 团队:ぎゃんぐ工房
-group:ganmenki joe -> 团队:巌面鬼JOE
+group:ganmenki joe -> 团队:严面鬼JOE
 group:ganmo-no-oyatsu -> 团队:がんものおやつ
 group:ganmou koubou -> 团队:がんもぅ工房
 group:ganso sonodaya -> 团队:元祖園田屋
@@ -23359,6 +23483,23 @@ group:shikisoku zeku -> 团队:色即絶句
 group:peimond -> 团队:ペイモンド
 group:tonosama penguin -> 团队:殿様ペンギン
 group:seiki no hero -> 团队:性器のHERO
+group:chotto b-sen -> 团队:ちょっとB専
+group:daraku sanpo -> 团队:堕落さんぽ
+group:tsuchinoko shigure -> 团队:つちのこしぐれ
+group:inugoya -> 团队:狗戌犬
+group:fujinoe honpo -> 团队:フジノエ本舗
+group:danpacino -> 团队:ダンパチーノ
+group:komaneko jinja -> 团队:狛猫神社
+group:mikakunin seimeitai -> 团队:未確認性命体
+group:tsuyu no torikago -> 团队:梅雨の鳥籠
+group:tsuboneya -> 团队:局屋
+group:fuzoku kugayama kindergarden -> 团队:附属久我山キンダーガーデン
+group:ichigo no katamari -> 团队:苺の塊
+group:warasubodou -> 团队:わらすぼ道
+group:hito no kokoro -> 团队:人の心
+group:uru uru ultimate -> 团队:うるうるあるてぃめっと
+group:hagoromotei -> 团队:はごろもてい
+group:amagyappa -> 团队:あまぎゃっぱ
 artist:2 -> 艺术家:2
 artist:7 -> 艺术家:7
 artist:8 -> 艺术家:8
@@ -24263,7 +24404,7 @@ artist:yukie -> 艺术家:ゆき恵
 artist:raven -> 艺术家:RAVEN
 artist:sujoyushi -> 艺术家:酢醤油氏
 artist:date -> 艺术家:DATE
-artist:kase daiki -> 艺术家:加瀬大輝
+artist:kase daiki -> 艺术家:加濑大辉
 artist:nakamura kumarin -> 艺术家:中村くまりん
 artist:masago -> 艺术家:まさご
 artist:ron -> 艺术家:RON
@@ -33040,7 +33181,7 @@ artist:sakura mafumi -> 艺术家:佐倉まふみ
 artist:sakura masachi -> 艺术家:佐倉まさち
 artist:sakura mkii -> 艺术家:SAKURA・mkII
 artist:sakura moyon -> 艺术家:桜もよん
-artist:sakura pino -> 艺术家:咲楽ぴの
+artist:sakura pino -> 艺术家:咲楽ぴの | 咲楽亭
 artist:sakura pochi -> 艺术家:桜ポチ
 artist:sakura rio -> 艺术家:佐倉りお
 artist:sakura ryuuken -> 艺术家:桜りゅうけん
@@ -37758,6 +37899,27 @@ artist:umi no kyuuban -> 艺术家:海の吸盤
 artist:tanaka nunu -> 艺术家:田中ぬぬ
 artist:zorusoru -> 艺术家:ぞるそる
 artist:kazunoko -> 艺术家:数の子
+artist:sexy imo -> 艺术家:せくしぃも
+artist:zuuga -> 艺术家:ズーガ
+artist:komugimaru -> 艺术家:小麦丸
+artist:1 dot migi ni zurashite kudasai -> 艺术家:1ドット右にずらしてください
+artist:nanten -> 艺术家:南天
+artist:satou suplex -> 艺术家:佐藤スープレックス
+artist:sawarabi -> 艺术家:早蕨
+artist:sirokuro-dharma -> 艺术家:白黒だるま
+artist:kazayuki kaya -> 艺术家:風雪花夜
+artist:komaneko -> 艺术家:狛猫
+artist:shikoto tanetsuke -> 艺术家:しこと種付け
+artist:rolly bell -> 艺术家:露李鈴
+artist:a wu a -> 艺术家:阿五啊
+artist:shirobei -> 艺术家:四郎兵衛
+artist:maguro tarao -> 艺术家:ギシュレッド
+artist:yonjiri -> 艺术家:よんじり
+artist:loki -> 艺术家:ろき
+artist:amane-san -> 艺术家:あまねさん
+artist:sakuretsu tororokonbu -> 艺术家:炸裂とろろ昆布
+artist:shinya yaoya -> 艺术家:深夜ヤオヤ
+artist:iwashita kei -> 艺术家:岩下継
 cosplayer:otohara an -> Coser:乙原あん
 cosplayer:rioko -> Coser:凉凉子
 cosplayer:atsuki -> Coser:あつき
