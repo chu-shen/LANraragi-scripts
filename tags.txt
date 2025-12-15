@@ -1832,7 +1832,7 @@ parody:bakutou sengen daigunder -> 原作:爆斗宣言大钢弹
 parody:baldr force -> 原作:BALDR FORCE
 parody:ballroom e youkoso -> 原作:舞动青春
 parody:band yarouze -> 原作:来组乐队吧!
-parody:banished from the heros party i decided to live a quiet life in the countryside -> 原作:因为不是真正的伙伴而被逐出勇者队伍，流落到边境展开慢活人生
+parody:banished from the heros party i decided to live a quiet life in the countryside -> 原作:我被逐出队伍后过上慢生活
 parody:banjo-kazooie -> 原作:班卓熊大冒险
 parody:banner of the stars -> 原作:星界的战旗
 parody:baribari densetsu -> 原作:极速狂飙
@@ -2693,6 +2693,8 @@ parody:kimi to tsuzuru utakata -> 原作:共谱泡沫恋曲
 parody:watari-kun no xx ga houkai sunzen -> 原作:渡君的xx即将崩坏
 parody:atelier yumia -> 原作:优米雅的炼金工房
 parody:watashi no oshi wa akuyaku reijou. -> 原作:我推是反派大小姐
+parody:stella sora -> 原作:星塔旅人
+parody:saikyou onmyouji no isekai tenseiki -> 原作:最强阴阳师的异世界转生记
 character:alice -> 角色:爱丽丝
 character:akane hino -> 角色:日野茜
 character:ibuki -> 角色:伊吹
@@ -7715,7 +7717,7 @@ character:briar -> 角色:贝蕾亚 | 白蕾雅
 character:soda -> 角色:索达
 character:zhu yuan -> 角色:朱鸢
 character:inori yuzuriha -> 角色:楪祈
-character:kotone fujita -> 角色:藤田琴音
+character:kotone fujita -> 角色:藤田言音
 character:acheron -> 角色:黄泉
 character:asanagi -> 角色:朝凪(桎)
 character:toji fushiguro -> 角色:伏黑甚尔
@@ -9030,7 +9032,7 @@ character:sovetsky soyuz -> 角色:苏维埃罗西亚
 character:prinz adalbert -> 角色:阿达尔伯特亲王 | 阿德莉娅亲王
 character:latifa -> 角色:拉蒂法
 character:liselotte cretia -> 角色:莉赛萝黛·库雷提雅
-character:dahlia -> 角色:康士坦丝 | 塔利雅
+character:dahlia -> 角色:塔利雅
 character:osaragi -> 角色:大佛
 character:esil radiru -> 角色:艾希尔·拉迪鲁
 character:nitocris alter -> 角色:尼托克丽丝〔Alter〕
@@ -10047,6 +10049,36 @@ character:beat valkyrie ixseal -> 角色:爱克希尔
 character:niko -> 角色:妮可
 character:rae taylor -> 角色:零·缇拉
 character:claire francois -> 角色:克蕾雅·弗朗索瓦
+character:kiwako makina -> 角色:蒔名季和子
+character:garnet maclaine -> 角色:嘉涅特・马克琳
+character:machina -> 角色:玛琦娜
+character:harry potter -> 角色:哈利·波特
+character:gareth -> 角色:加雷斯
+character:slappy squirrel -> 角色:丝洛培
+character:bugs bunny -> 角色:兔八哥
+character:daffy duck -> 角色:达菲鸭
+character:hyouka fuwa -> 角色:不破冰菓
+character:radford -> 角色:拉德福特
+character:yunohana bloom -> 角色:汤花盛开
+character:tyrant -> 角色:魔王（星塔旅人）
+character:shizuka nanahoshi -> 角色:七星静香
+character:mornye -> 角色:莫宁
+character:the dahlia -> 角色:康士坦丝 | 大丽花
+character:stay gold -> 角色:黄金旅程
+character:youko imari -> 角色:伊万里曜子
+character:tao yuifa -> 角色:桃·愈华
+character:ash blossom and joyous spring -> 角色:灰流丽
+character:ghost ogre and snow rabbit -> 角色:幽鬼兔
+character:yuriko takagi -> 角色:高城百合子
+character:kaho koyanagi -> 角色:小柳香穗
+character:marina kirarazaka -> 角色:云母坂真理奈
+character:shizuka kuze -> 角色:久世静香
+character:takopii -> 角色:章鱼哔
+character:rudo surebrec -> 角色:路德
+character:ruti ragnason -> 角色:露缇·拉格纳森
+character:rit -> 角色:莉特
+character:yarandrala -> 角色:亚兰朵菈菈
+character:tisse garland -> 角色:蒂西
 group:1 -> 团队:1
 group:13 -> 团队:13
 group:27 -> 团队:27
@@ -11620,7 +11652,7 @@ group:iorigumi -> 团队:庵組
 group:kedama gyuunyuu -> 团队:毛玉牛乳
 group:gyuunyuuya-san -> 团队:牛乳屋さん
 group:senpenbankashiki -> 团队:千变万化式
-group:amakuchi syoujo -> 团队:あまくち少女
+group:amakuchi syoujo -> 团队:甘口少女
 group:akutoku doumei -> 团队:悪徳同盟
 group:andorogynous -> 团队:ANDOROGYNOUS
 group:kikurage-ya -> 团队:きくらげ屋
@@ -23500,6 +23532,34 @@ group:hito no kokoro -> 团队:人の心
 group:uru uru ultimate -> 团队:うるうるあるてぃめっと
 group:hagoromotei -> 团队:はごろもてい
 group:amagyappa -> 团队:あまぎゃっぱ
+group:tairakuten -> 团队:怠楽天
+group:dekitate amaguri -> 团队:できたて甘栗
+group:torotoro tororokonbu -> 团队:とろとろとろろ昆布
+group:wasuresou na namae -> 团队:忘れそうな名前
+group:mikikomachi -> 团队:みきこまち
+group:tou kasokudou jouge undou -> 团队:等加速度上下運動
+group:merrymoon -> 团队:MerryMoon
+group:rinrin tokoro -> 团队:輪々処
+group:creampie koujou -> 团队:クリームパイ工場
+group:hisamaru hajimeya -> 团队:久丸一屋
+group:tokumori hanten -> 团队:特盛飯店
+group:september geshi -> 团队:セプテンバー夏至
+group:jirai soft -> 团队:地雷ソフト
+group:syunka kikaku -> 团队:しゅんか企画
+group:rhetoric -> 团队:れとりっく
+group:urano hikidashi -> 团队:フェチフェチサン
+group:team sinosabi -> 团队:Team SINOSABI
+group:chikashitsu project -> 团队:地下室プロジェクト
+group:spanteikoku -> 团队:すぱん帝国
+group:hyoui lover -> 团队:憑依ラヴァー
+group:date roku -> 团队:伊達ろく
+group:magical kagechousukashi -> 团队:マジカル影蝶透
+group:nopperi usagi -> 团队:のっぺりうさぎ
+group:sei no syokunin -> 团队:せいの職人
+group:komugibatake -> 团队:こむぎばたけ
+group:feiren shenghuo -> 团队:廢人生活
+group:sebire -> 团队:せびれ
+group:getsumatsu -> 团队:月末
 artist:2 -> 艺术家:2
 artist:7 -> 艺术家:7
 artist:8 -> 艺术家:8
@@ -23775,7 +23835,7 @@ artist:itameshi -> 艺术家:炒饭
 artist:hiraoka ryuichi -> 艺术家:平冈龙一
 artist:maguro teikoku -> 艺术家:まぐろ帝国
 artist:pote -> 艺术家:ぽて
-artist:karakuchi choucream -> 艺术家:辛口しゅーくりーむ
+artist:karakuchi choucream -> 艺术家:樱井マキ
 artist:mafen -> 艺术家:マフェン
 artist:kuroda kuro -> 艺术家:黑田クロ
 artist:ooooalikui -> 艺术家:おおおおありくい
@@ -25111,7 +25171,7 @@ artist:ohsaka minami -> 艺术家:逢坂ミナミ
 artist:raymon -> 艺术家:RAYMON
 artist:shiroie mika -> 艺术家:白家ミカ
 artist:tes-mel -> 艺术家:tes_mel
-artist:toba yuga -> 艺术家:跳马游鹿
+artist:toba yuga -> 艺术家:<p>跳马游鹿</p>
 artist:yoshida tobio -> 艺术家:吉田鸢牡
 artist:zero no mono -> 艺术家:ゼロの者
 artist:hige masamune -> 艺术家:ひげ政宗
@@ -25851,7 +25911,7 @@ artist:ayakawa riku -> 艺术家:あやかわりく
 artist:yoshida inuhito -> 艺术家:吉田犬人
 artist:yuyama chika -> 艺术家:湯山チカ
 artist:kumakiti -> 艺术家:隈吉
-artist:umakuchi syouyu -> 艺术家:うまくち酱油
+artist:umakuchi syouyu -> 艺术家:甘口酱油
 artist:tokie hirohito -> 艺术家:刻江寻人
 artist:yuzuki n dash -> 艺术家:柚木N’
 artist:itou nanami -> 艺术家:井藤ななみ
@@ -35136,7 +35196,7 @@ artist:yoko -> 艺术家:yoko
 artist:yoko juusuke -> 艺术家:横十輔
 artist:yoko mawatari -> 艺术家:馬渡ようこ
 artist:yokohachi -> 艺术家:よこはち
-artist:yokosima -> 艺术家:横縞
+artist:yokosima -> 艺术家:縦縞キタ
 artist:yokota mamoru -> 艺术家:横田守
 artist:yokoyama kouji -> 艺术家:横山コウジ
 artist:yokoyama michiru -> 艺术家:横山ミチル
@@ -35976,7 +36036,7 @@ artist:jinja eru -> 艺术家:神社えーる
 artist:nukeru -> 艺术家:ヌケル
 artist:musui ethanol -> 艺术家:無水エタノール
 artist:mori sinrisk -> 艺术家:森シンリスク
-artist:moegi -> 艺术家:萌黄おじさん
+artist:moegi -> 艺术家:萌葱
 artist:kikomuhito -> 艺术家:着込む人
 artist:elegant -> 艺术家:えれがんと
 artist:tonyman plus -> 艺术家:トニーマン+
@@ -37920,6 +37980,59 @@ artist:amane-san -> 艺术家:あまねさん
 artist:sakuretsu tororokonbu -> 艺术家:炸裂とろろ昆布
 artist:shinya yaoya -> 艺术家:深夜ヤオヤ
 artist:iwashita kei -> 艺术家:岩下継
+artist:lu ling -> 艺术家:鹿铃
+artist:hentai shinshi dt -> 艺术家:变态绅士DT
+artist:nakaoka ramu -> 艺术家:中岡らむ
+artist:tsubuan daifuku -> 艺术家:粒杏だいふく
+artist:ajimu satori -> 艺术家:安心院さとり
+artist:ibara-d -> 艺术家:いばらーど
+artist:shiriso -> 艺术家:しりそ
+artist:tsukimimumi -> 艺术家:つきみむみ
+artist:aoi ryuya -> 艺术家:蒼井怜也
+artist:sakurama haruomi -> 艺术家:桜間ハルオミ
+artist:wednesday -> 艺术家:水曜日
+artist:bingdak -> 艺术家:BINGDAK
+artist:kuro megane -> 艺术家:黒下めがね
+artist:tamaya -> 艺术家:たまや
+artist:end- -> 艺术家:えんど～ | かかとぶし
+artist:oishiko -> 艺术家:おいしこ
+artist:dekamatsu -> 艺术家:デカマツ
+artist:syunkarow -> 艺术家:しゅんか企画
+artist:yuguyugu -> 艺术家:ゆぐゆぐ
+artist:kodama naoko -> 艺术家:儿玉直子
+artist:rakka -> 艺术家:らっか
+artist:suika maron -> 艺术家:スイカマロン
+artist:sugurugi riko -> 艺术家:傑義リコ
+artist:kinzoku koutaku -> 艺术家:金属光沢
+artist:kobayasi kobako -> 艺术家:小林小箱
+artist:kitabane saiga -> 艺术家:朔羽さいが
+artist:kagechousukashi -> 艺术家:影蝶透、
+artist:kanamori yunene -> 艺术家:かなもりゆねね
+artist:aako -> 艺术家:あ～こ
+artist:ichigin -> 艺术家:いちぎん
+artist:d kaketsu -> 艺术家:Dかけつ
+artist:miita -> 艺术家:みーた
+artist:takamori yu -> 艺术家:高守勇羽
+artist:alpha beta -> 艺术家:有葉米太
+artist:satsuki souji -> 艺术家:サツキソウジ
+artist:sugara -> 艺术家:スガラ
+artist:asai makoto -> 艺术家:浅生マコト
+artist:koji pom -> 艺术家:コジpom
+artist:uno katsumi -> 艺术家:宇野かつみ
+artist:amashiro mio -> 艺术家:あましろ澪
+artist:yamase zenn -> 艺术家:山瀬ゼン
+artist:sasami koto -> 艺术家:紗々見こと
+artist:sakurazaki momoko -> 艺术家:桜咲ももこ
+artist:moegi oji-san -> 艺术家:萌黄おじさん
+artist:zutto mae kara darui. -> 艺术家:ずっと前からだるい。
+artist:kamanbeer -> 艺术家:かまんべーる
+artist:laiyi xiaolei -> 艺术家:萊伊小雷
+artist:hizuki higure -> 艺术家:緋月ひぐれ
+artist:superpig -> 艺术家:SuperPig
+artist:shuumatsu -> 艺术家:週末
+artist:hashira14 -> 艺术家:Hashira十四
+artist:ojitama -> 艺术家:おじタマ
+artist:chanja kojiki -> 艺术家:チャンジャ乞食
 cosplayer:otohara an -> Coser:乙原あん
 cosplayer:rioko -> Coser:凉凉子
 cosplayer:atsuki -> Coser:あつき
@@ -38068,6 +38181,7 @@ cosplayer:jiuqujean -> Coser:九曲Jean
 cosplayer:yangyi -> Coser:杨衣
 cosplayer:green chacha jiang -> Coser:Green茶茶酱
 cosplayer:tangtang -> Coser:堂堂
+cosplayer:jiaorouji walkure -> Coser:絞肉姬Walküre
 male:age progression -> 男性:年龄增长
 male:age regression -> 男性:返老还童
 male:dilf -> 男性:熟男
