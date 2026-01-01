@@ -2710,6 +2710,12 @@ parody:towa no yugure -> 原作:永远的黄昏
 parody:hachi-nan tte sore wa nai deshou -> 原作:八男？别闹了！
 parody:hazure skill kinomi master -> 原作:最弱技能 “果实大师”
 parody:princess evangile -> 原作:福音公主
+parody:grancrest senki -> 原作:皇帝圣印战记
+parody:tomodachi no imouto ga ore ni dake uzai -> 原作:朋友的妹妹只喜欢烦我
+parody:kubo-san wa mob o yurusanai -> 原作:久保同学不放过我
+parody:salaryman ga isekai ni ittara shitennou ni natta hanashi -> 原作:上班族去了异世界后成了四天王
+parody:monobeno -> 原作:茂伸奇谈
+parody:lost ark -> 原作:命运方舟
 character:alice -> 角色:爱丽丝
 character:akane hino -> 角色:日野茜
 character:ibuki -> 角色:伊吹
@@ -5863,7 +5869,7 @@ character:mahiru kasumi -> 角色:香澄真昼
 character:koharu nanakura -> 角色:七仓小春
 character:ako saotome -> 角色:早乙女亚子
 character:misogi hodaka -> 角色:穗高未奏希
-character:yuni shingyouji -> 角色:真行寺由仁（优妮）
+character:yuni shingyouji -> 角色:优妮
 character:takagi -> 角色:高木同学
 character:stella unibell -> 角色:史黛拉·尤尼贝尔
 character:hotaru futaba -> 角色:双叶萤
@@ -6203,8 +6209,8 @@ character:anko kitashirakawa -> 角色:北白川馅子
 character:seraphine -> 角色:萨勒芬妮（星籁歌姬）
 character:erich von rerugen -> 角色:埃里希·冯·雷鲁根
 character:luciela r. sourcream -> 角色:露西艾拉·R·索克莉姆
-character:eris -> 角色:厄里斯
-character:luna -> 角色:露娜
+character:eris -> 角色:厄里斯 | 厄莉丝
+character:luna -> 角色:露娜（素晴）
 character:yamato no kami yasusada -> 角色:大和守安定
 character:takane lui -> 角色:鹰岭露依
 character:charlotte e. yeager -> 角色:夏洛特·E·叶格
@@ -6684,7 +6690,7 @@ character:sensei -> 角色:老师
 character:azuma seren -> 角色:东雪莲
 character:yaoyao -> 角色:瑶瑶
 character:monika -> 角色:莫妮卡
-character:tania -> 角色:塔妮雅
+character:tania -> 角色:塔尼娅
 character:barret wallace -> 角色:巴雷特·华莱士
 character:ameth -> 角色:爱梅斯
 character:aoi futaba -> 角色:双叶碧
@@ -8078,7 +8084,7 @@ character:shinichirou tamaki -> 角色:玉城真一郎
 character:ranni -> 角色:菈妮
 character:miquella of the haligtree -> 角色:纯净圣树黄金米凯拉
 character:malenia -> 角色:玛莲妮亚
-character:marika -> 角色:玛莉卡
+character:marika -> 角色:marika
 character:eien no joou marika -> 角色:永恒女王玛莉卡
 character:rennala -> 角色:蕾娜拉
 character:fire keeper -> 角色:防火女
@@ -8552,7 +8558,7 @@ character:leona -> 角色:蕾欧娜
 character:tenka izumo -> 角色:出云天花
 character:kyouka uzen -> 角色:羽前京香
 character:reina akatsuki -> 角色:晓零菜
-character:grace -> 角色:格蕾丝
+character:grace -> 角色:格蕾丝 | 格蕾斯
 character:fuuko izumo -> 角色:出云风子
 character:alina clover -> 角色:阿莉娜·克洛瓦
 character:rindo chihaya -> 角色:轮堂千速
@@ -10207,13 +10213,52 @@ character:jabba the hutt -> 角色:贾巴·赫特
 character:reina sakuya -> 角色:咲夜蕾娜
 character:kirika towa alma -> 角色:雾香·永羽·亚尔玛
 character:nemu kurotsuchi -> 角色:涅音梦
-character:tohru adachi -> 角色:安达樱
+character:tohru adachi -> 角色:足立透
 character:erika aoi -> 角色:苍井绘里香
 character:misato nikaido -> 角色:二阶堂三乡
 character:irene redmayne -> 角色:艾琳·雷德梅茵
 character:minori ohshima -> 角色:大岛三野里
 character:shiki hanamura -> 角色:华村诗纪
 character:mion yanagi -> 角色:柳美音
+character:ayane hojo -> 角色:北条绫音
+character:lyrael -> 角色:莱拉尔
+character:mahiru noto -> 角色:野户真阳
+character:rino inosaki -> 角色:井崎璃乃
+character:homare tohno -> 角色:远野帆稀
+character:ayumi ishibashi -> 角色:石桥步美
+character:fubuki bandei -> 角色:布武机吹雪
+character:kaiser insight -> 角色:霸瞳皇帝
+character:labyrista -> 角色:模索路晶
+character:kurumi kuribayashi -> 角色:栗林胡桃
+character:ninon joubert -> 角色:妮侬·朱柏尔
+character:creditta cash -> 角色:克蕾琪塔·卡修
+character:kaya kidou -> 角色:鬼道嘉夜
+character:karin -> 角色:观崎佳凛
+character:rika manabe -> 角色:真边莉佳
+character:iroha kohinata -> 角色:小日向彩羽
+character:misaki gundou -> 角色:群堂美咲
+character:amaterasu -> 角色:天照
+character:nagisa kubo -> 角色:久保渚咲
+character:sena narumi -> 角色:成海圣奈
+character:kanade -> 角色:奏
+character:runa -> 角色:露娜
+character:ulmandra -> 角色:乌儿曼妲
+character:sylphid -> 角色:席尔菲德
+character:margaret -> 角色:玛格丽特
+character:natsuki aoi -> 角色:葵菜月
+character:atla fayon -> 角色:阿朵拉
+character:saika fuuma -> 角色:风魔灾祸
+character:rei ichinose -> 角色:一之濑怜
+character:yu suzumura -> 角色:铃村优
+character:frey -> 角色:芙蕾
+character:tarte -> 角色:塔儿朵
+character:evertsen -> 角色:埃佛森
+character:elena -> 角色:伊莲娜
+character:tsugumi -> 角色:来须眠
+character:ayase shinomiya -> 角色:筱宫绫濑
+character:az sainklaus -> 角色:雅兹·圣克劳斯
+character:yurika misumaru -> 角色:御统百合香
+character:cowpens -> 角色:科本斯
 group:1 -> 团队:1
 group:13 -> 团队:13
 group:27 -> 团队:27
@@ -23716,6 +23761,12 @@ group:p and i -> 团队:P&I
 group:bluevery -> 团队:ブルベリ
 group:watsondou -> 团队:わとそん堂
 group:tamabian -> 团队:多摩尾庵
+group:morita shiki -> 团队:森田式
+group:eight pm -> 团队:エイトピーエム
+group:yamashima echichi -> 团队:やましまえちち
+group:omusubi koubou -> 团队:おむすび工房
+group:sato no maccha -> 团队:里ノ抹茶
+group:mochinchi -> 团队:もちんち
 artist:2 -> 艺术家:2
 artist:7 -> 艺术家:7
 artist:8 -> 艺术家:8
@@ -35621,7 +35672,7 @@ artist:yuzuki yua -> 艺术家:柚月ゆあ
 artist:yuzuki yuno -> 艺术家:柚木ゆの
 artist:yuzuko syou -> 艺术家:ゆずこしょう
 artist:yuzupon -> 艺术家:ゆずぽん
-artist:yuzuriha -> 艺术家:杠
+artist:yuzuriha -> 艺术家:让叶
 artist:yuzushiko -> 艺术家:ゆずしこ
 artist:yuzuyoukan -> 艺术家:ゆずようかん
 artist:z-s-e -> 艺术家:z-s-e
@@ -38238,6 +38289,13 @@ artist:denki mikan -> 艺术家:电气蜜柑
 artist:usagino kuua -> 艺术家:兎野くうあ
 artist:bluevery king -> 艺术家:ブルベリ王
 artist:keimo -> 艺术家:啓モ
+artist:sabakan -> 艺术家:佐波缶
+artist:ozi8 -> 艺术家:おじ８ | ｴｲﾄﾋﾟｰｴﾑ
+artist:yamashima chihane -> 艺术家:山島ちはね
+artist:tsubonuma -> 艺术家:壺ぬま
+artist:tebin -> 艺术家:てびん
+artist:kechin -> 艺术家:けちん
+artist:satomuch -> 艺术家:さとまち
 cosplayer:otohara an -> Coser:乙原あん
 cosplayer:rioko -> Coser:凉凉子
 cosplayer:atsuki -> Coser:あつき
