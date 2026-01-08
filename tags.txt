@@ -211,7 +211,7 @@ parody:ano hi mita hana no namae wo bokutachi wa mada shiranai -> 原作:我们�
 parody:amagi brilliant park -> 原作:甘城光辉游乐园
 parody:hidan no aria -> 原作:绯弹的亚里亚
 parody:steinsgate -> 原作:命运石之门
-parody:lucky star -> 原作:幸运☆星
+parody:lucky star -> 原作:幸运星
 parody:zero no tsukaima -> 原作:零之使魔
 parody:shakugan no shana -> 原作:灼眼的夏娜
 parody:the melancholy of haruhi suzumiya -> 原作:凉宫春日的忧郁
@@ -945,7 +945,7 @@ parody:uta no prince-sama -> 原作:歌之王子殿下
 parody:hime chen otogi chikku idol lilpri -> 原作:变身！公主偶像
 parody:ib -> 原作:Ib
 parody:ichigo mashimaro -> 原作:草莓棉花糖
-parody:yuusha ni narenakatta ore wa shibushibu shuushoku wo ketsui shimashita. -> 原作:当不成勇者的我，只好认真找工作了。
+parody:yuusha ni narenakatta ore wa shibushibu shuushoku wo ketsui shimashita. -> 原作:当不成勇者的我，只好认真找工作了
 parody:chrono crusade -> 原作:圣枪修女
 parody:lost universe -> 原作:宇宙刑警
 parody:amanchu -> 原作:蓝海少女！
@@ -1039,7 +1039,7 @@ parody:dream c club -> 原作:梦幻俱乐部
 parody:katekyo hitman reborn -> 原作:家庭教师HITMAN REBORN!
 parody:tsugumomo -> 原作:怪怪守护神
 parody:the simpsons -> 原作:辛普森一家
-parody:ano natsu de matteru -> 原作:在盛夏等待
+parody:ano natsu de matteru -> 原作:在那个夏天等待
 parody:net ghost pipopa -> 原作:网络精灵PIPOPA
 parody:dominion tank police -> 原作:特搜战车队
 parody:ruin explorers -> 原作:秘境探险
@@ -1196,7 +1196,7 @@ parody:azur lane -> 原作:碧蓝航线
 parody:isekai shokudou -> 原作:异世界食堂
 parody:baccano -> 原作:永生之酒
 parody:berserk -> 原作:剑风传奇
-parody:isekai wa smartphone to tomo ni. -> 原作:带着智能手机闯荡异世界。
+parody:isekai wa smartphone to tomo ni. -> 原作:带着智能手机闯荡异世界
 parody:atelier tanaka -> 原作:田中是年龄=没女朋友的魔法师
 parody:servant x service -> 原作:跟班×服务
 parody:bakuon -> 原作:爆音少女！！
@@ -2716,6 +2716,21 @@ parody:kubo-san wa mob o yurusanai -> 原作:久保同学不放过我
 parody:salaryman ga isekai ni ittara shitennou ni natta hanashi -> 原作:上班族去了异世界后成了四天王
 parody:monobeno -> 原作:茂伸奇谈
 parody:lost ark -> 原作:命运方舟
+parody:kokuhaku jikkou iinkai -> 原作:告白实行委员会
+parody:chitose-kun wa ramune bin no naka -> 原作:弹珠汽水瓶里的千岁同学
+parody:isekai de cheat nouryoku wo te ni shita ore wa genjitsu sekai wo mo musou suru -> 原作:在异世界获得超强能力的我,在现实世界照样无敌
+parody:shinja zero no megami-sama to hajimeru isekai kouryaku -> 原作:和没有信徒的女神大人一起攻略异世界
+parody:world dai star -> 原作:梦想星座盘
+parody:tsuihousha shokudou e youkoso -> 原作:欢迎来到流放者食堂
+parody:tenkaichi nihon saikyou bugeisha ketteisen -> 原作:天下第一日本最强武士选拔赛
+parody:inari konkon koi iroha -> 原作:狐仙的恋爱入门
+parody:tokyo ravens -> 原作:东京暗鸦
+parody:yozakura quartet -> 原作:夜樱四重奏
+parody:wizard barristers -> 原作:辩魔士塞西尔
+parody:buddy complex -> 原作:Buddy Complex
+parody:lover -> 原作:LoveR：捕捉心动
+parody:mugen gacha de level 9999 -> 原作:靠着天赐技能「无限扭蛋」获得等级9999的伙伴
+parody:yu-no -> 原作:世界尽头咏唱恋曲的少女YU-NO
 character:alice -> 角色:爱丽丝
 character:akane hino -> 角色:日野茜
 character:ibuki -> 角色:伊吹
@@ -7104,7 +7119,7 @@ character:desert eagle -> 角色:沙漠之鹰
 character:ump9 -> 角色:UMP9 | 莱娜
 character:tar-21 -> 角色:TAR-21
 character:aa-12 -> 角色:AA-12 | 琳德
-character:mk23 -> 角色:Mk23
+character:mk23 -> 角色:Mk23 | 贝丝蒂
 character:ouroboros -> 角色:衔尾蛇
 character:intruder -> 角色:干扰者
 character:gager -> 角色:计量官
@@ -9061,7 +9076,7 @@ character:nemo professor -> 角色:尼莫教授
 character:moze -> 角色:貊泽
 character:mio -> 角色:澪
 character:vivi nefertari -> 角色:薇薇·奈菲鲁塔丽
-character:lihua -> 角色:梨花
+character:lihua -> 角色:梨花妃
 character:sei takanashi -> 角色:小鸟游圣
 character:pairin -> 角色:白铃
 character:lynneburg clays -> 角色:林涅波尔格·克雷斯
@@ -9172,7 +9187,7 @@ character:turenne -> 角色:人狼女王
 character:seol hee -> 角色:冰月花雪
 character:raynare -> 角色:天野夕麻
 character:riruka dokugamine -> 角色:毒峰莉露卡
-character:sitri -> 角色:西朵莉·斯玛特
+character:sitri -> 角色:sitri
 character:queen sonia -> 角色:索尼娅女王
 character:pk -> 角色:PK
 character:rosalie -> 角色:罗萨莉
@@ -10259,6 +10274,89 @@ character:ayase shinomiya -> 角色:筱宫绫濑
 character:az sainklaus -> 角色:雅兹·圣克劳斯
 character:yurika misumaru -> 角色:御统百合香
 character:cowpens -> 角色:科本斯
+character:nea -> 角色:涅亚
+character:seikai higuchi -> 角色:樋口圣华
+character:kozue hiiragi -> 角色:柊木梢
+character:krista lenz -> 角色:希丝特莉亚·雷斯
+character:yuuko hiiragi -> 角色:柊夕湖
+character:julie sigtuna -> 角色:茱莉·西格图纳
+character:sora ikushima -> 角色:郁岛空
+character:aila jyrkiainen -> 角色:艾拉‧尤基艾宁
+character:mahiru shigure -> 角色:时雨真昼
+character:shamna -> 角色:夏姆娜
+character:mabui -> 角色:麻布衣
+character:columbina hyposelenia -> 角色:[少女] 哥伦比娅
+character:rerir -> 角色:雷利尔
+character:tholindis -> 角色:索琳蒂丝
+character:porno -> 角色:珀儿诺
+character:sayo -> 角色:小夜
+character:furiae naia laphroaig -> 角色:芙莉雅耶・奈亚・拉绯罗依格
+character:ichigo minase -> 角色:水濑莓
+character:flamme -> 角色:伏拉梅
+character:kokona otori -> 角色:凤心菜
+character:yae niizuma -> 角色:新妻八惠
+character:shigure fudeshima -> 角色:笔岛时雨
+character:towa motosu -> 角色:本巢叶羽
+character:yuu yuutani -> 角色:优谷优
+character:zanmu nippaku -> 角色:日白残无
+character:canari -> 角色:卡娜莉
+character:manato komano -> 角色:狛野真斗
+character:lighter -> 角色:莱特
+character:sitri smart -> 角色:西朵莉·斯玛特
+character:chinatsu -> 角色:千夏
+character:sunna -> 角色:千夏
+character:henrietta -> 角色:海莉耶塔
+character:abbey windsor -> 角色:艾比·温莎
+character:elena kimberlight -> 角色:埃琳娜·金巴莱特
+character:aki nijou -> 角色:二条秋
+character:inaho kushiya -> 角色:栉八稻穗
+character:kodama himegami -> 角色:姬神木灵
+character:takeru ohyama -> 角色:大山武
+character:maia tachiki -> 角色:立木迈亚
+character:pearl -> 角色:珍珠号
+character:moeha fujiwara -> 角色:藤原萌叶
+character:kasumi takamiya -> 角色:多华宫霞
+character:honoka takamiya -> 角色:多华宫仄
+character:kazane kagari -> 角色:火火里风音
+character:tanpopo kuraishi -> 角色:仓石蒲公英
+character:uka-no-mitama-no-kami -> 角色:宇迦之御魂神
+character:touka fushimi -> 角色:伏见灯日
+character:natsume tsuchimikado -> 角色:土御门夏目
+character:rinze himenogi -> 角色:姬乃树凛世
+character:nanatsu higadera -> 角色:日向寺南夏
+character:yumina -> 角色:优美菜
+character:elze silhoueska -> 角色:艾尔赛·希尔艾斯卡
+character:linze silhoueska -> 角色:琳赛·希尔艾斯卡
+character:lucia rea regulus -> 角色:露西亚·蕾雅·雷古路斯
+character:yae kokonoe -> 角色:九重八重
+character:touya mochizuki -> 角色:望月冬夜
+character:leen -> 角色:翎
+character:sushie urnea ortlinde -> 角色:苏西·艾尔涅雅·欧尔托林德
+character:loulan -> 角色:楼兰妃
+character:manaka mukaido -> 角色:向井户爱花
+character:hozuki ferrari -> 角色:星月・费拉里
+character:chisaki hiradaira -> 角色:比良平千咲
+character:hikari sakishima -> 角色:先岛光
+character:tsumugu kihara -> 角色:木原纺
+character:kanna tanigawa -> 角色:谷川柑菜
+character:remon yamano -> 角色:山乃柠檬
+character:manami ogura -> 角色:小仓真奈美
+character:mio kitahara -> 角色:北原美樱
+character:fuuka ayase -> 角色:绫濑风香
+character:ena ayase -> 角色:绫濑惠那
+character:jahoda -> 角色:雅珂达
+character:kris argent -> 角色:库琉丝·亚尔根
+character:liz smart -> 角色:莉兹·斯玛特
+character:sonoko nogi -> 角色:乃木园子
+character:yuuna yuuki -> 角色:结城友奈
+character:wakaba nogi -> 角色:乃木若叶
+character:itsuki inubouzaki -> 角色:犬吠埼树
+character:fuu inubouzaki -> 角色:犬吠埼风
+character:zest -> 角色:洁丝特
+character:sana sunomiya -> 角色:须宫纱奈
+character:kanzashi sarashiki -> 角色:更识簪
+character:kaede kazama -> 角色:风间枫
+character:mio shimazu -> 角色:岛津澪
 group:1 -> 团队:1
 group:13 -> 团队:13
 group:27 -> 团队:27
@@ -23767,6 +23865,21 @@ group:yamashima echichi -> 团队:やましまえちち
 group:omusubi koubou -> 团队:おむすび工房
 group:sato no maccha -> 团队:里ノ抹茶
 group:mochinchi -> 团队:もちんち
+group:meganeya honpo -> 团队:眼镜屋本铺
+group:papyrus -> 团队:ぱぴるす
+group:tarobaumu -> 团队:たろバウム
+group:uraaka -> 团队:裏垢
+group:ikenosoko -> 团队:イケノソコ
+group:binbin honpo -> 团队:ビンビン本舗
+group:dekai tsuno -> 团队:でかいツノ
+group:pan no sashimiya -> 团队:パンの刺身屋
+group:penguinon -> 团队:ぺんぎのん
+group:hanekkaeri -> 团队:はねっかえり
+group:yumemakura -> 团队:いろもの亭
+group:19llddkk -> 团队:19LLDDKK
+group:mousou hunter -> 团队:妄想ハンター
+group:ribyobu -> 团队:リビョウブ
+group:nekosaku land -> 团队:猫作ランド
 artist:2 -> 艺术家:2
 artist:7 -> 艺术家:7
 artist:8 -> 艺术家:8
@@ -38296,6 +38409,18 @@ artist:tsubonuma -> 艺术家:壺ぬま
 artist:tebin -> 艺术家:てびん
 artist:kechin -> 艺术家:けちん
 artist:satomuch -> 艺术家:さとまち
+artist:awei -> 艺术家:阿猥
+artist:acchi -> 艺术家:あっちー
+artist:ikekokei -> 艺术家:イケコケイ
+artist:89usagi -> 艺术家:89兎♂
+artist:qzo. -> 艺术家:QZO。
+artist:pan no sashimi -> 艺术家:パンの刺身
+artist:hoozuki -> 艺术家:ほおずき
+artist:minatoku -> 艺术家:みなとく
+artist:ohbaric -> 艺术家:大馬陸
+artist:jihuatong -> 艺术家:计划通
+artist:juuichi gatsu -> 艺术家:十一月
+artist:doukutsu ika -> 艺术家:洞窟イカ
 cosplayer:otohara an -> Coser:乙原あん
 cosplayer:rioko -> Coser:凉凉子
 cosplayer:atsuki -> Coser:あつき
@@ -38446,6 +38571,9 @@ cosplayer:green chacha jiang -> Coser:Green茶茶酱
 cosplayer:tangtang -> Coser:堂堂
 cosplayer:jiaorouji walkure -> Coser:絞肉姬Walküre
 cosplayer:rongrongzi -> Coser:小容仔咕咕咕
+cosplayer:shimizu nagi -> Coser:清水凪
+cosplayer:kagurazaka mafuyu -> Coser:神楽坂真冬
+cosplayer:aban605 -> Coser:阿半今天很开心
 male:age progression -> 男性:年龄增长
 male:age regression -> 男性:返老还童
 male:dilf -> 男性:熟男
