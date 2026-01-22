@@ -2746,6 +2746,10 @@ parody:zettai shougeki platonic heart -> 原作:绝对冲激～柏拉图之心�
 parody:yuuki bakuhatsu bang bravern -> 原作:勇气爆发Bang Bravern
 parody:lies of p -> 原作:匹诺曹的谎言
 parody:darwins game -> 原作:达尔文游戏
+parody:dragons dogma -> 原作:龙之信条
+parody:manaria friends -> 原作:巴哈姆特之怒 Manaria Friends
+parody:fighting vipers -> 原作:格斗之蛇
+parody:gnosia -> 原作:古诺希亚
 character:alice -> 角色:爱丽丝
 character:akane hino -> 角色:日野茜
 character:ibuki -> 角色:伊吹
@@ -4469,7 +4473,7 @@ character:michiru kiryuu -> 角色:雾生满
 character:kaoru kiryuu -> 角色:雾生薰
 character:cure dream -> 角色:梦天使
 character:cure rouge -> 角色:火天使
-character:cure lemonade -> 角色:柠檬天使
+character:cure lemonade -> 角色:春日野丽 (柠檬天使)
 character:cure mint -> 角色:薄荷天使
 character:cure aqua -> 角色:水天使
 character:milky rose -> 角色:妙奇露丝
@@ -6283,7 +6287,7 @@ character:tomoko kuroki -> 角色:黑木智子
 character:yukari miyako -> 角色:都由香里
 character:clare -> 角色:克蕾雅
 character:raki -> 角色:拉基
-character:teresa -> 角色:泰蕾莎
+character:teresa -> 角色:迪妮莎
 character:samira -> 角色:莎弥拉（沙漠玫瑰）
 character:katarina du couteau -> 角色:卡特琳娜（不祥之刃）
 character:kaltsit -> 角色:凯尔希
@@ -6544,7 +6548,7 @@ character:fu hua -> 角色:符华
 character:timido cute -> 角色:缇米朵·丘忒
 character:mobius -> 角色:梅比乌斯
 character:heizou shikanoin -> 角色:鹿野院平藏
-character:columbina -> 角色:「少女」哥伦比娅
+character:columbina hyposelenia -> 角色:「少女」哥伦比娅
 character:tartaglia -> 角色:「公子」达达利亚
 character:gorou -> 角色:五郎
 character:kallen kaslana -> 角色:卡莲·卡斯兰娜
@@ -6932,7 +6936,7 @@ character:nyotengu -> 角色:女天狗
 character:yuzuriha -> 角色:杠
 character:velvet -> 角色:薇尔贝特
 character:lucyna kushinada -> 角色:露西
-character:w -> 角色:W
+character:w -> 角色:维什戴尔
 character:senko -> 角色:仙狐
 character:johnny silverhand -> 角色:强尼·银手
 character:david martinez -> 角色:大卫·马丁内斯
@@ -7372,7 +7376,7 @@ character:vladilena milize -> 角色:芙拉蒂蕾娜·米利杰
 character:sharon -> 角色:莎郎 | 莎朗·荷莉格蕾尔
 character:warlock -> 角色:术士
 character:tamaki kotatsu -> 角色:环古达
-character:brigitte lindholm -> 角色:布丽吉塔
+character:brigitte lindholm -> 角色:布丽吉塔·林德霍姆
 character:tatsuya kaname -> 角色:鹿目达也
 character:kamille bidan -> 角色:卡缪·比丹
 character:delta -> 角色:德尔塔
@@ -8157,7 +8161,7 @@ character:hanako arasaka -> 角色:荒坂华子
 character:misty olszewski -> 角色:米丝蒂·奥尔谢夫斯基
 character:rogue amendiares -> 角色:罗格·阿曼迪亚斯
 character:piper wheel -> 角色:派派·韦尔
-character:mia fujikawa -> 角色:藤川美亚
+character:mia fujikawa -> 角色:藤川米娅
 character:vulpisfoglia -> 角色:忍冬
 character:kirie kagarino -> 角色:篝之雾枝
 character:rinami himesaki -> 角色:姫崎莉波
@@ -9068,7 +9072,7 @@ character:erato -> 角色:埃拉托（明日方舟）
 character:suou asagiri -> 角色:朝雾周防
 character:aventurine -> 角色:砂金
 character:halford -> 角色:哈尔福德
-character:wilhelmina -> 角色:威廉明娜
+character:wilhelmina -> 角色:威廉明娜 | 威尔艾米娜
 character:sylvia -> 角色:席比雅
 character:galatea -> 角色:伽拉忒亚
 character:mimori tougou -> 角色:东乡美森
@@ -10300,7 +10304,6 @@ character:aila jyrkiainen -> 角色:艾拉‧尤基艾宁
 character:mahiru shigure -> 角色:时雨真昼
 character:shamna -> 角色:夏姆娜
 character:mabui -> 角色:麻布衣
-character:columbina hyposelenia -> 角色:[少女] 哥伦比娅
 character:rerir -> 角色:雷利尔
 character:tholindis -> 角色:索琳蒂丝
 character:porno -> 角色:珀儿诺
@@ -10477,6 +10480,78 @@ character:shuka karino -> 角色:狩野朱歌
 character:rein kashiwagi -> 角色:柏木铃音
 character:north flight -> 角色:北方飞翔
 character:label -> 角色:蕾贝儿
+character:nanoka kurobe -> 角色:黑部奈叶香
+character:florian -> 角色:小春
+character:paldea mom -> 角色:帕底亚
+character:moemi hayakawa -> 角色:早川萌美
+character:lucia elowen -> 角色:卢西娅·艾洛温
+character:ulti -> 角色:润媞
+character:margo housho -> 角色:宝生玛格
+character:coco sawatari -> 角色:泽渡可可
+character:akane owari -> 角色:终里赤音
+character:fuyuhiko kuzuryu -> 角色:九头龙冬彦
+character:nekomaru nidai -> 角色:贰大猫丸
+character:peko pekoyama -> 角色:边古山边古
+character:ruka rengoku -> 角色:炼狱瑠火
+character:yuri briar -> 角色:尤里·布莱尔
+character:kana imai -> 角色:今井加奈
+character:towa hanamaki -> 角色:花巻乙和
+character:saki izumo -> 角色:出云咲姬
+character:noa fukushima -> 角色:福岛诺亚
+character:ibuki niijima -> 角色:新岛衣舞纪
+character:rio kanzaki -> 角色:神崎莉央
+character:sumire okuyama -> 角色:奥山堇
+character:saori hidaka -> 角色:日高沙织
+character:rika seto -> 角色:濑户梨花
+character:marika mizushima -> 角色:水岛茉莉花
+character:dalia matsuyama -> 角色:松山达利亚
+character:maho akashi -> 角色:明石真秀
+character:muni ohnaruto -> 角色:大鸣门梦妮
+character:rinku aimoto -> 角色:爱本凛久
+character:tsubaki aoyagi -> 角色:青柳椿
+character:mina ashiro -> 角色:亚白米娜
+character:irina jelavic -> 角色:伊莉娜·耶拉比琪
+character:kaede kayano -> 角色:茅野枫
+character:tadaomi karasuma -> 角色:乌间惟臣
+character:karma akabane -> 角色:赤羽业
+character:manami okuda -> 角色:奥田爱美
+character:rio nakamura -> 角色:中村莉樱
+character:raziel -> 角色:拉结尔
+character:maetel -> 角色:梅德尔
+character:aishia -> 角色:艾西雅
+character:flora beltrum -> 角色:芙萝菈·贝尔托姆
+character:orphia -> 角色:欧菲雅
+character:plachta -> 角色:普拉芙妲
+character:tomoe misumi -> 角色:三隅巴
+character:shizue izawa -> 角色:井泽静江
+character:kana kojima -> 角色:儿岛加奈
+character:mana sumita -> 角色:纯田真奈
+character:isaki riona -> 角色:响咲莉欧娜
+character:tomo fujii -> 角色:藤居朋
+character:kai shintani -> 角色:申谷海
+character:michiyo gotou -> 角色:后藤美智代
+character:jacinthe -> 角色:由紫
+character:lebanne -> 角色:春紫
+character:kyo kusanagi -> 角色:草薙京
+character:iori yagami -> 角色:八神庵
+character:ryoji kaji -> 角色:加持良治
+character:kula diamond -> 角色:库拉·戴蒙德
+character:bass armstrong -> 角色:巴斯·阿姆斯特朗
+character:shermie -> 角色:夏尔米
+character:pai chan -> 角色:陈佩
+character:sarah bryant -> 角色:莎拉·布莱恩
+character:anne boonchuy -> 角色:安妮·布楚
+character:glgrdsklechhh -> 角色:Glgrdsklechhh
+character:soular -> 角色:撒乌拉
+character:westar -> 角色:威斯塔
+character:syrup -> 角色:史洛普
+character:hung -> 角色:吽
+character:mandragora -> 角色:蔓德拉
+character:croix bartel -> 角色:克罗亚・瓦泰尔
+character:jacqli -> 角色:蛇刳
+character:rena kinui -> 角色:衣斐蕾娜
+character:lucrecia crescent -> 角色:鲁克蕾西娅
+character:princess ruto -> 角色:露朵
 group:1 -> 团队:1
 group:13 -> 团队:13
 group:27 -> 团队:27
@@ -15910,7 +15985,7 @@ group:haruiro fudepen -> 团队:はルいろ筆ペン
 group:haruiro no sora -> 团队:春色の空
 group:harukaze -> 团队:HARUKAZE
 group:harukomachikan. -> 团队:はるこまちかん。
-group:harumachi tsurara -> 团队:春待氷柱
+group:harumachi tsurara -> 团队:春待冰柱
 group:harumankai -> 团队:はるまん会
 group:harumichi -> 团队:ハルミチ
 group:harunoyu -> 团队:ハルノユ
@@ -23243,7 +23318,7 @@ group:marumitei -> 团队:まる巳亭
 group:madakoya -> 团队:まだ子屋
 group:4c-fantasy -> 团队:四色绮想
 group:mekimekitei -> 团队:めきめき亭
-group:anmitsutei -> 团队:あんみつ亭
+group:anmitsutei -> 团队:<p>馅蜜亭</p>
 group:tokumei kibounu -> 团队:匿名キボンヌ
 group:poipoi ramen -> 团队:ぽいぽいラーメン
 group:ore no sasakure -> 团队:俺のささくれ
@@ -24013,6 +24088,54 @@ group:baa-chan-chi -> 团队:ばぁちゃん家
 group:toumeiryuu no margaret -> 团队:透明龍のマーガレット
 group:planet nine -> 团队:Planet Nine
 group:yuuhimari -> 团队:ゆうひまり
+group:nf-freak -> 团队:NFフリーク
+group:pomi sword -> 团队:ぽみソード
+group:elemental erogenous zone -> 团队:エレメンタル性感帯
+group:green solenoid -> 团队:グリーンソレノイド
+group:circle kagemusya -> 团队:サークル影武者
+group:kogomekai -> 团队:小米堂
+group:surface tremble -> 团队:surface tremble
+group:purintai -> 团队:ぷりんたい
+group:kugatsu nagatsu -> 团队:九月ナガツ
+group:fuwafuwa soda -> 团队:ふわふわソーダ
+group:nino izm -> 团队:Nino_izm
+group:nikomic ramen -> 团队:NikomiC Ramen
+group:mint-nium -> 团队:Mint-nium*
+group:moe push -> 团队:もえぷっしゅ
+group:ogon shinshi club -> 团队:黄金紳士倶楽部
+group:silk scarf -> 团队:シルクスカーフ
+group:pikapika hallucinate -> 团队:ぴかぴかハルシネイト
+group:boin-do -> 团队:母印堂
+group:corruprotocol -> 团队:Corruprotocol
+group:pride beans -> 团队:プライドビーンズ
+group:qruppo -> 团队:Qruppo
+group:pouchism -> 团队:pouchism
+group:marin mate -> 团队:まりんメイト
+group:kaminshitsu -> 团队:仮眠室
+group:shaberu suiteki -> 团队:喋る水滴
+group:nechosuke. -> 团队:ねちょすけ。
+group:oroboy -> 团队:オロボーイ
+group:nekonumedou -> 团队:ネコぬめ堂
+group:hibachabashira -> 团队:ひばちゃばしら
+group:cilentz -> 团队:Cilentz
+group:pizza rotten -> 团队:ピッツァ ROTTEN
+group:kire para -> 团队:切れパラ
+group:umebachiman park -> 团队:うめばちまん公園
+group:wonawonchi -> 团队:ヲナヲんち
+group:kttai -> 团队:KTTAI
+group:04cura -> 团队:04cura
+group:yuriko club -> 团队:ゆりこくらぶ
+group:sigmart -> 团队:SigMart
+group:full metal baket -> 团队:FULL METAL BAKET
+group:otn koukoku -> 团队:OTN公国
+group:rorimuti -> 团队:ろりむち
+group:iwasi no heya r -> 团队:イワシの部屋R
+group:kasanaru -> 团队:カサナル
+group:furin zukan -> 团队:ふりんずかん
+group:cloudy eyes -> 团队:CLOUDY EYES
+group:kanrakutei -> 团队:乾酪亭
+group:seijin 14-sai -> 团队:成人14歳
+group:neko no maccha parfait -> 团队:猫の抹茶パフェ
 artist:2 -> 艺术家:2
 artist:7 -> 艺术家:7
 artist:8 -> 艺术家:8
@@ -27472,7 +27595,7 @@ artist:aki akane -> 艺术家:秋赤音
 artist:lack -> 艺术家:lack
 artist:morikoke -> 艺术家:もり苔
 artist:tansuiken -> 艺术家:淡水犬
-artist:yamakonbu -> 艺术家:やまこんぶ
+artist:yamakonbu -> 艺术家:<p>山昆布</p>
 artist:crew -> 艺术家:クルー
 artist:toujou tsukushi -> 艺术家:東條土筆
 artist:yamada gogogo -> 艺术家:山田ゴゴゴ
@@ -29374,7 +29497,7 @@ artist:gram -> 艺术家:グラム
 artist:great daikon -> 艺术家:グレイト大根
 artist:great magami -> 艺术家:グレート魔神
 artist:grey fisher -> 艺术家:グレイ・フィッシャー
-artist:grifon -> 艺术家:GRIFON
+artist:grifon -> 艺术家:三木大路
 artist:grimmelkin -> 艺术家:グリムメルキン
 artist:ground -> 艺术家:GROUND
 artist:grune -> 艺术家:Grune
@@ -36877,7 +37000,7 @@ artist:yumeki banana -> 艺术家:夢木ばなな
 artist:ruutyan -> 艺术家:るち餡
 artist:announ -> 艺术家:暗ノ吽
 artist:shien -> 艺术家:しえん
-artist:kibi anmitsu -> 艺术家:吉备あんみつ
+artist:kibi anmitsu -> 艺术家:吉备馅蜜
 artist:nozora yuzu -> 艺术家:望宙ゆず
 artist:aburi saamon maru -> 艺术家:炙りサーモン丸
 artist:shiranai hitoshi -> 艺术家:しらないひとし
@@ -38388,7 +38511,7 @@ artist:tonkaraton -> 艺术家:トンカラトン
 artist:itachimaki -> 艺术家:いたちまき
 artist:mabo harusame -> 艺术家:麻婆はるさめ
 artist:ochi -> 艺术家:おち
-artist:tenki nori -> 艺术家:天気海苔
+artist:tenki nori -> 艺术家:天气海苔
 artist:vanicooo -> 艺术家:ばにこ一
 artist:shirotobi -> 艺术家:しろとび
 artist:ubuo -> 艺术家:うぶお
@@ -38574,7 +38697,6 @@ artist:kyuugata -> 艺术家:旧型
 artist:yamagama -> 艺术家:山蝦蟇
 artist:towatowa -> 艺术家:十輪towa
 artist:heihuafeihuiheihua -> 艺术家:黑话肥会黑话
-artist:nuki uron -> 艺术家:貫うろん
 artist:aihara yorani -> 艺术家:粟飯原よラニ | プラシーボ
 artist:yurulomi -> 艺术家:ユルロミ
 artist:udon ningen -> 艺术家:うどん人間
@@ -38591,6 +38713,82 @@ artist:tsuyu tsukimi -> 艺术家:つゆつきみ
 artist:kakuri kairi -> 艺术家:隔離カイリ
 artist:mame paitan -> 艺术家:まめぱいたん
 artist:yugure -> 艺术家:ゆぐれ
+artist:suriring -> 艺术家:すりりんぐ
+artist:kanaguri -> 艺术家:かなぐり
+artist:nobeji kazuwo -> 艺术家:ノベジカズヲ
+artist:si-man -> 艺术家:しーまん
+artist:nini no yobikata -> 艺术家:任意の呼び方
+artist:omurice -> 艺术家:オムライス
+artist:5t -> 艺术家:5T
+artist:frozen spider lily -> 艺术家:Frozenspiderlily
+artist:kazenami -> 艺术家:かぜなみ
+artist:morita tsumire -> 艺术家:森田つみれ
+artist:glycogen -> 艺术家:グリコーゲン
+artist:daikanki -> 艺术家:大歓喜
+artist:kabu -> 艺术家:かぶ
+artist:takutaku -> 艺术家:たくたく
+artist:jacket freak -> 艺术家:JacketFreak
+artist:se34tai -> 艺术家:se34tai
+artist:intruder -> 艺术家:闯入者
+artist:nanashi no chinpoppu -> 艺术家:名無しのチンポップ
+artist:tuberose kotoki -> 艺术家:狐刻
+artist:rude frog -> 艺术家:Rude Frog
+artist:yona -> 艺术家:杳奈
+artist:monobe -> 艺术家:ものべ
+artist:furaimai -> 艺术家:フライマイ
+artist:jewel -> 艺术家:jewel
+artist:genesis -> 艺术家:じぇねしす
+artist:royboy -> 艺术家:RoyBoy
+artist:nekuoneneko -> 艺术家:ねくおねねこ
+artist:mujikami -> 艺术家:Mujikami
+artist:cielobivolta -> 艺术家:CieloBivolta
+artist:dodok -> 艺术家:Dodok
+artist:sabamint -> 艺术家:さばみんと
+artist:tatsukiti -> 艺术家:タツキチ
+artist:kamin -> 艺术家:仮眠
+artist:bamgro -> 艺术家:バングロー
+artist:yoshiyoshi-ya -> 艺术家:よしよし屋
+artist:saiun -> 艺术家:彩雲
+artist:echiko -> 艺术家:エチコ
+artist:senie shenxuan -> 艺术家:色孽神選
+artist:ganaishou -> 艺术家:ガナイショウ
+artist:saurus 18 -> 艺术家:さうるす18
+artist:nekonume -> 艺术家:ネコぬめ
+artist:hibacha -> 艺术家:ひばちゃ
+artist:ciza -> 艺术家:CIZA
+artist:hathor -> 艺术家:はとほる
+artist:rotten pizza -> 艺术家:ろってんぴざ
+artist:fujino higuma -> 艺术家:富士野ヒグマ
+artist:umebachiman -> 艺术家:うめばちまん
+artist:wonawo -> 艺术家:ヲナヲ
+artist:enma -> 艺术家:艶摩
+artist:azienda -> 艺术家:Azienda
+artist:david dong -> 艺术家:David東
+artist:ethan -> 艺术家:いーさん
+artist:sigma -> 艺术家:SigMa
+artist:baketsuya -> 艺术家:バケツ屋
+artist:waryu -> 艺术家:わりゅう
+artist:uraaka 18 -> 艺术家:うらあか18
+artist:kotaro otn -> 艺术家:狐太郎OTN
+artist:incogneato -> 艺术家:Incogneato
+artist:rorimuti -> 艺术家:ろりむち
+artist:misotsuki ayabe -> 艺术家:味噌月あやべ
+artist:gumi chocolate pine -> 艺术家:ぐみちょこれーとぱいん
+artist:iwasi r -> 艺术家:イワシR
+artist:rururoriri -> 艺术家:るるろりり
+artist:abyonus -> 艺术家:アビョノス
+artist:ikuramabo -> 艺术家:イクラマーボー
+artist:waremono -> 艺术家:ワレモノ
+artist:black7 -> 艺术家:BLACK7
+artist:cloudy -> 艺术家:CLOUDY
+artist:ak -> 艺术家:AK
+artist:no name -> 艺术家:no name
+artist:sankaku noel -> 艺术家:三角ノエ
+artist:kaisen donburi -> 艺术家:かいせんどんぶり
+artist:itano chiharu -> 艺术家:「冬将軍」
+artist:tetetor-oort -> 艺术家:田代憂
+artist:takeaki gaku -> 艺术家:たけあき学
+artist:fujinoe13b -> 艺术家:フジノエ13B
 cosplayer:otohara an -> Coser:乙原あん
 cosplayer:rioko -> Coser:凉凉子
 cosplayer:atsuki -> Coser:あつき
@@ -38785,7 +38983,7 @@ male:demon -> 男性:恶魔
 male:dog boy -> 男性:狗男孩
 male:draenei -> 男性:德莱尼
 male:elephant boy -> 男性:象男孩
-male:fairy -> 男性:仙子🧚‍♂️
+male:fairy -> 男性:妖精🧚‍♂️
 male:fox boy -> 男性:狐男
 male:frog boy -> 男性:青蛙男孩
 male:furry -> 男性:毛茸茸
@@ -39360,7 +39558,7 @@ female:demon girl -> 女性:恶魔女孩
 female:dog girl -> 女性:狗女孩
 female:draenei -> 女性:德莱尼
 female:elephant girl -> 女性:象女孩
-female:fairy -> 女性:仙女🧚‍♀️
+female:fairy -> 女性:妖精🧚‍♀️
 female:frog girl -> 女性:青蛙女孩
 female:fox girl -> 女性:狐女
 female:furry -> 女性:毛茸茸
