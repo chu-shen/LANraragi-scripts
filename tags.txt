@@ -2758,11 +2758,17 @@ parody:mekakucity actors -> 原作:目隐都市的演绎者
 parody:magical taruruuto-kun -> 原作:幻法小魔星
 parody:reibaishi izuna -> 原作:灵媒师东名
 parody:yotaka futatabi -> 原作:夜鹰再临
-parody:ninja to koroshiya no futarigurashi -> 原作:忍者×杀手二人组的日常生活
+parody:ninja to koroshiya no futarigurashi -> 原作:忍者与杀手的同住日常
 parody:project kv -> 原作:Project KV
 parody:bishoujo kamen poitrine -> 原作:美少女假面珀怀特琳
 parody:doki doki majo shinpan -> 原作:心跳魔女神判
 parody:fate strange fake -> 原作:命运-奇异赝品
+parody:gameoverse -> 原作:通关失败
+parody:geobreeders -> 原作:魍魉游击队
+parody:maburaho -> 原作:爱的魔法
+parody:vindictus -> 原作:洛奇英雄传
+parody:senpai wa otokonoko -> 原作:前辈是男孩子
+parody:fragpunk -> 原作:界外狂潮
 character:alice -> 角色:爱丽丝
 character:akane hino -> 角色:日野茜
 character:ibuki -> 角色:伊吹
@@ -5701,7 +5707,7 @@ character:akira amatsume -> 角色:天女目瑛
 character:nao yorihime -> 角色:依媛奈绪
 character:batman -> 角色:蝙蝠侠
 character:galo thymos -> 角色:加洛·提莫斯
-character:lio fotia -> 角色:里奥·福蒂亚
+character:lio fotia -> 角色:里欧·弗提亚
 character:qiqi -> 角色:七七
 character:mujina -> 角色:貉
 character:yume minami -> 角色:南梦芽
@@ -10719,6 +10725,61 @@ character:andoris -> 角色:安朵丝
 character:pkp -> 角色:PKP
 character:aug -> 角色:AUG
 character:rokuro okajima -> 角色:冈岛绿郎（洛克）
+character:cutter -> 角色:刻刀
+character:android 17 -> 角色:人造人17号
+character:tikoh -> 角色:缇可
+character:akiko ayase -> 角色:绫濑亚季子
+character:tio -> 角色:缇奥·库拉鲁斯
+character:azami -> 角色:薊
+character:konoha koga -> 角色:古贺木叶
+character:alisa bosconovitch -> 角色:亚莉莎·伯斯科诺维奇
+character:miary zo -> 角色:米娅莉·佐
+character:jodie karen bakuryuu -> 角色:裘蒂‧爆龙‧卡莲
+character:ume mizunoe -> 角色:水之江梅
+character:komaro michinoko -> 角色:陆奥小麻吕
+character:yuta okkotsu -> 角色:乙骨忧太
+character:euphausia etoreika -> 角色:尤法西娅·艾托蕾卡
+character:meiya mitsurugi -> 角色:御剑冥夜
+character:beatrix brehme -> 角色:贝娅特丽克丝·布莱梅
+character:sumika kagami -> 角色:鉴纯夏
+character:takeru shirogane -> 角色:白银武
+character:inia sestina -> 角色:伊妮亚·谢斯切娜
+character:cryska barchenowa -> 角色:克丽斯嘉·巴切诺娃
+character:kei ayamine -> 角色:彩峰慧
+character:ilfriede von feulner -> 角色:伊尔弗里德·冯·费尔纳
+character:fikatsia latrova -> 角色:菲卡吉雅·拉托洛瓦
+character:yuuko kouzuki -> 角色:香月夕呼
+character:mikoto yoroi -> 角色:铠衣美琴
+character:yuuhi mitsurugi -> 角色:煌武院悠阳
+character:marimo jinguuji -> 角色:神宫司麻理茉
+character:mana tsukuyomi -> 角色:月咏真那
+character:miki tamase -> 角色:珠濑壬姬
+character:chizuru sakaki -> 角色:榊千鹤
+character:haruko kashiwagi -> 角色:柏木晴子
+character:kasumi yashiro -> 角色:社霞
+character:maya tsukuyomi -> 角色:月读真夜
+character:wilfried von aichberger -> 角色:威尔弗里德·冯·艾希贝格尔
+character:kuriko kazetsubaki -> 角色:风椿玖里子
+character:rin kamishiro -> 角色:神城凛
+character:yuna miyama -> 角色:宫间夕菜
+character:yao -> 角色:瑶
+character:wang zhaojun -> 角色:王昭君
+character:shangguan waner -> 角色:上官婉儿
+character:tieve -> 角色:提尔
+character:ao run -> 角色:敖闰
+character:gongsun li -> 角色:公孙离
+character:xi shi -> 角色:西施
+character:chang e -> 角色:嫦娥
+character:rydia -> 角色:莉迪亚
+character:ventana -> 角色:班塔纳
+character:hazuki nijouin -> 角色:二条院羽月
+character:santa claus -> 角色:圣诞老人
+character:eiji nochizawa -> 角色:后泽锐二
+character:makoto hanaoka -> 角色:花冈真琴
+character:remi ayasaki -> 角色:绫崎礼美
+character:pathojen -> 角色:茵
+character:ame-chan -> 角色:糖糖
+character:kangel -> 角色:超绝最可爱天使酱
 group:1 -> 团队:1
 group:13 -> 团队:13
 group:27 -> 团队:27
@@ -23268,7 +23329,7 @@ group:fuzume -> 团队:ふずめ
 group:hitakamoya -> 团队:ひたかもや
 group:kasokuiki -> 团队:過疎区域
 group:khaos distance -> 团队:カオス距離
-group:tohosanhun -> 团队:徒歩三分
+group:tohosanhun -> 团队:徒步三分
 group:morunchi -> 团队:モルチ
 group:gutsutoma -> 团队:ぐつとま
 group:kaiten paradogs -> 团队:回転ParaDOGs
@@ -24344,6 +24405,24 @@ group:noushuku kangen teikoku -> 团队:濃縮還元帝国
 group:nanohana jam -> 团队:なのはなジャム
 group:treedrop -> 团队:TreeDrop
 group:fuwatoro opanchu cake -> 团队:ふわとろおぱんちゅケーキ
+group:ekaran ringo -> 团队:えからん林檎
+group:short kami -> 团队:short_kami
+group:shichikusa-gayu -> 团队:シチ草粥
+group:parapluie -> 团队:parapluie
+group:anko strawberry -> 团队:あんこストロベリー
+group:onakin data land -> 团队:オナ禁データランド
+group:pizuneru -> 团队:ぴずねる
+group:onoko ya honpo -> 团队:おのこ屋本舗
+group:ai o komete -> 团队:愛をこめて
+group:lilium kyouwakoku -> 团队:リリウム共和国
+group:gunjou blue -> 团队:群青ブルー
+group:hiruneya-san -> 团队:昼寝屋さん
+group:aji zukushi -> 团队:鯵づくし
+group:segatsupluto -> 团队:せがつぷるーと
+group:umi neuron -> 团队:海ニューロン
+group:puchishoku -> 团队:ぷちしょく
+group:aamou-ya -> 团队:ああもう屋
+group:mousou sanmyaku -> 团队:妄想山脈
 artist:2 -> 艺术家:2
 artist:7 -> 艺术家:7
 artist:8 -> 艺术家:8
@@ -28909,7 +28988,7 @@ artist:chabashira tatsukichi -> 艺术家:茶柱立吉
 artist:chabin -> 艺术家:茶瓶
 artist:chabo -> 艺术家:茶鳥
 artist:chaccu -> 艺术家:chaccu
-artist:chado -> 艺术家:茶戸
+artist:chado -> 艺术家:茶户
 artist:chagata -> 艺术家:ちゃがた
 artist:chagu -> 艺术家:ちゃぐ
 artist:chaigidhiell -> 艺术家:カイギディエル
@@ -39061,6 +39140,27 @@ artist:miyamaru -> 艺术家:みやまる
 artist:okurahokori -> 艺术家:おくらほこり
 artist:dodomesu3sei -> 艺术家:ドドメス3世
 artist:comichi pota -> 艺术家:こみちぽた
+artist:masu -> 艺术家:ます
+artist:tsumeshi nana -> 艺术家:ツメシ七
+artist:koeda mameko -> 艺术家:小枝まめ子
+artist:natane tsuyu -> 艺术家:菜種梅雨
+artist:kamiwo akira -> 艺术家:亮カミヲ
+artist:hagger -> 艺术家:はがー
+artist:foot croft -> 艺术家:Foot croft
+artist:iv -> 艺术家:イブ
+artist:kokihanada -> 艺术家:Kokihanada
+artist:blackgg -> 艺术家:BlackGG
+artist:hokufusya -> 艺术家:hokufusya
+artist:sasapoliton -> 艺术家:ささ
+artist:ryopie -> 艺术家:Ryopie
+artist:moon -> 艺术家:Moon
+artist:nobiru wakako -> 艺术家:野蒜和佳子
+artist:a lonely tree frog runs away -> 艺术家:樹蛙孤逃
+artist:segatsu -> 艺术家:せがつ
+artist:hijiki senpai -> 艺术家:ひじき先輩
+artist:tekkannon chiya -> 艺术家:鉄観音千夜
+artist:ranhatu -> 艺术家:乱発
+artist:yamaoku midori -> 艺术家:山奥深里
 cosplayer:otohara an -> Coser:乙原あん
 cosplayer:rioko -> Coser:凉凉子
 cosplayer:atsuki -> Coser:あつき
