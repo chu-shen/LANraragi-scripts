@@ -22,7 +22,7 @@ sub plugin_info {
         type        => "script",
         namespace   => "addehentaimetatdata",
         author      => "CHUSHEN",
-        version     => "1.1",
+        version     => "1.2",
         description => "Using the Ehentai plugin to search for metadata for files that do not have a source tag. If No matching EH Gallery Found!, will add source:nogalleryinehentai",
         oneshot_arg => "Search gallery again with source:nogalleryinehentai. True/False",
         parameters => [
@@ -42,12 +42,9 @@ sub run_script {
     my $success = 0;
     my $total = 0;
     my $nogalleryinehentai = $lrr_info->{oneshot_param};
-    my $interval = @_; # Plugin parameters
+    my ($interval) = @_; # Plugin parameters
 
-
-    if (!$interval>0){
-        $interval=4;
-    }
+    $interval = 4 if !defined $interval || $interval<0;
 
 
     # 获取所有档案
@@ -61,8 +58,9 @@ sub run_script {
         # 跳过有`source`标签的档案
         next if $old_tags =~ /\bsource\b/;
 
+        sleep($interval);
 
-        $logger->info("Start process: '$title'");
+        $logger->info("Start process: $title");
         $total++;
 
 
@@ -81,7 +79,6 @@ sub run_script {
                 $ehentai_tags->{new_tags} = "source:nogalleryinehentai";
                 $logger->info("Add tag: " . $ehentai_tags->{new_tags});
             }else{
-                sleep($interval);
                 next;
             }
         }
@@ -94,10 +91,8 @@ sub run_script {
             set_tags( $arcid, $ehentai_tags->{new_tags}, 1 );
             $success++;
         }
-
-
-        sleep($interval);
     }
+
     if ($nogalleryinehentai eq "True"){
         my @nogalleryineh_archives = grep { $_->{"tags"} =~ /\bsource:nogalleryinehentai\b/ } @archives;
         for my $archive (@nogalleryineh_archives) {
@@ -106,7 +101,9 @@ sub run_script {
             my $old_tags = $archive->{"tags"};
 
 
-            $logger->info("Start process: '$title'");
+            sleep($interval);
+
+            $logger->info("Start process: $title");
             $total++;
 
 
@@ -134,9 +131,6 @@ sub run_script {
                 set_tags( $arcid, $old_tags, 0 );
                 $success++;
             }
-
-
-            sleep($interval);
         }
     }
 
