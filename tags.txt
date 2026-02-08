@@ -230,8 +230,8 @@ parody:neon genesis evangelion -> 原作:新世纪福音战士
 parody:hidamari sketch -> 原作:向阳素描
 parody:mahou shoujo lyrical nanoha -> 原作:魔法少女奈叶
 parody:rosario vampire -> 原作:十字架与吸血鬼
-parody:pretty cure -> 原作:光之美少女
-parody:futari wa pretty cure -> 原作:光之美少女
+parody:pretty cure -> 原作:光之美少女系列
+parody:futari wa pretty cure -> 原作:光之美少女 无印
 parody:futari wa precure splash star -> 原作:光之美少女 Splash Star
 parody:yes precure 5 -> 原作:Yes! 光之美少女5
 parody:fresh precure -> 原作:光之美少女：幸福精灵
@@ -2769,6 +2769,13 @@ parody:maburaho -> 原作:爱的魔法
 parody:vindictus -> 原作:洛奇英雄传
 parody:senpai wa otokonoko -> 原作:前辈是男孩子
 parody:fragpunk -> 原作:界外狂潮
+parody:seihantai na kimi to boku -> 原作:正相反的你与我
+parody:uchi no hime-sama ga ichiban kawaii -> 原作:我家公主最可爱
+parody:hoshi no samidare -> 原作:惑星公主蜥蜴骑士
+parody:disco elysium -> 原作:极乐迪斯科
+parody:yuusha party wo oidasareta kiyoubinbou -> 原作:泛而不精的我被逐出了勇者队伍
+parody:shibou yuugi de meshi wo kuu. -> 原作:靠死亡游戏混饭吃
+parody:toshi densetsu kaitai center -> 原作:都市传说解体中心
 character:alice -> 角色:爱丽丝
 character:akane hino -> 角色:日野茜
 character:ibuki -> 角色:伊吹
@@ -4317,7 +4324,7 @@ character:queen of sheba -> 角色:示巴女王
 character:wu zetian -> 角色:武则天
 character:abigail williams -> 角色:阿比盖尔·威廉姆斯
 character:hans christian andersen -> 角色:汉斯·克里斯蒂安·安徒生
-character:hector -> 角色:赫克特
+character:hector -> 角色:海克特
 character:mochizuki chiyome -> 角色:望月千代女
 character:osakabehime -> 角色:刑部姬
 character:sakata kintoki -> 角色:坂田金时
@@ -4485,28 +4492,28 @@ character:bubbles -> 角色:泡泡
 character:buttercup -> 角色:毛毛
 character:cure black -> 角色:美墨渚 (黑天使)
 character:cure white -> 角色:雪城穗乃香 (白天使)
-character:shiny luminous -> 角色:九条光
+character:shiny luminous -> 角色:九条光（夏米露斯）
 character:cure bloom -> 角色:日向咲 (花天使)
 character:cure egret -> 角色:美翔舞 (舞天使)
 character:michiru kiryuu -> 角色:雾生满
 character:kaoru kiryuu -> 角色:雾生薰
-character:cure dream -> 角色:梦天使
-character:cure rouge -> 角色:火天使
+character:cure dream -> 角色:梦原望 (梦天使)
+character:cure rouge -> 角色:夏木玲 (火天使)
 character:cure lemonade -> 角色:春日野丽 (柠檬天使)
-character:cure mint -> 角色:薄荷天使
-character:cure aqua -> 角色:水天使
-character:milky rose -> 角色:妙奇露丝
-character:cure peach -> 角色:桃天使
-character:cure berry -> 角色:苍乃美希 (莓天使)
-character:cure pine -> 角色:凤梨天使
-character:eas -> 角色:伊斯
+character:cure mint -> 角色:秋元小町 (薄荷天使)
+character:cure aqua -> 角色:水无月香恋 (水天使)
+character:milky rose -> 角色:美美野来未 (玫瑰天使)
+character:cure peach -> 角色:桃园爱（蜜桃天使）
+character:cure berry -> 角色:苍乃美希 (蓝莓天使)
+character:cure pine -> 角色:山吹祈里 (凤梨天使)
+character:eas -> 角色:东刹那（伊斯）
 character:cure passion -> 角色:东刹那 (百香果天使)
-character:cure blossom -> 角色:花蕾天使
-character:cure marine -> 角色:海洋天使
-character:cure sunshine -> 角色:阳光天使
-character:cure moonlight -> 角色:月光天使
+character:cure blossom -> 角色:花咲蕾 (花蕾天使)
+character:cure marine -> 角色:来海绘里香 (海洋天使)
+character:cure sunshine -> 角色:明堂院树 (阳光天使)
+character:cure moonlight -> 角色:月影百合 (月光天使)
 character:cure flower -> 角色:花朵天使
-character:cure ange -> 角色:圣洁天使
+character:cure ange -> 角色:药师寺纱绫（安祈天使）
 character:cure amour -> 角色:露露·阿穆尔 (爱神天使)
 character:cure etoile -> 角色:辉木誉 (星辰天使)
 character:cure macherie -> 角色:爱崎惠美瑠 (挚爱天使)
@@ -4517,18 +4524,18 @@ character:mizuki hanasaki -> 角色:花咲美月
 character:momoka kurumi -> 角色:来海桃香
 character:sakura kurumi -> 角色:来海樱
 character:tsubaki myoudouin -> 角色:明堂院椿
-character:cure melody -> 角色:旋律天使
-character:cure rhythm -> 角色:节奏天使
+character:cure melody -> 角色:北条响 (旋律天使)
+character:cure rhythm -> 角色:南野奏 (节奏天使)
 character:siren -> 角色:赛莲
-character:cure beat -> 角色:节拍天使
-character:cure muse -> 角色:缪斯天使
+character:cure beat -> 角色:黑川艾莲 (节拍天使)
+character:cure muse -> 角色:调边亚子（缪斯天使）
 character:maria houjou -> 角色:北条真理亚
 character:misora minamino -> 角色:南野美空
 character:cure happy -> 角色:星空美幸 (快乐天使)
-character:cure sunny -> 角色:晴朗天使
-character:cure peace -> 角色:和平天使
-character:cure march -> 角色:旋风天使
-character:cure beauty -> 角色:美丽天使
+character:cure sunny -> 角色:日野茜 (晴朗天使)
+character:cure peace -> 角色:黄濑弥生 (和平天使)
+character:cure march -> 角色:绿川直 (旋风天使)
+character:cure beauty -> 角色:青木丽华 (美丽天使)
 character:ikuyo hoshizora -> 角色:星空育代
 character:masako hino -> 角色:日野正子
 character:chiharu kise -> 角色:黄濑千春
@@ -4543,24 +4550,24 @@ character:bad end march -> 角色:悲剧旋风天使
 character:bad end beauty -> 角色:悲剧美丽天使
 character:cure heart -> 角色:相田爱 (爱心天使)
 character:cure diamond -> 角色:菱川六花 (钻石天使)
-character:cure rosetta -> 角色:幸运草天使
+character:cure rosetta -> 角色:四叶有栖 (蔷薇天使)
 character:cure sword -> 角色:剑崎真琴 (圣剑天使)
 character:cure ace -> 角色:圆亚久里 (王牌天使)
 character:regina -> 角色:蕾吉娜
 character:ryoko hishikawa -> 角色:菱川亮子
 character:cure lovely -> 角色:爱乃惠 (可爱天使)
-character:cure princess -> 角色:公主天使
-character:cure honey -> 角色:蜂蜜天使
+character:cure princess -> 角色:白雪姬（公主天使）
+character:cure honey -> 角色:大森悠子（蜂蜜天使）
 character:cure fortune -> 角色:冰川伊绪奈 (命运天使)
 character:maria hikawa -> 角色:冰川麻理亚
 character:cure flora -> 角色:春野遥 (花神天使)
 character:cure mermaid -> 角色:海藤南 (人鱼天使)
 character:cure twinkle -> 角色:天之川绮罗 (闪亮天使)
-character:cure scarlet -> 角色:赤红天使
+character:cure scarlet -> 角色:红城永久 (赤红天使)
 character:cure miracle -> 角色:朝日奈未来 (奇迹天使)
 character:cure magical -> 角色:十六夜理子 (魔法天使)
 character:cure felice -> 角色:幸福天使
-character:cure whip -> 角色:奶油天使
+character:cure whip -> 角色:宇佐美一花（奶油天使）
 character:cure custard -> 角色:有栖川向阳 (奶黄天使)
 character:cure gelato -> 角色:立神葵 (冰淇淋天使)
 character:cure macaron -> 角色:琴爪缘 (马卡龙天使)
@@ -5103,7 +5110,7 @@ character:ichigo -> 角色:莓
 character:strelizia -> 角色:鹤望兰号
 character:hiro -> 角色:广
 character:alice liddell -> 角色:爱丽丝·李道尔
-character:cinderella -> 角色:灰姑娘 | 辛德瑞拉
+character:cinderella -> 角色:辛德瑞拉 | 灰姑娘
 character:noa himesaka -> 角色:姬坂乃爱
 character:miyako hoshino -> 角色:星野宫子
 character:hana shirosaki -> 角色:白咲花
@@ -5131,7 +5138,7 @@ character:valkyrie -> 角色:瓦尔基里
 character:chiyo shirayuki -> 角色:白雪千夜
 character:chitose kurosaki -> 角色:黑埼千岁
 character:kiyomi saejima -> 角色:冴岛清美
-character:cure milky -> 角色:羽衣拉拉
+character:cure milky -> 角色:羽衣拉拉 (银河天使)
 character:rinko iori -> 角色:伊织凛子
 character:sei iori -> 角色:伊织诚
 character:bea -> 角色:彩豆
@@ -5376,7 +5383,7 @@ character:victor -> 角色:小胜
 character:hop -> 角色:赫普
 character:gloria -> 角色:小优
 character:allister -> 角色:欧尼奥
-character:klara -> 角色:克拉拉（宝可梦）
+character:klara -> 角色:克拉拉
 character:dola -> 角色:多拉
 character:moon -> 角色:美月
 character:rosa -> 角色:鸣依
@@ -5515,7 +5522,7 @@ character:haruka oozora -> 角色:大空遥
 character:kanata higa -> 角色:比嘉彼方
 character:narumi tooi -> 角色:远井成美
 character:ayasa tachibana -> 角色:立花彩纱
-character:leaf -> 角色:叶子（宝可梦）
+character:leaf -> 角色:叶子
 character:diablo -> 角色:迪亚布罗（坂本拓真）
 character:rem galleu -> 角色:蕾姆·嘉蕾邬
 character:shera l. greenwood -> 角色:雪拉·L·古林伍德
@@ -6467,8 +6474,8 @@ character:rihoko amaha -> 角色:天羽梨穂子
 character:masane amaha -> 角色:天羽雅音
 character:ayaka tachikawa -> 角色:立川绚香
 character:aomi yanagisako -> 角色:柳迫碧美
-character:airi -> 角色:爱莉
-character:melona -> 角色:美萝娜
+character:airi -> 角色:艾依莉
+character:melona -> 角色:梅罗娜
 character:merlin prototype -> 角色:梅林〔Prototype〕
 character:shuna -> 角色:朱菜
 character:lenalee lee -> 角色:利娜莉·李
@@ -7271,7 +7278,7 @@ character:lloyd bannings -> 角色:罗伊德·班宁斯
 character:agnes claudel -> 角色:亚妮艾丝·克劳蒂尔
 character:lorelei -> 角色:科拿
 character:fern -> 角色:菲伦
-character:cure sky -> 角色:索拉・哈雷瓦塔尔
+character:cure sky -> 角色:索拉·哈雷瓦塔尔（天空天使）
 character:chiyari tenkajin -> 角色:天火人血枪
 character:ai sugimoto -> 角色:杉本爱
 character:nobara kugisaki -> 角色:钉崎野蔷薇
@@ -7316,7 +7323,7 @@ character:yuga ohdo -> 角色:王道游我
 character:rossweisse -> 角色:罗丝薇瑟
 character:villetta nu -> 角色:维蕾塔·努
 character:kaname ohgi -> 角色:扇要
-character:ruri -> 角色:黑咲琉璃
+character:ruri -> 角色:琉璃
 character:cornelia li britannia -> 角色:柯内莉亚·li·布里塔尼亚
 character:monica kruszewski -> 角色:莫妮卡·库鲁席夫斯基
 character:jessie rasberry -> 角色:杰西
@@ -8172,7 +8179,7 @@ character:hades -> 角色:哈迪斯
 character:rie kawai -> 角色:河合理恵
 character:tatenashi sarashiki -> 角色:更识楯无
 character:gate opener alice -> 角色:开门人爱丽丝
-character:cure prism -> 角色:稜镜天使
+character:cure prism -> 角色:虹之丘真白（稜镜天使）
 character:raana kaname -> 角色:要乐奈
 character:zundamon -> 角色:俊达萌
 character:lilja katsuragi -> 角色:葛城莉莉娅
@@ -8207,7 +8214,7 @@ character:kaoruko tenkawa -> 角色:天川薰子
 character:zenjuubou sugitani -> 角色:杉谷善住坊
 character:tushan honghong -> 角色:涂山红红
 character:yuka nakano -> 角色:中野有香
-character:cai lin -> 角色:彩鳞
+character:cai lin -> 角色:彩鳞（美杜莎女王）
 character:caper -> 角色:跃跃
 character:superman -> 角色:超人
 character:sethos -> 角色:赛索斯
@@ -8382,7 +8389,7 @@ character:mizuki yumemizuki -> 角色:梦见月瑞希
 character:shinju inui -> 角色:乾心寿
 character:carlotta -> 角色:珂莱塔
 character:sayori -> 角色:纱世里
-character:cure lillian -> 角色:猫屋敷麻友
+character:cure lillian -> 角色:猫屋敷麻友 (缘结天使)
 character:cure nyammy -> 角色:猫屋敷雪
 character:millia rage -> 角色:米莉亚·蕾姬
 character:kei karuizawa -> 角色:轻井泽惠
@@ -8534,7 +8541,7 @@ character:mimikyu -> 角色:谜拟丘
 character:nurse joy -> 角色:乔伊
 character:officer jenny -> 角色:君莎
 character:james -> 角色:小次郎
-character:jessie -> 角色:武藏（宝可梦）
+character:jessie -> 角色:武藏
 character:varesa -> 角色:瓦雷莎
 character:land -> 角色:兰托
 character:iselda -> 角色:伊塞尔达
@@ -8662,7 +8669,7 @@ character:makoto naegi -> 角色:苗木诚
 character:solution epsilon -> 角色:索琉香·爱普史龙
 character:narberal gamma -> 角色:娜贝拉尔·伽玛
 character:lupusregina beta -> 角色:露普斯蕾琪娜·贝塔
-character:renner theiere chardelon ryle vaiself -> 角色:拉娜·提耶儿·夏尔敦·莱儿·凡瑟芙
+character:renner theiere chardelon ryle vaiself -> 角色:拉娜·提耶儿
 character:pardofelis -> 角色:帕朵菲利斯
 character:maiden -> 角色:梅登
 character:cartethyia -> 角色:卡提希娅
@@ -8720,7 +8727,7 @@ character:lemuen -> 角色:蕾缪安
 character:aoba utsumi -> 角色:内海青叶
 character:sylvia van hossen -> 角色:希尔薇娅·范·霍森
 character:kabru -> 角色:卡布尔
-character:cattleya -> 角色:卡特莱娜
+character:cattleya -> 角色:卡特蕾娅
 character:escoffier -> 角色:爱可菲
 character:pina asahina -> 角色:朝比奈菲娜
 character:princess -> 角色:公主
@@ -8775,7 +8782,7 @@ character:alisaie leveilleur -> 角色:阿莉塞·莱韦耶勒尔
 character:i-no -> 角色:茵诺
 character:hikaru shidou -> 角色:狮堂光
 character:froleytia capistrano -> 角色:芙萝蕾缇雅·卡彼斯特拉诺
-character:alicia -> 角色:阿莉莎
+character:alicia -> 角色:艾莉西亚
 character:anna respighi -> 角色:安娜‧雷斯比奇
 character:mylanndah arkar walder -> 角色:米兰达‧阿卡‧瓦尔卡
 character:lahrri feldnunt -> 角色:拉丽·菲尔德南多
@@ -8888,7 +8895,7 @@ character:hysilens -> 角色:海瑟音
 character:mast -> 角色:马斯特
 character:narciso anasui -> 角色:纳鲁西索·安纳苏
 character:patrick star -> 角色:派大星
-character:karen -> 角色:梨花（宝可梦）
+character:karen -> 角色:梨花
 character:squidward tentacles -> 角色:章鱼哥
 character:pearl krabs -> 角色:珍珍
 character:man ray -> 角色:射线恶魔
@@ -9077,7 +9084,7 @@ character:gretel -> 角色:葛丽特
 character:tiara basori -> 角色:马剃天爱星
 character:kanoe itagaki -> 角色:板垣鹿江
 character:sandrone -> 角色:桑多涅
-character:aoi asahina -> 角色:朝日奈 葵
+character:aoi asahina -> 角色:朝日奈葵
 character:lanterby -> 角色:兰塔比
 character:matsuri oyama -> 角色:绪山茉里
 character:yumiella dolkness -> 角色:尤蜜拉·多克尼斯
@@ -9210,7 +9217,7 @@ character:asuna kagurazaka -> 角色:神乐坂明日菜
 character:shinigami -> 角色:小死神
 character:setsuna sakurazaki -> 角色:刹那·樱咲
 character:sumia -> 角色:斯米娅
-character:cure yum-yum -> 角色:华满兰
+character:cure yum-yum -> 角色:华满兰 (美味天使)
 character:kuramochi meruto -> 角色:仓持妹路特
 character:gunnthra -> 角色:Gunnthra
 character:malon -> 角色:Malon
@@ -9235,7 +9242,7 @@ character:ittousai itou -> 角色:伊东一刀斋
 character:gigi andalucia -> 角色:琪琪·安达露西亚
 character:don quixote -> 角色:堂吉诃德
 character:tess kotkin -> 角色:苔丝·科特金
-character:shelly -> 角色:泉（宝可梦）
+character:shelly -> 角色:泉
 character:loves only you -> 角色:唯独爱你
 character:sakura hagiwara -> 角色:萩原樱
 character:calstone light o -> 角色:金镇之光
@@ -9401,10 +9408,10 @@ character:yun yun -> 角色:云韵
 character:momoko ootani -> 角色:大谷桃子
 character:psykos -> 角色:赛克斯
 character:minerva orland -> 角色:米涅芭·奥兰多
-character:elina vance -> 角色:艾莉娜
-character:cure butterfly -> 角色:圣扬羽
+character:elina vance -> 角色:艾莉娜·万斯
+character:cure butterfly -> 角色:圣扬羽（蝴蝶天使）
 character:narika shihoudou -> 角色:四方堂鸣香
-character:cure kyun kyun -> 角色:紫雨心
+character:cure kyun kyun -> 角色:紫雨心（心动天使）
 character:laala manaka -> 角色:真中啦啦
 character:aroma kurosu -> 角色:黑须茱香
 character:uzume tennouboshi -> 角色:天王星涡芽
@@ -9745,7 +9752,7 @@ character:miyuri tsujidou -> 角色:辻堂美由梨
 character:fumika mitarai -> 角色:御手洗史伽
 character:alexander nikolaevich hell -> 角色:沙夏
 character:urara oikawa -> 角色:及川丽
-character:cure precious -> 角色:和实结
+character:cure precious -> 角色:和实结（宝物天使）
 character:mutsumi sendou -> 角色:仙道六实
 character:ami tsuruga -> 角色:鹤河秋水
 character:galbrena -> 角色:嘉贝莉娜
@@ -10045,8 +10052,8 @@ character:honou no heine -> 角色:炎之海涅
 character:alice kisaragi -> 角色:如月爱丽丝
 character:astaroth -> 角色:阿斯塔蒂 | 阿斯塔特
 character:mei yoneme -> 角色:米女芽衣
-character:cure friendly -> 角色:犬饲彩羽
-character:cure wonderful -> 角色:犬饲小麦
+character:cure friendly -> 角色:犬饲彩羽 (友好天使)
+character:cure wonderful -> 角色:犬饲小麦 (奇迹天使)
 character:chasca -> 角色:恰斯卡
 character:maegami-chan -> 角色:前发酱
 character:tsumugi shirogane -> 角色:白银纺
@@ -10156,17 +10163,17 @@ character:tisse garland -> 角色:蒂西
 character:yifa -> 角色:伊姂
 character:logos -> 角色:逻各斯
 character:laqeramaline -> 角色:菈玛莲
-character:cure wink -> 角色:苍风奈奈
-character:cure idol -> 角色:咲良歌
-character:cure flamingo -> 角色:泷泽飞鸟（火烈鸟天使）
+character:cure wink -> 角色:苍风奈奈（眨眼天使）
+character:cure idol -> 角色:咲良歌（偶像天使）
+character:cure flamingo -> 角色:泷泽飞鸟 (火烈鸟天使)
 character:cure la mer -> 角色:萝拉·拉·梅尔
 character:cure earth -> 角色:风铃艾苏米 (大地天使)
 character:cure finale -> 角色:菓彩天音 (终曲天使)
 character:cure fontaine -> 角色:泽泉知优 (泉源天使)
 character:cure grace -> 角色:花寺和佳 (恩典天使)
-character:cure majesty -> 角色:艾尔公主
+character:cure majesty -> 角色:艾尔（王权天使）
 character:cure papaya -> 角色:一之濑实 (木瓜天使)
-character:cure soleil -> 角色:天宫爱莲娜
+character:cure soleil -> 角色:天宫爱莲娜（太阳天使）
 character:cure sparkle -> 角色:平光日向 (闪耀天使)
 character:cure star -> 角色:星奈光 (星空天使)
 character:kyryll chudomirovich flins -> 角色:克里洛·楚德米洛维奇·菲林斯
@@ -10521,7 +10528,7 @@ character:ibuki niijima -> 角色:新岛衣舞纪
 character:rio kanzaki -> 角色:神崎莉央
 character:sumire okuyama -> 角色:奥山堇
 character:saori hidaka -> 角色:日高沙织
-character:rika seto -> 角色:濑户梨花
+character:rika seto -> 角色:濑户莉花
 character:marika mizushima -> 角色:水岛茉莉花
 character:dalia matsuyama -> 角色:松山达利亚
 character:maho akashi -> 角色:明石真秀
@@ -10589,20 +10596,20 @@ character:courtney -> 角色:火雁
 character:greta -> 角色:黄瓜香
 character:janine -> 角色:阿杏
 character:leon -> 角色:丹帝
-character:liza -> 角色:小南（宝可梦）
-character:lucy -> 角色:小蓟（宝可梦）
+character:liza -> 角色:小南
+character:lucy -> 角色:小蓟
 character:marshal -> 角色:连武
 character:maxie -> 角色:赤焰松
-character:maylene -> 角色:阿李（宝可梦）
-character:oleana -> 角色:奥利薇（宝可梦）
+character:maylene -> 角色:阿李
+character:oleana -> 角色:奥利薇
 character:orla -> 角色:奥莉欧
 character:professor kukui -> 角色:库库伊博士
 character:shauntal -> 角色:婉龙
 character:silver -> 角色:小银
 character:steven stone -> 角色:大吾
 character:team rocket grunt -> 角色:火箭队手下
-character:whitney -> 角色:小茜（宝可梦）
-character:yellow -> 角色:小黄（宝可梦）
+character:whitney -> 角色:小茜
+character:yellow -> 角色:小黄
 character:zigzagoon -> 角色:蛇纹熊
 character:zinnia -> 角色:希嘉娜
 character:solana -> 角色:日向
@@ -10780,6 +10787,138 @@ character:remi ayasaki -> 角色:绫崎礼美
 character:pathojen -> 角色:茵
 character:ame-chan -> 角色:糖糖
 character:kangel -> 角色:超绝最可爱天使酱
+character:clio aite -> 角色:Clio Aite（VTB）
+character:vesti -> 角色:贝斯蒂
+character:frima -> 角色:普琳玛
+character:guel jeturk -> 角色:盖尔·杰特克
+character:sandira -> 角色:桑琪拉
+character:bhaisa -> 角色:拜修拉
+character:haaselia -> 角色:哈泽丽拉
+character:helel ben shalem -> 角色:赫莱尔·本·夏蕾姆
+character:makura -> 角色:玛蔻拉
+character:chichiri -> 角色:琪琪莉
+character:siggy -> 角色:斯琪
+character:alleyne -> 角色:阿莱茵
+character:melpha -> 角色:梅露法
+character:marguerite -> 角色:玛格丽特
+character:nanael -> 角色:娜娜艾露
+character:annelotte -> 角色:安妮洛特
+character:risty -> 角色:丽斯蒂
+character:branwen -> 角色:布兰文
+character:leina vance -> 角色:蕾娜·万斯
+character:pandora -> 角色:潘多拉
+character:shizuka -> 角色:静
+character:nowa -> 角色:诺瓦
+character:ymir -> 角色:优米尔
+character:sumeragi lee noriega -> 角色:皇·李·诺瑞加
+character:allelujah haptism -> 角色:阿雷路亚·帕普提兹姆
+character:kati mannequin -> 角色:卡蒂·玛尼金
+character:misa suzuhara -> 角色:铃原美纱
+character:erika kuramoto -> 角色:仓本艾丽卡
+character:kirara akutsu -> 角色:阿久津琦拉拉
+character:yui arata -> 角色:新田由比
+character:kotone sasaki -> 角色:佐佐木琴音
+character:puniyanka -> 角色:普里扬卡
+character:claudette vance -> 角色:库罗德特·万斯
+character:monokuma -> 角色:黑白熊
+character:kiyotaka ishimaru -> 角色:石丸清多夏
+character:leon kuwata -> 角色:桑田怜恩
+character:mondo oowada -> 角色:大和田纹土
+character:yasuhiro hagakure -> 角色:叶隐康比吕
+character:chihiro fujisaki -> 角色:不二咲千寻
+character:byakuya togami -> 角色:十神白夜
+character:villhaze -> 角色:薇儿赫泽
+character:liu fei -> 角色:柳菲
+character:gu xun er -> 角色:萧薰儿
+character:xuan yi -> 角色:玄衣
+character:xiao yi xian -> 角色:小医仙
+character:shenmei liu -> 角色:刘神美
+character:mika ogino -> 角色:荻布美夏
+character:minli huang -> 角色:黄明丽
+character:crystal maiden -> 角色:水晶室女
+character:ya fei -> 角色:雅妃
+character:nalan yanran -> 角色:纳兰嫣然
+character:zi yan -> 角色:紫妍
+character:bonnie -> 角色:柚丽嘉
+character:maria renard -> 角色:玛丽亚·雷纳德
+character:lenore -> 角色:丽诺尔
+character:tera -> 角色:特拉
+character:sypha belnades -> 角色:塞珐·费尔南德斯
+character:shanoa -> 角色:莎诺娅
+character:charlotte aulin -> 角色:夏洛特·欧琳
+character:julia belmont -> 角色:茱莉亚·贝尔蒙特
+character:wishiwashi -> 角色:弱丁鱼
+character:koko -> 角色:可可
+character:fuminori sakisaka -> 角色:匂坂郁纪
+character:miyu suzuki -> 角色:铃木实优
+character:senku ishigami -> 角色:石神千空
+character:nikki hanada -> 角色:花田仁姫
+character:luna wright -> 角色:露娜·莱特
+character:chelsea childe -> 角色:切尔西·查伊德
+character:homura momiji -> 角色:红叶焰
+character:yuzuriha ogawa -> 角色:小川杠
+character:gen asagiri -> 角色:浅雾幻
+character:suika -> 角色:西瓜
+character:tsukasa shishiou -> 角色:狮子王司
+character:weronika -> 角色:维罗妮卡
+character:lumina ichihoshi -> 角色:一星瑠美奈
+character:kokoa shinomiya -> 角色:四之宫心爱
+character:esora shimizu -> 角色:清水绘空
+character:haruna kasuga -> 角色:春日春奈
+character:kokoro akazaki -> 角色:赤崎心
+character:kurumi shiratori -> 角色:白鸟胡桃
+character:mana nagase -> 角色:长濑麻奈
+character:mei hayasaka -> 角色:早坂芽衣
+character:toka takao -> 角色:高尾灯佳
+character:rui tendou -> 角色:天动瑠依
+character:miura hayasaka -> 角色:早坂美丽
+character:michiru kaibara -> 角色:海原美知留
+character:miyu sakurada -> 角色:樱田美梦
+character:challia bull -> 角色:夏里亚·布尔
+character:miiko takeshita -> 角色:竹下美依子
+character:nagisa tsukimiyama -> 角色:月见山渚
+character:aoi miyake -> 角色:三宅葵依
+character:shinobu inuyose -> 角色:犬寄忍
+character:hayate tendo -> 角色:天堂飒
+character:yuuhi amamiya -> 角色:雨宫夕日
+character:sumire nekoyashiki -> 角色:猫屋敷堇
+character:cure zukyoon -> 角色:普莉伦（倾心天使）
+character:cure supreme -> 角色:普利姆（至高天使）
+character:cure puca -> 角色:普卡（普卡天使）
+character:sumire nono -> 角色:野乃堇
+character:cure kiss -> 角色:梅洛伦（飞吻天使）
+character:hugtan -> 角色:抱碳
+character:faruru bokerdole -> 角色:法露露
+character:mikoto -> 角色:水琴/命
+character:siegfried -> 角色:齐格飞
+character:arachnea -> 角色:阿拉库内娅
+character:girinma -> 角色:格利玛
+character:cure wing -> 角色:夕凪翼 (羽翼天使)
+character:ayumi sakagami -> 角色:坂上步美 (回声天使)
+character:aemeath -> 角色:爱弥斯
+character:sacred phoenix of nephthys -> 角色:奈芙蒂斯之凤凰神
+character:twilight -> 角色:红城永久（赤红天使）
+character:masuko mika -> 角色:增子美香
+character:dark dream -> 角色:梦原希（暗梦）
+character:candy -> 角色:糖糖
+character:yui nanase -> 角色:七濑唯
+character:miss shamour -> 角色:夏慕尔小姐
+character:northa -> 角色:诺莎
+character:mon3tr -> 角色:Mon3tr
+character:chie satonaka -> 角色:里中千枝
+character:kuniko hojo -> 角色:北条国子
+character:pan -> 角色:小芳
+character:roccia -> 角色:洛可可
+character:youhu -> 角色:釉瑚
+character:kodachi kuno -> 角色:九能小太刀
+character:goblin slayer -> 角色:哥布林杀手
+character:darian -> 角色:达丽安
+character:selma claudel -> 角色:赛尔玛·克罗蒂尔
+character:yuuki sorimachi -> 角色:反町友树（幽鬼）
+character:yasoshina mujina -> 角色:八十科貉
+character:anabel -> 角色:莉拉
+character:team aqua grunt -> 角色:海洋队手下
+character:team magma grunt -> 角色:熔岩队手下
 group:1 -> 团队:1
 group:13 -> 团队:13
 group:27 -> 团队:27
@@ -15697,8 +15836,6 @@ group:gallphilia -> 团队:gallphilia
 group:galvas -> 团队:GALVAS
 group:gamanjiru-ni-chinpaipai -> 团队:我☆慢☆汁にチンパイパイ
 group:game dome -> 团队:GAME DOME
-group:game dome ariake -> 团队:GAME DOME 有明店
-group:game dome hamamatsuchouten -> 团队:GAME DOME 浜松町店
 group:game technopolis -> 团队:GAMEテクノポリス
 group:gamenhaji -> 团队:がめんはじ
 group:gamenhaji no yoru -> 团队:画面端の夜
@@ -24024,7 +24161,7 @@ group:oshaburi tengoku -> 团队:おしゃぶり天国
 group:tana kara marriage -> 团队:棚からマリアージュ
 group:gdbdby -> 团队:gdbdby
 group:shinoz -> 团队:SHINOZ!
-group:gyoumuyou jiga -> 团队:業務用自我
+group:gyoumuyou jiga -> 团队:业务用自我
 group:nanashi factory -> 团队:ななし工房
 group:tj studio -> 团队:TJ_studio
 group:noir complex -> 团队:Noir Complex
@@ -24423,6 +24560,51 @@ group:umi neuron -> 团队:海ニューロン
 group:puchishoku -> 团队:ぷちしょく
 group:aamou-ya -> 团队:ああもう屋
 group:mousou sanmyaku -> 团队:妄想山脈
+group:ochaduke -> 团队:おちゃづけ
+group:rk-2 -> 团队:RK-2
+group:september -> 团队:September
+group:more beat -> 团队:モアビート
+group:denki neko -> 团队:でんきねこ
+group:shuuchi koubou -> 团队:羞恥工房
+group:boundary -> 团队:バウンダリ
+group:nedoko de nidone -> 团队:寝床で二度寝
+group:union bust -> 团队:ゆにおんばすと
+group:monochrome theater -> 团队:モノクロームシアター
+group:sayuumigi -> 团队:さゆうみぎ
+group:darkness sha -> 团队:ももた園
+group:bronze whale -> 团队:Bronze Whale
+group:rabikuze -> 团队:ラビクリッツ
+group:potato bomb -> 团队:ポテトボム
+group:tasomorera -> 团队:たそもれら
+group:shussou seigen -> 团队:出走制限
+group:menokataki -> 团队:女ノカタキ
+group:hyakkei -> 团队:百景
+group:juubako no katasumi -> 团队:重箱の片隅
+group:yubanabemogu -> 团队:ゆばなべもぐ
+group:quzigen -> 团队:九次元
+group:orihika land -> 团队:おりひかランド
+group:anission -> 团队:Anission(アニ社)
+group:minus zero -> 团队:Minus Zero
+group:felcferc -> 团队:フエルクフェルク.
+group:omurice teishoku -> 团队:おむらいす定食
+group:clotus -> 团队:clotus
+group:r.s.i. -> 团队:R.S.I.日本支部
+group:aisin sketch -> 团队:エイシンスケッチ
+group:nyaa no esa -> 团队:にゃあのえさ
+group:sirens domain -> 团队:Siren's Domain
+group:my cafe saikou -> 团队:マイカフェ最高
+group:fujinum seven -> 团队:フジナムセブン
+group:shiromonya -> 团队:白門屋
+group:tanaka no miso -> 团队:田中の味噌
+group:ai to namida -> 团队:愛と涙
+group:rat -> 团队:ラット
+group:hegechiya -> 团队:へげち屋
+group:fat cat -> 团队:FAT CAT
+group:kyouizon smile -> 团队:共依存スマイル
+group:asuka shinozaki -> 团队:飛鳥しのざき
+group:layer koubou -> 团队:レイヤー工房
+group:amayadorigaeru -> 团队:雨宿り蛙
+group:kyawalog -> 团队:Kyawalog
 artist:2 -> 艺术家:2
 artist:7 -> 艺术家:7
 artist:8 -> 艺术家:8
@@ -37316,7 +37498,7 @@ artist:liyoosa -> 艺术家:りゆさ
 artist:oekaki kaki -> 艺术家:おえかきかき
 artist:horori -> 艺术家:horori
 artist:non-sugar -> 艺术家:ノンシュガー
-artist:niui -> 艺术家:niui
+artist:niui -> 艺术家:Niui
 artist:almondman -> 艺术家:アーモンドマン
 artist:yawano yawa -> 艺术家:柔乃やわ
 artist:efuri -> 艺术家:えふり
@@ -38995,7 +39177,7 @@ artist:takenoko pengin -> 艺术家:たけのこぺんぎん
 artist:shidoutei -> 艺术家:始童帝
 artist:kai jia wei yi lang -> 艺术家:开甲韦一郎
 artist:asari shio -> 艺术家:あさり潮
-artist:kyouka asuka -> 艺术家:鏡花あすか
+artist:kyouka asuka -> 艺术家:镜花明日香
 artist:tsuyu tsukimi -> 艺术家:つゆつきみ
 artist:kakuri kairi -> 艺术家:隔離カイリ
 artist:mame paitan -> 艺术家:まめぱいたん
@@ -39161,6 +39343,60 @@ artist:hijiki senpai -> 艺术家:ひじき先輩
 artist:tekkannon chiya -> 艺术家:鉄観音千夜
 artist:ranhatu -> 艺术家:乱発
 artist:yamaoku midori -> 艺术家:山奥深里
+artist:ama natsuna -> 艺术家:甘なつな
+artist:piccione -> 艺术家:piccione
+artist:yhd -> 艺术家:越黑岛
+artist:msyk -> 艺术家:かなひろ
+artist:touka genteki -> 艺术家:凍佳玄的
+artist:tsfartist -> 艺术家:TSFartist
+artist:akinoji -> 艺术家:あきのじ
+artist:tanaka ichimi -> 艺术家:たなかイチミ
+artist:kurosawa shouichi -> 艺术家:黒沢翔一
+artist:nashio. -> 艺术家:なしを。
+artist:nuco nanatume -> 艺术家:ヌコナナツメ
+artist:necro -> 艺术家:根黒
+artist:high re -> 艺术家:ハイ_レ
+artist:darkness yuma -> 艺术家:ダークネスゆま
+artist:yamadare -> 艺术家:Yamadare
+artist:arashiki mamizu -> 艺术家:嵐木まみず
+artist:onedoo -> 艺术家:ONEDOO
+artist:andrey -> 艺术家:Andrey
+artist:meccha -> 艺术家:めっちゃ
+artist:hagure tanishi -> 艺术家:谷澤史紀（葉雨たにし）
+artist:gagaimo -> 艺术家:ガガイモ
+artist:gawako -> 艺术家:がわこ
+artist:ukai saki -> 艺术家:鵜飼沙樹
+artist:keirei -> 艺术家:敬礼
+artist:okibariyasu -> 艺术家:おきばりやす
+artist:kuzuryuu kennosuke -> 艺术家:九頭龍剣之介
+artist:hazuki kei -> 艺术家:はづきけい
+artist:sumeragi -> 艺术家:皇
+artist:saiaku devil -> 艺术家:さいあくデビル
+artist:renard-poire -> 艺术家:renard-poire
+artist:dashimaki -> 艺术家:だしまき
+artist:athke -> 艺术家:深津英助/Athke
+artist:satoshi isei -> 艺术家:イセイサトシ
+artist:xd tanaka -> 艺术家:XD田中
+artist:green tea -> 艺术家:green TEA。
+artist:uraxia -> 艺术家:ウラしあ
+artist:miyumiyu. -> 艺术家:みゆみゆ
+artist:coldsyruup -> 艺术家:ColdSyruup
+artist:iyo -> 艺术家:いよ
+artist:paderapollo norio -> 艺术家:パデラポッロのりお
+artist:hegechi -> 艺术家:へげち
+artist:hinben -> 艺术家:hinben
+artist:mayo -> 艺术家:Mayo
+artist:doriane -> 艺术家:ドリアーヌ
+artist:mochidora -> 艺术家:もちどら
+artist:irosira -> 艺术家:いろしら
+artist:onizuka chris -> 艺术家:鬼塚クリス
+artist:moki-kun -> 艺术家:Moki君
+artist:horita ahan -> 艺术家:堀田阿伴
+artist:di le to -> 艺术家:DI LE TO
+artist:saimon k -> 艺术家:西門K
+artist:not enough milk -> 艺术家:Not Enough Milk
+artist:camekame -> 艺术家:かめかめ
+artist:itokawa -> 艺术家:いとかわ
 cosplayer:otohara an -> Coser:乙原あん
 cosplayer:rioko -> Coser:凉凉子
 cosplayer:atsuki -> Coser:あつき
@@ -39730,7 +39966,7 @@ male:small penis -> 男性:小小鸟
 male:shimapan -> 男性:条纹胖次
 male:stewardess -> 男性:空姐服
 male:steward -> 男性:男空乘服
-male:stirrup legwear -> 男性:马镫裤
+male:stirrup legwear -> 男性:踩脚
 male:stockings -> 男性:长筒袜
 male:straitjacket -> 男性:拘束衣
 male:sundress -> 男性:夏装
@@ -39762,6 +39998,7 @@ male:double penetration -> 男性:双重插入
 male:triple penetration -> 男性:三重插入
 male:clamp -> 男性:夹具
 male:glory hole -> 男性:寻欢洞
+male:hidden toy -> 男性:隐蔽玩具
 male:machine -> 男性:机械奸
 male:onahole -> 男性:飞机杯
 male:pillory -> 男性:枷具
@@ -39861,7 +40098,7 @@ male:sole male -> 男性:单男主
 male:sole pussyboy -> 男性:单扶他
 male:cheating -> 男性:出轨
 male:netorare -> 男性:NTR
-male:netorase -> 男性:绿帽癖
+male:netorase -> 男性:送夫
 male:swinging -> 男性:换夫
 male:brother -> 男性:兄弟
 male:cousin -> 男性:表兄弟
@@ -40322,7 +40559,7 @@ female:scrotal lingerie -> 女性:阴囊袋
 female:small penis -> 女性:小小鸟
 female:shimapan -> 女性:条纹胖次
 female:stewardess -> 女性:空姐服
-female:stirrup legwear -> 女性:马镫裤
+female:stirrup legwear -> 女性:踩脚
 female:stockings -> 女性:长筒袜
 female:straitjacket -> 女性:拘束衣
 female:sundress -> 女性:夏装
@@ -40359,6 +40596,7 @@ female:double penetration -> 女性:双重插入
 female:triple penetration -> 女性:三重插入
 female:clamp -> 女性:夹具
 female:glory hole -> 女性:寻欢洞
+female:hidden toy -> 女性:隐蔽玩具
 female:machine -> 女性:机械奸
 female:onahole -> 女性:飞机杯
 female:pillory -> 女性:枷具
@@ -40466,7 +40704,7 @@ female:sole dickgirl -> 女性:单扶她
 female:sole female -> 女性:单女主
 female:cheating -> 女性:出轨
 female:netorare -> 女性:NTR
-female:netorase -> 女性:绿帽癖
+female:netorase -> 女性:送妻
 female:swinging -> 女性:换妻
 female:aunt -> 女性:阿姨
 female:cousin -> 女性:表姐妹
@@ -40583,4 +40821,5 @@ location:beach -> 地点:沙滩
 location:classroom -> 地点:教室
 location:infirmary -> 地点:保健室
 location:onsen -> 地点:温泉
+location:sauna -> 地点:桑拿
 location:sentou -> 地点:浴场
