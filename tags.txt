@@ -2054,7 +2054,7 @@ parody:words worth -> 原作:光与影的传说
 parody:drifters -> 原作:漂流武士
 parody:counter side -> 原作:Counter:Side
 parody:kunoichi tsubaki no mune no uchi -> 原作:女忍者椿的心事
-parody:kanojo mo kanojo -> 原作:女友成双（女友成堆）
+parody:kanojo mo kanojo -> 原作:女友成双
 parody:ero trap dungeon -> 原作:色情迷宫
 parody:yofukashi no uta -> 原作:彻夜之歌
 parody:zannen onna kanbu black general-san -> 原作:遗憾女干部黑暗将军小姐
@@ -2776,6 +2776,14 @@ parody:disco elysium -> 原作:极乐迪斯科
 parody:yuusha party wo oidasareta kiyoubinbou -> 原作:泛而不精的我被逐出了勇者队伍
 parody:shibou yuugi de meshi wo kuu. -> 原作:靠死亡游戏混饭吃
 parody:toshi densetsu kaitai center -> 原作:都市传说解体中心
+parody:heroes battle disk densetsu -> 原作:英雄:战斗盘传说
+parody:kirei ni shite moraemasu ka. -> 原作:可以帮忙洗干净吗？
+parody:komori-san wa kotowarenai -> 原作:小森拒不了！
+parody:meitantei precure -> 原作:名侦探光之美少女！
+parody:chou kaguya-hime -> 原作:超时空辉夜姬
+parody:mono -> 原作:Mono
+parody:yano-kun no futsuu no hibi -> 原作:矢野同学的普通日常
+parody:kpop demon hunters -> 原作:Kpop 猎魔女团
 character:alice -> 角色:爱丽丝
 character:akane hino -> 角色:日野茜
 character:ibuki -> 角色:伊吹
@@ -3589,7 +3597,7 @@ character:shinka nibutani -> 角色:丹生谷森夏
 character:sanae dekomori -> 角色:凸守早苗
 character:satone shichimiya -> 角色:七宫智音
 character:touka takanashi -> 角色:小鸟游十花
-character:mercy -> 角色:天使
+character:mercy -> 角色:天使（守望先锋）
 character:tracer -> 角色:猎空
 character:widowmaker -> 角色:黑百合
 character:mei -> 角色:美 | 梅依
@@ -4913,7 +4921,7 @@ character:michelle k. davis -> 角色:米歇尔·K·戴维斯
 character:chihiro ogino -> 角色:荻野千寻
 character:tessie -> 角色:泰茜
 character:leia rolando -> 角色:蕾娅·罗兰德
-character:nami -> 角色:娜美
+character:nami -> 角色:娜美 | 唤潮鲛姬
 character:tashigi -> 角色:达斯琪
 character:wang liu mei -> 角色:王留美
 character:sage -> 角色:贤者
@@ -8241,7 +8249,7 @@ character:chikagi katsuragi -> 角色:桂木千键
 character:hibiki hibino -> 角色:日比乃响
 character:kazuradrop -> 角色:糖果藤蔓
 character:tutankhamun -> 角色:图坦卡蒙
-character:tony tony chopper -> 角色:乔巴
+character:tony tony chopper -> 角色:多尼多尼·乔巴
 character:nancy lee -> 角色:南希·李
 character:dragon yukano -> 角色:龙·由佳乃
 character:ceres fauna -> 角色:塞莱希·法娜
@@ -8608,7 +8616,7 @@ character:mio tokisaki -> 角色:朱鹭咲澪
 character:hotaru -> 角色:萤
 character:adam smasher -> 角色:亚当·重锤
 character:claudia enfield -> 角色:克劳蒂雅·恩菲尔德
-character:julis-alexia von riessfeld -> 角色:尤莉丝·爱雷克西亚·冯·里斯妃特
+character:julis-alexia von riessfeld -> 角色:尤莉丝·爱雷克西亚
 character:kirin toudou -> 角色:刀藤绮凛
 character:saya sasamiya -> 角色:沙沙宫纱夜
 character:nephelia -> 角色:涅菲莉亚
@@ -10919,6 +10927,68 @@ character:yasoshina mujina -> 角色:八十科貉
 character:anabel -> 角色:莉拉
 character:team aqua grunt -> 角色:海洋队手下
 character:team magma grunt -> 角色:熔岩队手下
+character:rin penrose -> 角色:Rin Penrose
+character:petra leyte -> 角色:佩特拉·雷蒂
+character:konoka -> 角色:木乃香
+character:alto saotome -> 角色:早乙女阿尔特
+character:ranka lee -> 角色:兰花·李
+character:umbrosa -> 角色:影
+character:komaru naegi -> 角色:苗木困
+character:yuugure -> 角色:黄昏
+character:orpheus -> 角色:奥尔菲斯
+character:wakana kinme -> 角色:金目绵花奈
+character:kuriru wakasagi -> 角色:鰙久里留
+character:nurugai -> 角色:濡亥
+character:chen qianyu -> 角色:陈千语
+character:gilberta -> 角色:洁尔佩塔
+character:ty lee -> 角色:泰丽
+character:camilla pareto -> 角色:卡蜜拉·帕蕾特
+character:ernesta kuhne -> 角色:艾涅斯妲·裘奈
+character:fan xinglou -> 角色:范星露
+character:irene urzaiz -> 角色:依蕾奈·兀儿塞斯
+character:pham thi tram -> 角色:芳亭常
+character:priscilla urzaiz -> 角色:普莉熙拉·兀儿塞斯
+character:zhao hufeng -> 角色:赵虎峰
+character:violet weinberg -> 角色:瓦尔蕾特·温伯格
+character:shuri komori -> 角色:小森朱里
+character:amane ubuyashiki -> 角色:产屋敷天音
+character:joseph desaulniers -> 角色:约瑟夫·德拉索恩斯
+character:vera nair -> 角色:薇拉·奈尔
+character:luca balsa -> 角色:卢卡·巴尔萨
+character:famine devil -> 角色:饥荒恶魔
+character:cure arcana shadow -> 角色:森亚琉琉歌 (奥秘天使·影)
+character:marshall d. teach -> 角色:马歇尔·D·蒂奇
+character:ralmia -> 角色:洛菈米亚
+character:fluorite -> 角色:萤石
+character:camula -> 角色:卡缪拉
+character:mem-cho -> 角色:MEM啾
+character:rinkou ashelia -> 角色:Lia Ch
+character:yachiyo runami -> 角色:月见八千代
+character:sakurako shikishima -> 角色:敷岛樱子
+character:peashooter -> 角色:豌豆射手
+character:deep sea gargantuar -> 角色:深海巨人僵尸
+character:junker queen -> 角色:渣客女王
+character:vendetta -> 角色:斩仇
+character:kiriko -> 角色:雾子
+character:kiyoko yoshida -> 角色:吉田清子
+character:shakuyaku -> 角色:夏克雅克
+character:alvida -> 角色:亚尔丽塔
+character:jewelry bonney -> 角色:乔艾莉·波妮
+character:brandish u -> 角色:布兰缇什·μ
+character:ultear milkovich -> 角色:乌鲁蒂亚·米尔科维奇
+character:irene belserion -> 角色:艾琳·贝尔塞利翁
+character:sherria blendy -> 角色:雪莉娅·布兰蒂
+character:cana alberona -> 角色:卡娜·阿尔贝罗纳
+character:rinha kaya -> 角色:贺阳燐羽
+character:virgo -> 角色:芭露歌
+character:malevola gibb -> 角色:梅乐维拉·吉布
+character:filene -> 角色:銀冰龍人‧菲琳
+character:levy mcgarden -> 角色:蕾比·马库嘎登
+character:gajeel redfox -> 角色:伽吉鲁·雷特福克斯
+character:hua mulan -> 角色:花木兰
+character:baili xuance -> 角色:百里玄策
+character:allain -> 角色:阿兰
+character:dyadia -> 角色:少司缘
 group:1 -> 团队:1
 group:13 -> 团队:13
 group:27 -> 团队:27
@@ -15016,7 +15086,7 @@ group:dangan honey -> 团队:弾丸ハニィ
 group:dange -> 团队:談華
 group:danger equals zone -> 团队:DANGER=ZONE
 group:dangerous charms -> 团队:デンジャラス・チャームス
-group:dangoya -> 团队:DANGOYA
+group:dangoya -> 团队:だんごや
 group:danikuya-san -> 团队:駄肉家さん
 group:dankon no sato -> 团队:男根の里
 group:danna -> 团队:ダンナ
@@ -24605,6 +24675,30 @@ group:asuka shinozaki -> 团队:飛鳥しのざき
 group:layer koubou -> 团队:レイヤー工房
 group:amayadorigaeru -> 团队:雨宿り蛙
 group:kyawalog -> 团队:Kyawalog
+group:mafic -> 团队:MAFIC
+group:shiki -> 团队:しき
+group:yousaisha -> 团队:幼彩社
+group:adolescence maru -> 团队:アドレセンス丸
+group:navy coffee -> 团队:NAVY COFFEE
+group:atomodori dekinai ten q -> 团队:後戻り出来ない点q
+group:pot detox -> 团队:ぽっとデトックス
+group:koumon seikoujo -> 团队:校門製鋼所
+group:daisakyuu -> 团队:大砂丘
+group:full exist -> 团队:フルイスエミ
+group:nyarisu -> 团队:にゃりす
+group:fusha fusha kingdom -> 团队:ふしゃふしゃ王国
+group:kokkyou oudan -> 团队:くろすかんとりい。
+group:warabi mochi seisakujo -> 团队:わらび餅製作所
+group:namaitati teishoku -> 团队:生イタチ定食
+group:center field -> 团队:センターフィールド
+group:grande melone -> 团队:grande melone
+group:koeda shouten -> 团队:こえだ商店
+group:lard mashimashi somen -> 团队:ラードマシマシそうめん
+group:hakonnbu kitamaebune -> 团队:歯昆布北前船
+group:chirumokeshi -> 团队:ちるもけし
+group:omochi fry-ya-san -> 团队:おもちフライ屋さん
+group:okkina tama -> 团队:おっきなタマ
+group:chounai fukubiki ken -> 团队:町内福引犬
 artist:2 -> 艺术家:2
 artist:7 -> 艺术家:7
 artist:8 -> 艺术家:8
@@ -39397,6 +39491,56 @@ artist:saimon k -> 艺术家:西門K
 artist:not enough milk -> 艺术家:Not Enough Milk
 artist:camekame -> 艺术家:かめかめ
 artist:itokawa -> 艺术家:いとかわ
+artist:thomson -> 艺术家:thomson
+artist:kinn -> 艺术家:KINN
+artist:mochizuki nozomu -> 艺术家:望月望
+artist:zetto -> 艺术家:Zetto
+artist:bubu -> 艺术家:bubu
+artist:hitonama -> 艺术家:ひとなま
+artist:rinkopoi -> 艺术家:綸子ぽい
+artist:35 machi -> 艺术家:35まち
+artist:nikumochu -> 艺术家:nikumochu
+artist:shiro paka -> 艺术家:シロパカ
+artist:dangorou -> 艺术家:だんごろう
+artist:tomi8tky -> 艺术家:tomi8tky
+artist:aisu mochi -> 艺术家:あいすもち
+artist:kametaro -> 艺术家:かめたろ
+artist:sahara maddam -> 艺术家:砂原まだむ
+artist:mouika -> 艺术家:MOUIKA
+artist:matoba ryou -> 艺术家:的場りょう
+artist:yamabuki ema -> 艺术家:山吹エマ
+artist:50ling -> 艺术家:50LING
+artist:nush -> 艺术家:ナッシュ
+artist:fusha -> 艺术家:ふ射
+artist:natsukaze shigure -> 艺术家:夏風シグレ
+artist:ppw -> 艺术家:ppw
+artist:ttptt -> 艺术家:ttp
+artist:mimimi misaki -> 艺术家:みみみ岬
+artist:inushima -> 艺术家:いぬしま
+artist:rampage -> 艺术家:Rampage
+artist:kurokan -> 艺术家:くろかん
+artist:namaitati -> 艺术家:ナマイタチ
+artist:appie -> 艺术家:あっぴー
+artist:keiji-kurobi -> 艺术家:黒帯形而
+artist:rald -> 艺术家:ラルド
+artist:t1kosewad -> 艺术家:T1kosewad
+artist:diuda -> 艺术家:迪達迪達達
+artist:usirome -> 艺术家:うしろめ
+artist:shikan -> 艺术家:四巻
+artist:usagi tosame -> 艺术家:うさぎ兎さめ
+artist:naporitan -> 艺术家:ナポリタン
+artist:hvvt -> 艺术家:HVVT
+artist:isenori -> 艺术家:いせのり
+artist:mochizaki panko -> 艺术家:饼崎面包粉
+artist:odoru london -> 艺术家:踊るロンドン
+artist:fusu -> 艺术家:ふす
+artist:sonoshiki -> 艺术家:園色
+artist:shuiro -> 艺术家:周一色
+artist:4terabyte -> 艺术家:4terabyte
+artist:botamochi -> 艺术家:ぼたもち
+artist:cunqian mai nvpengyou -> 艺术家:存钱买女朋友
+artist:kireina mochi -> 艺术家:も
+artist:komori kuduyu -> 艺术家:小森くづゆ
 cosplayer:otohara an -> Coser:乙原あん
 cosplayer:rioko -> Coser:凉凉子
 cosplayer:atsuki -> Coser:あつき
