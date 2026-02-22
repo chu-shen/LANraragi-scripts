@@ -2784,6 +2784,8 @@ parody:chou kaguya-hime -> 原作:超时空辉夜姬
 parody:mono -> 原作:Mono
 parody:yano-kun no futsuu no hibi -> 原作:矢野同学的普通日常
 parody:kpop demon hunters -> 原作:Kpop 猎魔女团
+parody:nihon e youkoso elf-san. -> 原作:精灵来日
+parody:final fantasy xvi -> 原作:最终幻想16
 character:alice -> 角色:爱丽丝
 character:akane hino -> 角色:日野茜
 character:ibuki -> 角色:伊吹
@@ -8933,7 +8935,7 @@ character:mikari tachibana -> 角色:橘美花莉
 character:emilie -> 角色:艾梅莉埃
 character:ouka shiunji -> 角色:紫云寺讴华
 character:steve -> 角色:史蒂夫
-character:alex -> 角色:艾莉克斯
+character:alex -> 角色:亚历克斯
 character:villager -> 角色:村民
 character:ender dragon -> 角色:末影龙
 character:jenny -> 角色:珍妮
@@ -10989,6 +10991,55 @@ character:hua mulan -> 角色:花木兰
 character:baili xuance -> 角色:百里玄策
 character:allain -> 角色:阿兰
 character:dyadia -> 角色:少司缘
+character:akane soir -> 角色:茜·索瓦鲁
+character:akira okuzaki -> 角色:尾久崎晶
+character:arika yumemiya -> 角色:爱莉卡·梦宫
+character:chie hallard -> 角色:千绘·海拉德
+character:erstin ho -> 角色:爱尔丝汀·霍
+character:fumi himeno -> 角色:姬野二三
+character:haruka armitage -> 角色:遥·阿米特吉
+character:haruka suzushiro -> 角色:珠洲城遥
+character:hebi nyobo -> 角色:蛇女房
+character:juliet nao zhang -> 角色:茱丽叶·奈绪·张
+character:lena sayers -> 角色:蕾娜·赛亚兹
+character:mahya blythe -> 角色:玛亚·布莱丝
+character:mashiro blan de windbloom -> 角色:真白·温德布罗姆
+character:mashiro kazahana -> 角色:风花真白
+character:midori -> 角色:碧
+character:midori sugiura -> 角色:杉浦碧
+character:mikoto minagi -> 角色:美袋命
+character:miyu -> 角色:深优
+character:miyu greer -> 角色:深优·古利亚
+character:nao yuuki -> 角色:结城奈绪
+character:natsuki kruger -> 角色:夏树·库鲁格
+character:nina wang -> 角色:妮娜·翁
+character:rosalie claudel -> 角色:罗莎丽·克劳迪尔
+character:sara gallagher -> 角色:莎菈·加拉格
+character:shizuru fujino -> 角色:藤乃静留
+character:takumi tokiha -> 角色:鸨羽巧海
+character:tomoe marguerite -> 角色:芭·玛格丽特
+character:yohko helene -> 角色:阳子·海伦娜
+character:yukino chrysant -> 角色:雪之·克利桑德
+character:yukino kikukawa -> 角色:菊川雪之
+character:masashi takeda -> 角色:武田将士
+character:reito kanzaki -> 角色:神崎黎人
+character:shiho munakata -> 角色:宗像诗帆
+character:yukariko sanada -> 角色:真田紫子
+character:yuuichi tate -> 角色:楯佑一
+character:sergei wang -> 角色:赛尔格·翁
+character:shiho huit -> 角色:诗帆·尤伊
+character:nagi dai artai -> 角色:凪·戴·阿尔泰
+character:fuyu wakasa -> 角色:若狭冬
+character:domina -> 角色:多米娜
+character:shitagai nora -> 角色:従井ノラ
+character:akemi aizawa -> 角色:相泽明美
+character:alicia viewstream -> 角色:艾丽西亚・比斯雷姆
+character:marshadow -> 角色:玛夏多
+character:shizuka kiba -> 角色:木场静火
+character:norton campbell -> 角色:诺顿·坎贝尔
+character:emma woods -> 角色:艾玛·伍兹
+character:raidian -> 角色:电弧
+character:yvonne -> 角色:伊冯
 group:1 -> 团队:1
 group:13 -> 团队:13
 group:27 -> 团队:27
@@ -19215,7 +19266,7 @@ group:naitou2 -> 团队:NAITOU2
 group:naivta -> 团队:ナイーブタ
 group:naiyori alpha zaidan -> 团队:Naiyori alpha 財団
 group:nakagawaya -> 团队:中川家
-group:nakamuratakumi -> 团队:仲村巧
+group:nakamuratakumi -> 团队:仲村巧 | 坊図鑑
 group:nakanoku kurochanno... -> 团队:中野区くろちゃんの…
 group:nakasatogumi -> 团队:ナカサト組
 group:nakasone battalion -> 团队:中曽根バタリアン
@@ -24699,6 +24750,34 @@ group:chirumokeshi -> 团队:ちるもけし
 group:omochi fry-ya-san -> 团队:おもちフライ屋さん
 group:okkina tama -> 团队:おっきなタマ
 group:chounai fukubiki ken -> 团队:町内福引犬
+group:ikura kantai -> 团队:いくら艦隊
+group:panda boxing -> 团队:Panda Boxing
+group:suama-dou -> 团队:水甘堂
+group:20 plus 1 -> 团队:20+1(ネオハタチ)
+group:ringo club -> 团队:りんごくらぶ
+group:yunoyu -> 团队:ゆの湯
+group:any wa sea -> 团队:AnyはSea！！！
+group:totsugeki tonari no hijoushoku -> 团队:凸撃!隣の非常食!!
+group:biwa gakudan -> 团队:琵琶楽団
+group:natural kanojo -> 团队:なちゅらる彼女
+group:nenige -> 团队:NENIGE
+group:4k seisakusho -> 团队:4K製作所
+group:piemancoop -> 团队:パイマンコープ
+group:maritozzo -> 团队:Maritozzo
+group:sushi fever -> 团队:寿司フィーバー
+group:sharin-ya -> 团队:しゃりん屋
+group:giniro ringo hatake -> 团队:銀色りんご畑
+group:ichi no hako -> 团队:市の箱
+group:otete -> 团队:おてて
+group:rainbowbread -> 团队:彩虹サンデー
+group:yaoyorozu -> 团队:八百万★社中
+group:airu-ya -> 团队:アイル屋
+group:grove grow -> 团队:Grove Grow
+group:nokenya -> 团队:のけんや
+group:inyou club -> 团队:陰陽倶楽部
+group:atsukan rock -> 团队:熱燗ROCK
+group:purplrpouni -> 团队:purplrpouni
+group:mia san mia -> 团队:MIA SAN MIA
 artist:2 -> 艺术家:2
 artist:7 -> 艺术家:7
 artist:8 -> 艺术家:8
@@ -26752,7 +26831,7 @@ artist:r5 -> 艺术家:R5
 artist:c2 -> 艺术家:C2
 artist:shitappa -> 艺术家:したっぱ
 artist:kanbayashi takaki -> 艺术家:神林タカキ
-artist:nyx -> 艺术家:にゅくす
+artist:nyx -> 艺术家:にゅくす | Nyx
 artist:akashia -> 艺术家:アカシア
 artist:shigeta -> 艺术家:しげた
 artist:uminori -> 艺术家:うみのり
@@ -34116,7 +34195,7 @@ artist:ricca -> 艺术家:りっか
 artist:ricchy -> 艺术家:ricchy
 artist:rice oomori -> 艺术家:ライスおおもり
 artist:rie -> 艺术家:RiE
-artist:rihi -> 艺术家:りひ
+artist:rihi -> 艺术家:梨比
 artist:rihitozoire -> 艺术家:リヒトゾイレ
 artist:rii -> 艺术家:りい
 artist:rikamarika -> 艺术家:rikamarika
@@ -39541,6 +39620,46 @@ artist:botamochi -> 艺术家:ぼたもち
 artist:cunqian mai nvpengyou -> 艺术家:存钱买女朋友
 artist:kireina mochi -> 艺术家:も
 artist:komori kuduyu -> 艺术家:小森くづゆ
+artist:chako -> 艺术家:茶子
+artist:nitoshu -> 艺术家:二兎狩
+artist:chujin mikn -> 艺术家:初锦mikn
+artist:yasei namahamu -> 艺术家:やせい生はむ
+artist:kinginboueki -> 艺术家:キンギン貿易
+artist:yamamori potato -> 艺术家:山森ぽてと
+artist:nemunoya -> 艺术家:ねむのや
+artist:theremin -> 艺术家:仮野テル
+artist:saltydanshark -> 艺术家:ソルティ男爵
+artist:munimuni -> 艺术家:むにむに
+artist:suama -> 艺术家:水甘
+artist:sixteenpo -> 艺术家:sixteenpo
+artist:mionokami oboro -> 艺术家:澪ノ守おぼろ
+artist:yakoubin -> 艺术家:夜行便
+artist:ubamaru -> 艺术家:うば丸
+artist:oniken -> 艺术家:おにけん
+artist:yukichi -> 艺术家:湯基地
+artist:seieki kakeru -> 艺术家:聖益カケル
+artist:hiyoko no meisanchi -> 艺术家:ひよこの名産地
+artist:sutora -> 艺术家:すとら
+artist:duokuma -> 艺术家:Duokuma
+artist:bennosuki -> 艺术家:ベンノスキー
+artist:iya -> 艺术家:い屋
+artist:buuta -> 艺术家:ぶうた
+artist:biwamaro -> 艺术家:琵琶麻呂
+artist:tonoka mottasu -> 艺术家:外岡もったす
+artist:warabita hagure -> 艺术家:蕨田はぐれ
+artist:matsumura ryuichi -> 艺术家:松村龍一
+artist:mizuno alto -> 艺术家:水乃アルト
+artist:luxsumildo -> 艺术家:LUXsumildo
+artist:mukae -> 艺术家:迎江
+artist:koyubimaru -> 艺术家:こゆび丸
+artist:nabochi -> 艺术家:ナボチ
+artist:ouse -> 艺术家:オウセ
+artist:chipcat -> 艺术家:Chipcat
+artist:airu -> 艺术家:アイル
+artist:8aki -> 艺术家:8aki
+artist:kanopan -> 艺术家:かのぱん
+artist:azumi tsuna -> 艺术家:あずみつな
+artist:kuriudon -> 艺术家:栗うどん
 cosplayer:otohara an -> Coser:乙原あん
 cosplayer:rioko -> Coser:凉凉子
 cosplayer:atsuki -> Coser:あつき
@@ -39695,6 +39814,7 @@ cosplayer:shimizu nagi -> Coser:清水凪
 cosplayer:kagurazaka mafuyu -> Coser:神楽坂真冬
 cosplayer:aban605 -> Coser:阿半今天很开心
 cosplayer:vectorfish -> Coser:矢量鱼
+cosplayer:sandu-69 -> Coser:三度_69
 male:age progression -> 男性:年龄增长
 male:age regression -> 男性:返老还童
 male:dilf -> 男性:熟男
