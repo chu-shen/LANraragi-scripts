@@ -2786,6 +2786,9 @@ parody:yano-kun no futsuu no hibi -> 原作:矢野同学的普通日常
 parody:kpop demon hunters -> 原作:Kpop 猎魔女团
 parody:nihon e youkoso elf-san. -> 原作:精灵来日
 parody:final fantasy xvi -> 原作:最终幻想16
+parody:armored core -> 原作:装甲核心
+parody:wagamama high spec -> 原作:娇蛮任性HIGHSPEC
+parody:voicevox -> 原作:VOICEVOX
 character:alice -> 角色:爱丽丝
 character:akane hino -> 角色:日野茜
 character:ibuki -> 角色:伊吹
@@ -2816,7 +2819,7 @@ character:yumemi okazaki -> 角色:冈崎梦美
 character:elly -> 角色:艾丽
 character:gengetsu -> 角色:幻月
 character:mugetsu -> 角色:梦月
-character:kurumi -> 角色:胡桃（莉可丽丝）
+character:kurumi -> 角色:胡桃
 character:yumeko -> 角色:梦子
 character:shinki -> 角色:神绮
 character:rumia -> 角色:露米娅
@@ -9725,7 +9728,7 @@ character:elven forest maker -> 角色:霜蛇
 character:perrault -> 角色:佩罗
 character:a-87 banshee -> 角色:A-87 报丧女妖
 character:at-4 pani -> 角色:AT-4 帕尼
-character:kei -> 角色:柯伊
+character:kei -> 角色:凯
 character:kotono shiunji -> 角色:紫云寺琴乃
 character:isane kotetsu -> 角色:虎彻勇音
 character:blaze fielding -> 角色:布雷兹·菲尔丁
@@ -11040,6 +11043,41 @@ character:norton campbell -> 角色:诺顿·坎贝尔
 character:emma woods -> 角色:艾玛·伍兹
 character:raidian -> 角色:电弧
 character:yvonne -> 角色:伊冯
+character:yukiko kanzaki -> 角色:神崎有希子
+character:tomohito sugino -> 角色:杉野友人
+character:megu kataoka -> 角色:片冈惠
+character:touka yada -> 角色:矢田桃花
+character:hinano kurahashi -> 角色:仓桥阳菜乃
+character:hinata okano -> 角色:冈野日向
+character:koro-sensei -> 角色:杀老师
+character:ryouma terasaka -> 角色:寺坂龙马
+character:itona horibe -> 角色:堀部糸成
+character:kirara hazama -> 角色:狭间绮罗罗
+character:taisei yoshida -> 角色:吉田大成
+character:kaede johan nouvel -> 角色:枫·J·努韦尔
+character:takuya muramatsu -> 角色:村松拓哉
+character:koutarou takebayashi -> 角色:竹林孝太郎
+character:sumire hara -> 角色:原寿美铃
+character:taiga okajima -> 角色:冈岛大河
+character:aguri yukimura -> 角色:雪村亚久里
+character:yuuma isogai -> 角色:矶贝悠马
+character:hiroto maehara -> 角色:前原阳斗
+character:rinka hayami -> 角色:速水凛香
+character:ryuunosuke chiba -> 角色:千叶龙之介
+character:masayoshi kimura -> 角色:木村正义
+character:kouki mimura -> 角色:三村航辉
+character:sousuke sugaya -> 角色:菅谷创介
+character:yuzuki fuwa -> 角色:不破优月
+character:akira takaoka -> 角色:鹰冈明
+character:manaka kurumi -> 角色:胡桃愛香
+character:mikazuki augus -> 角色:三日月·奥格斯
+character:orga itsuka -> 角色:奥尔加·伊兹卡
+character:chiaki morisawa -> 角色:守泽千秋
+character:midori takamine -> 角色:高峯翠
+character:schwi -> 角色:休比
+character:leizi -> 角色:惊蛰
+character:kei tendou -> 角色:天童柯伊
+character:metan shikoku -> 角色:四国玫碳
 group:1 -> 团队:1
 group:13 -> 团队:13
 group:27 -> 团队:27
@@ -14713,7 +14751,7 @@ group:chikadoh -> 团队:地下堂
 group:chikashitsu -> 团队:地下室
 group:chikirazu -> 团队:チキラーズ
 group:chikiuya -> 团队:ちきう屋
-group:chiko goya -> 团队:Limited
+group:chiko goya -> 团队:ちこ★小屋
 group:chikoku doumei -> 团队:遅刻同盟
 group:chikoku penpen -> 团队:遅刻ペンペン
 group:chikomayoya -> 团队:ちこまよや
@@ -18166,7 +18204,7 @@ group:limit break -> 团队:りみっとぶれいく
 group:limit cycle -> 团队:LIMIT CYCLE
 group:limit plus -> 团队:limit+
 group:limit works -> 团队:Limit Works
-group:limited -> 团队:ちこ★小屋
+group:limited -> 团队:Limited
 group:lindas ark -> 团队:Linda's ark
 group:linke hand -> 团队:Linke Hand
 group:linkringrin -> 团队:リンクリングリン
@@ -24778,6 +24816,20 @@ group:inyou club -> 团队:陰陽倶楽部
 group:atsukan rock -> 团队:熱燗ROCK
 group:purplrpouni -> 团队:purplrpouni
 group:mia san mia -> 团队:MIA SAN MIA
+group:heyadume -> 团队:へやづめ
+group:zurumuke taro -> 团队:ズルムケ太郎
+group:miimui -> 团队:みいむい
+group:50 seiki sex -> 团队:50性器S〇X
+group:hinyari -> 团队:ひんやり
+group:tomahawk -> 团队:とまほーく
+group:yamanaka no naka -> 团队:ヤマナカのナカ
+group:papuka -> 团队:Papuka
+group:ippeisotsu -> 团队:一兵卒
+group:naoya -> 团队:なお屋
+group:punihuka ume -> 团队:ぷにふかうめ
+group:bad end dreamer -> 团队:バッドエンドドリーマー
+group:kani the world -> 团队:KANI the WORLD
+group:sadistic nodobotoke -> 团队:サディスティック喉仏
 artist:2 -> 艺术家:2
 artist:7 -> 艺术家:7
 artist:8 -> 艺术家:8
@@ -39660,6 +39712,35 @@ artist:8aki -> 艺术家:8aki
 artist:kanopan -> 艺术家:かのぱん
 artist:azumi tsuna -> 艺术家:あずみつな
 artist:kuriudon -> 艺术家:栗うどん
+artist:kaede fuu -> 艺术家:楓ふう
+artist:nounagi poma -> 艺术家:野うなぎ ぽま
+artist:adeshi -> 艺术家:アデシ
+artist:okaka -> 艺术家:おかか
+artist:saitou kakkou -> 艺术家:斉藤カッコウ
+artist:mashumarodan -> 艺术家:ましゅまろ団
+artist:sake-chan -> 艺术家:鮭ちゃん
+artist:muufa -> 艺术家:むーふぁ
+artist:shitiken nana -> 艺术家:七剣なな
+artist:akaimelon -> 艺术家:AKAIMELON
+artist:dosukebe oekaki mogura -> 艺术家:ドスケベお絵描きモグラ
+artist:on fan -> 艺术家:on
+artist:baaki -> 艺术家:ばぁき
+artist:cherachera -> 艺术家:メガネル
+artist:kumanomi -> 艺术家:くまの実
+artist:akkusu -> 艺术家:あっくす
+artist:toriyama miki -> 艺术家:鳥山みき
+artist:tamasawa tsubura -> 艺术家:玉沢円
+artist:kyu -> 艺术家:朽
+artist:tikubin -> 艺术家:チクビン
+artist:dangmill -> 艺术家:Dangmill
+artist:sekirei33 -> 艺术家:せきれい３３
+artist:myai -> 艺术家:みゃい
+artist:shirai soushichi -> 艺术家:白井惣七
+artist:protein b6 -> 艺术家:ぷろていんB6
+artist:k8on -> 艺术家:k8on
+artist:asuha -> 艺术家:アスハー
+artist:ukke -> 艺术家:うっけ
+artist:parasol hiroshi -> 艺术家:パラソルひろし
 cosplayer:otohara an -> Coser:乙原あん
 cosplayer:rioko -> Coser:凉凉子
 cosplayer:atsuki -> Coser:あつき
