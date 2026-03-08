@@ -2789,6 +2789,11 @@ parody:final fantasy xvi -> 原作:最终幻想16
 parody:armored core -> 原作:装甲核心
 parody:wagamama high spec -> 原作:娇蛮任性HIGHSPEC
 parody:voicevox -> 原作:VOICEVOX
+parody:da erduo tutu -> 原作:大耳朵图图
+parody:hulu xiongdi -> 原作:葫芦娃
+parody:starward -> 原作:星之翼
+parody:detroit become human -> 原作:底特律：变人
+parody:dracu-riot -> 原作:学园与吸血鬼
 character:alice -> 角色:爱丽丝
 character:akane hino -> 角色:日野茜
 character:ibuki -> 角色:伊吹
@@ -4163,7 +4168,7 @@ character:goku black -> 角色:黑悟空
 character:broly -> 角色:布罗利
 character:erasa -> 角色:伊蕾莎
 character:majin buu -> 角色:魔人布欧
-character:master roshi -> 角色:武天老师
+character:master roshi -> 角色:龟仙人
 character:oolong -> 角色:乌龙
 character:ranfan -> 角色:兰芳
 character:lunch -> 角色:兰琪
@@ -6792,7 +6797,7 @@ character:touko nanami -> 角色:七海灯子
 character:houki shinonono -> 角色:篠之之帚
 character:mizuki nakahara -> 角色:中原瑞希
 character:senji muramasa -> 角色:千子村正
-character:hinagiku katsura -> 角色:桂雏菊
+character:hinagiku katsura -> 角色:<p>桂雏菊</p>
 character:isumi saginomiya -> 角色:鹭之宫伊澄
 character:nagi sanzenin -> 角色:三千院凪
 character:marie -> 角色:玛丽
@@ -7412,7 +7417,7 @@ character:dantoudai no aura -> 角色:阿乌拉
 character:ayano yuugiri -> 角色:夕桐绫乃
 character:rose oriana -> 角色:萝兹·奥利雅纳
 character:vladilena milize -> 角色:芙拉蒂蕾娜·米利杰
-character:sharon -> 角色:莎郎 | 莎朗·荷莉格蕾尔
+character:sharon -> 角色:莎郎
 character:warlock -> 角色:术士
 character:tamaki kotatsu -> 角色:环古达
 character:brigitte lindholm -> 角色:布丽吉塔·林德霍姆
@@ -11078,6 +11083,49 @@ character:schwi -> 角色:休比
 character:leizi -> 角色:惊蛰
 character:kei tendou -> 角色:天童柯伊
 character:metan shikoku -> 角色:四国玫碳
+character:cindy aurum -> 角色:希德妮·奧魯姆
+character:george kurai -> 角色:乔治·库莱伊
+character:zibai -> 角色:兹白
+character:bulky intimidator -> 角色:通缉打手
+character:rossi -> 角色:洛茜
+character:sparxie -> 角色:火花
+character:felix schultz -> 角色:菲利克斯·舒尔茨
+character:nangong yu -> 角色:南宫羽
+character:tine chelc -> 角色:蒂妮·切尔克
+character:yao guang -> 角色:爻光
+character:moran -> 角色:莫兰
+character:noa jougasaki -> 角色:城崎诺亚
+character:guizhong -> 角色:归终
+character:cure answer -> 角色:明智安娜（答案天使）
+character:cure mystique -> 角色:小林未来 (谜题天使)
+character:nanahoshi milily -> 角色:七星Milily
+character:ai komiyama -> 角色:小美山爱
+character:aoi igawa -> 角色:井川葵
+character:shizuku hyodo -> 角色:兵藤雫
+character:saki shiraishi -> 角色:白石沙季
+character:chisa shiraishi -> 角色:白石千纱
+character:nagisa ibuki -> 角色:伊吹渚
+character:rui tendo -> 角色:天动瑠依
+character:izumi segawa -> 角色:濑川泉
+character:ayumu nishizawa -> 角色:西泽步
+character:maria -> 角色:玛丽亚
+character:miki hanabishi -> 角色:花菱美希
+character:risa asakaze -> 角色:朝风理沙
+character:burtgang -> 角色:布尔特根
+character:makiko asami -> 角色:新田籠
+character:ziping yin -> 角色:殷紫萍
+character:kanami etou -> 角色:卫藤可奈美
+character:ellen kohagura -> 角色:古波藏艾莲
+character:sayaka itomi -> 角色:糸见沙耶香
+character:yume tsubakuro -> 角色:燕结芽
+character:madoka kyouno -> 角色:京乃圆
+character:muginami -> 角色:姆奇娜美
+character:fin e ld si laffinty -> 角色:菲艾尔德·菲·拉芬缇
+character:vilajulio de metrio lu -> 角色:裴拉朱利欧
+character:hu tutu -> 角色:胡图图
+character:zhang xiaoli -> 角色:张小丽
+character:groose -> 角色:庫巴
+character:shuo asumi -> 角色:彩澄珠紻
 group:1 -> 团队:1
 group:13 -> 团队:13
 group:27 -> 团队:27
@@ -13127,7 +13175,7 @@ group:fuzuii undou -> 团队:不随意運動
 group:circle tokomaya -> 团队:サークルとこまや
 group:barumishu -> 团队:ばーるみしゅ
 group:megami no flask -> 团队:女神のフラスコ
-group:hiiro no kenkyuushitsu -> 团队:灯色の研究室
+group:hiiro no kenkyuushitsu -> 团队:灯色的研究室
 group:sukiyaki club -> 团队:すきやきクラブ
 group:kasoku edge -> 团队:かそくえっぢ
 group:doku denpa jushin-chuu -> 团队:毒電波受信中
@@ -21713,7 +21761,7 @@ group:spongehead -> 团队:スポンジヘッド
 group:spookyhouse -> 团队:spookyhouse
 group:spread happiness -> 团队:Spread Happiness
 group:sprechchor -> 团队:シュプレヒコール
-group:spring castle -> 团队:spring castle
+group:spring castle -> 团队:SPRING CASTLE
 group:springlove -> 团队:SpringLOVE
 group:sprinkler of calpis -> 团队:Sprinkler of かるぴす
 group:sprout -> 团队:SPROUT
@@ -24830,6 +24878,23 @@ group:punihuka ume -> 团队:ぷにふかうめ
 group:bad end dreamer -> 团队:バッドエンドドリーマー
 group:kani the world -> 团队:KANI the WORLD
 group:sadistic nodobotoke -> 团队:サディスティック喉仏
+group:nishiro ui -> 团队:弐城宇井
+group:soyokaze buranko -> 团队:ソヨカゼブランコ
+group:gakeuesha -> 团队:崖上社
+group:material engine -> 团队:マテリアルエンジン
+group:pentacle -> 团队:ペンタクル
+group:technician -> 团队:テクニシャン
+group:kawaraya -> 团队:カワラ屋
+group:whitish blacker -> 团队:ホワイティッシュ・ブラッカー
+group:control panel -> 团队:CONTROL PANEL
+group:warabilinu -> 团队:わらびぃぬ
+group:jiruman -> 团队:ジルマン
+group:mittsuame -> 团队:三つ雨
+group:mythical world -> 团队:みしかるわーるど
+group:inutohone -> 团队:犬と骨
+group:kusuriyubi -> 团队:くすりゆび
+group:circle higani -> 团队:サークルひがに
+group:futatsu musubi -> 团队:ふたつむすび
 artist:2 -> 艺术家:2
 artist:7 -> 艺术家:7
 artist:8 -> 艺术家:8
@@ -27252,7 +27317,7 @@ artist:sabusuka -> 艺术家:サブスカ
 artist:senji -> 艺术家:煎路
 artist:komowata haruka -> 艺术家:菰绵遥华
 artist:murakami suigun -> 艺术家:村上水军
-artist:takanae kyourin -> 艺术家:高苗京鈴
+artist:takanae kyourin -> 艺术家:高苗京铃
 artist:shirabe shiki -> 艺术家:調四季
 artist:kobuichi -> 艺术家:小舞一
 artist:yaneko uta -> 艺术家:弥猫うた
@@ -27921,7 +27986,7 @@ artist:ronrinri ronri -> 艺术家:論倫理ろんり
 artist:tsukueno elf -> 艺术家:机野エルフ
 artist:hiiragi popura -> 艺术家:柊ぽぷら
 artist:nogiwa kaede -> 艺术家:野际かえで
-artist:hitoi -> 艺术家:灯問
+artist:hitoi -> 艺术家:灯问
 artist:bouen -> 艺术家:ぼうえん
 artist:tsukudani -> 艺术家:佃煮
 artist:shigemiya kyouhei -> 艺术家:樹宮匡平
@@ -39741,6 +39806,38 @@ artist:k8on -> 艺术家:k8on
 artist:asuha -> 艺术家:アスハー
 artist:ukke -> 艺术家:うっけ
 artist:parasol hiroshi -> 艺术家:パラソルひろし
+artist:shizu kei -> 艺术家:静珪
+artist:souka dadasu -> 艺术家:左右加だだす
+artist:denden taiko -> 艺术家:デンデン太鼓
+artist:gakeo -> 艺术家:崖お
+artist:sironora -> 艺术家:Sironora
+artist:reoenl -> 艺术家:Reoenl
+artist:materia -> 艺术家:マテリア
+artist:nanahamu -> 艺术家:ななはむ
+artist:shimipan -> 艺术家:しみぱん
+artist:woomochichi -> 艺术家:Woomochichi
+artist:uchiyama nakade -> 艺术家:内山中手
+artist:18sai-4 -> 艺术家:18SAI_4
+artist:midou pengin -> 艺术家:御堂ペンギン
+artist:riffs and skulls -> 艺术家:riffsandskulls
+artist:andojing -> 艺术家:ANDO人
+artist:abfurai -> 艺术家:ABふ雷
+artist:pankeki -> 艺术家:パンケーキ
+artist:urushi uroro -> 艺术家:うるしうろろ
+artist:kojima video -> 艺术家:孤島ビデヲ
+artist:rom no hito -> 艺术家:ROMの人
+artist:pipo -> 艺术家:ピポ
+artist:samateru -> 艺术家:さまてる
+artist:kapurikon -> 艺术家:カプリコン
+artist:owasobi -> 艺术家:おわそび
+artist:komi -> 艺术家:♀こみ
+artist:lioreo -> 艺术家:りおれお
+artist:kuufuku -> 艺术家:空腹
+artist:katsuiro yuuki -> 艺术家:褐色ユウキ
+artist:oberon -> 艺术家:オベロン
+artist:madbull -> 艺术家:MadBull
+artist:kuroyui -> 艺术家:黒結
+artist:tamakichi. jirou -> 艺术家:たまきち。次郎
 cosplayer:otohara an -> Coser:乙原あん
 cosplayer:rioko -> Coser:凉凉子
 cosplayer:atsuki -> Coser:あつき
@@ -39896,6 +39993,9 @@ cosplayer:kagurazaka mafuyu -> Coser:神楽坂真冬
 cosplayer:aban605 -> Coser:阿半今天很开心
 cosplayer:vectorfish -> Coser:矢量鱼
 cosplayer:sandu-69 -> Coser:三度_69
+cosplayer:miyoki -> Coser:铃木美咲
+cosplayer:luer da mowang -> Coser:露儿大魔王
+cosplayer:machi -> Coser:马吉
 male:age progression -> 男性:年龄增长
 male:age regression -> 男性:返老还童
 male:dilf -> 男性:熟男
