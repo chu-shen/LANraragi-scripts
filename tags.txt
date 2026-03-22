@@ -2797,6 +2797,7 @@ parody:dracu-riot -> 原作:学园与吸血鬼
 parody:rock wa lady no tashinami deshite -> 原作:摇滚乃是淑女的爱好
 parody:mane mane nichi nichi -> 原作:经理女孩悠悠日常
 parody:counter strike -> 原作:反恐精英
+parody:pleasant goat and big big wolf -> 原作:喜羊羊与灰太狼
 character:alice -> 角色:爱丽丝
 character:akane hino -> 角色:日野茜
 character:ibuki -> 角色:伊吹
@@ -11144,6 +11145,10 @@ character:honne nohotoke -> 角色:布佛本音
 character:zhu zhuqing -> 角色:朱竹清
 character:ning rongrong -> 角色:宁荣荣
 character:bibi dong -> 角色:比比东
+character:shizuku murasaki -> 角色:小滴·紫
+character:karin kurosaki -> 角色:黑崎真咲
+character:bokoblin -> 角色:波克布林
+character:gu yuena -> 角色:古月娜
 group:1 -> 团队:1
 group:13 -> 团队:13
 group:27 -> 团队:27
@@ -24925,6 +24930,17 @@ group:hachiko -> 团队:ハチ公
 group:makura cover soft -> 团队:まくらカバーソフト
 group:fujie -> 团队:フジ江
 group:kurenai book -> 团队:クレナイブック
+group:bloom flash -> 团队:ぶるーむふらっしゅ
+group:zenryoku sissou cat -> 团队:全力疾走猫
+group:dynamic mom -> 团队:ダイナミックマム
+group:bonboritei -> 团队:ぼんぼり亭
+group:calvados okawari -> 团队:カルヴァドスおかわり
+group:umi made drive -> 团队:海までドライブ
+group:nyakku hole -> 团队:にゃっくほーる
+group:banana milk -> 团队:ばなな★みるく
+group:tsukuyomi -> 团队:ツクヨミ
+group:haniwa teikoku -> 团队:はにわ帝国
+group:nekoto -> 团队:猫兎
 artist:2 -> 艺术家:2
 artist:7 -> 艺术家:7
 artist:8 -> 艺术家:8
@@ -26055,7 +26071,7 @@ artist:takayanagi katsuya -> 艺术家:高柳カツヤ
 artist:hori hiroaki -> 艺术家:堀博昭
 artist:yuugiri -> 艺术家:夕雾
 artist:eba -> 艺术家:EBA
-artist:kutibue -> 艺术家:くちぶえ
+artist:kutibue -> 艺术家:口VE
 artist:aoi shou -> 艺术家:葵抄
 artist:myougi kulaganosuke -> 艺术家:妙義倉賀ノ助
 artist:karatakewari -> 艺术家:からたけわり
@@ -34260,7 +34276,7 @@ artist:r-ex -> 艺术家:R-Ex
 artist:ra-men -> 艺术家:らーめん
 artist:rabbi -> 艺术家:らび
 artist:rabbit -> 艺术家:Rabbit
-artist:racer -> 艺术家:racer
+artist:racer -> 艺术家:れーさー
 artist:racket -> 艺术家:らけっと
 artist:radio -> 艺术家:ラジオ
 artist:radiohead -> 艺术家:ラヂヲヘッド
@@ -35497,7 +35513,7 @@ artist:takea saki -> 艺术家:たけあ崎
 artist:takeashiro -> 艺术家:たけあしろ
 artist:takeda -> 艺术家:たけだ
 artist:takeda sora -> 艺术家:武田空
-artist:takedake -> 艺术家:タケダケ
+artist:takedake -> 艺术家:信州タケダケ
 artist:takei tsukasa -> 艺术家:タケイツカサ
 artist:takemaru -> 艺术家:タケマル
 artist:takemitz -> 艺术家:たけみつ
@@ -38741,7 +38757,7 @@ artist:kakido -> 艺术家:かきど
 artist:monaka ouji -> 艺术家:モナカ王子
 artist:sakura no roko -> 艺术家:櫻ノろこ
 artist:baisi -> 艺术家:白糸
-artist:gumpuu -> 艺术家:グンプウ
+artist:gumpuu -> 艺术家:グンプウ | グ風
 artist:shigatsu shiduki -> 艺术家:四月しづき
 artist:takato suzunosuke -> 艺术家:たかとうすずのすけ
 artist:rakura -> 艺术家:らくら
@@ -39498,7 +39514,7 @@ artist:shidoutei -> 艺术家:始童帝
 artist:kai jia wei yi lang -> 艺术家:开甲韦一郎
 artist:asari shio -> 艺术家:あさり潮
 artist:kyouka asuka -> 艺术家:镜花明日香
-artist:tsuyu tsukimi -> 艺术家:つゆつきみ
+artist:tsuyu tsukimi -> 艺术家:つゆ つきみ
 artist:kakuri kairi -> 艺术家:隔離カイリ
 artist:mame paitan -> 艺术家:まめぱいたん
 artist:yugure -> 艺术家:ゆぐれ
@@ -39887,6 +39903,32 @@ artist:yesman -> 艺术家:Yesman
 artist:tefuru -> 艺术家:テフル
 artist:taejaho -> 艺术家:TaejaHo
 artist:aki masanari -> 艺术家:秋全也
+artist:rasetsu dotd -> 艺术家:羅刹dotD
+artist:massigura -> 艺术家:まっしぐら
+artist:tateishi kureha -> 艺术家:立石くれは
+artist:anetani kiki -> 艺术家:義姉峪キキ
+artist:oniku steak -> 艺术家:お肉ステーキ
+artist:xter -> 艺术家:XTER
+artist:kurumaya koudou -> 艺术家:クルマヤ公道
+artist:at-sa-kon13 -> 艺术家:AT-SA-KON
+artist:shiro maru -> 艺术家:白丸
+artist:karigura -> 艺术家:カリぐら
+artist:hotate innovation studio -> 艺术家:ほたてイノベーションスタジオ
+artist:fusatsugu -> 艺术家:ふさつぐ
+artist:siroi sio -> 艺术家:白麹シヲ
+artist:kouheki -> 艺术家:紅碧
+artist:res -> 艺术家:res
+artist:junn -> 艺术家:JUNN
+artist:kisaragi otu -> 艺术家:如月02
+artist:ranmu -> 艺术家:蘭夢
+artist:yamato akira -> 艺术家:八的暁
+artist:harufuei -> 艺术家:はるふえい
+artist:wjs07 -> 艺术家:Wjs07
+artist:kotoko -> 艺术家:古都子
+artist:tsukimori masato -> 艺术家:月森雅十
+artist:ebisujima misato -> 艺术家:戎島実里
+artist:9x2 -> 艺术家:9x2
+artist:laliberte -> 艺术家:laliberte
 cosplayer:otohara an -> Coser:乙原あん
 cosplayer:rioko -> Coser:凉凉子
 cosplayer:atsuki -> Coser:あつき
