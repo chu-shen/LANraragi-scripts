@@ -231,7 +231,7 @@ parody:hidamari sketch -> 原作:向阳素描
 parody:mahou shoujo lyrical nanoha -> 原作:魔法少女奈叶
 parody:rosario vampire -> 原作:十字架与吸血鬼
 parody:pretty cure -> 原作:光之美少女系列
-parody:futari wa pretty cure -> 原作:光之美少女 无印
+parody:futari wa precure -> 原作:光之美少女 无印
 parody:futari wa precure splash star -> 原作:光之美少女 Splash Star
 parody:yes precure 5 -> 原作:Yes! 光之美少女5
 parody:fresh precure -> 原作:光之美少女：幸福精灵
@@ -2798,6 +2798,9 @@ parody:rock wa lady no tashinami deshite -> 原作:摇滚乃是淑女的爱好
 parody:mane mane nichi nichi -> 原作:经理女孩悠悠日常
 parody:counter strike -> 原作:反恐精英
 parody:pleasant goat and big big wolf -> 原作:喜羊羊与灰太狼
+parody:vivy fluorite eyes song -> 原作:薇薇 -萤石眼之歌-
+parody:otome renshin prister -> 原作:乙女恋心プリスター
+parody:aoi hana -> 原作:青之花
 character:alice -> 角色:爱丽丝
 character:akane hino -> 角色:日野茜
 character:ibuki -> 角色:伊吹
@@ -5382,7 +5385,7 @@ character:higuchi kaede -> 角色:樋口枫
 character:tsukino mito -> 角色:月之美兔
 character:yui kusano -> 角色:草野优衣
 character:kanon daiba -> 角色:台场夏音
-character:marnie -> 角色:玛俐
+character:marnie -> 角色:玛俐 | 玛妮
 character:taokaka -> 角色:桃卡卡
 character:medusa lily -> 角色:美杜莎（Lancer）
 character:salome -> 角色:莎乐美
@@ -6801,7 +6804,7 @@ character:touko nanami -> 角色:七海灯子
 character:houki shinonono -> 角色:篠之之帚
 character:mizuki nakahara -> 角色:中原瑞希
 character:senji muramasa -> 角色:千子村正
-character:hinagiku katsura -> 角色:<p>桂雏菊</p>
+character:hinagiku katsura -> 角色:桂雏菊
 character:isumi saginomiya -> 角色:鹭之宫伊澄
 character:nagi sanzenin -> 角色:三千院凪
 character:marie -> 角色:玛丽
@@ -7050,7 +7053,7 @@ character:kagura mea -> 角色:神乐Mea
 character:gabriel -> 角色:加百列
 character:europa -> 角色:欧罗巴
 character:neneka utsushimi -> 角色:现士实似似花
-character:penny -> 角色:牡丹
+character:penny -> 角色:牡丹 | 潘妮
 character:arslan -> 角色:亚尔斯兰
 character:tobio kageyama -> 角色:影山飞雄
 character:kirari momobami -> 角色:桃喰绮罗莉
@@ -8091,7 +8094,7 @@ character:sakura bakushin o -> 角色:樱花进王
 character:inari one -> 角色:稻荷一
 character:tamamo cross -> 角色:玉藻十字
 character:t.m. opera o -> 角色:好歌剧
-character:air shakur -> 角色:<p>空中神宫</p>
+character:air shakur -> 角色:空中神宫
 character:sakura laurel -> 角色:樱花桂冠
 character:dantsu flame -> 角色:烈焰快驹
 character:shinko windy -> 角色:新光风
@@ -8511,7 +8514,7 @@ character:chizuru kashiwagi -> 角色:柏木千鹤
 character:shouto todoroki -> 角色:轰焦冻
 character:popess johanna -> 角色:女教皇若安
 character:sae chabashira -> 角色:茶柱佐枝
-character:hae-in cha -> 角色:车慧仁 | 向坂雫
+character:hae-in cha -> 角色:车慧仁
 character:kitchen dragonmaid -> 角色:龙女仆・炊事龙女
 character:chamber dragonmaid -> 角色:龙女仆・客房龙女
 character:prishe -> 角色:普利修
@@ -10087,7 +10090,7 @@ character:azusa enomoto -> 角色:榎本梓
 character:naeko miike -> 角色:三池苗子
 character:yumi miyamoto -> 角色:宫本由美
 character:wraith -> 角色:恶灵
-character:wattson -> 角色:沃特森（电妹）
+character:wattson -> 角色:沃特森
 character:loba -> 角色:罗芭
 character:bangalore -> 角色:班加罗尔
 character:newcastle -> 角色:纽卡斯尔
@@ -10163,7 +10166,7 @@ character:daffy duck -> 角色:达菲鸭
 character:hyouka fuwa -> 角色:不破冰菓
 character:radford -> 角色:拉德福特
 character:yunohana bloom -> 角色:汤花盛开
-character:tyrant -> 角色:魔王（星塔旅人）
+character:tyrant -> 角色:魔王
 character:shizuka nanahoshi -> 角色:七星静香
 character:mornye -> 角色:莫宁
 character:the dahlia -> 角色:「大丽花」康士坦丝
@@ -10430,7 +10433,7 @@ character:sephiria arks -> 角色:赛菲利亚·亚克斯
 character:ireena litz de olhyde -> 角色:伊莉娜·里茨
 character:reiju vinsmoke -> 角色:文斯莫克·蕾玖
 character:nemo noah -> 角色:尼莫/诺亚
-character:platina -> 角色:普拉蒂纳 (Nunholy)
+character:platina -> 角色:普拉蒂纳
 character:yukino shichido -> 角色:七度雪乃
 character:luke notos greyrat -> 角色:路克·诺托斯·格雷拉特
 character:bastet -> 角色:巴斯特
@@ -10452,7 +10455,7 @@ character:levi kazama -> 角色:风间莱维
 character:miharu yomine -> 角色:夜峰美晴
 character:haruna mutsuishi -> 角色:六石阳菜
 character:felsi rollo -> 角色:菲尔西·洛洛
-character:caroline -> 角色:卡萝莉娜
+character:caroline -> 角色:卡萝莉娜 | 卡洛琳
 character:sophia keren -> 角色:苏菲亚.盖伦
 character:kana sumiya -> 角色:澄弥可奈
 character:mashiro tsukinomori -> 角色:月之森真白
@@ -10729,12 +10732,12 @@ character:illuga -> 角色:叶洛亚
 character:yuko murakami -> 角色:村上佑子
 character:kaga nazuna -> 角色:花芽荠
 character:kaga sumire -> 角色:花芽菫
-character:phantom -> 角色:幻影法师（冒险岛）
-character:luminous -> 角色:夜光法师（冒险岛）
+character:phantom -> 角色:幻影法师
+character:luminous -> 角色:夜光法师
 character:mrs. ming ming -> 角色:明明女士
-character:blaze wizard -> 角色:炎术士（冒险岛）
-character:oz -> 角色:奥兹（冒险岛）
-character:cygnus -> 角色:希纳斯（冒险岛）
+character:blaze wizard -> 角色:炎术士
+character:oz -> 角色:奥兹
+character:cygnus -> 角色:希纳斯
 character:shinomiya runa -> 角色:紫宫露娜
 character:ichinose uruha -> 角色:一之濑丽
 character:hana judgement day mode -> 角色:花(异度神剑)
@@ -10892,7 +10895,6 @@ character:kurumi shiratori -> 角色:白鸟胡桃
 character:mana nagase -> 角色:长濑麻奈
 character:mei hayasaka -> 角色:早坂芽衣
 character:toka takao -> 角色:高尾灯佳
-character:rui tendou -> 角色:天动瑠依
 character:miura hayasaka -> 角色:早坂美丽
 character:michiru kaibara -> 角色:海原美知留
 character:miyu sakurada -> 角色:樱田美梦
@@ -11149,6 +11151,41 @@ character:shizuku murasaki -> 角色:小滴·紫
 character:karin kurosaki -> 角色:黑崎真咲
 character:bokoblin -> 角色:波克布林
 character:gu yuena -> 角色:古月娜
+character:azuchi momo -> 角色:安土桃
+character:ara -> 角色:艾拉
+character:ara haan -> 角色:韩艾拉
+character:nagahide niwa -> 角色:丹羽长秀
+character:nobuna oda -> 角色:织田信奈
+character:mitsuhide akechi -> 角色:明智光秀
+character:shibata katsuie -> 角色:柴田胜家
+character:yoshiharu sagara -> 角色:相良良晴
+character:toshiie maeda -> 角色:前田犬千代
+character:goemon hachisuka -> 角色:蜂须贺五右卫门
+character:katsuie shibata -> 角色:柴田胜家
+character:sonia blanche -> 角色:桑妮雅·布朗谢
+character:excella noa aura -> 角色:爱克塞拉·诺亚·奥拉
+character:jodi -> 角色:乔迪
+character:leah -> 角色:莉亚
+character:emily -> 角色:艾米丽
+character:abigail -> 角色:阿比盖尔
+character:maru -> 角色:玛鲁
+character:haley -> 角色:海莉
+character:jas -> 角色:贾斯
+character:vivy -> 角色:薇薇
+character:ultraseven -> 角色:赛文
+character:xiao wu -> 角色:小舞
+character:ah yin -> 角色:阿银
+character:bo saixi -> 角色:波塞西
+character:crazy dave -> 角色:疯狂戴夫
+character:baseball zombie -> 角色:棒球僵尸
+character:shifu -> 角色:师傅（功夫熊猫）
+character:po -> 角色:阿宝
+character:kitt -> 角色:露可拉
+character:bai xiuxiu -> 角色:白秀秀
+character:lan mengqin -> 角色:蓝梦琴
+character:ye lingtong -> 角色:叶灵瞳
+character:sheng ming -> 角色:生命女神
+character:fumi manjoume -> 角色:万城目富美
 group:1 -> 团队:1
 group:13 -> 团队:13
 group:27 -> 团队:27
@@ -19824,7 +19861,7 @@ group:np virus jouryuusho -> 团队:NPウイルス蒸留所
 group:ns2k -> 团队:ns2k
 group:dondondon -> 团队:どんどんどん
 group:nt confess -> 团队:NTconfess
-group:ntlabo -> 团队:NTラボ
+group:nt robo -> 团队:NTラボ
 group:ntr king -> 团队:NTR キング
 group:ntr suishin iinkai -> 团队:NTR推進委員会
 group:ntr system -> 团队:NTRシステム
@@ -23913,7 +23950,7 @@ group:marumitei -> 团队:まる巳亭
 group:madakoya -> 团队:まだ子屋
 group:4c-fantasy -> 团队:四色绮想
 group:mekimekitei -> 团队:めきめき亭
-group:anmitsutei -> 团队:<p>馅蜜亭</p>
+group:anmitsutei -> 团队:馅蜜亭
 group:tokumei kibounu -> 团队:匿名キボンヌ
 group:poipoi ramen -> 团队:ぽいぽいラーメン
 group:ore no sasakure -> 团队:俺のささくれ
@@ -24941,6 +24978,9 @@ group:banana milk -> 团队:ばなな★みるく
 group:tsukuyomi -> 团队:ツクヨミ
 group:haniwa teikoku -> 团队:はにわ帝国
 group:nekoto -> 团队:猫兎
+group:ue ue shita shita -> 团队:上上下下
+group:f.b.f -> 团队:F.B.F
+group:studio nuco tower -> 团队:Studioぬこたわ
 artist:2 -> 艺术家:2
 artist:7 -> 艺术家:7
 artist:8 -> 艺术家:8
@@ -39929,6 +39969,10 @@ artist:tsukimori masato -> 艺术家:月森雅十
 artist:ebisujima misato -> 艺术家:戎島実里
 artist:9x2 -> 艺术家:9x2
 artist:laliberte -> 艺术家:laliberte
+artist:sekitsui -> 艺术家:せきつい
+artist:kiseenu -> 艺术家:き せ え ぬ
+artist:iwanako -> 艺术家:いわなこ
+artist:rig-pa -> 艺术家:りくぱ
 cosplayer:otohara an -> Coser:乙原あん
 cosplayer:rioko -> Coser:凉凉子
 cosplayer:atsuki -> Coser:あつき
@@ -40150,6 +40194,7 @@ male:monkey boy -> 男性:猴男孩
 male:monster -> 男性:怪物
 male:moth boy -> 男性:蛾男
 male:mouse boy -> 男性:鼠男孩
+male:mushroom boy -> 男性:蘑菇男
 male:necrophilia -> 男性:奸尸
 male:oni -> 男性:鬼
 male:orc -> 男性:半兽人
@@ -40585,6 +40630,7 @@ male:fanny packing -> 男性:人肉腰包
 male:harness -> 男性:挽具
 male:shibari -> 男性:捆绑
 male:stuck in wall -> 男性:卡在墙上
+male:suspended -> 男性:悬空
 male:abortion -> 男性:堕胎
 male:cannibalism -> 男性:食人
 male:cbt -> 男性:虐屌
@@ -40725,6 +40771,7 @@ female:monkey girl -> 女性:猴女孩
 female:monster girl -> 女性:魔物娘
 female:moth girl -> 女性:蛾娘
 female:mouse girl -> 女性:鼠女孩
+female:mushroom girl -> 女性:蘑菇女孩
 female:necrophilia -> 女性:奸尸
 female:oni -> 女性:鬼
 female:orc -> 女性:半兽人
@@ -41188,6 +41235,7 @@ female:fanny packing -> 女性:人肉腰包
 female:harness -> 女性:挽具
 female:shibari -> 女性:捆绑
 female:stuck in wall -> 女性:卡在墙上
+female:suspended -> 女性:悬空
 female:abortion -> 女性:堕胎
 female:cannibalism -> 女性:食人
 female:catfight -> 女性:猫斗
