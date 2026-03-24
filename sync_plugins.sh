@@ -4,7 +4,6 @@ BASE_URL="https://raw.githubusercontent.com/chu-shen/LANraragi/feat-ratingAndcom
 
 TARGET_FILES=(
     "Metadata/Comment.pm"
-    "Metadata/Rating.pm"
     "Metadata/TranslateTitleByAI.pm"
     "Scripts/addEhentaiMetadata.pm"
     "Scripts/DuplicateFinder.pm"
