@@ -2474,7 +2474,7 @@ parody:michiko to hatchin -> 原作:道子与哈金
 parody:kemeko deluxe -> 原作:钢铁新娘
 parody:super gals -> 原作:辣妹当家
 parody:geten no hana -> 原作:下天之华
-parody:closers -> 原作:CLOSERS
+parody:closers -> 原作:封印者
 parody:maou no ore ga dorei elf o yome ni shitanda ga dou medereba ii -> 原作:身为魔王的我娶了奴隶精灵为妻，该如何表白我的爱？
 parody:girumasu -> 原作:虽然是公会柜台小姐，但是因为讨厌加班所以要去单挑BOSS
 parody:crusher joe -> 原作:宇宙先锋
@@ -2801,6 +2801,19 @@ parody:pleasant goat and big big wolf -> 原作:喜羊羊与灰太狼
 parody:vivy fluorite eyes song -> 原作:薇薇 -萤石眼之歌-
 parody:otome renshin prister -> 原作:乙女恋心プリスター
 parody:aoi hana -> 原作:青之花
+parody:akuyaku reijou tensei oji-san -> 原作:中年大叔转生反派千金
+parody:yuusha party ni kawaii ko ga ita node kokuhaku shite mita. -> 原作:身为魔族的我 想向勇者小队的可爱女孩告白
+parody:isekai mokushiroku mynoghra -> 原作:异世界默示录麦诺格拉
+parody:super noobs -> 原作:超级菜鸟
+parody:reality quest -> 原作:现实闯关
+parody:operators side -> 原作:生命线
+parody:wuchang fallen feathers -> 原作:明末：渊虚之羽
+parody:mayonaka heart tune -> 原作:午夜心旋律
+parody:clair obscur expedition 33 -> 原作:光与影：33号远征队
+parody:higeki no genkyou to naru saikyou gedou last boss joou -> 原作:身为悲剧始作俑者的最强邪恶BOSS女王为民竭心尽力
+parody:okiraku ryoushu no tanoshii ryouchi bouei -> 原作:安闲领主的愉快领地防卫
+parody:omae gotoki ga maou ni kateru to omouna -> 原作:被勇者小队逐出队伍，只好在王都自在过活
+parody:ore wa seikan kokka no akutoku ryoushu -> 原作:我是星际国家的恶德领主
 character:alice -> 角色:爱丽丝
 character:akane hino -> 角色:日野茜
 character:ibuki -> 角色:伊吹
@@ -3624,7 +3637,7 @@ character:genjii -> 角色:源氏
 character:junkrat -> 角色:狂鼠
 character:roadhog -> 角色:路霸
 character:pharah -> 角色:法老之鹰
-character:soldier 76 -> 角色:士兵：76
+character:soldier 76 -> 角色:士兵76
 character:symmetra -> 角色:秩序之光
 character:winston -> 角色:温斯顿
 character:sombra -> 角色:黑影
@@ -11186,6 +11199,72 @@ character:lan mengqin -> 角色:蓝梦琴
 character:ye lingtong -> 角色:叶灵瞳
 character:sheng ming -> 角色:生命女神
 character:fumi manjoume -> 角色:万城目富美
+character:grace auvergne -> 角色:格蕾丝·宪三郎
+character:cecilia aquarain -> 角色:赛西莉亚·阿奎莱恩
+character:pax shirone -> 角色:帕库斯·西隆
+character:luong -> 角色:梁
+character:sophia claudel -> 角色:索菲亚·克罗蒂尔
+character:luna flockhart -> 角色:露娜·弗洛克哈特
+character:evanescia -> 角色:绯英
+character:ririko futamihara -> 角色:二见原莉莉子
+character:odei no atou -> 角色:污泥之阿荼
+character:kos-mos -> 角色:KOS-MOS
+character:koudai chinkyuu -> 角色:陈宫公台
+character:aku -> 角色:亚可
+character:luna elegant -> 角色:露娜·埃雷甘特
+character:mikoto suou -> 角色:周防美琴
+character:eri sawachika -> 角色:泽近爱理
+character:yakumo tsukamoto -> 角色:冢本八云
+character:tenma tsukamoto -> 角色:冢本天满
+character:karen ichijou -> 角色:一条可怜
+character:itoko osakabe -> 角色:刑部弦子
+character:pollux -> 角色:波鲁克斯
+character:william shakespeare -> 角色:威廉·莎士比亚
+character:estella -> 角色:埃特拉
+character:chadley -> 角色:查德利
+character:illari -> 角色:伊拉锐
+character:echo -> 角色:回声
+character:freja -> 角色:弗蕾娅
+character:rio hohenheim -> 角色:里奥·霍恩海姆
+character:alejandra -> 角色:亚历山德拉
+character:orisa -> 角色:奥丽莎
+character:reaper -> 角色:死神（守望先锋）
+character:hanzo -> 角色:岛田半藏
+character:mccree -> 角色:麦克雷
+character:huang yan -> 角色:黄嫣
+character:tatewaki kuno -> 角色:九能带刀
+character:rikka inohana -> 角色:井之华六花
+character:arisu yamabuki -> 角色:山吹有栖
+character:iko kirino -> 角色:雾乃依子
+character:clea dessendre -> 角色:克莱雅·德森德雷
+character:iroha sakayori -> 角色:酒寄彩叶
+character:grace ashcroft -> 角色:格蕾丝·阿什克罗夫特
+character:pride royal ivy -> 角色:普莱朵·罗耶尔·艾比
+character:futaba mihara -> 角色:三原双叶
+character:azusa ueda -> 角色:上田梓
+character:taisei onari -> 角色:大成大成
+character:ina onari -> 角色:大成伊奈
+character:asami gondou -> 角色:权藤亚沙美
+character:akane nishino -> 角色:西野茜
+character:victoria -> 角色:维多利亚
+character:panamera karla kaien -> 角色:帕娜梅拉·卡雷拉·凯恩
+character:zuko -> 角色:苏科
+character:ursa -> 角色:尔姝
+character:bond forger -> 角色:邦德·福杰
+character:sigrika -> 角色:西格莉卡
+character:moskva -> 角色:莫斯科
+character:sara anvilen -> 角色:赛菈·安比连
+character:marisbury animusphere -> 角色:马里斯比利·阿尼姆斯菲亚
+character:kirschtaria wodime -> 角色:基尔什塔利亚·沃戴姆
+character:christiana leta rosebreyer -> 角色:克莉丝蒂亚娜·雷塔·罗兹布雷亚
+character:nias carlin -> 角色:妮雅丝·卡琳
+character:fuyume hanamura -> 角色:花群冬芽
+character:esu sagiri -> 角色:冴雾笑主
+character:babel tanit -> 角色:芭别尔·塔尼特
+character:jeht ufairah hindi -> 角色:婕德·优菲·欣迪
+character:rosemi lovelock -> 角色:Rosemi Lovelock
+character:don corneo -> 角色:东·古留根尾
+character:linnea -> 角色:莉奈娅
 group:1 -> 团队:1
 group:13 -> 团队:13
 group:27 -> 团队:27
@@ -13634,7 +13713,7 @@ group:abalone kiss -> 团队:ABALONE KISS
 group:abara ga itai -> 团队:あばらが痛い
 group:abarenbow tengu -> 团队:暴れん坊天狗
 group:abaretabi -> 团队:暴れ旅
-group:abbey load -> 团队:Abbey Load
+group:abbey load -> 团队:アビィロード
 group:abdg encirclement formation -> 团队:ABDG包囲網
 group:abellcain -> 团队:アベルカイン
 group:aberyu -> 团队:悪部流
@@ -24981,6 +25060,8 @@ group:nekoto -> 团队:猫兎
 group:ue ue shita shita -> 团队:上上下下
 group:f.b.f -> 团队:F.B.F
 group:studio nuco tower -> 团队:Studioぬこたわ
+group:freddie works -> 团队:ふれでぃわーくす
+group:kasumi kaori -> 团队:カスミカオリ
 artist:2 -> 艺术家:2
 artist:7 -> 艺术家:7
 artist:8 -> 艺术家:8
@@ -28431,7 +28512,7 @@ artist:shiramizu mizuchi -> 艺术家:白瑞みずち
 artist:majima tetsurou -> 艺术家:真島てつろー
 artist:super zombie -> 艺术家:超级僵尸
 artist:seuma -> 艺术家:せうま
-artist:ryoma -> 艺术家:北田竜馬
+artist:ryoma -> 艺术家:北田龙马
 artist:kannko -> 艺术家:缶子
 artist:sencha -> 艺术家:せんちゃ
 artist:miyazaki hayao -> 艺术家:宫崎骏
@@ -39973,6 +40054,15 @@ artist:sekitsui -> 艺术家:せきつい
 artist:kiseenu -> 艺术家:き せ え ぬ
 artist:iwanako -> 艺术家:いわなこ
 artist:rig-pa -> 艺术家:りくぱ
+artist:akubishin -> 艺术家:アクビシン
+artist:momose an -> 艺术家:モモセアン | 百瀬あん
+artist:fukakutei -> 艺术家:不確定
+artist:nakaharu yuuna -> 艺术家:仲春結菜
+artist:alna -> 艺术家:あるな
+artist:paya8 -> 艺术家:Paya8
+artist:toratora -> 艺术家:Toratora
+artist:shikabanekamo -> 艺术家:しかばねかも
+artist:otto -> 艺术家:おっと
 cosplayer:otohara an -> Coser:乙原あん
 cosplayer:rioko -> Coser:凉凉子
 cosplayer:atsuki -> Coser:あつき
