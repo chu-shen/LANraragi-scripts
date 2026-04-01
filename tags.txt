@@ -342,21 +342,21 @@ parody:kiss x sis -> 原作:亲吻姐姐
 parody:kimikiss -> 原作:君吻
 parody:super sonico -> 原作:超级索尼子
 parody:final fantasy -> 原作:最终幻想
-parody:final fantasy ii -> 原作:最终幻想II
-parody:final fantasy iii -> 原作:最终幻想III
+parody:final fantasy ii -> 原作:最终幻想2
+parody:final fantasy iii -> 原作:最终幻想3
 parody:final fantasy iv -> 原作:最终幻想IV
-parody:final fantasy v -> 原作:最终幻想V
-parody:final fantasy vi -> 原作:最终幻想VI
+parody:final fantasy v -> 原作:最终幻想5
+parody:final fantasy vi -> 原作:最终幻想6
 parody:final fantasy vii -> 原作:最终幻想7
-parody:final fantasy viii -> 原作:最终幻想VIII
-parody:final fantasy ix -> 原作:最终幻想IX
-parody:final fantasy x -> 原作:最终幻想X
+parody:final fantasy viii -> 原作:最终幻想8
+parody:final fantasy ix -> 原作:最终幻想9
+parody:final fantasy x -> 原作:最终幻想10
 parody:final fantasy x-2 -> 原作:最终幻想X-2
 parody:final fantasy xi -> 原作:最终幻想XI
-parody:final fantasy xii -> 原作:最终幻想XII
-parody:final fantasy xiii -> 原作:最终幻想XIII
+parody:final fantasy xii -> 原作:最终幻想12
+parody:final fantasy xiii -> 原作:最终幻想13
 parody:final fantasy xiv -> 原作:最终幻想XIV
-parody:final fantasy xv -> 原作:最终幻想XV
+parody:final fantasy xv -> 原作:最终幻想15
 parody:final fantasy crystal chronicles -> 原作:最终幻想水晶编年史
 parody:final fantasy tactics -> 原作:最终幻想战略版
 parody:final fantasy tactics advance -> 原作:最终幻想战略版Advance
@@ -1024,7 +1024,7 @@ parody:avengers -> 原作:复仇者联盟
 parody:monster -> 原作:怪物
 parody:jungle wa itsumo hare nochi guu -> 原作:热带雨林的爆笑生活
 parody:w.i.t.c.h. -> 原作:魔力W.i.t.c.h.
-parody:ninja gaiden -> 原作:忍者外传
+parody:ninja gaiden -> 原作:忍者龙剑传
 parody:otome wa boku ni koishiteru -> 原作:少女爱上姐姐
 parody:fairy tail -> 原作:妖精的尾巴
 parody:oni chichi -> 原作:鬼父
@@ -2814,6 +2814,11 @@ parody:higeki no genkyou to naru saikyou gedou last boss joou -> 原作:身为�
 parody:okiraku ryoushu no tanoshii ryouchi bouei -> 原作:安闲领主的愉快领地防卫
 parody:omae gotoki ga maou ni kateru to omouna -> 原作:被勇者小队逐出队伍，只好在王都自在过活
 parody:ore wa seikan kokka no akutoku ryoushu -> 原作:我是星际国家的恶德领主
+parody:active raid -> 原作:机动强袭室第八系
+parody:tojima tanzaburo wa kamen rider ni naritai -> 原作:东岛丹三郎想成为假面骑士
+parody:magical explorer -> 原作:魔法★探险家 转生为成人游戏万年男二又怎样，我要活用游戏知识自由生活
+parody:chaos zero nightmare -> 原作:卡厄思梦境
+parody:renegade immortal -> 原作:仙逆
 character:alice -> 角色:爱丽丝
 character:akane hino -> 角色:日野茜
 character:ibuki -> 角色:伊吹
@@ -2823,7 +2828,7 @@ character:rider -> 角色:Rider | 龙女
 character:maya -> 角色:摩耶(犮)
 character:jeanne darc -> 角色:圣女贞德
 character:katsuragi -> 角色:葛城(鹖)
-character:kasumi -> 角色:霞(蕸)
+character:kasumi -> 角色:霞 | 蕸
 character:leo -> 角色:丽王 | 利昂
 character:haruna -> 角色:榛名(鲑) | 春奈
 character:chitose -> 角色:千岁(鹂)
@@ -4681,7 +4686,7 @@ character:takumi -> 角色:拓海
 character:charlotte -> 角色:夏洛特 | 夏洛蒂
 character:ryoma -> 角色:龙马
 character:orochi -> 角色:远吕智
-character:elise -> 角色:伊莉丝（蜘蛛女皇）
+character:elise -> 角色:伊莉丝 | 蜘蛛女皇
 character:flannel -> 角色:弗拉内尔
 character:camilla -> 角色:卡米拉
 character:felicia -> 角色:菲莉西亚
@@ -5162,7 +5167,7 @@ character:yuuma kuga -> 角色:空闲游真
 character:kokkoro -> 角色:可可萝
 character:holo -> 角色:赫萝
 character:marie rose -> 角色:玛丽·萝丝
-character:helena douglas -> 角色:海莲娜
+character:helena douglas -> 角色:海莲娜·道格拉斯
 character:sylvanas windrunner -> 角色:希尔瓦娜斯·风行者
 character:nessa -> 角色:露璃娜
 character:sonia -> 角色:索妮亚
@@ -5429,7 +5434,7 @@ character:ars almal -> 角色:阿露丝·阿尔玛
 character:elesa -> 角色:小菊儿
 character:selene -> 角色:美月
 character:lillie -> 角色:莉莉艾
-character:honoka -> 角色:穗乃果
+character:honoka -> 角色:穗香
 character:hex maniac -> 角色:灵异迷
 character:hypno -> 角色:引梦貘人
 character:lana -> 角色:水莲
@@ -5930,7 +5935,7 @@ character:rudeus greyrat -> 角色:鲁迪乌斯·格雷拉特
 character:sylphiette -> 角色:希露菲叶特
 character:zamasu -> 角色:扎马斯
 character:kokoro -> 角色:心
-character:christie -> 角色:克丽丝蒂
+character:christie -> 角色:克丽丝蒂·艾伦
 character:mila -> 角色:米拉
 character:hitomi -> 角色:瞳
 character:raiden shogun -> 角色:雷电将军
@@ -6308,7 +6313,7 @@ character:seraphine -> 角色:萨勒芬妮（星籁歌姬）
 character:erich von rerugen -> 角色:埃里希·冯·雷鲁根
 character:luciela r. sourcream -> 角色:露西艾拉·R·索克莉姆
 character:eris -> 角色:厄里斯 | 厄莉丝
-character:luna -> 角色:露娜（素晴）
+character:luna -> 角色:露娜（素晴 | 死或生）
 character:yamato no kami yasusada -> 角色:大和守安定
 character:takane lui -> 角色:鹰岭露依
 character:charlotte e. yeager -> 角色:夏洛特·E·叶格
@@ -6784,7 +6789,7 @@ character:hachiroku -> 角色:八六
 character:yggdrasil -> 角色:尤格多拉希尔
 character:otome arisugawa -> 角色:有栖川乙女
 character:luo tianyi -> 角色:洛天依
-character:sensei -> 角色:老师
+character:sensei -> 角色:老师（蔚蓝档案）
 character:azuma seren -> 角色:东雪莲
 character:yaoyao -> 角色:瑶瑶
 character:monika -> 角色:莫妮卡
@@ -7367,12 +7372,12 @@ character:monica kruszewski -> 角色:莫妮卡·库鲁席夫斯基
 character:jessie rasberry -> 角色:杰西
 character:tamaki -> 角色:环
 character:nagisa -> 角色:凪咲
-character:nanami -> 角色:娜娜米
+character:nanami -> 角色:七海
 character:misaki -> 角色:海咲
 character:sayuri -> 角色:小百合
 character:helena -> 角色:海伦娜
 character:momiji -> 角色:红叶
-character:nico -> 角色:NiCO
+character:nico -> 角色:妮可（死或生）
 character:monica -> 角色:莫妮卡（死或生）
 character:fiona -> 角色:菲欧娜
 character:cai wenji -> 角色:蔡文姬
@@ -10331,7 +10336,7 @@ character:kurumi kuribayashi -> 角色:栗林胡桃
 character:ninon joubert -> 角色:妮侬·朱柏尔
 character:creditta cash -> 角色:克蕾琪塔·卡修
 character:kaya kidou -> 角色:鬼道嘉夜
-character:karin -> 角色:观崎佳凛
+character:karin -> 角色:观崎佳凛 | 神月卡琳
 character:rika manabe -> 角色:真边莉佳
 character:iroha kohinata -> 角色:小日向彩羽
 character:misaki gundou -> 角色:群堂美咲
@@ -11265,6 +11270,66 @@ character:jeht ufairah hindi -> 角色:婕德·优菲·欣迪
 character:rosemi lovelock -> 角色:Rosemi Lovelock
 character:don corneo -> 角色:东·古留根尾
 character:linnea -> 角色:莉奈娅
+character:hinako shimizu -> 角色:深水雏子
+character:eve reese -> 角色:夏娃·莉丝
+character:chelsea -> 角色:切尔茜
+character:leone -> 角色:雷欧奈
+character:kurome -> 角色:黑瞳
+character:najenda -> 角色:娜洁希坦
+character:brigitta lycaon -> 角色:布丽吉塔·利卡翁
+character:juani cygnus -> 角色:朱厄妮·西格纳斯
+character:will -> 角色:威尔（暗喻幻想）
+character:bartz klauser -> 角色:巴兹·克劳萨
+character:faris scherwiz -> 角色:法里斯·夏尔威兹
+character:lenna charlotte tycoon -> 角色:莱纳·夏洛特·提康
+character:karasuba -> 角色:鸦羽
+character:minato sahashi -> 角色:佐桥皆人
+character:miya asama -> 角色:浅间美哉
+character:meg -> 角色:梅格
+character:rachel -> 角色:瑞秋
+character:amy -> 角色:艾米
+character:tsukushi -> 角色:筑紫
+character:reika -> 角色:丽香
+character:patty -> 角色:帕蒂
+character:azusa -> 角色:梓
+character:xin xianying -> 角色:辛宪英
+character:asami kazari -> 角色:花咲里麻美
+character:mavis vermillion -> 角色:梅比斯·法米利翁
+character:watcher -> 角色:观者
+character:miu furinji -> 角色:风林寺美羽
+character:nine -> 角色:奈音
+character:rashid -> 角色:拉希德
+character:li-fen -> 角色:李芬
+character:ed -> 角色:爱德
+character:falke -> 角色:法尔凯
+character:fang -> 角色:方
+character:ken -> 角色:肯
+character:laura -> 角色:松田劳拉
+character:cody travers -> 角色:科迪·特拉弗斯
+character:terry bogard -> 角色:特瑞·博加德
+character:dhalsim -> 角色:达尔西姆
+character:guy -> 角色:凯
+character:a.k.i. -> 角色:阿鬼
+character:jamie -> 角色:杰米
+character:kimberly jackson -> 角色:金佰莉
+character:dee jay -> 角色:迪·杰
+character:luke sullivan -> 角色:卢克·沙利文
+character:marisa rossetti -> 角色:玛丽莎·罗塞蒂
+character:mike haggar -> 角色:迈克·哈格
+character:frill shiranui -> 角色:不知火芙莉露
+character:rika shiraki -> 角色:白木里香
+character:nami kozono -> 角色:小园奈美
+character:reika kitami -> 角色:北见丽华
+character:yukiko minase -> 角色:水无濑由起子
+character:madame president -> 角色:女社长
+character:reiko terayama -> 角色:寺山丽子
+character:miyuki nonogusa -> 角色:野野草美由纪
+character:erina pendleton -> 角色:艾莉娜·班德鲁顿
+character:yuuna yagi -> 角色:八木夕凪
+character:etsuya eizan -> 角色:叡山枝津也
+character:moca miyamai -> 角色:宫舞茉歌
+character:shiho suzui -> 角色:铃井志帆
+character:suguru kamoshida -> 角色:鸭志田卓
 group:1 -> 团队:1
 group:13 -> 团队:13
 group:27 -> 团队:27
@@ -25062,6 +25127,9 @@ group:f.b.f -> 团队:F.B.F
 group:studio nuco tower -> 团队:Studioぬこたわ
 group:freddie works -> 团队:ふれでぃわーくす
 group:kasumi kaori -> 团队:カスミカオリ
+group:kuron -> 团队:クゥロン
+group:puru-ya -> 团队:プル屋
+group:multiplication -> 团队:multiplication
 artist:2 -> 艺术家:2
 artist:7 -> 艺术家:7
 artist:8 -> 艺术家:8
@@ -40063,6 +40131,16 @@ artist:paya8 -> 艺术家:Paya8
 artist:toratora -> 艺术家:Toratora
 artist:shikabanekamo -> 艺术家:しかばねかも
 artist:otto -> 艺术家:おっと
+artist:wakahi-chan -> 艺术家:わかひちゃん
+artist:glty07 -> 艺术家:ゴル
+artist:haimen tayuta -> 艺术家:灰綿たゆた
+artist:kuron -> 艺术家:クゥロン
+artist:cathriell rue -> 艺术家:Cathriell Rue
+artist:aogiri -> 艺术家:蒼桐 旺
+artist:shigao. -> 艺术家:しがお。
+artist:sana -> 艺术家:さな
+artist:konnandakke -> 艺术家:コンナンダッケ
+artist:arehoko -> 艺术家:あれほこ
 cosplayer:otohara an -> Coser:乙原あん
 cosplayer:rioko -> Coser:凉凉子
 cosplayer:atsuki -> Coser:あつき
