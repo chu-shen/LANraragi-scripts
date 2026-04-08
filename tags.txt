@@ -1974,7 +1974,7 @@ parody:daisenryaku -> 原作:大战略
 parody:daphne in the brilliant blue -> 原作:光与水的女神
 parody:dark chronicle -> 原作:暗云编年史
 parody:dark water -> 原作:Dark Water
-parody:darker than black -> 原作:DARKER THAN BLACK
+parody:darker than black -> 原作:黑之契约者
 parody:darkwing duck -> 原作:狡猾飞天德
 parody:dave the barbarian -> 原作:野蛮人戴夫
 parody:day break illusion -> 原作:穿透幻影的太阳
@@ -2819,6 +2819,15 @@ parody:tojima tanzaburo wa kamen rider ni naritai -> 原作:东岛丹三郎想�
 parody:magical explorer -> 原作:魔法★探险家 转生为成人游戏万年男二又怎样，我要活用游戏知识自由生活
 parody:chaos zero nightmare -> 原作:卡厄思梦境
 parody:renegade immortal -> 原作:仙逆
+parody:fuyukara kururu. -> 原作:冬旅，方冥冥
+parody:osananajimi to wa love comedy ni naranai -> 原作:和青梅竹马之间不会有恋爱喜剧
+parody:shine post -> 原作:闪耀路标
+parody:alma-chan wa kazoku ni naritai -> 原作:小阿尔玛想要成为家人
+parody:mahoutsukai ni narenakatta onnanoko no hanashi -> 原作:没能成为魔法师的女孩子的故事
+parody:my card is better than your card -> 原作:我的牌更好!
+parody:tsue to tsurugi no wistoria -> 原作:杖与剑的魔剑谭
+parody:mashle -> 原作:物理魔法使马修
+parody:roco kingdom -> 原作:洛克王国
 character:alice -> 角色:爱丽丝
 character:akane hino -> 角色:日野茜
 character:ibuki -> 角色:伊吹
@@ -11330,6 +11339,84 @@ character:etsuya eizan -> 角色:叡山枝津也
 character:moca miyamai -> 角色:宫舞茉歌
 character:shiho suzui -> 角色:铃井志帆
 character:suguru kamoshida -> 角色:鸭志田卓
+character:sayuka kouenji -> 角色:高円寺沙由香
+character:takamaru ikusabe -> 角色:战部鹰丸
+character:akari sonozaki -> 角色:园崎明里
+character:katsura tenjoin -> 角色:天上院桂
+character:shaula -> 角色:夏乌拉
+character:saint charloss -> 角色:查尔罗斯圣
+character:kasumi miwa -> 角色:三轮霞
+character:genos -> 角色:杰诺斯
+character:amanogawa shiina -> 角色:天之川椎名
+character:hei -> 角色:黑（李舜生）
+character:yin -> 角色:银
+character:misaki kirihara -> 角色:雾原未咲
+character:tanya akulova -> 角色:塔尼娅·阿克罗
+character:suou pavlichenko -> 角色:苏芳·帕夫利琴科
+character:genma shizume -> 角色:镇目弦马
+character:mina hazuki -> 角色:叶月水无
+character:runa tsukimi -> 角色:月见瑠奈
+character:rikumu -> 角色:Rikumu
+character:yawara naekawa -> 角色:苗川柔
+character:alma -> 角色:阿尔玛
+character:makina -> 角色:玛琪娜
+character:kurumi mirai -> 角色:可露米·未来
+character:minami suzuki -> 角色:美奈海·铃树
+character:rabu komakaze -> 角色:河驹风兰舞
+character:alma judikhali -> 角色:阿妮玛·尤迪卡雷
+character:reinhard van astrea -> 角色:莱因哈鲁特·梵·阿斯特雷亚
+character:regulus corneas -> 角色:雷古勒斯·柯尼亚斯
+character:liliana masquerade -> 角色:莉莉安娜·马斯可芮德
+character:satsuki amamiya -> 角色:雨宫纱月
+character:haruno akiyama -> 角色:秋山春乃
+character:an kiriyama -> 角色:雾山杏
+character:ema yamato -> 角色:大和绘马
+character:suzu kamoto -> 角色:鹿本铃
+character:manaka roba -> 角色:炉场爱花
+character:rinna sarukawa -> 角色:申川凛奈
+character:nova terra -> 角色:诺娃·泰拉
+character:the queen of hatred -> 角色:憎恶女王
+character:caron -> 角色:卡伦
+character:lihanna owenzaus -> 角色:莉亚娜·欧文萨乌斯
+character:elfaria albis serfort -> 角色:艾尔菲利亚·阿尔薇丝·塞尔弗特
+character:colette loire -> 角色:柯蕾特·卢瓦尔
+character:mayuri hanyuu -> 角色:羽生真由梨
+character:aria kisaki -> 角色:喜咲亚理亚
+character:krasny kavkaz -> 角色:红色山脉
+character:kirara hoshi -> 角色:星绮罗罗
+character:mai zenin -> 角色:禅院梅
+character:saitou -> 角色:斋藤老师
+character:beatrix amerhauser -> 角色:贝雅托里斯·阿默豪瑟
+character:saori ootori -> 角色:凤沙织
+character:mash burnedead -> 角色:马修·班地德
+character:lemon irvine -> 角色:蕾蒙·埃尔文
+character:kiruko -> 角色:斩子
+character:till -> 角色:蒂儿
+character:kat -> 角色:凯特
+character:kirthia -> 角色:可丽希亚
+character:marche lorraine -> 角色:洛林军歌
+character:yuina wakura -> 角色:和仓结名
+character:ohana matsumae -> 角色:松前绪花
+character:minko tsurugi -> 角色:鹤来民子
+character:kanon nakagawa -> 角色:中川奏音
+character:ayumi takahara -> 角色:高原步美
+character:haqua du lot herminium -> 角色:哈克雅·杜·罗德·赫尔梅尼姆
+character:elucia de lute ima -> 角色:艾利由西亚·D·鲁德·伊玛
+character:keima katsuragi -> 角色:桂木桂马
+character:yui goidou -> 角色:五位堂结
+character:kusunoki kasuga -> 角色:春日楠
+character:tenri ayukawa -> 角色:鲇川天理
+character:urara shiratori -> 角色:白鸟丽
+character:tsukiyo kujou -> 角色:九条月夜
+character:chihiro kosaka -> 角色:小阪千寻
+character:mio aoyama -> 角色:青山美生
+character:ikumi yoshino -> 角色:吉野郁美
+character:tooru amami -> 角色:天美透
+character:fabiola iglesias -> 角色:法碧欧拉・伊格雷西亚斯
+character:garcia lovelace -> 角色:格鲁西亚·费尔南多·拉布雷斯
+character:marth -> 角色:马尔斯
+character:lena -> 角色:蕾娜
+character:medeus -> 角色:梅迪烏斯
 group:1 -> 团队:1
 group:13 -> 团队:13
 group:27 -> 团队:27
@@ -25130,6 +25217,19 @@ group:kasumi kaori -> 团队:カスミカオリ
 group:kuron -> 团队:クゥロン
 group:puru-ya -> 团队:プル屋
 group:multiplication -> 团队:multiplication
+group:gallium wear -> 团队:gallium wear
+group:omochi no mochi-ya -> 团队:おもちのもち屋
+group:muripoyo -> 团队:むりぽよ
+group:morintomeme -> 团队:モリントメメ
+group:38.5 c -> 团队:38.5℃
+group:aosuke no circle -> 团队:あおすけのサークル
+group:honey trap -> 团队:はにーとらっぷ
+group:wasu no ie -> 团队:ワスの家
+group:rakuen tengoku -> 团队:楽園天国
+group:hiiroism -> 团队:ヒイロイズム
+group:peppy angel -> 团队:PEPPY ANGEL
+group:kuriimo souda -> 团队:栗芋操舵
+group:empress -> 团队:Empress
 artist:2 -> 艺术家:2
 artist:7 -> 艺术家:7
 artist:8 -> 艺术家:8
@@ -31116,7 +31216,7 @@ artist:ichimonji mutsuki -> 艺术家:一文字睦月
 artist:ichinashi kimi -> 艺术家:市梨きみ
 artist:ichino -> 艺术家:いちの
 artist:ichinomiya kazusa -> 艺术家:一ノ宮かずさ
-artist:ichinose -> 艺术家:イチノセ
+artist:ichinose -> 艺术家:いちのせ
 artist:ichiokunen wakusei -> 艺术家:1亿年惑星
 artist:ichiro -> 艺术家:一滝
 artist:ichitaka -> 艺术家:いちたか
@@ -40141,6 +40241,24 @@ artist:shigao. -> 艺术家:しがお。
 artist:sana -> 艺术家:さな
 artist:konnandakke -> 艺术家:コンナンダッケ
 artist:arehoko -> 艺术家:あれほこ
+artist:turmixane -> 艺术家:つるみかざね
+artist:ishita -> 艺术家:いした
+artist:wabi mochi -> 艺术家:わびもち
+artist:noe -> 艺术家:Noe
+artist:nari -> 艺术家:NARI
+artist:panic america -> 艺术家:パニックアメリカ
+artist:hahakigi -> 艺术家:ははきぎ
+artist:ika9 -> 艺术家:ika9
+artist:asamitsu fumi -> 艺术家:あさみつ史
+artist:whesky -> 艺术家:ウエスキー
+artist:sukenyan -> 艺术家:すけにゃん
+artist:fun fan -> 艺术家:Funふぁん
+artist:sakuratsuki rin -> 艺术家:桜月りん
+artist:gran -> 艺术家:GRAN
+artist:inari mochi -> 艺术家:稲荷もち
+artist:asteria -> 艺术家:アステリア
+artist:kuriimo pie -> 艺术家:栗芋パイ
+artist:ondoreanko mochi -> 艺术家:おんどれあんこ餅
 cosplayer:otohara an -> Coser:乙原あん
 cosplayer:rioko -> Coser:凉凉子
 cosplayer:atsuki -> Coser:あつき
