@@ -951,7 +951,7 @@ parody:lost universe -> 原作:宇宙刑警
 parody:amanchu -> 原作:蓝海少女！
 parody:mangaka-san to assistant-san to -> 原作:漫画家与助手
 parody:sisters natsu no saigo no hi -> 原作:SISTERS～夏最后之日～
-parody:tokyo 7th sisters -> 原作:东京 7th Sisters
+parody:tokyo 7th sisters -> 原作:东京七姐妹
 parody:7th dragon -> 原作:第七龙神
 parody:project blue earth sos -> 原作:蓝色计划-地球SOS
 parody:sakura hime -> 原作:樱姬华传
@@ -2528,7 +2528,7 @@ parody:himitsu no aipri -> 原作:秘密的偶像公主
 parody:shachiku-san wa youjo yuurei ni iyasaretai. -> 原作:社畜小姐想被幽灵幼女治愈。
 parody:shadows house -> 原作:影宅
 parody:crosscode -> 原作:远星物语
-parody:love live bluebird -> 原作:生如百戏难！LOVELIVE! BLUEBIRD
+parody:love live bluebird -> 原作:生如百戏难！LOVELIVE! 青鸟
 parody:manyuu hikenchou -> 原作:魔乳秘劍帖
 parody:shangri-la frontier -> 原作:香格里拉边境～粪作猎人向神作游戏发起挑战
 parody:dragon poker -> 原作:龙族扑克
@@ -2828,6 +2828,22 @@ parody:my card is better than your card -> 原作:我的牌更好!
 parody:tsue to tsurugi no wistoria -> 原作:杖与剑的魔剑谭
 parody:mashle -> 原作:物理魔法使马修
 parody:roco kingdom -> 原作:洛克王国
+parody:fields of mistria -> 原作:米斯特里亚牧场
+parody:tenkuu no tobira -> 原作:天空之扉
+parody:hanebado -> 原作:轻羽飞扬
+parody:shimeji simulation -> 原作:蘑菇的拟态日常
+parody:ghostpia -> 原作:幽灵镇少女
+parody:kizetsu yuusha to ansatsu hime -> 原作:气绝勇者与暗杀公主
+parody:jishou akuyaku reijou na konyakusha no kansatsu kiroku. -> 原作:自称恶役大小姐的婚约者观察记录
+parody:jidou hanbaiki ni umarekawatta ore wa meikyuu wo samayou -> 原作:转生成自动贩卖机的我今天也在迷宫徘徊
+parody:bunny suit planning -> 原作:BUNNY SUIT PLANNING
+parody:hanamaru youchien -> 原作:花丸幼稚园
+parody:tougen anki -> 原作:桃源暗鬼
+parody:uncharted -> 原作:神秘海域系列
+parody:the last blade -> 原作:月华剑士
+parody:temple -> 原作:庙不可言
+parody:kingdom -> 原作:王者天下
+parody:fate prototype -> 原作:命运-原型
 character:alice -> 角色:爱丽丝
 character:akane hino -> 角色:日野茜
 character:ibuki -> 角色:伊吹
@@ -3938,7 +3954,7 @@ character:iroha tsuchiura -> 角色:土浦彩叶
 character:nyaruko -> 角色:奈亚子
 character:cthugha -> 角色:克图格亚
 character:mahiro yasaka -> 角色:八坂真寻
-character:hastur -> 角色:哈斯太
+character:hastur -> 角色:哈斯塔（黄衣之主）
 character:konoe tsuruma -> 角色:鹤真心乃枝
 character:miyabi kannagi -> 角色:神凪雅
 character:himeko inaba -> 角色:稻叶姬子
@@ -8225,7 +8241,7 @@ character:gloria martinez -> 角色:葛洛莉亚·马丁内斯
 character:yato -> 角色:夜刀
 character:noir corne -> 角色:黑角
 character:nayuta -> 角色:娜由塔 | 那由多
-character:saori kido -> 角色:雅典娜 城户沙织
+character:saori kido -> 角色:城户沙织（雅典娜）
 character:athena -> 角色:雅典娜
 character:hades -> 角色:哈迪斯
 character:rie kawai -> 角色:河合理恵
@@ -8970,7 +8986,7 @@ character:meguru inaba -> 角色:因幡巡
 character:rurudo lion -> 角色:Rurudo Lion
 character:tan otori -> 角色:尾鸟绽
 character:houjou -> 角色:北条
-character:nefelpitou -> 角色:尼菲比特
+character:nefelpitou -> 角色:尼飞比特
 character:goreinu -> 角色:果列奴
 character:ororon -> 角色:欧洛伦
 character:mikari tachibana -> 角色:橘美花莉
@@ -10995,9 +11011,9 @@ character:zhao hufeng -> 角色:赵虎峰
 character:violet weinberg -> 角色:瓦尔蕾特·温伯格
 character:shuri komori -> 角色:小森朱里
 character:amane ubuyashiki -> 角色:产屋敷天音
-character:joseph desaulniers -> 角色:约瑟夫·德拉索恩斯
-character:vera nair -> 角色:薇拉·奈尔
-character:luca balsa -> 角色:卢卡·巴尔萨
+character:joseph desaulniers -> 角色:约瑟夫·德拉索恩斯（摄影师）
+character:vera nair -> 角色:薇拉·奈尔（调香师）
+character:luca balsa -> 角色:卢卡·巴尔萨（囚徒）
 character:famine devil -> 角色:饥荒恶魔
 character:cure arcana shadow -> 角色:森亚琉琉歌 (奥秘天使·影)
 character:marshall d. teach -> 角色:马歇尔·D·蒂奇
@@ -11077,8 +11093,8 @@ character:akemi aizawa -> 角色:相泽明美
 character:alicia viewstream -> 角色:艾丽西亚・比斯雷姆
 character:marshadow -> 角色:玛夏多
 character:shizuka kiba -> 角色:木场静火
-character:norton campbell -> 角色:诺顿·坎贝尔
-character:emma woods -> 角色:艾玛·伍兹
+character:norton campbell -> 角色:诺顿·坎贝尔（勘探员）
+character:emma woods -> 角色:艾玛·伍兹（园丁）
 character:raidian -> 角色:电弧
 character:yvonne -> 角色:伊冯
 character:yukiko kanzaki -> 角色:神崎有希子
@@ -11417,6 +11433,114 @@ character:garcia lovelace -> 角色:格鲁西亚·费尔南多·拉布雷斯
 character:marth -> 角色:马尔斯
 character:lena -> 角色:蕾娜
 character:medeus -> 角色:梅迪烏斯
+character:rignetta-san -> 角色:莉吉妮塔
+character:bacterian -> 角色:巴比迪
+character:hana somei -> 角色:染井华
+character:methode -> 角色:梅特蒂
+character:ada -> 角色:艾达（博人传）
+character:seiko fuji -> 角色:藤圣子
+character:tenebria -> 角色:泰妮布里雅
+character:rio sonidori -> 角色:鴗鸟理凰
+character:bartholomew kuma -> 角色:巴索罗米·熊
+character:ginny -> 角色:金妮
+character:yuu ebina -> 角色:海老名悠
+character:nagisa aragaki -> 角色:荒垣渚
+character:koyuki -> 角色:恋雪
+character:ciel zebul -> 角色:雪儿·泽布尔
+character:goa minagawa -> 角色:戈雅·皆川
+character:anemone -> 角色:阿内莫涅
+character:bertia ibil noches -> 角色:芭蒂雅·伊弗·诺切斯
+character:silica lunea -> 角色:西莉卡·路尼亚
+character:anne kogares -> 角色:安妮·可格雷斯
+character:joanna curtswarren -> 角色:乔安娜·凯兹沃蓝
+character:cynthia linnerith -> 角色:辛西亚·索尼利斯
+character:miharu kashiwagi -> 角色:柏木美晴
+character:alice deross -> 角色:爱丽丝·德罗斯（记者）
+character:alva lorenz -> 角色:阿尔瓦·洛伦兹
+character:xie bian -> 角色:谢必安（宿伞之魂）
+character:fan wujiu -> 角色:范无咎（宿伞之魂）
+character:melly plinius -> 角色:梅莉·普林尼（女王蜂）
+character:tracy reznik -> 角色:特蕾西·列兹尼克（机械师）
+character:naib subedar -> 角色:奈布·萨贝达（佣兵）
+character:ada mesmer -> 角色:艾达·梅斯默（心理学家）
+character:aesop carl -> 角色:伊索·卡尔（入殓师）
+character:helena adams -> 角色:海伦娜·亚当斯（盲女）
+character:eli clark -> 角色:伊莱·克拉克（先知）
+character:michiko -> 角色:美智子（红蝶）
+character:kevin alonso -> 角色:凯文·阿尤索（牛仔）
+character:william webb ellis -> 角色:威廉·艾利斯（前锋）
+character:andrew kreiss -> 角色:安德鲁·克雷斯（守墓人）
+character:patricia dorval -> 角色:帕缇夏·多里瓦尔（咒术师）
+character:lammis -> 角色:拉蜜丝
+character:zhuang fangyi -> 角色:庄方宜
+character:nemumu -> 角色:涅姆姆
+character:mera -> 角色:美拉
+character:nazuna -> 角色:纳芝娜
+character:crane yuzuriha -> 角色:让叶（天鹤座）
+character:shunrei -> 角色:春丽（圣斗士）
+character:shoko sugimoto -> 角色:杉本翔子
+character:sophia f. shirring -> 角色:索菲亚·F·希琳
+character:rim -> 角色:理芽
+character:kaf -> 角色:花谱
+character:nanako yamamoto -> 角色:山本菜菜子
+character:mary aki -> 角色:玛丽亚纪
+character:yomogi momokusa -> 角色:桃草蓬
+character:kuina sazanami -> 角色:涟水鸡
+character:polka takahashi -> 角色:高桥波尔卡
+character:mai azabu -> 角色:麻布麻衣
+character:akira goto -> 角色:五桐玲
+character:miracle kanazawa -> 角色:金泽奇迹
+character:yukuri harumiya -> 角色:春宫悠可里
+character:shion sasaki -> 角色:佐佐木翔音
+character:cocoro yazawa -> 角色:矢泽心
+character:nana shimura -> 角色:志村菜奈
+character:suma -> 角色:须磨
+character:hinatsuru -> 角色:雏鹤
+character:cassie drake -> 角色:凯西·德雷克
+character:chloe frazer -> 角色:克罗伊·弗雷瑟
+character:elena fisher -> 角色:伊莲娜·费雪
+character:nihilux -> 角色:虚照
+character:manami katsura -> 角色:桂真奈美
+character:youko saionji -> 角色:西园寺踊子
+character:hasaha -> 角色:哈萨赫
+character:subaru takamiya -> 角色:鹰宫昴
+character:miki kawai -> 角色:川井美树
+character:kyouko u. uesugi -> 角色:上杉·威帕斯·京子
+character:alessandra susu -> 角色:亚历山大·苏斯
+character:rona tsunomori -> 角色:角森萝娜
+character:sumire usuta -> 角色:臼田堇
+character:sawara harumi -> 角色:晴海纱良
+character:futaba karakuri -> 角色:空栗双叶
+character:hitoha karakuri -> 角色:空栗一叶
+character:sui kamishiro -> 角色:神城翠
+character:rena araki -> 角色:荒木礼奈
+character:ferb seto -> 角色:濑户费尔布
+character:murasaki echizen -> 角色:越前紫
+character:honoka nishizono -> 角色:西园穗乃香
+character:musubi tendouji -> 角色:天堂寺结
+character:shizuka kuonji -> 角色:久远寺静香
+character:ume kujyo -> 角色:九条梅
+character:miu aihara -> 角色:逢原美羽
+character:tasha romanovsky -> 角色:塔莎·罗曼诺夫斯基
+character:tsukuyo aoba -> 角色:苍叶月夜
+character:yuzuki aoba -> 角色:苍叶结月
+character:masayoshi komi -> 角色:古见将贺
+character:denia -> 角色:达妮娅
+character:leorio paladiknight -> 角色:雷欧力·帕拉帝奈特
+character:meruem -> 角色:梅路艾姆
+character:gel -> 角色:葛儿
+character:taisai seikun -> 角色:太岁星君
+character:melissa kinrenka -> 角色:梅丽莎·金莲花
+character:lihaku -> 角色:李白（药屋少女）
+character:tao tao the chanter -> 角色:阴阳师道道
+character:kokurano -> 角色:狐蔵乃
+character:illyana rasputina -> 角色:伊莉亚娜·拉斯普京（秘客）
+character:kai kyou -> 角色:羌瘣
+character:mizora -> 角色:米佐拉
+character:orin -> 角色:奥林
+character:minthara baenre -> 角色:明萨拉
+character:gyutaro -> 角色:妓夫太郎
+character:makio -> 角色:槙於
 group:1 -> 团队:1
 group:13 -> 团队:13
 group:27 -> 团队:27
@@ -24144,7 +24268,7 @@ group:flower classe -> 团队:ふらわーくらっせ
 group:iro murasaki -> 团队:やみつきハグハグ
 group:minshuku izmd -> 团队:民宿IZMD
 group:youyouan -> 团队:葉々庵
-group:kurumaya koudou -> 团队:クルマヤ公道
+group:kurumaya koudou -> 团队:车屋公道
 group:harugakita -> 团队:はるがきた
 group:imoimolatte -> 团队:いもいもラテ
 group:kitahara koubou -> 团队:北原工房。
@@ -25230,6 +25354,23 @@ group:hiiroism -> 团队:ヒイロイズム
 group:peppy angel -> 团队:PEPPY ANGEL
 group:kuriimo souda -> 团队:栗芋操舵
 group:empress -> 团队:Empress
+group:aisu hatsudenjyo -> 团队:アイス発電所
+group:orange mimosa -> 团队:オレンジミモザ
+group:tourendou -> 团队:灯恋堂
+group:tamagoyaki -> 团队:たまごやき
+group:pomesame teishokuya -> 团队:ポメ鮫定食屋
+group:waseichigo -> 团队:わせいちご
+group:coela network -> 团队:Coela Network
+group:niisan koubou -> 团队:にぃさん工房
+group:otyamao -> 团队:お茶魔男
+group:mahomaho koubou -> 团队:まほまほ工房
+group:uraumiya -> 团队:うらうみ屋
+group:toukibi batake de tsukamaete -> 团队:とうきび畑でつかまえて
+group:otoko no saimin fetiya-san -> 团队:男の催眠フェチ屋さん
+group:rurukoya -> 团队:るる小屋
+group:okushima izumo -> 团队:奥島いずも
+group:niero kouzan -> 团队:ニエロ鉱山
+group:kuroneko -> 团队:くろねこ（NTR専門）
 artist:2 -> 艺术家:2
 artist:7 -> 艺术家:7
 artist:8 -> 艺术家:8
@@ -38016,7 +38157,7 @@ artist:villainchin -> 艺术家:VillainChin
 artist:katou roca -> 艺术家:カトウロカ
 artist:lsc5 -> 艺术家:LSC5
 artist:kanitama -> 艺术家:カニタマ
-artist:smallflyingrat -> 艺术家:小飛鼠
+artist:smallflyingrat -> 艺术家:小飞鼠
 artist:sanhualishuwu -> 艺术家:三花栗鼠屋
 artist:haishima shioji -> 艺术家:はいしま潮路
 artist:dokuro deluxe -> 艺术家:ドクロ Deluxe
@@ -40198,7 +40339,7 @@ artist:tateishi kureha -> 艺术家:立石くれは
 artist:anetani kiki -> 艺术家:義姉峪キキ
 artist:oniku steak -> 艺术家:お肉ステーキ
 artist:xter -> 艺术家:XTER
-artist:kurumaya koudou -> 艺术家:クルマヤ公道
+artist:kurumaya koudou -> 艺术家:车屋公道
 artist:at-sa-kon13 -> 艺术家:AT-SA-KON
 artist:shiro maru -> 艺术家:白丸
 artist:karigura -> 艺术家:カリぐら
@@ -40259,6 +40400,36 @@ artist:inari mochi -> 艺术家:稲荷もち
 artist:asteria -> 艺术家:アステリア
 artist:kuriimo pie -> 艺术家:栗芋パイ
 artist:ondoreanko mochi -> 艺术家:おんどれあんこ餅
+artist:aisu no a -> 艺术家:アイスのあ
+artist:yubi -> 艺术家:指
+artist:kiduki sai -> 艺术家:綺月さい
+artist:tonagi tsuyu -> 艺术家:灯凪つゆ
+artist:senukin -> 艺术家:Senukin
+artist:gyokuro sakana -> 艺术家:魚クロ
+artist:yansu -> 艺术家:ヤンス
+artist:tsumikisata -> 艺术家:積観木沙汰
+artist:zhushiwo123 -> 艺术家:zhushiwo123
+artist:hitoshi yura -> 艺术家:ひとし由良
+artist:tomii roba -> 艺术家:富井ロバ
+artist:matuokanili -> 艺术家:松岡二
+artist:itou shinichi -> 艺术家:伊藤星一
+artist:mahomaho -> 艺术家:まほまほ
+artist:ratetaso -> 艺术家:らてたそ
+artist:urashina -> 艺术家:裏科
+artist:toukibi -> 艺术家:とうきび
+artist:matsukaze akitarou -> 艺术家:松風あきたろう
+artist:yukiya ruru -> 艺术家:雪谷るる
+artist:matsuda oruta -> 艺术家:松田おるた
+artist:shybox -> 艺术家:Shybox
+artist:jiuxueran -> 艺术家:旧雪染
+artist:moxueyin -> 艺术家:墨雪吟
+artist:hino himoto -> 艺术家:日野ひもと
+artist:syundei -> 艺术家:春泥
+artist:ilill -> 艺术家:入る
+artist:punpunn -> 艺术家:Punpunn
+artist:niello kyo -> 艺术家:にえろKYO
+artist:seiran aichi -> 艺术家:SeiranAichi
+artist:muta -> 艺术家:むた
 cosplayer:otohara an -> Coser:乙原あん
 cosplayer:rioko -> Coser:凉凉子
 cosplayer:atsuki -> Coser:あつき
