@@ -731,7 +731,7 @@ parody:battle royale -> 原作:大逃杀
 parody:archaic sealed heat -> 原作:远古封印之炎
 parody:fruits basket -> 原作:水果篮子
 parody:tari tari -> 原作:TARI TARI
-parody:the legend of heroes -> 原作:英雄传说
+parody:the legend of heroes -> 原作:英雄传说系列
 parody:the legend of the legendary heroes -> 原作:传说中勇者的传说
 parody:the last of us -> 原作:最后生还者
 parody:wall-e -> 原作:机器人总动员
@@ -2844,6 +2844,12 @@ parody:the last blade -> 原作:月华剑士
 parody:temple -> 原作:庙不可言
 parody:kingdom -> 原作:王者天下
 parody:fate prototype -> 原作:命运-原型
+parody:jiisan baasan wakagaeru -> 原作:老夫老妻重返青春
+parody:himawari wa yoru ni saku -> 原作:向日葵在夜晚绽放
+parody:joshikousei no mudazukai -> 原作:女高中生的虚度日常
+parody:mad father -> 原作:狂父
+parody:yuusha-kei ni shosu -> 原作:判处勇者刑
+parody:hades -> 原作:哈迪斯
 character:alice -> 角色:爱丽丝
 character:akane hino -> 角色:日野茜
 character:ibuki -> 角色:伊吹
@@ -11541,6 +11547,27 @@ character:orin -> 角色:奥林
 character:minthara baenre -> 角色:明萨拉
 character:gyutaro -> 角色:妓夫太郎
 character:makio -> 角色:槙於
+character:yui yumekawa -> 角色:梦川唯
+character:hisato azuma -> 角色:东阳里
+character:farah -> 角色:法菈
+character:akami karubi -> 角色:赤见卡露比
+character:kuon -> 角色:久苑
+character:draco malfoy -> 角色:德拉科·马尔福
+character:selena corey -> 角色:赛琳娜·科里
+character:haruka hasebe -> 角色:长谷部波瑠加
+character:aya -> 角色:阿雅
+character:dylan brock -> 角色:迪兰·布洛克
+character:chloe valens -> 角色:克洛艾·瓦伦斯
+character:norma beatty -> 角色:诺玛·毕亚提
+character:van arkride -> 角色:范恩·亚克莱德‌
+character:anna highland -> 角色:安娜·海蘭德
+character:miyuki nanase -> 角色:七濑美雪
+character:hajime kindaichi -> 角色:金田一一
+character:reika hayami -> 角色:速水玲香
+character:cissia -> 角色:希希芙
+character:patausche kivia -> 角色:芭特谢·基维亚
+character:teoritta -> 角色:缇欧丽塔
+character:frenci mastibolt -> 角色:芙雷希·玛斯提波鲁特
 group:1 -> 团队:1
 group:13 -> 团队:13
 group:27 -> 团队:27
@@ -25371,6 +25398,23 @@ group:rurukoya -> 团队:るる小屋
 group:okushima izumo -> 团队:奥島いずも
 group:niero kouzan -> 团队:ニエロ鉱山
 group:kuroneko -> 团队:くろねこ（NTR専門）
+group:uma goya sankaku -> 团队:uma五夜参画
+group:bitchmotors -> 团队:ビッチモーターズ
+group:mamiana hanten -> 团队:狸穴飯店
+group:kaori no chikara -> 团队:香りの力
+group:monaka doumei -> 团队:もなか同盟
+group:asuha -> 团队:アスハー
+group:pink journey -> 团队:ピンクジャーニー
+group:v.u.g -> 团队:V.U.G
+group:plustic heart -> 团队:+チックハート
+group:yomogipaha -> 团队:よもぎぱは
+group:plankton cessna -> 团队:プランクトンセスナ
+group:icepick -> 团队:アイスピック
+group:dareka no circle -> 团队:ダレカノサークル
+group:glam sight -> 团队:グラムサイト
+group:unicornis -> 团队:unicornis
+group:waiwai seisaku -> 团队:ワイワイ制作
+group:cham project -> 团队:ちゃむプロジェクト
 artist:2 -> 艺术家:2
 artist:7 -> 艺术家:7
 artist:8 -> 艺术家:8
@@ -25428,7 +25472,7 @@ artist:ohtomo takuji -> 艺术家:大友卓二
 artist:yamada no seikatu ga daiichi -> 艺术家:山田の性活が第一
 artist:asamura hiori -> 艺术家:朝丛志描
 artist:matsukawa -> 艺术家:松河
-artist:mmm -> 艺术家:暗黑えむ将军
+artist:mmm -> 艺术家:OTAKUMMM
 artist:facominn -> 艺术家:ふぁこみん
 artist:great mosu -> 艺术家:ぐれーともす
 artist:ringo sui -> 艺术家:苹果水
@@ -26434,7 +26478,7 @@ artist:lockheart -> 艺术家:ロックハート
 artist:nasipasuta -> 艺术家:なしぱすた
 artist:poccora -> 艺术家:ぽっこら
 artist:puyocha -> 艺术家:ぷよちゃ
-artist:rakujin -> 艺术家:らくじん
+artist:rakujin -> 艺术家:沢尻メロウ（らくじん）
 artist:syuuen -> 艺术家:终焉
 artist:harazaki takuma -> 艺术家:はらざきたくま
 artist:hashimura aoki -> 艺术家:桥村青树
@@ -31182,7 +31226,7 @@ artist:hitomi aki -> 艺术家:人見あき
 artist:hitori jozu -> 艺术家:日盗りジョーズ
 artist:hitotose rin -> 艺术家:春夏秋冬鈴
 artist:hits -> 艺术家:ひっつ
-artist:hitsuji -> 艺术家:HITSUJI
+artist:hitsuji -> 艺术家:ひつじ
 artist:hitsuji hako -> 艺术家:日辻ハコ
 artist:hitsujibane shinobu -> 艺术家:羊羽 忍
 artist:hitsujiko -> 艺术家:羊子
@@ -32672,7 +32716,7 @@ artist:kurouku -> 艺术家:くろーく
 artist:kuroya kenji -> 艺术家:黒谷賢志
 artist:kuroyume naoto -> 艺术家:黒夢奈音
 artist:kurozako -> 艺术家:くろざこ
-artist:kurukuru -> 艺术家:クルクル
+artist:kurukuru -> 艺术家:くるくる
 artist:kuruma -> 艺术家:くるま
 artist:kurumai -> 艺术家:くるまい
 artist:kurumi moka -> 艺术家:胡桃もか
@@ -37087,7 +37131,7 @@ artist:yoshizawa vanilla -> 艺术家:芳澤ばにら
 artist:yositama -> 艺术家:ヨシタマ
 artist:yosomono -> 艺术家:よそ者
 artist:yosuke -> 艺术家:ヨースケ
-artist:yosyo- -> 艺术家:ヨショー
+artist:yosyo- -> 艺术家:いきなりもじお
 artist:yotaka -> 艺术家:yotaka
 artist:yotarou -> 艺术家:夜太弄
 artist:yotsuba yuiko -> 艺术家:四葉ゆいこ
@@ -38116,7 +38160,7 @@ artist:yoshio ereki -> 艺术家:よしおエレキ
 artist:ueda metawo -> 艺术家:上田メタヲ
 artist:ematsuko -> 艺术家:エマツコ
 artist:kimineko -> 艺术家:君ねこ
-artist:toono esuke -> 艺术家:远野えすけ
+artist:toono esuke -> 艺术家:遠野えすけ
 artist:ozu satoru -> 艺术家:を图さとる
 artist:ainame -> 艺术家:あいなめ
 artist:fuyutsumi chiaki -> 艺术家:ふゆつみ千明
@@ -40430,6 +40474,32 @@ artist:punpunn -> 艺术家:Punpunn
 artist:niello kyo -> 艺术家:にえろKYO
 artist:seiran aichi -> 艺术家:SeiranAichi
 artist:muta -> 艺术家:むた
+artist:jndfh -> 艺术家:jndfh
+artist:murasan -> 艺术家:ムラさん
+artist:kitano onsen -> 艺术家:きたのをんせん
+artist:youkai kubinashi -> 艺术家:妖怪クビナシ
+artist:renbocloud -> 艺术家:Renbocloud
+artist:kaze no koe -> 艺术家:風の声
+artist:wada-chin -> 艺术家:和田ちん
+artist:utena emu -> 艺术家:蒂絵夢
+artist:oniru -> 艺术家:おにる
+artist:snow -> 艺术家:スノウ
+artist:yasumi -> 艺术家:泰三
+artist:kouyama atsuki -> 艺术家:こーやまあつき
+artist:jobg -> 艺术家:jobG
+artist:saitou dareka -> 艺术家:斉藤ダレカ
+artist:himawari taro -> 艺术家:向日葵たろう
+artist:dog food -> 艺术家:どっぐふーど
+artist:kanchi -> 艺术家:かんち
+artist:kagto -> 艺术家:Kagto
+artist:ankoku emu shougun -> 艺术家:暗黑えむ将军
+artist:ryokurin -> 艺术家:りょくりん
+artist:mutsuki shougatsu -> 艺术家:睦月正月
+artist:kok -> 艺术家:KoK
+artist:yatsuka -> 艺术家:やつか
+artist:naseba -> 艺术家:なせば
+artist:itouya -> 艺术家:伊藤屋
+artist:rorimo -> 艺术家:ヌカきゅーり（ロリモ）
 cosplayer:otohara an -> Coser:乙原あん
 cosplayer:rioko -> Coser:凉凉子
 cosplayer:atsuki -> Coser:あつき
