@@ -15,7 +15,7 @@ sub plugin_info {
         type        => "metadata",
         namespace   => "translatetitlebyai",
         author      => "CHUSHEN",
-        version     => "1.1",
+        version     => "1.2",
         description => "Translate title by AI",
         parameters  => [
             { type => 'string', desc => 'OpenAI API Key' },
@@ -23,7 +23,8 @@ sub plugin_info {
             { type => 'string', desc => 'API URL (optional). Default: https://api.openai.com/v1/chat/completions', default_value => 'https://api.openai.com/v1/chat/completions' },
             { type => 'string', desc => 'Model (optional). Default: gpt-3.5-turbo', default_value => 'gpt-3.5-turbo' },
             { type => 'int', desc => 'Temperature (optional). Default: 1.3', default_value => 1.3 },
-            { type => 'string', desc => 'Tag Name (optional). Default: TranslateTitleByAI', default_value => 'TranslateTitleByAI' }
+            { type => 'string', desc => 'Tag Name (optional). Default: TranslateTitleByAI', default_value => 'TranslateTitleByAI' },
+            { type => 'string', desc => 'Thinking Mode, enabled/disabled (optional). Default: disabled', default_value => 'disabled' }
         ]
     );
 }
@@ -33,7 +34,7 @@ sub get_tags {
     my $lrr_info = shift;
     my $logger = get_plugin_logger();
 
-    my ($api_key, $prompt, $url, $model, $temperature, $tag_name) = @_;
+    my ($api_key, $prompt, $url, $model, $temperature, $tag_name, $thinking_type) = @_;
 
     unless ($api_key) {
         $logger->error("API key is required");
@@ -46,6 +47,7 @@ sub get_tags {
     $temperature = 1.3 if !defined $temperature || $temperature eq '';
     $temperature = $temperature + 0;
     $tag_name = 'TranslateTitleByAI' if !defined $tag_name || $tag_name eq '';
+    $thinking_type = 'disabled' if !defined $thinking_type || $thinking_type eq '';
 
 
     my $title = $lrr_info->{archive_title};
@@ -64,7 +66,8 @@ sub get_tags {
                 model       => $model,
                 messages    => [{ role => "user", content => $full_prompt}],
                 temperature => $temperature,
-                stream      => false
+                stream      => false,
+                thinking    => { type => $thinking_type}
             }
         );
 
