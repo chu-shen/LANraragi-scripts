@@ -2850,6 +2850,11 @@ parody:joshikousei no mudazukai -> 原作:女高中生的虚度日常
 parody:mad father -> 原作:狂父
 parody:yuusha-kei ni shosu -> 原作:判处勇者刑
 parody:hades -> 原作:哈迪斯
+parody:unmei no makimodoshi -> 原作:命运回溯士
+parody:pragmata -> 原作:识质存在
+parody:poppin-play kitchen -> 原作:波比的玩乐厨房
+parody:neverness to everness -> 原作:异环
+parody:baywatch -> 原作:海滩救护队
 character:alice -> 角色:爱丽丝
 character:akane hino -> 角色:日野茜
 character:ibuki -> 角色:伊吹
@@ -8702,7 +8707,7 @@ character:lieselotte sherlock -> 角色:莉瑟罗特・沙尔洛克
 character:beta -> 角色:贝塔
 character:sophie neuenmuller -> 角色:苏菲·诺伊恩缪拉
 character:orie takadate -> 角色:高楯欧丽叶
-character:mint -> 角色:薄绿
+character:mint -> 角色:薄荷 | 薄绿
 character:almond eye -> 角色:杏目
 character:maya yotsuba -> 角色:四叶真夜
 character:suzune amano -> 角色:天乃铃音
@@ -11568,6 +11573,32 @@ character:cissia -> 角色:希希芙
 character:patausche kivia -> 角色:芭特谢·基维亚
 character:teoritta -> 角色:缇欧丽塔
 character:frenci mastibolt -> 角色:芙雷希·玛斯提波鲁特
+character:akaba -> 角色:阿卡巴
+character:ramiel -> 角色:拉米尔
+character:willow schnee -> 角色:威洛·施尼
+character:whitley schnee -> 角色:惠特利·施尼
+character:rinka shidou -> 角色:紫藤凛花
+character:ayuko hayami -> 角色:速水鲇子
+character:angela anaconda -> 角色:安吉拉·阿纳康达
+character:arin ju -> 角色:朱雅琳
+character:siyeon -> 角色:诗研
+character:jinseo hyun -> 角色:玄真书
+character:misao makimachi -> 角色:卷町操
+character:yayoi houzuki -> 角色:宝月夜宵
+character:sucy manbavaran -> 角色:苏西·曼芭芭拉
+character:lotte yanson -> 角色:洛蒂·杨森
+character:sapphire rhodonite -> 角色:莎菲雅·罗德奈特
+character:ryoka narusawa -> 角色:成泽棱歌
+character:tabane shinonono -> 角色:篠之之束
+character:mikagami hana -> 角色:水镜华
+character:sakiri -> 角色:早雾
+character:devilun -> 角色:德比伦
+character:scavenger -> 角色:清道夫
+character:katheryne -> 角色:凯瑟琳（原神）
+character:winry rockbell -> 角色:温莉·洛克贝尔
+character:subaru kakehashi -> 角色:梯 昴
+character:nicole reeyn -> 角色:尼可·莱恩
+character:ichika amasawa -> 角色:天泽一夏
 group:1 -> 团队:1
 group:13 -> 团队:13
 group:27 -> 团队:27
@@ -19869,7 +19900,7 @@ group:nankin honpo -> 团队:南京本舗
 group:nankotsu age rice -> 团队:なんこつ揚げライス
 group:nankyoku -> 团队:なんきょく
 group:nano royal -> 团队:Nano Royal
-group:nanokah -> 团队:なのかH
+group:nanokah -> 团队:なのかえいち
 group:nansyu-koubow -> 团队:南洲好房
 group:nantan e -> 团队:南端へ
 group:nantoka narunaru. -> 团队:なんとかなるなる。
@@ -25415,6 +25446,16 @@ group:glam sight -> 团队:グラムサイト
 group:unicornis -> 团队:unicornis
 group:waiwai seisaku -> 团队:ワイワイ制作
 group:cham project -> 团队:ちゃむプロジェクト
+group:dobu chang teikoku -> 团队:どぶCHANG帝国
+group:jirufans -> 团队:じるふぁん
+group:nununomenon -> 团队:ぬぬのめのん
+group:misoji company -> 团队:三十路カンパニー
+group:teromeronuru -> 团队:てろめろぬる
+group:nunpokojin -> 团队:ヌンポコジン
+group:aizuan -> 团队:あいづ庵
+group:neko happyaku -> 团队:ねこはっぴゃく
+group:donguri kinoko -> 团队:どんぐりきのこ
+group:momo-chan attack -> 团队:ももちゃんあたっく
 artist:2 -> 艺术家:2
 artist:7 -> 艺术家:7
 artist:8 -> 艺术家:8
@@ -32424,7 +32465,7 @@ artist:kokumaro -> 艺术家:こくまろ
 artist:kokuu rikishi -> 艺术家:虚空力士
 artist:kolgha -> 艺术家:コルガー
 artist:kom -> 艺术家:Kom
-artist:koma -> 艺术家:KOMA
+artist:koma -> 艺术家:koma
 artist:komac -> 艺术家:鼓膜
 artist:komagata -> 艺术家:狛形
 artist:komaki ren -> 艺术家:小巻恋
@@ -40500,6 +40541,27 @@ artist:yatsuka -> 艺术家:やつか
 artist:naseba -> 艺术家:なせば
 artist:itouya -> 艺术家:伊藤屋
 artist:rorimo -> 艺术家:ヌカきゅーり（ロリモ）
+artist:dobu -> 艺术家:どぶ
+artist:splash thomson -> 艺术家:Splash Thomson
+artist:hisai hikou -> 艺术家:久井避航
+artist:asani nemuru -> 艺术家:朝仁ねむる
+artist:uta kaiko -> 艺术家:うたかいこ
+artist:suiseimushi -> 艺术家:すいせいむし
+artist:sekine irie -> 艺术家:関根いりえ
+artist:kameyama cola -> 艺术家:亀山コーラ
+artist:musou -> 艺术家:無相
+artist:gamogamo -> 艺术家:がもがも
+artist:aizuchi -> 艺术家:あいヅチ
+artist:marsa -> 艺术家:marsa
+artist:watashiki -> 艺术家:わたしき
+artist:akire -> 艺术家:アキレ
+artist:kasa -> 艺术家:かさ
+artist:hanana -> 艺术家:はなな
+artist:hiji chaba -> 艺术家:ひじ茶葉
+artist:hato tsumugi -> 艺术家:鳩ツムギ
+artist:ante90 -> 艺术家:ANTE90
+artist:hongcha -> 艺术家:HONGCHA
+artist:gyuunyuu pack -> 艺术家:牛乳パック
 cosplayer:otohara an -> Coser:乙原あん
 cosplayer:rioko -> Coser:凉凉子
 cosplayer:atsuki -> Coser:あつき
