@@ -2855,6 +2855,13 @@ parody:pragmata -> 原作:识质存在
 parody:poppin-play kitchen -> 原作:波比的玩乐厨房
 parody:neverness to everness -> 原作:异环
 parody:baywatch -> 原作:海滩救护队
+parody:shinobi no ittoki -> 原作:忍之一时
+parody:jitsu wa ore saikyou deshita -> 原作:其实我是最强的？
+parody:killing bites -> 原作:牙斗兽娘
+parody:devil connection -> 原作:恶魔连结
+parody:the son of bigfoot -> 原作:我的爸爸是森林之王
+parody:dune -> 原作:沙丘
+parody:hocus pocus -> 原作:女巫也疯狂
 character:alice -> 角色:爱丽丝
 character:akane hino -> 角色:日野茜
 character:ibuki -> 角色:伊吹
@@ -4561,7 +4568,7 @@ character:yutaka hasebe -> 角色:长谷部丰
 character:tomoki sakurai -> 角色:樱井智树
 character:ikaros -> 角色:伊卡洛斯
 character:nymph -> 角色:妮姆芙 | 妮芙
-character:astraea -> 角色:阿斯特蕾亚
+character:astraea -> 角色:阿斯特莉亚
 character:chaos -> 角色:卡奥斯
 character:sohara mitsuki -> 角色:见月楚原
 character:hiyori kazane -> 角色:风音日和
@@ -11599,6 +11606,24 @@ character:winry rockbell -> 角色:温莉·洛克贝尔
 character:subaru kakehashi -> 角色:梯 昴
 character:nicole reeyn -> 角色:尼可·莱恩
 character:ichika amasawa -> 角色:天泽一夏
+character:sousuke sagara -> 角色:相良宗介
+character:teletha tessa testarossa -> 角色:泰蕾莎·泰丝塔罗莎
+character:wiene -> 角色:薇妮
+character:heith velvet -> 角色:海慈·贝鲁佩特
+character:aisha belka -> 角色:阿伊莎·贝尔卡
+character:airmid teasanare -> 角色:阿蜜德·特亚萨纳雷
+character:riveria ljos alf -> 角色:里维莉亚·利欧斯·阿尔弗
+character:alfia -> 角色:阿尔霏亚
+character:welf crozzo -> 角色:韦尔夫·克洛
+character:cassandra ilion -> 角色:卡珊德拉·伊利翁
+character:asfi al andromeda -> 角色:亚丝菲·阿尔·安朵美达
+character:chloe rollo -> 角色:可萝伊·洛洛
+character:charlotte zenfis -> 角色:夏洛特·泽菲斯
+character:hitachi chigusa -> 角色:常陆·千草
+character:alise lovell -> 角色:亚莉榭·罗斐尔
+character:faye valentine -> 角色:菲·瓦伦丁
+character:green arrow -> 角色:绿箭侠
+character:corticarte apa lagranges -> 角色:珂緹卡兒蒂·阿帕·拉格朗潔絲
 group:1 -> 团队:1
 group:13 -> 团队:13
 group:27 -> 团队:27
@@ -25456,6 +25481,15 @@ group:aizuan -> 团队:あいづ庵
 group:neko happyaku -> 团队:ねこはっぴゃく
 group:donguri kinoko -> 团队:どんぐりきのこ
 group:momo-chan attack -> 团队:ももちゃんあたっく
+group:silkyhurst -> 团队:シルキーハースト
+group:kurokami gratin -> 团队:くろかみグラタン
+group:ferret -> 团队:ふぇれっと
+group:kisene frega -> 团队:キセネフレガ
+group:ourakuza -> 团队:凹楽座
+group:morning star -> 团队:モニスタラッシュ
+group:nekomata sanshokukan -> 团队:ねこマタ三色館
+group:chikuchiku chiichiku -> 团队:ちくちくちーちく
+group:hakudaku nyannyan -> 团队:白濁娘々
 artist:2 -> 艺术家:2
 artist:7 -> 艺术家:7
 artist:8 -> 艺术家:8
@@ -40562,6 +40596,14 @@ artist:hato tsumugi -> 艺术家:鳩ツムギ
 artist:ante90 -> 艺术家:ANTE90
 artist:hongcha -> 艺术家:HONGCHA
 artist:gyuunyuu pack -> 艺术家:牛乳パック
+artist:nepinepi -> 艺术家:ネピネピ
+artist:okato kotako -> 艺术家:岡都コタ子
+artist:berial -> 艺术家:ベリアル
+artist:fumino yuki -> 艺术家:文乃ゆき
+artist:atatamemerou -> 艺术家:あたためめ郎
+artist:sanchiku -> 艺术家:さんちく
+artist:yasuda shinogu -> 艺术家:よふかしこよし
+artist:sodom shimin -> 艺术家:ソドム市民
 cosplayer:otohara an -> Coser:乙原あん
 cosplayer:rioko -> Coser:凉凉子
 cosplayer:atsuki -> Coser:あつき
@@ -40720,6 +40762,7 @@ cosplayer:sandu-69 -> Coser:三度_69
 cosplayer:miyoki -> Coser:铃木美咲
 cosplayer:luer da mowang -> Coser:露儿大魔王
 cosplayer:machi -> Coser:马吉
+cosplayer:lust77 -> Coser:柒柒要乖哦
 male:age progression -> 男性:年龄增长
 male:age regression -> 男性:返老还童
 male:dilf -> 男性:熟男
