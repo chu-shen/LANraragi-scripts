@@ -217,7 +217,7 @@ parody:shakugan no shana -> 原作:灼眼的夏娜
 parody:the melancholy of haruhi suzumiya -> 原作:凉宫春日的忧郁
 parody:kannagi -> 原作:神薙
 parody:kashimashi -> 原作:女生爱女生
-parody:to heart -> 原作:To Heart
+parody:to heart -> 原作:心之彼端
 parody:toheart2 -> 原作:ToHeart2
 parody:k-on -> 原作:轻音少女
 parody:he is my master -> 原作:我的主人
@@ -2862,6 +2862,15 @@ parody:devil connection -> 原作:恶魔连结
 parody:the son of bigfoot -> 原作:我的爸爸是森林之王
 parody:dune -> 原作:沙丘
 parody:hocus pocus -> 原作:女巫也疯狂
+parody:jinrou judgement -> 原作:人狼ジャッジメント
+parody:oneshot -> 原作:一次机会
+parody:someone hertz -> 原作:深夜心频率
+parody:saikyou no shokugyou wa yuusha demo kenja demo naku kanteishi rashii desu yo -> 原作:最强的职业不是勇者也不是贤者好像是鉴定士(伪)的样子？
+parody:scott pilgrim -> 原作:歪小子斯科特对抗全世界
+parody:anastasia -> 原作:安娜斯塔西娅
+parody:girls bravo -> 原作:女孩万岁
+parody:hanayamata -> 原作:花舞少女
+parody:disventure camp -> 原作:低危营地生存秀
 character:alice -> 角色:爱丽丝
 character:akane hino -> 角色:日野茜
 character:ibuki -> 角色:伊吹
@@ -3777,7 +3786,7 @@ character:yuyaki -> 角色:夕烧
 character:tohru -> 角色:托尔
 character:kanna kamui -> 角色:康娜卡姆依
 character:quetzalcoatl -> 角色:魁札尔科亚特尔
-character:kobayashi-san -> 角色:小林
+character:kobayashi-san -> 角色:小林（龙女仆）
 character:shouta magatsuchi -> 角色:真土翔太
 character:riko saikawa -> 角色:才川莉子
 character:elma -> 角色:艾尔玛
@@ -8787,7 +8796,7 @@ character:riruru -> 角色:莉露露
 character:firewhistle -> 角色:火哨
 character:ump40 -> 角色:UMP40 | 莱妮
 character:fleurdelys -> 角色:芙露德莉斯
-character:cecilia immergreen -> 角色:塞西莉亞·伊默格林
+character:cecilia immergreen -> 角色:塞西莉亚·伊默格林
 character:noel -> 角色:诺耶尔
 character:hajime iwaizumi -> 角色:岩泉一
 character:tooru oikawa -> 角色:及川彻
@@ -10213,7 +10222,7 @@ character:yukari ishihara -> 角色:石原紫
 character:yumia liessfeldt -> 角色:优米雅·利斯菲尔德
 character:susan storm -> 角色:苏珊·斯通
 character:beat valkyrie ixseal -> 角色:爱克希尔
-character:niko -> 角色:妮可
+character:niko -> 角色:霓光
 character:rae taylor -> 角色:零·缇拉
 character:claire francois -> 角色:克蕾雅·弗朗索瓦
 character:kiwako makina -> 角色:蒔名季和子
@@ -10809,7 +10818,7 @@ character:medjehtiqedti -> 角色:缇缇
 character:neru akita -> 角色:亚北音留
 character:yuki tsukumo -> 角色:九十九由基
 character:riko amanai -> 角色:天内理子
-character:francesca prelati -> 角色:弗朗索瓦·普雷拉蒂
+character:francesca prelati -> 角色:弗兰切斯卡·普勒拉蒂
 character:ayaka sajyou -> 角色:沙条绫香
 character:colphne -> 角色:寇尔芙
 character:faye -> 角色:faye
@@ -11105,7 +11114,7 @@ character:sergei wang -> 角色:赛尔格·翁
 character:shiho huit -> 角色:诗帆·尤伊
 character:nagi dai artai -> 角色:凪·戴·阿尔泰
 character:fuyu wakasa -> 角色:若狭冬
-character:domina -> 角色:多米娜
+character:domina -> 角色:金驭
 character:shitagai nora -> 角色:従井ノラ
 character:akemi aizawa -> 角色:相泽明美
 character:alicia viewstream -> 角色:艾丽西亚・比斯雷姆
@@ -11624,6 +11633,34 @@ character:alise lovell -> 角色:亚莉榭·罗斐尔
 character:faye valentine -> 角色:菲·瓦伦丁
 character:green arrow -> 角色:绿箭侠
 character:corticarte apa lagranges -> 角色:珂緹卡兒蒂·阿帕·拉格朗潔絲
+character:yuuko ichihara -> 角色:壹原侑子
+character:tonbokiri -> 角色:蜻蛉切
+character:riku -> 角色:里克 | 利库
+character:sasha blouse -> 角色:萨莎·布劳斯
+character:kurumi takakura -> 角色:高仓胡桃
+character:niko yoshino -> 角色:吉野妮可
+character:francine smith -> 角色:弗朗辛·史密斯
+character:hayley smith -> 角色:海莉·史密斯
+character:karin natsuki -> 角色:夏色花梨
+character:bix caleen -> 角色:比克丝·卡利恩
+character:nemo rinkarun -> 角色:尼莫·林卡尔
+character:reki -> 角色:雷姬
+character:luciferia moriarty iv -> 角色:露西菲莉亚·莫里亚蒂四世
+character:kurage mizuo -> 角色:水尾海月
+character:emalia steinbart -> 角色:艾玛莉亚·施泰因巴特
+character:shioriha ruri -> 角色:栞叶瑠璃
+character:jill warrick -> 角色:吉尔·沃里克
+character:ramona flowers -> 角色:蕾蒙娜·花
+character:ayano koura -> 角色:皇浦绫乃
+character:koganei niko -> 角色:虎金妃笑虎
+character:bouquet -> 角色:布凯‧拉
+character:zola -> 角色:左拉
+character:promeia -> 角色:普罗米娅
+character:yuriko okada -> 角色:冈田百合子
+character:hiyuki -> 角色:绯雪
+character:xaihi -> 角色:赛希
+character:asami sato -> 角色:佐藤麻尾
+character:aile -> 角色:艾儿
 group:1 -> 团队:1
 group:13 -> 团队:13
 group:27 -> 团队:27
@@ -18563,7 +18600,7 @@ group:kuroneko to taijutei -> 团队:黒猫と大樹亭
 group:kuroneko waltz -> 团队:黒ネコワルツ
 group:kuronekodou -> 团队:黒猫堂
 group:kuronekokan-monpetit -> 团队:黒猫館モンプチ
-group:kuronekotei -> 团队:黒猫亭
+group:kuronekotei -> 团队:黑猫亭
 group:kurono taitsu -> 团队:黒野タイツ
 group:kuropoplar -> 团队:くろぽぷら
 group:kurosawa pict -> 团队:黒澤pict
@@ -25490,6 +25527,17 @@ group:morning star -> 团队:モニスタラッシュ
 group:nekomata sanshokukan -> 团队:ねこマタ三色館
 group:chikuchiku chiichiku -> 团队:ちくちくちーちく
 group:hakudaku nyannyan -> 团队:白濁娘々
+group:ahemaru -> 团队:アヘ丸
+group:guramumo-bu -> 团队:ぐらむも部
+group:takenoko gohan vf -> 团队:筍御飯VF
+group:majihama. -> 团队:マジハマ。
+group:suita kobara ni choudo ii -> 团队:すいた小腹にちょうどいい
+group:sokkou karaage -> 团队:速攻からあげ
+group:otosan no kurorekishi -> 团队:お父さんの黒歴史
+group:kokonoe kurokazura -> 团队:ココノエクロカズラ
+group:tanaka-ke no kamo -> 团队:田中家の鴨
+group:itsume -> 团队:五梅 | 五梅えるこ
+group:ryuzenkoh -> 团队:龍涎香
 artist:2 -> 艺术家:2
 artist:7 -> 艺术家:7
 artist:8 -> 艺术家:8
@@ -27829,7 +27877,7 @@ artist:nanao yukiji -> 艺术家:七尾ゆきじ
 artist:herio -> 艺术家:ヘリを
 artist:aikawa arisa -> 艺术家:相川亚利砂
 artist:yamaishi juhachi -> 艺术家:山石18
-artist:rokkaku yasosuke -> 艺术家:六角八十助
+artist:rokkaku yasosuke -> 艺术家:六角八十助 | 伍堂なめ
 artist:tomono hiro -> 艺术家:友野ヒロ
 artist:yonekura kengo -> 艺术家:米倉けんご
 artist:yosuteinu -> 艺术家:世棄犬
@@ -28951,7 +28999,7 @@ artist:morikoke -> 艺术家:もり苔
 artist:tansuiken -> 艺术家:淡水犬
 artist:yamakonbu -> 艺术家:山昆布
 artist:crew -> 艺术家:クルー
-artist:toujou tsukushi -> 艺术家:東條土筆
+artist:toujou tsukushi -> 艺术家:东条土笔
 artist:yamada gogogo -> 艺术家:山田ゴゴゴ
 artist:g-wara -> 艺术家:爺わら
 artist:ibarame hisa -> 艺术家:茨芽ヒサ
@@ -31448,7 +31496,7 @@ artist:ibukichi -> 艺术家:いぶきち
 artist:iburo. -> 艺术家:いぶろー。
 artist:ica -> 艺术家:ica
 artist:icelee -> 艺术家:IceLee
-artist:ichi -> 艺术家:ichi
+artist:ichi -> 艺术家:イチ
 artist:ichi ume -> 艺术家:いちうめ
 artist:ichi-san -> 艺术家:いち
 artist:ichiboshi -> 艺术家:イチボシ
@@ -39164,7 +39212,7 @@ artist:tianoblue -> 艺术家:ティアノブルー
 artist:repamido -> 艺术家:れぱみど
 artist:domon -> 艺术家:ドモン
 artist:tomura suisen -> 艺术家:戸村水仙
-artist:fukura hagi -> 艺术家:吹浦ハギ
+artist:fukura hagi -> 艺术家:吹浦ハギ | FKR
 artist:aihara you -> 艺术家:和原ヨウ
 artist:amaguri -> 艺术家:甘guri
 artist:aronyan -> 艺术家:あろにゃん
@@ -40604,8 +40652,25 @@ artist:atatamemerou -> 艺术家:あたためめ郎
 artist:sanchiku -> 艺术家:さんちく
 artist:yasuda shinogu -> 艺术家:よふかしこよし
 artist:sodom shimin -> 艺术家:ソドム市民
+artist:shia -> 艺术家:しあ
+artist:shiro marimo -> 艺术家:しろまりも
+artist:mebata shun -> 艺术家:めばた瞬
+artist:kumiyabe -> 艺术家:くみやべ
+artist:karari agari -> 艺术家:からりあがり
+artist:hirono akitomi -> 艺术家:ひろのあきとみ
+artist:api -> 艺术家:あぴ
+artist:yabai yuu -> 艺术家:夜灰ゆう
+artist:raikageart -> 艺术家:RaikageArt
+artist:hisany -> 艺术家:ひさにぃ
+artist:akutamaru -> 艺术家:芥丸
+artist:wawax -> 艺术家:wawax
+artist:yu chien -> 艺术家:御芊YUChien
+artist:tanaka ahiru -> 艺术家:たなかあひる
+artist:sakotoru -> 艺术家:佐古透
+artist:nyagi -> 艺术家:ニャギ
+artist:neko plus -> 艺术家:NNEKO
 cosplayer:otohara an -> Coser:乙原あん
-cosplayer:rioko -> Coser:凉凉子
+cosplayer:rioko -> Coser:rioko凉凉子
 cosplayer:atsuki -> Coser:あつき
 cosplayer:hane ame -> Coser:雨波
 cosplayer:chunmomo -> Coser:蠢沫沫
@@ -40763,6 +40828,7 @@ cosplayer:miyoki -> Coser:铃木美咲
 cosplayer:luer da mowang -> Coser:露儿大魔王
 cosplayer:machi -> Coser:马吉
 cosplayer:lust77 -> Coser:柒柒要乖哦
+cosplayer:kaneko-kamiao -> Coser:KANEKO_咔喵
 male:age progression -> 男性:年龄增长
 male:age regression -> 男性:返老还童
 male:dilf -> 男性:熟男
