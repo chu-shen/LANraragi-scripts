@@ -131,7 +131,7 @@ parody:puella magi madoka magica -> 原作:魔法少女小圆
 parody:puella magi madoka magica side story magia record -> 原作:魔法纪录 魔法少女小圆外传
 parody:toradora -> 原作:龙与虎
 parody:lotte no omocha -> 原作:露蒂的玩具
-parody:sword art online -> 原作:刀剑神域
+parody:sword art online -> 原作:刀剑神域系列
 parody:sword art online alternative gun gale online -> 原作:刀剑神域外传Gun Gale Online
 parody:to love-ru -> 原作:出包王女
 parody:ro-kyu-bu -> 原作:萝球社🏀
@@ -2884,6 +2884,12 @@ parody:9-nine- -> 原作:9-nine
 parody:jack jeanne -> 原作:杰克 • 珍妮
 parody:ruri dragon -> 原作:琉璃龙龙
 parody:resort boin -> 原作:度假村Boin
+parody:houshin engi -> 原作:封神演义
+parody:kyuukyoku shinka shita full dive rpg ga genjitsu yori mo kusogee dattara -> 原作:如果究极进化的完全沉浸RPG比现实更可恶的话
+parody:hibi wa sugiredo meshi umashi -> 原作:岁月流逝饭菜依旧美味
+parody:kekkon yubiwa monogatari -> 原作:婚戒物语
+parody:futari solo camp -> 原作:双人单身露营
+parody:senyuu. -> 原作:战勇
 character:alice -> 角色:爱丽丝
 character:akane hino -> 角色:日野茜
 character:ibuki -> 角色:伊吹
@@ -4368,7 +4374,7 @@ character:ayako mitsuzuri -> 角色:美缀绫子
 character:kane himuro -> 角色:冰室钟
 character:kaede makidera -> 角色:莳寺枫
 character:gudao -> 角色:咕哒男
-character:gudako -> 角色:咕哒子
+character:gudako -> 角色:咕哒子（藤丸立香）
 character:kiyohime -> 角色:清姬
 character:alexander -> 角色:亚历山大
 character:scathach -> 角色:斯卡哈（FGO）
@@ -11758,6 +11764,101 @@ character:asako kusakabe -> 角色:日下部麻子
 character:yuria harudera -> 角色:春寺由梨亚
 character:ruri aoki -> 角色:青木琉璃
 character:eureka -> 角色:艾蕾卡
+character:riko aida -> 角色:相田丽子
+character:ryouta kise -> 角色:黄濑凉太
+character:kouki furihata -> 角色:降旗光树
+character:seijuurou akashi -> 角色:赤司征十郎
+character:chihiro mayuzumi -> 角色:黛千寻
+character:kazunari takao -> 角色:高尾和成
+character:shintarou midorima -> 角色:绿间真太郎
+character:so dakki -> 角色:苏妲己
+character:ryuukitsu koushu -> 角色:龙吉公主
+character:jellal fernandes -> 角色:杰拉尔·费尔南迪斯
+character:iron maiden jeanne -> 角色:梅登·贞德
+character:yumiko sakaki -> 角色:榊由美子
+character:tsubasa nanase -> 角色:七濑翼
+character:julius reinberg -> 角色:尤里乌斯·连恩伯格
+character:kingston -> 角色:金斯顿
+character:iruru yorozu -> 角色:万容
+character:laevatain -> 角色:莱万汀
+character:traptrix cularia -> 角色:兔藻之虫惑魔
+character:frye onaga -> 角色:乌茨霍
+character:inkling -> 角色:墨灵
+character:octoling -> 角色:章灵
+character:shiver -> 角色:Shiver
+character:hyuuga masamune -> 角色:日向正宗
+character:kyougoku masamune -> 角色:京极正宗
+character:tsurumaru kuninaga -> 角色:鹤丸国永
+character:heshikiri hasebe -> 角色:压切长谷部
+character:kasen kanesada -> 角色:歌仙兼定
+character:sayo samonji -> 角色:小夜左文字
+character:yamanbagiri chougi -> 角色:山姥切长义
+character:yamanbagiri kunihiro -> 角色:山姥切国广
+character:izuminokami kanesada -> 角色:和泉守兼定
+character:kikkou sadamune -> 角色:龟甲贞宗
+character:hakata toushirou -> 角色:博多藤四郎
+character:hirano toushirou -> 角色:‌平野藤四郎
+character:akita toushirou -> 角色:秋田藤四郎
+character:midare toushirou -> 角色:乱藤四郎
+character:masahide suishinshi -> 角色:‌水心子正秀
+character:minamoto kiyomaro -> 角色:源清磨
+character:ookurikara -> 角色:大俱利伽罗
+character:daihannya nagamitsu -> 角色:大般若长光
+character:mikazuki munechika -> 角色:三日月宗近
+character:iwatooshi -> 角色:岩融
+character:tomoegata naginata -> 角色:巴形薙刀
+character:kogitsunemaru -> 角色:小狐丸
+character:nakigitsune -> 角色:鸣狐
+character:taroutachi -> 角色:太郎太刀
+character:kotegiri gou -> 角色:篭手切江
+character:battleship water demon -> 角色:战舰水鬼
+character:mutsunokami yoshiyuki -> 角色:陆奥守吉行
+character:hizamaru -> 角色:膝丸
+character:higekiri -> 角色:髭切
+character:doudanuki masakuni -> 角色:同田贯正国
+character:otegine -> 角色:御手杵
+character:kousetsu samonji -> 角色:江雪左文字
+character:souza samonji -> 角色:宗三左文字
+character:azuki nagamitsu -> 角色:小豆长光
+character:kogarasumaru -> 角色:小乌丸
+character:oodenta mitsuyo -> 角色:大典太光世
+character:juzumaru tsunetsugu -> 角色:数珠丸恒次
+character:ishikirimaru -> 角色:石切丸
+character:nikkari aoe -> 角色:派别青江
+character:imanotsurugi -> 角色:今剑
+character:shishiou -> 角色:狮子王
+character:kashuu kiyomitsu -> 角色:加州清光
+character:nansen ichimonji -> 角色:南泉一文字
+character:fudou yukimitsu -> 角色:不动行光
+character:ichigo hitofuri -> 角色:一期一振
+character:jiroutachi -> 角色:次郎太刀
+character:sengo muramasa -> 角色:千子村正
+character:hotarumaru -> 角色:萤丸
+character:maeda toushirou -> 角色:前田藤四郎
+character:gokotai -> 角色:五虎退
+character:sode no shirayuki -> 角色:袖白雪
+character:tsukuyo -> 角色:月咏
+character:mitsuki hokuto -> 角色:北都・美月
+character:miho azuki -> 角色:亚豆美保
+character:reona kisaragi -> 角色:如月玲於奈
+character:irumyuui -> 角色:伊尔缪伊
+character:menae -> 角色:梅纳艾
+character:sherumi -> 角色:谢鲁米
+character:shinon ogawa -> 角色:小川诗音
+character:tsutsuji higa -> 角色:‌比嘉踯躅
+character:aida surugan -> 角色:艾达·休冈
+character:rion otonashi -> 角色:音无莉音
+character:muichiro tokito -> 角色:时透无一郎
+character:yuichiro tokito -> 角色:时透有一郎
+character:donna -> 角色:多娜
+character:haruka minazuki -> 角色:水无月遥
+character:yoo sangah -> 角色:刘尚雅
+character:uriel -> 角色:乌列尔
+character:krystal novaty nokanatika -> 角色:野中姬乃
+character:shizuku kusano -> 角色:草野雫
+character:alba -> 角色:阿鲁巴
+character:ross -> 角色:罗斯
+character:yuuya tenjou -> 角色:天上优夜
 group:1 -> 团队:1
 group:13 -> 团队:13
 group:27 -> 团队:27
@@ -11796,7 +11897,7 @@ group:interheart -> 团队:INTERHEART
 group:darknesspot -> 团队:DarknessPot
 group:nihon bussan -> 团队:日本物产
 group:sphinx -> 团队:SPHINX
-group:bishop -> 团队:BISHOP
+group:bishop -> 团队:BISHOP（主教社）
 group:tanuki soft -> 团队:たぬきそふと
 group:baseson -> 团队:BaseSon
 group:miel -> 团队:Miel
@@ -20657,7 +20758,7 @@ group:oobeya potechi house -> 团队:大部屋ポテチハウス
 group:oogane farm -> 团队:大金ファーム
 group:ooitei -> 团队:大井亭
 group:oojinushi -> 团队:おおじ主
-group:ookami shoujo yuugi dan -> 团队:狼少女遊戯団
+group:ookami shoujo yuugi dan -> 团队:狼少女游戏团
 group:ookina kodomo no omocha bako -> 团队:大きな子供のおもちゃ箱
 group:oomorian -> 团队:大森庵
 group:ootsuku shouji -> 团队:大津久商事(有)
@@ -25109,7 +25210,7 @@ group:dancing boin -> 团队:ダンシングボイ～ン
 group:himitsu no hoshizono -> 团队:ひみつの星園
 group:shubi-ryoku 4man -> 团队:守備力4万
 group:namakikuya -> 团队:ナマきく屋
-group:ookami shoujo dan -> 团队:狼少女団
+group:ookami shoujo dan -> 团队:狼少女团
 group:ryokushimpan -> 团队:領空侵犯
 group:pettaroya -> 团队:ぺったろ屋
 group:atelier todo -> 团队:アトリエTODO
@@ -25655,6 +25756,16 @@ group:kohinata salon -> 团队:こひなたサロン
 group:patsu patsu studio -> 团队:ぱつぱつスタジオ
 group:smells like -> 团队:すめるすらいく
 group:niche no sacchi -> 团队:ニッチの察知
+group:diamond magnum -> 团队:ダイヤモンドマグナム
+group:torobakoya -> 团队:とろ箱屋
+group:hansubeya -> 团队:藩滑屋
+group:tartarosauce of the hell -> 团队:地獄のタルタロソース
+group:kokushoku suisei teikoku -> 团队:黒色彗星帝国
+group:sapuri -> 团队:さぷり
+group:tamanohousa -> 团队:たまのほうさ
+group:tabi glass -> 团队:足袋がらす
+group:susanottensu -> 团队:すさのってんす
+group:iikamo -> 团队:いいカモ!
 artist:2 -> 艺术家:2
 artist:7 -> 艺术家:7
 artist:8 -> 艺术家:8
@@ -26033,7 +26144,7 @@ artist:shiratama -> 艺术家:白玉
 artist:nohara hiromi -> 艺术家:野原ひろみ
 artist:higashino mikan -> 艺术家:东野蜜柑
 artist:dr.bug -> 艺术家:Dr.阿虫
-artist:ameto yuki -> 艺术家:糖果由崎
+artist:ameto yuki -> 艺术家:雨夹雪
 artist:kenkou cross -> 艺术家:健康クロス
 artist:yanagawa rio -> 艺术家:やながわ理央
 artist:kakuzatou -> 艺术家:核座头
@@ -26611,7 +26722,7 @@ artist:hinasaki yo -> 艺术家:雏咲叶
 artist:naruko -> 艺术家:鸣湖（平间ひろかず）
 artist:hishigata tomaru -> 艺术家:ひし形とまる
 artist:mokufu -> 艺术家:もくふう
-artist:okumoto yuuta -> 艺术家:オクモト悠太
+artist:okumoto yuuta -> 艺术家:澳本悠太
 artist:regdic -> 艺术家:れぐでく
 artist:shiba nanasei -> 艺术家:柴七世
 artist:shimetta seiya -> 艺术家:湿った星夜
@@ -26931,7 +27042,7 @@ artist:goldendawn -> 艺术家:Goldendawn
 artist:fatke -> 艺术家:FatKE
 artist:satsuki neko -> 艺术家:五月猫
 artist:akinashi yuu -> 艺术家:春夏冬ゆう
-artist:jakou nezumi -> 艺术家:じゃこうねずみ
+artist:jakou nezumi -> 艺术家:麝香鼠
 artist:nagi yuki -> 艺术家:凪居ユキ
 artist:kusui aruta -> 艺术家:久水あるた
 artist:tamanosuke -> 艺术家:たまのすけ
@@ -27912,7 +28023,7 @@ artist:hidarite tarou -> 艺术家:左手太郎
 artist:jagayamatarawo -> 艺术家:じゃが山たらヲ
 artist:kasei -> 艺术家:かせい
 artist:kayanoi ino -> 艺术家:茅乃井いの
-artist:kiiroi tamago -> 艺术家:きいろいたまご
+artist:kiiroi tamago -> 艺术家:黄色卵
 artist:kirihara you -> 艺术家:桐原湧
 artist:mdakoki -> 艺术家:M田K樹
 artist:ooyoko yamaame -> 艺术家:大横山饴
@@ -28208,7 +28319,7 @@ artist:aduki -> 艺术家:あづき
 artist:inui waon -> 艺术家:乾和音
 artist:majima shiroyuki -> 艺术家:间岛白幸
 artist:sougetsu nonono -> 艺术家:草月野々乃
-artist:wantan meo -> 艺术家:雲呑めお
+artist:wantan meo -> 艺术家:云吞芽央
 artist:kemuri haku -> 艺术家:煙ハク
 artist:kani biimu -> 艺术家:かにビーム
 artist:watanohara -> 艺术家:わたのはら
@@ -28840,7 +28951,7 @@ artist:panchira steak -> 艺术家:ぱんちらステーキ
 artist:saizu nitou gunsou -> 艺术家:才津二等軍曹
 artist:nakamura rohane -> 艺术家:中村六翅
 artist:nohito -> 艺术家:nohito
-artist:turiganesou -> 艺术家:釣鐘草
+artist:turiganesou -> 艺术家:钓钟草
 artist:kyo1 -> 艺术家:響樹はじめ
 artist:shimimaru -> 艺术家:纸鱼丸
 artist:arai kei -> 艺术家:荒井启
@@ -39492,7 +39603,7 @@ artist:kadose ara -> 艺术家:門瀬粗
 artist:yoneyama mai -> 艺术家:米山舞
 artist:shiben -> 艺术家:史本
 artist:ctrlz77 -> 艺术家:ctrlz77
-artist:mochida koyubi -> 艺术家:餅田こゆび
+artist:mochida koyubi -> 艺术家:饼田小指
 artist:yuimisu -> 艺术家:ゆいみす
 artist:yagihitsuji -> 艺术家:山羊羊
 artist:okkuu tarou -> 艺术家:億劫太郎
@@ -40808,6 +40919,43 @@ artist:kamimura sumiko -> 艺术家:上村纯子
 artist:kuuneru kokoro -> 艺术家:くぅねる
 artist:patsu patsu -> 艺术家:ぱつぱつ
 artist:hoshikawa lange -> 艺术家:星川ランガ
+artist:shikeida -> 艺术家:しけいだ
+artist:armjaw -> 艺术家:アアムジョー
+artist:ozaki nira -> 艺术家:尾崎ニラ
+artist:akachian -> 艺术家:あかちあん
+artist:minamoto kyunta -> 艺术家:源キュン太
+artist:yoshida mint -> 艺术家:よしだみんと
+artist:itao itsuko -> 艺术家:いたおいつこ
+artist:tsubaki aruo -> 艺术家:つばきあるお
+artist:tomatosp -> 艺术家:TOMATOSP
+artist:jeanne dack -> 艺术家:じゃんぬだっく
+artist:kakyuu bushi -> 艺术家:下级武士
+artist:sunohara kafuka -> 艺术家:春原香深
+artist:yioyituyu -> 艺术家:一o一凸余
+artist:jtveemo -> 艺术家:ビモ
+artist:ikusa ryuji -> 艺术家:いくさりゅうじ
+artist:yuzunoki ichika -> 艺术家:柚木イチカ
+artist:yumeiro gurasan -> 艺术家:梦色ぐらさん
+artist:fest -> 艺术家:fest
+artist:mizushima oonari -> 艺术家:水島☆多也
+artist:mokkoritchie -> 艺术家:もこリッチィ
+artist:azuma takumi -> 艺术家:あずま拓海
+artist:hiura yutaka -> 艺术家:ひうらゆたか
+artist:fuwafuwa drill -> 艺术家:ふわふわドリル
+artist:ekogi -> 艺术家:エコギ
+artist:misanga -> 艺术家:みさんが
+artist:tago bow -> 艺术家:たご坊
+artist:rokuya maou -> 艺术家:六谷魔王
+artist:simaura -> 艺术家:缟浦
+artist:furu -> 艺术家:古
+artist:g-10 -> 艺术家:G10
+artist:ug -> 艺术家:UG
+artist:chipokan -> 艺术家:ちぽかん
+artist:ramen-chan -> 艺术家:ramen-chan
+artist:noe noeru -> 艺术家:乃絵のえる
+artist:shibuya susano -> 艺术家:渋谷すさの
+artist:mineta kojirou -> 艺术家:峰田虎次郎
+artist:kamoyoshi -> 艺术家:鴨吉
 cosplayer:otohara an -> Coser:乙原あん
 cosplayer:rioko -> Coser:rioko凉凉子
 cosplayer:atsuki -> Coser:あつき
