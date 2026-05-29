@@ -2890,6 +2890,11 @@ parody:hibi wa sugiredo meshi umashi -> 原作:岁月流逝饭菜依旧美味
 parody:kekkon yubiwa monogatari -> 原作:婚戒物语
 parody:futari solo camp -> 原作:双人单身露营
 parody:senyuu. -> 原作:战勇
+parody:hatsuyuki sakura -> 原作:初雪樱
+parody:sharin no kuni himawari no shoujo -> 原作:车轮之国，向日葵的少女
+parody:mahou senshi symphonic knights -> 原作:魔法战士交响骑士~继承女神的少女们~
+parody:moonlight lady -> 原作:无颜之月
+parody:ash arms -> 原作:灰烬战线
 character:alice -> 角色:爱丽丝
 character:akane hino -> 角色:日野茜
 character:ibuki -> 角色:伊吹
@@ -11859,6 +11864,31 @@ character:shizuku kusano -> 角色:草野雫
 character:alba -> 角色:阿鲁巴
 character:ross -> 角色:罗斯
 character:yuuya tenjou -> 角色:天上优夜
+character:hagumi kitazawa -> 角色:北泽育美
+character:ying swei -> 角色:应瑞
+character:tsubasa sena -> 角色:濑名翼
+character:sion kamiya -> 角色:神谷紫苑
+character:yayoi bernard lutwidge -> 角色:弥生・伯纳德・路特维奇
+character:yuzu nikaidou -> 角色:二阶堂柚子
+character:lily shirogane -> 角色:白银莉莉
+character:aria futaba -> 角色:双叶亚里亚
+character:sei soramiya -> 角色:空宫征
+character:unmei sasanami -> 角色:笹波云明
+character:erika sendo -> 角色:千堂瑛里华
+character:shiro tougi -> 角色:东仪白
+character:haruna yuuki -> 角色:悠木阳菜
+character:kanade yuuki -> 角色:悠木奏
+character:kiriha kuze -> 角色:红瀬桐叶
+character:haruka saigusa -> 角色:三枝叶留佳
+character:shiori yumeoji -> 角色:梦大路栞
+character:siro -> 角色:电脑少女小白
+character:hikari minowa -> 角色:三轮光
+character:shigure kosaka -> 角色:香坂时雨
+character:haru endou -> 角色:円堂春
+character:ema hinata -> 角色:日向绘麻
+character:maika chouno -> 角色:蝶乃舞花
+character:aru -> 角色:存流
+character:exosister irene -> 角色:救祓少女·伊雷娜
 group:1 -> 团队:1
 group:13 -> 团队:13
 group:27 -> 团队:27
@@ -18946,7 +18976,7 @@ group:level1 -> 团队:level1
 group:lewd angels -> 团队:Lewd Angels
 group:leymei -> 团队:LEYMEI
 group:lhezi -> 团队:LHEZI
-group:liar-soft -> 团队:ライアーソフト
+group:liar-soft -> 团队:Liar-soft
 group:libertaria -> 团队:リバタリア
 group:libido -> 团队:リビドー
 group:libido kaikan -> 团队:リビドー会館
@@ -19165,7 +19195,7 @@ group:mad-puppy -> 团队:MAD-PUPPY
 group:mada maniau kamo -> 团队:まだ間に合うかも
 group:madam project -> 团队:マダム・プロジェクト
 group:mado no kuchibue fuki -> 团队:窓の口笛吹き
-group:mado soft -> 团队:まどそふと
+group:mado soft -> 团队:Mado Soft
 group:madogiwa oukoku -> 团队:窓際王国
 group:madogiwa works -> 团队:Madogiwa Works
 group:madou shiryoushitsu -> 团队:魔導資料室
@@ -25577,7 +25607,7 @@ group:ringo club -> 团队:りんごくらぶ
 group:yunoyu -> 团队:ゆの湯
 group:any wa sea -> 团队:AnyはSea！！！
 group:totsugeki tonari no hijoushoku -> 团队:凸撃!隣の非常食!!
-group:biwa gakudan -> 团队:琵琶楽団
+group:biwa gakudan -> 团队:琵琶乐团
 group:natural kanojo -> 团队:なちゅらる彼女
 group:nenige -> 团队:NENIGE
 group:4k seisakusho -> 团队:4K製作所
@@ -25766,6 +25796,25 @@ group:tamanohousa -> 团队:たまのほうさ
 group:tabi glass -> 团队:足袋がらす
 group:susanottensu -> 团队:すさのってんす
 group:iikamo -> 团队:いいカモ!
+group:naruo -> 团队:ナルオ
+group:suji kaminari -> 团队:スジカミナリ
+group:oresam -> 团队:oresam
+group:panda monaka -> 团队:panda*monaka
+group:gusucapiyopiyo -> 团队:グースカピヨピヨ
+group:okaya -> 团队:岡屋
+group:mucus -> 团队:Mucus
+group:zanzo apartment -> 团队:残像アパート
+group:arancio tela -> 团队:ARANCIO TELA
+group:gake no ue no aho -> 团队:ガケノウエノアホ
+group:montparnasse -> 团队:モンパルナス
+group:shizumi-sou -> 团队:しずみ荘
+group:kemominnosuke -> 团队:けもみん之助
+group:tenollium gensou -> 团队:テノリウム幻想
+group:yamagirl -> 团队:YAMAGIRL
+group:hoi hoi hoi -> 团队:Hoi Hoi Hoi
+group:kirikizu koh -> 团队:切傷甲
+group:ruburu bon -> 团队:るぶる梵
+group:calcite -> 团队:Calcite
 artist:2 -> 艺术家:2
 artist:7 -> 艺术家:7
 artist:8 -> 艺术家:8
@@ -25938,7 +25987,7 @@ artist:karaage tarou -> 艺术家:からあげ太郎
 artist:okumori boy -> 艺术家:奥森ボウイ
 artist:sahara wataru -> 艺术家:砂原涉
 artist:amano kazumi -> 艺术家:天乃一水
-artist:ichiyo moka -> 艺术家:一叶モカ
+artist:ichiyo moka -> 艺术家:一葉モカ
 artist:naturalton -> 艺术家:なちゅらるとん
 artist:aono ribbon -> 艺术家:青野りぼん
 artist:hidaka toworu -> 艺术家:ヒダカトヲル
@@ -28692,7 +28741,7 @@ artist:miginohito mitsuru -> 艺术家:右の人みつる
 artist:hidari kagetora -> 艺术家:左カゲトラ
 artist:suruga kreuz -> 艺术家:駿河クロイツ
 artist:mauve -> 艺术家:Mauve
-artist:saeki sora -> 艺术家:佐伯ソラ
+artist:saeki sora -> 艺术家:佐伯空
 artist:tange suzuki -> 艺术家:丹下スズキ
 artist:neji -> 艺术家:寝路
 artist:negom -> 艺术家:ネゴム
@@ -28788,7 +28837,7 @@ artist:maitaimu -> 艺术家:舞大梦
 artist:kyozip -> 艺术家:狂zip
 artist:nishi yoshiyuki -> 艺术家:西义之
 artist:momonosukebe -> 艺术家:腿之助兵卫
-artist:torichamaru -> 艺术家:乌茶丸
+artist:torichamaru -> 艺术家:鸟茶丸
 artist:uonome beji -> 艺术家:魚目ベジ
 artist:j-kisarazu -> 艺术家:JK更津
 artist:greco roman -> 艺术家:暮古浪漫
@@ -30600,7 +30649,7 @@ artist:denki biribiri -> 艺术家:電気びりびり
 artist:denkousekka gou -> 艺术家:電光石火轟
 artist:denpanic -> 艺术家:デンぱにっく
 artist:densetsu no shimi -> 艺术家:伝説のシミ
-artist:densuke -> 艺术家:電SUKE
+artist:densuke -> 艺术家:田助
 artist:deo -> 艺术家:deo
 artist:deshima shin -> 艺术家:出縞臣
 artist:detritus -> 艺术家:デトリタス掘込
@@ -34455,7 +34504,7 @@ artist:nigo -> 艺术家:にご
 artist:niiruma kenji -> 艺术家:にいるまけんじ
 artist:niisan -> 艺术家:にーさん
 artist:nijiden -> 艺术家:ニジデン
-artist:nijihashi sola -> 艺术家:にじはしそら
+artist:nijihashi sola -> 艺术家:虹桥空
 artist:nijiru -> 艺术家:煮汁
 artist:nijou tayun -> 艺术家:二条たゆん
 artist:nijyou makoto -> 艺术家:二条マコト
@@ -40151,7 +40200,7 @@ artist:kotora nue -> 艺术家:狐虎ぬえ
 artist:negita shio -> 艺术家:葱田盐
 artist:mayutsuba mono -> 艺术家:眉唾モノ
 artist:yug -> 艺术家:YUG
-artist:pokeeti -> 艺术家:PokeEti
+artist:pokeeti -> 艺术家:おけえち
 artist:panda shizuku -> 艺术家:パンダシズク
 artist:chiyori -> 艺术家:ちより
 artist:hattori psycho -> 艺术家:這禽サイコ
@@ -40631,7 +40680,7 @@ artist:duokuma -> 艺术家:Duokuma
 artist:bennosuki -> 艺术家:ベンノスキー
 artist:iya -> 艺术家:い屋
 artist:buuta -> 艺术家:ぶうた
-artist:biwamaro -> 艺术家:琵琶麻呂
+artist:biwamaro -> 艺术家:琵琶麻吕
 artist:tonoka mottasu -> 艺术家:外岡もったす
 artist:warabita hagure -> 艺术家:蕨田はぐれ
 artist:matsumura ryuichi -> 艺术家:松村龍一
@@ -40956,6 +41005,37 @@ artist:noe noeru -> 艺术家:乃絵のえる
 artist:shibuya susano -> 艺术家:渋谷すさの
 artist:mineta kojirou -> 艺术家:峰田虎次郎
 artist:kamoyoshi -> 艺术家:鴨吉
+artist:kudo eru -> 艺术家:工藤える
+artist:momihige -> 艺术家:もみひげ
+artist:iwao -> 艺术家:いわお
+artist:oresam -> 艺术家:oresam
+artist:deyui -> 艺术家:Deyui | デユイ
+artist:kousetsu -> 艺术家:红雪
+artist:akimura haru -> 艺术家:あきむらはる
+artist:okaya -> 艺术家:おかや
+artist:e.u.o -> 艺术家:E.u.O
+artist:siki -> 艺术家:siki
+artist:katoh akatsuki -> 艺术家:加藤アカツキ
+artist:mitsuki meia -> 艺术家:美月めいあ
+artist:hitoto -> 艺术家:Hitoto*
+artist:coffee neko -> 艺术家:咖啡猫
+artist:zhao -> 艺术家:ZHAO
+artist:salasa misa -> 艺术家:更紗三三
+artist:umino mokuzu -> 艺术家:ウミノモクズ
+artist:yumetsuki tenon -> 艺术家:ゆめつきてのん
+artist:shizuku shoui -> 艺术家:雫将维
+artist:kurono mitsuki -> 艺术家:时之美月
+artist:naju soreiyu -> 艺术家:奈樹それいゆ
+artist:codeyamada -> 艺术家:やまだ(仮)
+artist:you maru -> 艺术家:游丸
+artist:shimofuri -> 艺术家:霜降
+artist:kazunari -> 艺术家:カズナリ
+artist:shanai neet -> 艺术家:社内ニート
+artist:cityboy -> 艺术家:cityboy
+artist:akabane aori -> 艺术家:赤羽あおり
+artist:ruburu -> 艺术家:るぶる
+artist:shona mitsuishi -> 艺术家:庄名泉石
+artist:juuhachikin -> 艺术家:じゅーはちきん
 cosplayer:otohara an -> Coser:乙原あん
 cosplayer:rioko -> Coser:rioko凉凉子
 cosplayer:atsuki -> Coser:あつき
