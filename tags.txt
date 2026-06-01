@@ -4372,7 +4372,7 @@ character:tamamo no mae -> 角色:玉藻前
 character:shielder -> 角色:玛修·基列莱特
 character:saber lily -> 角色:Saber Lily
 character:artoria pendragon -> 角色:阿尔托莉雅·潘德拉贡 [枪阶]
-character:artoria pendragon alter -> 角色:阿尔托莉雅·潘德拉贡〔Alter〕
+character:artoria pendragon alter -> 角色:阿尔托莉雅·潘德拉贡 [枪阶Alter]
 character:souji okita -> 角色:冲田总司
 character:red saber -> 角色:尼禄·克劳狄乌斯
 character:ayako mitsuzuri -> 角色:美缀绫子
@@ -11889,6 +11889,30 @@ character:ema hinata -> 角色:日向绘麻
 character:maika chouno -> 角色:蝶乃舞花
 character:aru -> 角色:存流
 character:exosister irene -> 角色:救祓少女·伊雷娜
+character:mana kase -> 角色:嘉濑茉奈
+character:shano himegami -> 角色:‌姬神纱乃
+character:airi amano -> 角色:天野愛莉
+character:nolan grayson -> 角色:诺兰·格雷森（全能侠）
+character:zoe thompson -> 角色:佐伊·汤普森（科技夹克）
+character:gsc president -> 角色:联邦学生会长
+character:shushu tina -> 角色:舒舒蒂纳
+character:togame -> 角色:咎儿
+character:shichika yasuri -> 角色:鑢七花
+character:otogi tenjinyama -> 角色:天神山音葵
+character:kaede ichinose -> 角色:一之濑枫
+character:yuu hattori -> 角色:服部优
+character:raichi hoshimiya -> 角色:星宫赖智
+character:kokone kurisu -> 角色:栗栖心音
+character:sakura kitaouji -> 角色:北大路樱
+character:sakuya shirayuri -> 角色:白百合咲夜
+character:kaguya shirayuri -> 角色:白百合辉夜
+character:mizuki kanzaki -> 角色:神崎美月
+character:miyabi fujiwara -> 角色:藤原雅
+character:nivora -> 角色:娜波摩
+character:kjera -> 角色:耶拉
+character:kana ichikawa -> 角色:市川香菜
+character:michiru kagemori -> 角色:影森满
+character:nazuna hiwatashi -> 角色:日渡荠
 group:1 -> 团队:1
 group:13 -> 团队:13
 group:27 -> 团队:27
@@ -11912,7 +11936,7 @@ group:clockup -> 团队:CLOCKUP
 group:guilty -> 团队:Guilty
 group:guilty plus -> 团队:Guilty+
 group:guilty ex -> 团队:Guilty eX
-group:nanawind -> 团队:NanaWind
+group:nanawind -> 团队:七风社
 group:orc soft -> 团队:ORCSOFT
 group:praline -> 团队:Praline
 group:sakuragame -> 团队:SakuraGame
@@ -11938,8 +11962,8 @@ group:alicesoft -> 团队:ALICESOFT
 group:omega star -> 团队:ωstar
 group:norn -> 团队:Norn
 group:aries -> 团队:Aries
-group:ensemble -> 团队:ensemble
-group:ensemble sweet -> 团队:ensemble SWEET
+group:ensemble -> 团队:音符社
+group:ensemble sweet -> 团队:Ensemble SWEET
 group:caramel box -> 团队:CARAMEL-BOX
 group:rootnuko -> 团队:√nuko
 group:c drive -> 团队:C:drive.
@@ -12008,7 +12032,7 @@ group:5pb -> 团队:5pb.
 group:aniseed -> 团队:AniSeed
 group:candysoft -> 团队:Candy Soft
 group:ricotta -> 团队:Ricotta
-group:whirlpool -> 团队:Whirlpool
+group:whirlpool -> 团队:漩涡社
 group:giga -> 团队:戏画
 group:milksoft -> 团队:牛奶软件
 group:cygames -> 团队:Cygames
@@ -12357,7 +12381,7 @@ group:aihara hanten -> 团队:相原饭店
 group:full high kick -> 团队:ふるはいきっく
 group:punipuni doumei -> 团队:ぷにぷに同盟
 group:sokomono suisou -> 团队:底物水槽
-group:shiratamaco -> 团队:白玉子
+group:shiratamaco -> 团队:白玉社
 group:oreteki18kin -> 团队:俺的十八禁
 group:dl mate -> 团队:DLメイト
 group:kaminagi-tei -> 团队:神凪邸
@@ -15381,7 +15405,7 @@ group:c8 -> 团队:C8
 group:c9sou -> 团队:c9sou
 group:ca.d.d -> 团队:C：／／A.D.D／
 group:cabbage box -> 团队:キャベツBOX
-group:cabbage soft -> 团队:きゃべつそふと
+group:cabbage soft -> 团队:卷心菜社
 group:cabbit -> 团队:Cabbit
 group:caburibbon -> 团队:caburibbon
 group:cacao -> 团队:カカオ
@@ -15879,7 +15903,7 @@ group:crystal capricorn -> 团队:Crystal Capricorn
 group:crystal shoujo -> 团队:クリスタル少女
 group:crystal strawberry -> 团队:硝子の苺
 group:crystal tower -> 团队:クリスタルタワー
-group:crystalia -> 团队:CRYSTALiA
+group:crystalia -> 团队:水晶社
 group:cshouse -> 团队:しーずはうす
 group:ctn -> 团队:クリスチーネ
 group:cube sugar -> 团队:Cube Sugar
@@ -19195,7 +19219,7 @@ group:mad-puppy -> 团队:MAD-PUPPY
 group:mada maniau kamo -> 团队:まだ間に合うかも
 group:madam project -> 团队:マダム・プロジェクト
 group:mado no kuchibue fuki -> 团队:窓の口笛吹き
-group:mado soft -> 团队:Mado Soft
+group:mado soft -> 团队:窗子社
 group:madogiwa oukoku -> 团队:窓際王国
 group:madogiwa works -> 团队:Madogiwa Works
 group:madou shiryoushitsu -> 团队:魔導資料室
@@ -23845,7 +23869,7 @@ group:will tame -> 团队:ウィルテイム
 group:win win -> 团队:win win
 group:wind mail -> 团队:WIND MAIL
 group:windfall -> 团队:WINDFALL
-group:windmill -> 团队:ういんどみる
+group:windmill -> 团队:风车社
 group:windmill oasis -> 团队:ういんどみるOasis
 group:windtone -> 团队:うぃんどとーん
 group:windwave -> 团队:WINDWAVE
@@ -25815,6 +25839,14 @@ group:hoi hoi hoi -> 团队:Hoi Hoi Hoi
 group:kirikizu koh -> 团队:切傷甲
 group:ruburu bon -> 团队:るぶる梵
 group:calcite -> 团队:Calcite
+group:kurotanida -> 团队:黒谷田
+group:hiyoko nabe -> 团队:ひよこ鍋
+group:hirono-ke -> 团队:ヒロノ家
+group:kuchita inugoya -> 团队:朽ちた犬小屋
+group:bukiya -> 团队:武器屋
+group:butter drip -> 团队:ばたーどりっぷ
+group:kakefuji-ya -> 团队:賭富士屋
+group:baira way -> 团队:ばいら・うぇい
 artist:2 -> 艺术家:2
 artist:7 -> 艺术家:7
 artist:8 -> 艺术家:8
@@ -38243,7 +38275,7 @@ artist:shibatora -> 艺术家:柴寅
 artist:cowbow -> 艺术家:矼房
 artist:yamada kintetsu -> 艺术家:山田金铁
 artist:kudou maimu -> 艺术家:九童まいむ
-artist:iwamoto kuyo -> 艺术家:いーなん
+artist:iwamoto kuyo -> 艺术家:いーないん
 artist:pilaf modoki -> 艺术家:ぴらふもどき
 artist:uenosuke -> 艺术家:↑野介
 artist:inoue makito -> 艺术家:井植莳人
@@ -38371,7 +38403,7 @@ artist:pooh -> 艺术家:ぷぅ
 artist:irono -> 艺术家:ゐろの
 artist:isshi pyuma -> 艺术家:一志ピューマ
 artist:mamerakko -> 艺术家:豆ラッコニキ
-artist:amakusa tobari -> 艺术家:天草帳
+artist:amakusa tobari -> 艺术家:天草帐
 artist:sasaki mutsumi -> 艺术家:ささきむつみ
 artist:murabito toufuten -> 艺术家:村人豆腐店
 artist:kuma ashi s -> 艺术家:熊足S
@@ -41036,6 +41068,18 @@ artist:akabane aori -> 艺术家:赤羽あおり
 artist:ruburu -> 艺术家:るぶる
 artist:shona mitsuishi -> 艺术家:庄名泉石
 artist:juuhachikin -> 艺术家:じゅーはちきん
+artist:gusuku -> 艺术家:ぐすく
+artist:shimotsuki momoco -> 艺术家:霜月桃子
+artist:inu chikushou -> 艺术家:犬畜生
+artist:muniko -> 艺术家:むにこ
+artist:ichirou-kun -> 艺术家:一漏くん
+artist:heco inu -> 艺术家:平股戌
+artist:gomiri -> 艺术家:ごみり
+artist:rion -> 艺术家:りおん
+artist:sushi jiro -> 艺术家:寿司二郎
+artist:futsu iyu -> 艺术家:フッィュー
+artist:sacraneco -> 艺术家:樱猫
+artist:yoshikage -> 艺术家:ヨシカゲ
 cosplayer:otohara an -> Coser:乙原あん
 cosplayer:rioko -> Coser:rioko凉凉子
 cosplayer:atsuki -> Coser:あつき
