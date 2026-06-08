@@ -1440,7 +1440,7 @@ parody:legend of queen opala -> 原作:奥帕拉女王传奇
 parody:shoujo kageki revue starlight -> 原作:少女歌剧Revue Starlight
 parody:deathsmiles -> 原作:死亡微笑
 parody:kaitou joker -> 原作:怪盗Joker
-parody:qualidea code -> 原作:Qualidea Code
+parody:qualidea code -> 原作:Qualidea Code（心灵代码）
 parody:shuumatsu no izetta -> 原作:终末的伊泽塔
 parody:donkey kong -> 原作:大金刚
 parody:whistle -> 原作:哨声响起
@@ -2445,7 +2445,7 @@ parody:chrome shelled regios -> 原作:钢壳都市雷吉欧斯
 parody:ga-rei -> 原作:食灵-零-
 parody:jin ping mei -> 原作:金瓶梅
 parody:eiken -> 原作:巨乳学园
-parody:medalist -> 原作:舞冰的祈愿
+parody:medalist -> 原作:金牌得主
 parody:arakawa under the bridge -> 原作:荒川爆笑团
 parody:mamotte shugogetten -> 原作:守护月天
 parody:popolocrois -> 原作:波波罗古洛伊斯物语
@@ -2895,6 +2895,11 @@ parody:sharin no kuni himawari no shoujo -> 原作:车轮之国，向日葵的�
 parody:mahou senshi symphonic knights -> 原作:魔法战士交响骑士~继承女神的少女们~
 parody:moonlight lady -> 原作:无颜之月
 parody:ash arms -> 原作:灰烬战线
+parody:delta force -> 原作:三角洲行动
+parody:majo to hyakkihei -> 原作:魔女与百骑兵
+parody:cool devices -> 原作:Cool Devices
+parody:the extras academy survival guide -> 原作:配角生存法则
+parody:sasami-san ganbaranai -> 原作:锁锁美同学@提不起劲
 character:alice -> 角色:爱丽丝
 character:akane hino -> 角色:日野茜
 character:ibuki -> 角色:伊吹
@@ -8398,7 +8403,7 @@ character:mikan tsumiki -> 角色:罪木蜜柑
 character:yoichi isagi -> 角色:洁世一
 character:kurusu natsume -> 角色:来栖夏芽
 character:misuzu kamio -> 角色:神尾观铃
-character:g41 -> 角色:G41
+character:g41 -> 角色:G41 | 芙铃
 character:rico -> 角色:黎各
 character:tachibana hinano -> 角色:橘雏乃
 character:roronoa zoro -> 角色:罗罗诺亚·索隆
@@ -11913,6 +11918,25 @@ character:kjera -> 角色:耶拉
 character:kana ichikawa -> 角色:市川香菜
 character:michiru kagemori -> 角色:影森满
 character:nazuna hiwatashi -> 角色:日渡荠
+character:carnelian -> 角色:卡涅利安
+character:mai xiaowen -> 角色:麦晓雯（骇爪）
+character:claire ann byers -> 角色:莱尔·安·拜尔斯（暴风雨）
+character:flonne -> 角色:芙蓉（魔界战记）
+character:izumi curtis -> 角色:泉·卡迪斯
+character:tangtang -> 角色:汤汤
+character:snowshine -> 角色:昼雪
+character:last rite -> 角色:别礼
+character:mi fu -> 角色:弭弗
+character:sooyoung han -> 角色:韩秀英
+character:jihye lee -> 角色:李智慧
+character:dokja kim -> 角色:金独子
+character:joonghyuk yoo -> 角色:刘众赫
+character:maihime shirayuki -> 角色:白雪舞姬
+character:momoka momozono -> 角色:桃园桃花
+character:murdoch swan -> 角色:默多克·斯旺
+character:nagisa misawa -> 角色:三泽渚
+character:rina takahata -> 角色:高畑里奈
+character:sasami tsukuyomi -> 角色:月读锁锁美
 group:1 -> 团队:1
 group:13 -> 团队:13
 group:27 -> 团队:27
@@ -19521,7 +19545,7 @@ group:mekimeki oukoku -> 团队:めきめき王国
 group:mekongdelta -> 团队:MEKONGDELTA
 group:mekujira -> 团队:めくじら
 group:mekurume yuuen -> 团队:目眩悠遠
-group:mellow -> 团队:mellow
+group:mellow -> 团队:MELLOW
 group:melody -> 团队:Melody
 group:melomo -> 团队:メロモ
 group:melon -> 团队:Melon
@@ -20295,7 +20319,7 @@ group:neko irazu -> 团队:猫イラズ
 group:nekojarashy -> 团队:猫じゃらし
 group:nekojarashi -> 团队:猫じゃらし
 group:neko kan -> 团队:ねこ缶
-group:neko kinryouku -> 团队:猫禁猟区
+group:neko kinryouku -> 团队:猫禁猎区
 group:neko melonya -> 团队:猫メロン屋
 group:neko neko house -> 团队:ねこねこハウス
 group:neko no onsen -> 团队:猫の温泉
@@ -25847,6 +25871,21 @@ group:bukiya -> 团队:武器屋
 group:butter drip -> 团队:ばたーどりっぷ
 group:kakefuji-ya -> 团队:賭富士屋
 group:baira way -> 团队:ばいら・うぇい
+group:momoiro pocket -> 团队:ももいろPocket
+group:kawauso soft -> 团队:かわうそソフト
+group:biscotti -> 团队:Biscotti
+group:minudorikan -> 团队:みぬ鳥館
+group:crystal mermaid -> 团队:クリスタルマーメイド
+group:doku marimo -> 团队:毒マリモ
+group:kiniro shoujo -> 团队:金色少女
+group:shiokazetei -> 团队:シオカゼ亭
+group:team baldrhead -> 团队:Team Baldrhead
+group:mamedanukidou -> 团队:豆狸堂
+group:kao.yellow studio -> 团队:颜色工作室KAO.YELLOW.Studio
+group:studio arika -> 团队:stuDio arika
+group:yurinyurin -> 团队:ゆりんゆりん
+group:st. michael girls school -> 团队:圣迈克尔女子学院
+group:8 percent milk. -> 团队:8%milk.
 artist:2 -> 艺术家:2
 artist:7 -> 艺术家:7
 artist:8 -> 艺术家:8
@@ -25923,7 +25962,7 @@ artist:watsuki rumi -> 艺术家:わつきるみ
 artist:soramoti -> 艺术家:そらモチ
 artist:blastbeat -> 艺术家:BLASTBEAT
 artist:takashina at masato -> 艺术家:高阶@圣人
-artist:shibayuki -> 艺术家:しばゆき
+artist:shibayuki -> 艺术家:芝雪
 artist:newmen -> 艺术家:NeWMeN
 artist:miyasaka miyu -> 艺术家:宫坂みゆ
 artist:miyasaka naco -> 艺术家:宫坂なこ
@@ -26600,7 +26639,7 @@ artist:musashi daichi -> 艺术家:武蔵ダイチ
 artist:nukunuku orange -> 艺术家:ヌクヌクオレンジ
 artist:onikubo hirohisa -> 艺术家:鬼窪浩久
 artist:sagattoru -> 艺术家:サカッとる
-artist:tamaki -> 艺术家:TAMAKI
+artist:tamaki -> 艺术家:TAMAKI | 環
 artist:ahemaru -> 艺术家:アヘ丸
 artist:akikusa peperon -> 艺术家:秋草ぺぺろん
 artist:drachef -> 艺术家:ドラチェフ
@@ -28640,7 +28679,7 @@ artist:henkuma -> 艺术家:变熊
 artist:kawashima yoshio -> 艺术家:川島よしお
 artist:kanari tokusaku -> 艺术家:鹿成トクサク
 artist:onigiri unicorn -> 艺术家:鬼斬ゆにこーん
-artist:namae renraku -> 艺术家:なまえ れんらく
+artist:namae renraku -> 艺术家:名前连络
 artist:kouda tomohiro -> 艺术家:幸田朋弘
 artist:senbei -> 艺术家:煎饼
 artist:corundum -> 艺术家:こらんだむ
@@ -30257,7 +30296,7 @@ artist:beater -> 艺术家:Beater
 artist:bebebe -> 艺术家:べべべ
 artist:beco -> 艺术家:Beco
 artist:bee -> 艺术家:bee
-artist:beijuu -> 艺术家:米獸
+artist:beijuu -> 艺术家:米兽
 artist:bekko. -> 艺术家:べっ子。
 artist:bekkou megane buchiko -> 艺术家:べっこうめがねぶち子
 artist:bell -> 艺术家:ベル
@@ -34456,7 +34495,7 @@ artist:nekomi haruto -> 艺术家:猫見春人
 artist:nekomimi kanon -> 艺术家:猫耳花音
 artist:nekomura -> 艺术家:猫村
 artist:nekomushi -> 艺术家:ねこむし
-artist:nekoneko -> 艺术家:ねこねこ
+artist:nekoneko -> 艺术家:猫猫
 artist:nekoneko panchu -> 艺术家:ねこねこぱんちゅっ
 artist:nekonin -> 艺术家:猫忍
 artist:nekono lonmiy -> 艺术家:猫乃ろんみい
@@ -38970,7 +39009,7 @@ artist:kurosaki shun -> 艺术家:黒咲俊
 artist:isoi -> 艺术家:あいそい
 artist:maij chichico -> 艺术家:明治乳子
 artist:guremasu -> 艺术家:ぐれます
-artist:alpha91 -> 艺术家:Alpha
+artist:alpha91 -> 艺术家:Alpha91
 artist:marumaromi -> 艺术家:まるまろみ
 artist:inchore -> 艺术家:陰ちょれ
 artist:bujidearu -> 艺术家:ぶじである
@@ -41080,6 +41119,26 @@ artist:sushi jiro -> 艺术家:寿司二郎
 artist:futsu iyu -> 艺术家:フッィュー
 artist:sacraneco -> 艺术家:樱猫
 artist:yoshikage -> 艺术家:ヨシカゲ
+artist:agekichi -> 艺术家:安芸绪
+artist:onigiri musubi -> 艺术家:御握饭团
+artist:minu -> 艺术家:みぃぬ
+artist:ramuda -> 艺术家:らむだ
+artist:whiteph -> 艺术家:ウィリアムPI
+artist:ojisan 28-gou -> 艺术家:おぢさん28号
+artist:jank peanuts -> 艺术家:垃圾花生
+artist:akino komugi -> 艺术家:秋野こむぎ
+artist:nyakotarou -> 艺术家:にゃこたろう
+artist:kaze no tabibito -> 艺术家:かぜの旅人
+artist:dew -> 艺术家:でゅう
+artist:yawaraka black -> 艺术家:やわらかブラック
+artist:nameka -> 艺术家:なめか
+artist:doompypomp -> 艺术家:DoompyPomp
+artist:senjou maiko -> 艺术家:戦上まい子
+artist:mogami koji -> 艺术家:最中工路
+artist:hijiribashi ran -> 艺术家:聖橋蘭
+artist:rong -> 艺术家:論
+artist:akino subaru -> 艺术家:秋野昂
+artist:azuma ran -> 艺术家:あずま蘭
 cosplayer:otohara an -> Coser:乙原あん
 cosplayer:rioko -> Coser:rioko凉凉子
 cosplayer:atsuki -> Coser:あつき
