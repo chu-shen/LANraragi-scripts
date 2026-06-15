@@ -1962,7 +1962,7 @@ parody:cross game -> 原作:幸运四叶草
 parody:crush gear nitro -> 原作:新超激力战斗车
 parody:crypt killer -> 原作:妖霸天下
 parody:cyberbots -> 原作:装甲战士
-parody:cyberpunk -> 原作:赛博朋克 边缘行者
+parody:cyberpunk -> 原作:赛博朋克系列
 parody:d.gray-man -> 原作:驱魔少年
 parody:d.n.angel -> 原作:天使怪盗
 parody:d.p.s. -> 原作:D.P.S.
@@ -2900,6 +2900,10 @@ parody:majo to hyakkihei -> 原作:魔女与百骑兵
 parody:cool devices -> 原作:Cool Devices
 parody:the extras academy survival guide -> 原作:配角生存法则
 parody:sasami-san ganbaranai -> 原作:锁锁美同学@提不起劲
+parody:super no ura de yani suu futari -> 原作:在超市后门吸烟的二人
+parody:relirium -> 原作:遗迹与相遇与冒险
+parody:kimi to kanojo to kanojo no koi. -> 原作:你和她和她的恋爱。
+parody:w.l.o. sekai renai kikou -> 原作:W.L.O 世界恋爱机构
 character:alice -> 角色:爱丽丝
 character:akane hino -> 角色:日野茜
 character:ibuki -> 角色:伊吹
@@ -5431,14 +5435,14 @@ character:rin shima -> 角色:志摩凛
 character:chiaki oogaki -> 角色:大垣千明
 character:aoi inuyama -> 角色:犬山葵
 character:ena saitou -> 角色:齐藤惠那
-character:sugumi kanagata -> 角色:金潟すぐみ
+character:sugumi kanagata -> 角色:金潟直美
 character:yasuri araime -> 角色:新居目安里
 character:raiya kaeruzaka -> 角色:蛙坂来弥
-character:rita henschel -> 角色:リタ・ヘンシェル
+character:rita henschel -> 角色:丽塔・H
 character:serina niiya -> 角色:新谷芹菜
-character:shirley oakley -> 角色:シャーリー・オークレイ
-character:shitara kaneshiya -> 角色:兼志谷シタラ
-character:rin himukai -> 角色:日向リン
+character:shirley oakley -> 角色:雪莉・O
+character:shitara kaneshiya -> 角色:兼志谷星
+character:rin himukai -> 角色:日向铃
 character:giorno giovanna -> 角色:乔鲁诺·乔巴拿
 character:belzerg stylish sword iris -> 角色:贝尔泽古·斯黛莉休·索德·爱丽丝
 character:hibiki tsukahara -> 角色:冢原响
@@ -6341,7 +6345,7 @@ character:caitlyn -> 角色:凯特琳（皮城女警）
 character:nikaido -> 角色:二阶堂
 character:reno -> 角色:里诺
 character:aegir -> 角色:埃吉尔
-character:shinano -> 角色:信浓(鵗)
+character:shinano -> 角色:信浓
 character:foxhound -> 角色:狐提
 character:pamiat merkuria -> 角色:水星纪念
 character:nurnberg -> 角色:纽伦堡
@@ -6870,7 +6874,7 @@ character:hachiroku -> 角色:八六
 character:yggdrasil -> 角色:尤格多拉希尔
 character:otome arisugawa -> 角色:有栖川乙女
 character:luo tianyi -> 角色:洛天依
-character:sensei -> 角色:老师（蔚蓝档案）
+character:sensei -> 角色:老师
 character:azuma seren -> 角色:东雪莲
 character:yaoyao -> 角色:瑶瑶
 character:monika -> 角色:莫妮卡
@@ -6923,7 +6927,7 @@ character:hanbei takenaka -> 角色:竹中半兵卫
 character:kanae kochou -> 角色:胡蝶香奈惠
 character:sanemi shinazugawa -> 角色:不死川实弥
 character:mashiro shizuyama -> 角色:静山真白
-character:tsurugi kensaki -> 角色:剑先鹤城
+character:tsurugi kenzaki -> 角色:剑先鹤城
 character:acerola -> 角色:阿塞萝拉
 character:kou minamoto -> 角色:源光
 character:damian desmond -> 角色:达米安·德斯蒙
@@ -8056,7 +8060,7 @@ character:rapi -> 角色:拉毗
 character:anis -> 角色:阿妮斯
 character:helm -> 角色:海伦
 character:scarlet -> 角色:红莲
-character:crown -> 角色:皇冠（妮姬）
+character:crown -> 角色:皇冠
 character:red hood -> 角色:小红帽
 character:viper -> 角色:毒蛇
 character:neon -> 角色:尼恩
@@ -8087,7 +8091,7 @@ character:marciana -> 角色:玛律恰那
 character:diesel -> 角色:迪塞尔
 character:cocoa -> 角色:可可
 character:volume -> 角色:沃纶姆
-character:sin -> 角色:罪（妮姬）
+character:sin -> 角色:罪
 character:yulha -> 角色:尤尔夏
 character:jackal -> 角色:豺狼
 character:laplace -> 角色:拉普拉斯
@@ -8492,7 +8496,6 @@ character:nobeta -> 角色:诺贝塔
 character:rachel alucard -> 角色:雷其儿·阿尔卡特
 character:sakura ritsuki -> 角色:樱凛月
 character:natsumi kyouno -> 角色:镜野七罪
-character:otogi -> 角色:音葵
 character:ein -> 角色:无 | 爱因
 character:ohr -> 角色:光
 character:sof -> 角色:限
@@ -9324,7 +9327,7 @@ character:ordinary woman -> 角色:一般女性
 character:scarlet el vandimion -> 角色:斯嘉丽·艾尔·范迪米昂
 character:isabel -> 角色:伊莎贝尔
 character:nihilister -> 角色:尼希利斯塔
-character:mermaid -> 角色:小美人鱼（妮姬）
+character:mermaid -> 角色:小美人鱼
 character:teresse -> 角色:泰瑞丝
 character:nebris -> 角色:内布利斯
 character:zenith -> 角色:杰尼斯
@@ -9470,7 +9473,7 @@ character:kasumi shigure -> 角色:時雨霞
 character:quency -> 角色:坎西
 character:k -> 角色:K
 character:ziz -> 角色:席兹
-character:leviathan -> 角色:利维坦（妮姬）
+character:leviathan -> 角色:利维坦
 character:behemoth -> 角色:贝希摩斯
 character:kudelia aina bernstein -> 角色:古荻莉亚·蓝娜·伯恩斯坦
 character:mirai yashima -> 角色:‌米莱·八洲
@@ -10816,7 +10819,7 @@ character:shimako toudou -> 角色:藤堂志摩子
 character:noriko nijou -> 角色:二条乃梨子
 character:hayuru himekawa -> 角色:姬川映流
 character:reiri hida -> 角色:飞弾怜悧
-character:mori -> 角色:森（妮姬）
+character:mori -> 角色:森
 character:satoko kusagakure -> 角色:草隐里子
 character:fiona gilman -> 角色:菲欧娜·吉尔曼
 character:atsumi munakata -> 角色:栋方爱海
@@ -11316,7 +11319,7 @@ character:alejandra -> 角色:亚历山德拉
 character:orisa -> 角色:奥丽莎
 character:reaper -> 角色:死神（守望先锋）
 character:hanzo -> 角色:岛田半藏
-character:mccree -> 角色:麦克雷
+character:cole cassidy -> 角色:科尔·卡西迪
 character:huang yan -> 角色:黄嫣
 character:tatewaki kuno -> 角色:九能带刀
 character:rikka inohana -> 角色:井之华六花
@@ -11741,7 +11744,6 @@ character:jack-o valentine -> 角色:杰克-O'瓦伦丁
 character:a.b.a -> 角色:A.B.A
 character:sol badguy -> 角色:索尔·巴得凯
 character:giovanna -> 角色:乔凡娜
-character:tsurugi kenzaki -> 角色:剑先鹤城
 character:kanan takakiyo -> 角色:高洁迦楠
 character:miyu kato -> 角色:美优·卡托乌
 character:nagisa kashiwagi -> 角色:柏木渚
@@ -11790,7 +11792,6 @@ character:tsubasa nanase -> 角色:七濑翼
 character:julius reinberg -> 角色:尤里乌斯·连恩伯格
 character:kingston -> 角色:金斯顿
 character:iruru yorozu -> 角色:万容
-character:laevatain -> 角色:莱万汀
 character:traptrix cularia -> 角色:兔藻之虫惑魔
 character:frye onaga -> 角色:乌茨霍
 character:inkling -> 角色:墨灵
@@ -11889,7 +11890,7 @@ character:shiori yumeoji -> 角色:梦大路栞
 character:siro -> 角色:电脑少女小白
 character:hikari minowa -> 角色:三轮光
 character:shigure kosaka -> 角色:香坂时雨
-character:haru endou -> 角色:円堂春
+character:haru endou -> 角色:圆堂晴
 character:ema hinata -> 角色:日向绘麻
 character:maika chouno -> 角色:蝶乃舞花
 character:aru -> 角色:存流
@@ -11897,8 +11898,8 @@ character:exosister irene -> 角色:救祓少女·伊雷娜
 character:mana kase -> 角色:嘉濑茉奈
 character:shano himegami -> 角色:‌姬神纱乃
 character:airi amano -> 角色:天野愛莉
-character:nolan grayson -> 角色:诺兰·格雷森（全能侠）
-character:zoe thompson -> 角色:佐伊·汤普森（科技夹克）
+character:nolan grayson -> 角色:诺兰·格雷森
+character:zoe thompson -> 角色:佐伊·汤普森
 character:gsc president -> 角色:联邦学生会长
 character:shushu tina -> 角色:舒舒蒂纳
 character:togame -> 角色:咎儿
@@ -11919,9 +11920,9 @@ character:kana ichikawa -> 角色:市川香菜
 character:michiru kagemori -> 角色:影森满
 character:nazuna hiwatashi -> 角色:日渡荠
 character:carnelian -> 角色:卡涅利安
-character:mai xiaowen -> 角色:麦晓雯（骇爪）
-character:claire ann byers -> 角色:莱尔·安·拜尔斯（暴风雨）
-character:flonne -> 角色:芙蓉（魔界战记）
+character:mai xiaowen -> 角色:麦晓雯
+character:claire ann byers -> 角色:莱尔·安·拜尔斯
+character:flonne -> 角色:芙蓉
 character:izumi curtis -> 角色:泉·卡迪斯
 character:tangtang -> 角色:汤汤
 character:snowshine -> 角色:昼雪
@@ -11937,6 +11938,38 @@ character:murdoch swan -> 角色:默多克·斯旺
 character:nagisa misawa -> 角色:三泽渚
 character:rina takahata -> 角色:高畑里奈
 character:sasami tsukuyomi -> 角色:月读锁锁美
+character:tayama -> 角色:田山（山田）
+character:subaru konoe -> 角色:近卫昴
+character:kinjirou sakamachi -> 角色:坂町近次郎
+character:kureha sakamachi -> 角色:坂町红羽
+character:aromalilith rosemary -> 角色:芳香魔女 迷迭香
+character:nagi nanami -> 角色:七海凪
+character:hai tien -> 角色:海天
+character:ao gennai -> 角色:源内苍
+character:aika aikawa -> 角色:相河爱花
+character:ayaka ichijo -> 角色:一条绫香
+character:mutsumi koashi -> 角色:小芦睦海
+character:yotsuyu hirasaka -> 角色:比良坂夜露
+character:fumika momoshina -> 角色:百科文嘉
+character:kanade nikitoh -> 角色:仁纪藤奏
+character:rei takanashi -> 角色:小鸟游怜
+character:mai nikotama -> 角色:二子玉舞
+character:neo itokura -> 角色:伊户仓音绪
+character:chie shinonome -> 角色:东云千惠
+character:shiina sutegoro -> 角色:州天顷椎奈
+character:emi garyuu -> 角色:我龙绘美
+character:mari jinguuji -> 角色:神宫寺真理
+character:akane kotomura -> 角色:琴村朱音
+character:mia voisin -> 角色:米娅・V
+character:meika yorozuba -> 角色:万场盟华
+character:anna usamoto -> 角色:宇佐元杏奈
+character:koyui ohzeki -> 角色:大关小结
+character:bukiko kotobuki -> 角色:寿武希子
+character:hresvelgr -> 角色:大鹫
+character:baselard -> 角色:猎刃
+character:gourai -> 角色:轰雷
+character:stylet -> 角色:短剑
+character:greifen -> 角色:格里芬
 group:1 -> 团队:1
 group:13 -> 团队:13
 group:27 -> 团队:27
@@ -25886,6 +25919,11 @@ group:studio arika -> 团队:stuDio arika
 group:yurinyurin -> 团队:ゆりんゆりん
 group:st. michael girls school -> 团队:圣迈克尔女子学院
 group:8 percent milk. -> 团队:8%milk.
+group:onigiri to okazu -> 团队:おにぎりとおかず
+group:seiheki times -> 团队:性癖タイムズ
+group:armjaw -> 团队:Armjaw
+group:dusuya-san -> 团队:づす屋さん
+group:kojiraen -> 团队:仔じら園
 artist:2 -> 艺术家:2
 artist:7 -> 艺术家:7
 artist:8 -> 艺术家:8
@@ -26839,7 +26877,7 @@ artist:bota mochito -> 艺术家:牡丹もちと
 artist:cuvie -> 艺术家:Cuvie
 artist:hazuki yuto -> 艺术家:羽月ユウト
 artist:hinasaki yo -> 艺术家:雏咲叶
-artist:naruko -> 艺术家:鸣湖（平间ひろかず）
+artist:naruko -> 艺术家:平间宏和（鸣湖）
 artist:hishigata tomaru -> 艺术家:ひし形とまる
 artist:mokufu -> 艺术家:もくふう
 artist:okumoto yuuta -> 艺术家:澳本悠太
@@ -26962,7 +27000,7 @@ artist:mtu -> 艺术家:MtU
 artist:alp -> 艺术家:あるぷ
 artist:chiba toshirou -> 艺术家:チバトシロウ
 artist:choco pahe -> 艺术家:チョコぱへ
-artist:hal -> 艺术家:hal | なにがしナニカ
+artist:hal -> 艺术家:hal（なにがしナニカ）
 artist:haruhisky -> 艺术家:はるきち
 artist:ichinomiya yuu -> 艺术家:一宮夕羽
 artist:inago -> 艺术家:INAGO
@@ -28836,7 +28874,7 @@ artist:mgmee -> 艺术家:MGMEE
 artist:nathaniel pennel -> 艺术家:Pennel
 artist:hadron9 -> 艺术家:HADRON9
 artist:supu -> 艺术家:すぷ
-artist:kitaku -> 艺术家:きたく | 仲町まち
+artist:kitaku -> 艺术家:きたく（仲町まち）
 artist:shirota dai -> 艺术家:白田太
 artist:moyazou -> 艺术家:もや造
 artist:kuguri oimo -> 艺术家:九栗おいも
@@ -34573,7 +34611,7 @@ artist:nigesapo -> 艺术家:にげサポ
 artist:nightjoy -> 艺术家:Nightjoy
 artist:nigo -> 艺术家:にご
 artist:niiruma kenji -> 艺术家:にいるまけんじ
-artist:niisan -> 艺术家:にーさん
+artist:lolimate -> 艺术家:ロリメイト
 artist:nijiden -> 艺术家:ニジデン
 artist:nijihashi sola -> 艺术家:虹桥空
 artist:nijiru -> 艺术家:煮汁
@@ -39778,7 +39816,7 @@ artist:naruse miyabi -> 艺术家:成瀬みやび
 artist:lionneko -> 艺术家:れおねこ
 artist:shizuma -> 艺术家:しづま
 artist:shasha inu -> 艺术家:しゃしゃ犬
-artist:h2 -> 艺术家:英知通(h2)
+artist:h2 -> 艺术家:英知通（h2）
 artist:odochi -> 艺术家:おどち
 artist:an-telin -> 艺术家:an-telin
 artist:bonbaie -> 艺术家:盆場家
@@ -41139,6 +41177,14 @@ artist:hijiribashi ran -> 艺术家:聖橋蘭
 artist:rong -> 艺术家:論
 artist:akino subaru -> 艺术家:秋野昂
 artist:azuma ran -> 艺术家:あずま蘭
+artist:haika -> 艺术家:ハイカ
+artist:echigooriman -> 艺术家:えちごおりまん
+artist:shinonome fuurin -> 艺术家:篠目迷（風凛）
+artist:nanasi maru -> 艺术家:na●si
+artist:sanuki -> 艺术家:さ抜き
+artist:nakaishow -> 艺术家:名飼証
+artist:dusu -> 艺术家:づす
+artist:takahashi kouta -> 艺术家:高橋しじみ（高橋康太）
 cosplayer:otohara an -> Coser:乙原あん
 cosplayer:rioko -> Coser:rioko凉凉子
 cosplayer:atsuki -> Coser:あつき
@@ -41210,7 +41256,7 @@ cosplayer:linzi jiang -> Coser:凛子酱
 cosplayer:cherry neko -> Coser:桜桃喵
 cosplayer:kuuko w -> Coser:Kuuko W
 cosplayer:luo xiaoli miao -> Coser:洛璃LoLiSAMA
-cosplayer:yaokoututu -> Coser:咬一口兔娘
+cosplayer:urumibunny -> Coser:咬一口兔娘
 cosplayer:yuki astra -> Coser:雪晴Astra
 cosplayer:niannian d -> Coser:念念_D
 cosplayer:tyouduki maryou -> Coser:蝶月真綾
