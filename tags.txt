@@ -5440,7 +5440,7 @@ character:yasuri araime -> 角色:新居目安里
 character:raiya kaeruzaka -> 角色:蛙坂来弥
 character:rita henschel -> 角色:丽塔・H
 character:serina niiya -> 角色:新谷芹菜
-character:shirley oakley -> 角色:雪莉・O
+character:shirley oakley -> 角色:雪莉・欧克蕾
 character:shitara kaneshiya -> 角色:兼志谷星
 character:rin himukai -> 角色:日向铃
 character:giorno giovanna -> 角色:乔鲁诺·乔巴拿
@@ -11955,7 +11955,7 @@ character:kanade nikitoh -> 角色:仁纪藤奏
 character:rei takanashi -> 角色:小鸟游怜
 character:mai nikotama -> 角色:二子玉舞
 character:neo itokura -> 角色:伊户仓音绪
-character:chie shinonome -> 角色:东云千惠
+character:chie shinonome -> 角色:东云千绘
 character:shiina sutegoro -> 角色:州天顷椎奈
 character:emi garyuu -> 角色:我龙绘美
 character:mari jinguuji -> 角色:神宫寺真理
@@ -11970,6 +11970,16 @@ character:baselard -> 角色:猎刃
 character:gourai -> 角色:轰雷
 character:stylet -> 角色:短剑
 character:greifen -> 角色:格里芬
+character:subaru akehoshi -> 角色:明星昴流
+character:hokuto hidaka -> 角色:冰鹰北斗
+character:hansuke doi -> 角色:土井半助
+character:rikichi yamada -> 角色:山田利吉
+character:kiyone kotetsu -> 角色:虎彻清音
+character:suzu mukai -> 角色:向井铃
+character:kazuki sendou -> 角色:千堂和树
+character:mizuki takase -> 角色:高濑瑞希
+character:jean kirschtein -> 角色:让·基尔希斯坦
+character:testament -> 角色:泰斯塔门特
 group:1 -> 团队:1
 group:13 -> 团队:13
 group:27 -> 团队:27
@@ -25924,6 +25934,14 @@ group:seiheki times -> 团队:性癖タイムズ
 group:armjaw -> 团队:Armjaw
 group:dusuya-san -> 团队:づす屋さん
 group:kojiraen -> 团队:仔じら園
+group:coconut milk -> 团队:ココナッツみるく
+group:saihate studio -> 团队:最果てスタジオ
+group:eruunagi -> 团队:えるうなぎ
+group:rs street -> 团队:R’sストリート
+group:fuwaten -> 团队:ふわてん
+group:momoiro tanzaku -> 团队:ももいろたんざく
+group:bio chample -> 团队:バイオチャンプル
+group:chisakiss -> 团队:チサキッス
 artist:2 -> 艺术家:2
 artist:7 -> 艺术家:7
 artist:8 -> 艺术家:8
@@ -25959,7 +25977,7 @@ artist:akaza -> 艺术家:あかざ
 artist:ishikei -> 艺术家:石惠
 artist:endou hiroto -> 艺术家:远藤弘土
 artist:happoubi jin -> 艺术家:八宝备仁
-artist:fujisaki hikari -> 艺术家:藤崎ひかり
+artist:fujisaki hikari -> 艺术家:藤崎光
 artist:ichiri -> 艺术家:イチリ
 artist:satou kibi -> 艺术家:さとうきび
 artist:nanpuu -> 艺术家:なんぷぅ
@@ -29563,7 +29581,7 @@ artist:asaga aoi -> 艺术家:浅賀葵
 artist:camonome -> 艺术家:かものめ
 artist:shikigami kuroko -> 艺术家:式神くろ子
 artist:coburaco -> 艺术家:コブラノヲヤツ
-artist:nemu -> 艺术家:ネム
+artist:nemu -> 艺术家:ねむ
 artist:yoshika -> 艺术家:ヨシカ
 artist:uduki takeru -> 艺术家:卯月たける
 artist:yunagi amane -> 艺术家:忧凪天音
@@ -40445,7 +40463,7 @@ artist:denki mikan -> 艺术家:电气蜜柑
 artist:usagino kuua -> 艺术家:兎野くうあ
 artist:bluevery king -> 艺术家:ブルベリ王
 artist:keimo -> 艺术家:啓モ
-artist:sabakan -> 艺术家:佐波缶
+artist:sabakan -> 艺术家:佐波缶 | さばかん
 artist:ozi8 -> 艺术家:おじ８ | ｴｲﾄﾋﾟｰｴﾑ
 artist:yamashima chihane -> 艺术家:山島ちはね
 artist:tsubonuma -> 艺术家:壺ぬま
@@ -41185,6 +41203,26 @@ artist:sanuki -> 艺术家:さ抜き
 artist:nakaishow -> 艺术家:名飼証
 artist:dusu -> 艺术家:づす
 artist:takahashi kouta -> 艺术家:高橋しじみ（高橋康太）
+artist:kasabuta -> 艺术家:memory
+artist:bairin -> 艺术家:バイリン
+artist:plankton -> 艺术家:プランクトン
+artist:aoki nanase -> 艺术家:あおき七瀬
+artist:harada shigemitsu -> 艺术家:原田重光
+artist:onda fuoku -> 艺术家:恩田斑奥
+artist:zuki -> 艺术家:Zuki
+artist:takahashi osamu -> 艺术家:高橋脩
+artist:imai yuu -> 艺术家:今井ユウ
+artist:usume shirou -> 艺术家:うすめ 四郎
+artist:shuto haruka -> 艺术家:noyF
+artist:karakari -> 艺术家:からかり
+artist:shuubetu kouta -> 艺术家:拾捌コウタ
+artist:smells like -> 艺术家:すめるすらいく
+artist:kounetsu -> 艺术家:こうねつ
+artist:nnu -> 艺术家:んぬ
+artist:jigoku no nyanko -> 艺术家:地獄のにゃんこ
+artist:yuuki ringo -> 艺术家:有機リンゴ
+artist:takoneru -> 艺术家:たこねる
+artist:shinozuka -> 艺术家:篠塚
 cosplayer:otohara an -> Coser:乙原あん
 cosplayer:rioko -> Coser:rioko凉凉子
 cosplayer:atsuki -> Coser:あつき
