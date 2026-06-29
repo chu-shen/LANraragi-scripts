@@ -2904,6 +2904,16 @@ parody:super no ura de yani suu futari -> 原作:在超市后门吸烟的二人
 parody:relirium -> 原作:遗迹与相遇与冒险
 parody:kimi to kanojo to kanojo no koi. -> 原作:你和她和她的恋爱。
 parody:w.l.o. sekai renai kikou -> 原作:W.L.O 世界恋爱机构
+parody:king exit -> 原作:王的逝去
+parody:ender magnolia -> 原作:终焉之玛格诺利亚
+parody:opus prism peak -> 原作:OPUS: 心相吾山
+parody:death stranding -> 原作:死亡搁浅
+parody:celeste -> 原作:蔚蓝
+parody:last command -> 原作:最后指令
+parody:void stranger -> 原作:虚空陌客
+parody:recettear -> 原作:露塞提娅:道具屋经营妙方
+parody:nanoapostle -> 原作:奈米使徒计划
+parody:2 shot diary -> 原作:双人日记
 character:alice -> 角色:爱丽丝
 character:akane hino -> 角色:日野茜
 character:ibuki -> 角色:伊吹
@@ -3762,7 +3772,7 @@ character:yukimura kusunoki -> 角色:楠幸村
 character:maria takayama -> 角色:高山玛利亚
 character:ageha -> 角色:扬羽
 character:aimu -> 角色:蓝梦
-character:aria -> 角色:亚璃亚 | 艾丽娅
+character:aria -> 角色:亚璃亚 | 艾丽娅 | 爱芮
 character:ashiya -> 角色:芦屋
 character:asuka -> 角色:飞鸟
 character:ayame -> 角色:菖蒲
@@ -4605,7 +4615,7 @@ character:sakura igawa -> 角色:井河樱
 character:rinko akiyama -> 角色:秋山凜子
 character:yukikaze mizuki -> 角色:水城雪风
 character:shiranui mizuki -> 角色:水城不知火
-character:lucy ... yamagami -> 角色:山神露西【以下略】
+character:lucy ... yamagami -> 角色:山神露西
 character:yutaka hasebe -> 角色:长谷部丰
 character:tomoki sakurai -> 角色:樱井智树
 character:ikaros -> 角色:伊卡洛斯
@@ -5032,7 +5042,7 @@ character:yue ying -> 角色:黄月英
 character:zhang chunhua -> 角色:张春华
 character:zhuge liang -> 角色:诸葛亮
 character:ranma saotome -> 角色:早乙女乱马
-character:angela -> 角色:安吉拉
+character:angela -> 角色:安吉拉 | 安琪拉
 character:riesz -> 角色:莉斯
 character:eucliwood hellscythe -> 角色:优克莉伍德·海尔赛兹
 character:hinako shijou -> 角色:四条雏子
@@ -5194,7 +5204,7 @@ character:rin -> 角色:凛
 character:farrah -> 角色:法拉
 character:zooey -> 角色:佐伊
 character:natsu dragneel -> 角色:纳兹·多拉格尼尔
-character:kirara -> 角色:绮良良
+character:kirara -> 角色:绮良良 | 绮良
 character:tamaki kousaka -> 角色:向坂环
 character:sellma -> 角色:罗克珊努
 character:ruida -> 角色:莉卡
@@ -7282,7 +7292,7 @@ character:wa2000 -> 角色:WA2000 | 玛绮朵
 character:pa-15 -> 角色:PA-15 | 芙洛伦
 character:agent -> 角色:代理人
 character:welrod mkii -> 角色:维尔德MkⅡ | 维尔德
-character:ak-12 -> 角色:AK-12 | 露契娅
+character:ak-12 -> 角色:AK-12 | 露契娅 | 克莱妲
 character:an-94 -> 角色:AN-94 | 埃芙 | 安提娅
 character:kalina -> 角色:格琳娜
 character:ump45 -> 角色:UMP45 | 莱娅
@@ -7321,7 +7331,7 @@ character:pps-43 -> 角色:PPS-43
 character:pp-90 -> 角色:PP-90 | 乌琪
 character:thunder -> 角色:雷电
 character:negev -> 角色:内格夫
-character:st ar-15 -> 角色:ST AR-15
+character:st ar-15 -> 角色:ST AR-15 | 阿斯缇亚
 character:m4a1 -> 角色:M4A1
 character:m4 sopmod ii -> 角色:M4 SOPMODII |  索普
 character:m16a1 -> 角色:M16A1 | 白烨戈
@@ -11980,6 +11990,43 @@ character:kazuki sendou -> 角色:千堂和树
 character:mizuki takase -> 角色:高濑瑞希
 character:jean kirschtein -> 角色:让·基尔希斯坦
 character:testament -> 角色:泰斯塔门特
+character:little mermaid -> 角色:小美人鱼（妮姬）
+character:tsubame amaya -> 角色:雨夜燕
+character:rieri bishop -> 角色:里耶·毕晓普
+character:nadeshiko aoi -> 角色:蓝井抚子
+character:sanae ryuuzouji -> 角色:龙造寺早苗
+character:youko -> 角色:洋子
+character:akao hiiragi -> 角色:柊赤绪
+character:rebecca scarlet -> 角色:蕾贝卡·斯嘉丽
+character:fana -> 角色:法娜
+character:sol marron -> 角色:索尔·玛隆
+character:charlotte roselei -> 角色:夏洛特·罗丝蕾
+character:yami sukehiro -> 角色:夜见介大
+character:peter pan -> 角色:彼得潘
+character:grand master pang -> 角色:大师・尼玛
+character:carole stanley -> 角色:卡罗尔·斯坦利
+character:tuesday simmons -> 角色:特丝黛·西蒙斯
+character:becky lynch -> 角色:贝基·林奇
+character:bianca belair -> 角色:比安卡·贝拉尔
+character:tarasque -> 角色:不识爱的悲哀之龙
+character:valkyrie ortlinde -> 角色:奥特琳德
+character:thrud -> 角色:斯露德
+character:valkyrie hildr -> 角色:希露德
+character:valkyrie olrun -> 角色:奥尔露恩
+character:lorna frost -> 角色:罗娜·弗罗斯特
+character:hecuba -> 角色:赫库芭
+character:louise bridges -> 角色:明日
+character:theo -> 角色:Theo
+character:madeline -> 角色:Madeline
+character:honest -> 角色:「实」
+character:recette lemongrass -> 角色:露塞提娅·柠檬草
+character:anita -> 角色:安妮塔
+character:emi kobayashi -> 角色:小林绘美
+character:papyrus -> 角色:莎草
+character:ren kizaki -> 角色:牙崎涟
+character:alderp barnes alexei -> 角色:阿尔达普·阿列克谢·巴内斯
+character:hua yuqing -> 角色:花语青
+character:yasuo -> 角色:亚索(疾风剑豪)
 group:1 -> 团队:1
 group:13 -> 团队:13
 group:27 -> 团队:27
@@ -25942,6 +25989,17 @@ group:fuwaten -> 团队:ふわてん
 group:momoiro tanzaku -> 团队:ももいろたんざく
 group:bio chample -> 团队:バイオチャンプル
 group:chisakiss -> 团队:チサキッス
+group:berrl no hakoniwa -> 团队:ベルの箱庭
+group:unisonshift accent -> 团队:ユニゾンシフト・アクセント
+group:goodspeed -> 团队:goodspeed
+group:atelier fujimiya -> 团队:アトリエフジミヤ
+group:ponkanshou -> 团队:凸完庄
+group:torotoro yume banana -> 团队:とろとろ夢ばなな
+group:rocinante -> 团队:ロシナンテ
+group:nana no moe -> 团队:Nana no moe
+group:upstick -> 团队:upStick
+group:kakun -> 团队:カークン
+group:myajima -> 团队:みゃ島
 artist:2 -> 艺术家:2
 artist:7 -> 艺术家:7
 artist:8 -> 艺术家:8
@@ -41223,6 +41281,26 @@ artist:jigoku no nyanko -> 艺术家:地獄のにゃんこ
 artist:yuuki ringo -> 艺术家:有機リンゴ
 artist:takoneru -> 艺术家:たこねる
 artist:shinozuka -> 艺术家:篠塚
+artist:berrl felpurr -> 艺术家:ベルフェルパー
+artist:valentine -> 艺术家:ばれんたいん
+artist:laterrenamed -> 艺术家:laterrenamed
+artist:nc731 -> 艺术家:nc731
+artist:ice nine -> 艺术家:アイスナイン
+artist:biyobiyo -> 艺术家:びよびよ
+artist:tansui -> 艺术家:炭水
+artist:ouichi -> 艺术家:凹一
+artist:tobino bino -> 艺术家:鳶野びの
+artist:hachicon -> 艺术家:hachicon
+artist:ameno -> 艺术家:雨之
+artist:mocoda -> 艺术家:モコ田
+artist:nishina kakeri -> 艺术家:仁科かけり
+artist:samorame -> 艺术家:サモラメ
+artist:arino -> 艺术家:蟻乃
+artist:miyako surota -> 艺术家:京師すろた
+artist:opurotein -> 艺术家:おぷろていん
+artist:satou mizu -> 艺术家:佐藤ミズ
+artist:tokoloten -> 艺术家:シもん
+artist:myaji -> 艺术家:みゃじ
 cosplayer:otohara an -> Coser:乙原あん
 cosplayer:rioko -> Coser:rioko凉凉子
 cosplayer:atsuki -> Coser:あつき
