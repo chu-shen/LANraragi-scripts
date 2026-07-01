@@ -2914,6 +2914,9 @@ parody:void stranger -> 原作:虚空陌客
 parody:recettear -> 原作:露塞提娅:道具屋经营妙方
 parody:nanoapostle -> 原作:奈米使徒计划
 parody:2 shot diary -> 原作:双人日记
+parody:chi. chikyuu no undou ni tsuite -> 原作:地。―关于地球的运动―
+parody:class de 2-banme ni kawaii onnanoko to tomodachi ni natta -> 原作:和班上第二可爱的女孩成为了朋友
+parody:itoko no ko -> 原作:いとこのこ
 character:alice -> 角色:爱丽丝
 character:akane hino -> 角色:日野茜
 character:ibuki -> 角色:伊吹
@@ -10430,7 +10433,7 @@ character:kurumi kuribayashi -> 角色:栗林胡桃
 character:ninon joubert -> 角色:妮侬·朱柏尔
 character:creditta cash -> 角色:克蕾琪塔·卡修
 character:kaya kidou -> 角色:鬼道嘉夜
-character:karin -> 角色:观崎佳凛 | 神月卡琳
+character:karin -> 角色:观崎佳凛 | 神月卡琳 | 香燐
 character:rika manabe -> 角色:真边莉佳
 character:iroha kohinata -> 角色:小日向彩羽
 character:misaki gundou -> 角色:群堂美咲
@@ -12027,6 +12030,14 @@ character:ren kizaki -> 角色:牙崎涟
 character:alderp barnes alexei -> 角色:阿尔达普·阿列克谢·巴内斯
 character:hua yuqing -> 角色:花语青
 character:yasuo -> 角色:亚索(疾风剑豪)
+character:albert brudzewski -> 角色:阿尔伯特·布鲁泽夫斯基
+character:rafal -> 角色:拉法尔
+character:oczy -> 角色:奥克齐
+character:badeni -> 角色:巴德尼
+character:subaru nanaura -> 角色:七浦昴
+character:otome nanaura -> 角色:七浦乙女
+character:umi asanagi -> 角色:朝凪海
+character:maxwell -> 角色:麦斯威尔
 group:1 -> 团队:1
 group:13 -> 团队:13
 group:27 -> 团队:27
@@ -26000,6 +26011,10 @@ group:nana no moe -> 团队:Nana no moe
 group:upstick -> 团队:upStick
 group:kakun -> 团队:カークン
 group:myajima -> 团队:みゃ島
+group:tokyo gunjo -> 团队:东京群青
+group:ichigo no monogatari -> 团队:草莓的故事
+group:kirei na ohana-chan -> 团队:绮丽的花酱
+group:tomato can souko -> 团队:とまとかん倉庫
 artist:2 -> 艺术家:2
 artist:7 -> 艺术家:7
 artist:8 -> 艺术家:8
@@ -41301,6 +41316,12 @@ artist:opurotein -> 艺术家:おぷろていん
 artist:satou mizu -> 艺术家:佐藤ミズ
 artist:tokoloten -> 艺术家:シもん
 artist:myaji -> 艺术家:みゃじ
+artist:tokyo gunjo -> 艺术家:东京群青
+artist:purugame -> 艺术家:プルガメ
+artist:haitoku sensei -> 艺术家:はいとく先生
+artist:pueichigo -> 艺术家:ぷぇいちご
+artist:shindou mikeko -> 艺术家:神堂みけこ
+artist:momoiro onsen -> 艺术家:桃色温泉
 cosplayer:otohara an -> Coser:乙原あん
 cosplayer:rioko -> Coser:rioko凉凉子
 cosplayer:atsuki -> Coser:あつき
