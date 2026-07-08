@@ -1700,7 +1700,7 @@ parody:harem tengoku da to omottara yandere jigoku datta. -> 原作:原本以为
 parody:akebi-chan no sailor fuku -> 原作:明日同学的水手服
 parody:mahou shoujo celesphonia -> 原作:魔法少女天穹法妮雅
 parody:noel -> 原作:NOeL: NOT DiGITAL
-parody:tsumamigui -> 原作:妻中蜜
+parody:tsumamigui -> 原作:妻中蜜系列
 parody:senpai ga uzai kouhai no hanashi -> 原作:关于前辈很烦人的事
 parody:neko no otera no chion-san -> 原作:猫之寺的知恩姐
 parody:spy x family -> 原作:间谍过家家
@@ -2395,7 +2395,7 @@ parody:tentacle and witches -> 原作:触手和巫女
 parody:fantasista doll -> 原作:幻想玩偶
 parody:gag manga biyori -> 原作:搞笑漫画日和
 parody:megami no cafe terrace -> 原作:女神咖啡厅
-parody:megami-ryou no ryoubo-kun. -> 原作:女神宿舍的管理员。
+parody:megami-ryou no ryoubo-kun. -> 原作:女神宿舍的管理员
 parody:green green -> 原作:钟之音学院
 parody:hagure yuusha no estetica -> 原作:无赖勇者的鬼畜美学
 parody:chiyu mahou no machigatta tsukaikata -> 原作:治愈魔法的错误使用方法
@@ -2917,6 +2917,14 @@ parody:2 shot diary -> 原作:双人日记
 parody:chi. chikyuu no undou ni tsuite -> 原作:地。―关于地球的运动―
 parody:class de 2-banme ni kawaii onnanoko to tomodachi ni natta -> 原作:和班上第二可爱的女孩成为了朋友
 parody:itoko no ko -> 原作:いとこのこ
+parody:monster high -> 原作:精灵高中
+parody:timesplitters -> 原作:时空分裂者
+parody:yami to boushi to hon no tabibito -> 原作:暗与帽子与书之旅人
+parody:pole princess -> 原作:钢管公主
+parody:newton to ringo no ki -> 原作:牛顿与苹果树
+parody:yami healer -> 原作:无照天才治疗师的逆袭人生
+parody:natsu no arashi -> 原作:夏之岚！
+parody:yomi no tsugai -> 原作:黄泉使者
 character:alice -> 角色:爱丽丝
 character:akane hino -> 角色:日野茜
 character:ibuki -> 角色:伊吹
@@ -6411,7 +6419,7 @@ character:seraphine -> 角色:萨勒芬妮（星籁歌姬）
 character:erich von rerugen -> 角色:埃里希·冯·雷鲁根
 character:luciela r. sourcream -> 角色:露西艾拉·R·索克莉姆
 character:eris -> 角色:厄里斯 | 厄莉丝
-character:luna -> 角色:露娜（素晴 | 死或生）
+character:luna -> 角色:露娜（素晴 | 死或生 | 影之诗）
 character:yamato no kami yasusada -> 角色:大和守安定
 character:takane lui -> 角色:鹰岭露依
 character:charlotte e. yeager -> 角色:夏洛特·E·叶格
@@ -6877,7 +6885,7 @@ character:princess star butterfly -> 角色:星蝶公主
 character:kazusa kyouyama -> 角色:杏山和纱
 character:mahiru shiina -> 角色:椎名真昼
 character:margot knight -> 角色:玛戈特·奈特
-character:malga naruze -> 角色:玛伽·成濑
+character:malga naruze -> 角色:玛鲁伽·纳尔杰
 character:evangeline a.k. mcdowell -> 角色:依文洁琳·安塔娜西亚·凯蒂·麦道威尔
 character:momosuzu nene -> 角色:桃铃音音
 character:omaru polka -> 角色:尾丸波尔卡
@@ -6989,7 +6997,7 @@ character:hinata tachibana -> 角色:橘日向
 character:conte di cavour -> 角色:加富尔伯爵
 character:dhole -> 角色:豺
 character:senjuro rengoku -> 角色:炼狱千寿郎
-character:female protagonist -> 角色:女主角（女神异闻录3）
+character:female protagonist -> 角色:汐见琴音
 character:makoto yuuki -> 角色:结城理
 character:asuka kurashina -> 角色:仓科明日香
 character:ulrich von hutten -> 角色:乌尔里希·冯·胡滕
@@ -7874,7 +7882,7 @@ character:jessica rabbit -> 角色:兔子杰茜卡
 character:roger rabbit -> 角色:兔子罗杰
 character:betty boop -> 角色:贝蒂娃娃
 character:ankha -> 角色:艳后
-character:isabelle -> 角色:西施惠
+character:isabelle -> 角色:伊莎贝尔 | 西施惠
 character:cream the rabbit -> 角色:可利姆
 character:vanilla the rabbit -> 角色:瓦妮菈
 character:blaze the cat -> 角色:布蕾姿
@@ -8239,7 +8247,7 @@ character:haru edamoto -> 角色:枝元阳
 character:miku emori -> 角色:绘守未来
 character:shimiko endou -> 角色:圆堂志美子
 character:melissa mao -> 角色:梅丽莎·毛
-character:diane -> 角色:黛安娜
+character:diane -> 角色:黛安
 character:rappa -> 角色:乱破
 character:lingsha -> 角色:灵砂
 character:mikoto uchiha -> 角色:宇智波美琴
@@ -9015,7 +9023,7 @@ character:aino -> 角色:爱诺
 character:kriemhild -> 角色:克里姆希尔德
 character:enkidu -> 角色:恩奇都
 character:violet parr -> 角色:巴小倩
-character:yuna -> 角色:尤娜
+character:yuna -> 角色:尤娜 | 优奈
 character:she-hulk -> 角色:女浩克
 character:manchester -> 角色:曼彻斯特
 character:suffren -> 角色:絮弗伦
@@ -9086,7 +9094,7 @@ character:miharu ayase -> 角色:绫濑美春
 character:miuna shiodome -> 角色:潮留美海
 character:ajisai sena -> 角色:濑名紫阳花
 character:renako amaori -> 角色:甘织玲奈子
-character:yuzu -> 角色:柊柚子
+character:yuzu -> 角色:柚 | 柊柚子
 character:panty anarchy -> 角色:潘迪
 character:stocking anarchy -> 角色:史朵巾
 character:guild girl -> 角色:柜台小姐
@@ -11113,7 +11121,7 @@ character:cana alberona -> 角色:卡娜·阿尔贝罗纳
 character:rinha kaya -> 角色:贺阳燐羽
 character:virgo -> 角色:芭露歌
 character:malevola gibb -> 角色:梅乐维拉·吉布
-character:filene -> 角色:銀冰龍人‧菲琳
+character:filene -> 角色:银冰龙人‧菲琳
 character:levy mcgarden -> 角色:蕾比·马库嘎登
 character:gajeel redfox -> 角色:伽吉鲁·雷特福克斯
 character:hua mulan -> 角色:花木兰
@@ -11202,7 +11210,7 @@ character:chiaki morisawa -> 角色:守泽千秋
 character:midori takamine -> 角色:高峯翠
 character:schwi -> 角色:休比
 character:leizi -> 角色:惊蛰
-character:kei tendou -> 角色:天童柯伊
+character:kei tendou -> 角色:天童凯伊
 character:metan shikoku -> 角色:四国玫碳
 character:cindy aurum -> 角色:希德妮·奧魯姆
 character:george kurai -> 角色:乔治·库莱伊
@@ -12038,6 +12046,100 @@ character:subaru nanaura -> 角色:七浦昴
 character:otome nanaura -> 角色:七浦乙女
 character:umi asanagi -> 角色:朝凪海
 character:maxwell -> 角色:麦斯威尔
+character:momoka yashiro -> 角色:桃桃
+character:touko sakurai -> 角色:月城莫娜
+character:satsuki myoudouin -> 角色:明堂院皋
+character:maggie mcginnis -> 角色:玛姬·麦金尼斯
+character:harriet wolf -> 角色:克莱蒂 狼
+character:rinto kagamine -> 角色:镜音铃人
+character:mikuo hatsune -> 角色:初音未来 [男版]
+character:ponto nei -> 角色:先斗宁
+character:amata sora -> 角色:阿马塔·空
+character:andy w. hole -> 角色:安迪·W·霍尔
+character:jin muso -> 角色:金无双
+character:yunoha thrul -> 角色:柚叶·苏尔
+character:kagura demuri -> 角色:神乐·迪姆利
+character:gin tachibana -> 角色:立花·訚
+character:juana -> 角色:胡安娜
+character:muneshige tachibana -> 角色:立花·宗茂
+character:ragatha -> 角色:雅加塔
+character:pomni -> 角色:帕姆尼
+character:gerald stuart -> 角色:吉奥尔多·斯提亚特
+character:keith claes -> 角色:吉斯·克拉艾斯
+character:yumeko shikiya -> 角色:志喜屋梦子
+character:rinne inaba -> 角色:稻叶凛音
+character:koromaru -> 角色:虎狼丸
+character:lohen -> 角色:洛恩
+character:hazuki azuma -> 角色:东叶月
+character:hatsumi azuma -> 角色:东初美
+character:mina hinomori -> 角色:日野森美奈
+character:azusa hinomori -> 角色:日野森梓
+character:tomomi aizawa -> 角色:爱沢友美
+character:hannah -> 角色:汉娜
+character:kaavi -> 角色:卡维
+character:ichihime -> 角色:一姬
+character:chiori mikami -> 角色:三上千织
+character:alice bedford -> 角色:爱丽丝·贝德福德
+character:shuuji asanaga -> 角色:朝永修二
+character:yu linglong -> 角色:玉玲珑
+character:escanor -> 角色:艾斯卡诺
+character:sayoko asatsuyu -> 角色:朝露砂夜子
+character:miyuri natsuki -> 角色:夏树海夕里
+character:meimei himari -> 角色:冥鸣阳葵
+character:professor burnet -> 角色:芭内特博士
+character:loewe -> 角色:蕾薇
+character:kohane ohitome -> 角色:小一孁 心羽
+character:kaoru itokonoue -> 角色:丝此上 薰
+character:estel freesia -> 角色:艾丝蒂尔·弗利西亚
+character:asagiri mai -> 角色:朝雾麻衣
+character:natsuki takamizawa -> 角色:鹰见泽菜月
+character:wreathlit noel -> 角色:莉兹里特·诺艾尔
+character:tatsuya asagiri -> 角色:朝雾达哉
+character:midori tooyama -> 角色:远山翠
+character:cynthia marguerite -> 角色:辛西娅·玛格丽特
+character:douma -> 角色:童磨
+character:anri sonohara -> 角色:园原杏里
+character:izaya orihara -> 角色:折原临也
+character:celty sturluson -> 角色:塞尔提·史特路尔森
+character:shizuo heiwajima -> 角色:平和岛静雄
+character:tom tanaka -> 角色:田中汤姆
+character:zazan -> 角色:杀残
+character:hidari -> 角色:左
+character:e.h. -> 角色:极乐净土·哈珀
+character:hayate ayasaki -> 角色:绫崎飒
+character:lucy platini -> 角色:露西·普拉蒂尼
+character:dina -> 角色:迪娜
+character:beast boy -> 角色:野兽男孩
+character:kawaki -> 角色:川木
+character:mitachurl -> 角色:丘丘暴徒
+character:noboru kodou -> 角色:虎堂升
+character:magoroku shidou -> 角色:祠堂孙六
+character:akira ogata -> 角色:绪方旭
+character:atena saotome -> 角色:早乙女天奈
+character:meme kakure -> 角色:华暮爱爱
+character:aashi kedarui -> 角色:毛樽井亚爱子衣
+character:mei meido -> 角色:铭户芽衣
+character:kurumi haraga -> 角色:原贺胡桃
+character:kusuri yakuzen -> 角色:药膳楠莉
+character:mimimi utsukushisugi -> 角色:美杉美美美
+character:kishika torotoro -> 角色:土吕瀞骑士华
+character:iku sutou -> 角色:须藤育
+character:matsuri dei -> 角色:出井祭李
+character:chiyo iin -> 角色:伊院知与
+character:sekka -> 角色:雪华
+character:orchid -> 角色:奥契丝
+character:magachiyo -> 角色:曲千代
+character:daria dimensional witch -> 角色:次元魔女·多萝茜
+character:eris anthule -> 角色:伊莉丝·安蒂尔
+character:mikoto amamiya -> 角色:李瑟钰
+character:eunha -> 角色:银河
+character:chie ashikaga -> 角色:足利知恵
+character:setsuna kiyoura -> 角色:清浦刹那
+character:kyomi kasannoin -> 角色:花山院恭美
+character:minami obuchi -> 角色:小渊南
+character:niki ookuma -> 角色:大隈二喜
+character:natsumi koizumi -> 角色:小泉夏美
+character:ruka imakawa -> 角色:今川留夏
 group:1 -> 团队:1
 group:13 -> 团队:13
 group:27 -> 团队:27
@@ -24782,7 +24884,7 @@ group:mono stellar -> 团队:Mono*Stellar
 group:cominaya -> 团队:こみな屋
 group:agenasu -> 团队:揚げナス(仮)
 group:miracleburn -> 团队:みらくるバーン
-group:ice coffee -> 团队:冷珈琲
+group:ice coffee -> 团队:冷咖啡
 group:nasu homu -> 团队:なすほーむ
 group:hitaki nikomiya -> 团队:ひたき煮込み屋
 group:tori salt -> 团队:トリソルト
@@ -25449,7 +25551,7 @@ group:mattan hieshou -> 团队:末端冷え性
 group:cafe momozuki -> 团队:喫茶モモヅキ
 group:kodomo to kodomo -> 团队:こどもとこども
 group:majutsu kessha kuroki tsubasa -> 团队:魔術結社・黒き翼
-group:aburi tarako-tei -> 团队:おむすびころりん
+group:aburi tarako-tei -> 团队:あぶりたらこ亭
 group:nurunuru bouzu -> 团队:ぬるぬる坊主
 group:kani zousui -> 团队:かに雑炊
 group:tareme sijou syugi -> 团队:垂れ目至上主義
@@ -26015,6 +26117,25 @@ group:tokyo gunjo -> 团队:东京群青
 group:ichigo no monogatari -> 团队:草莓的故事
 group:kirei na ohana-chan -> 团队:绮丽的花酱
 group:tomato can souko -> 团队:とまとかん倉庫
+group:type-3 -> 团队:Type-3
+group:hiyashite katameru -> 团队:ひやしてかためる
+group:stick -> 团队:すてぃっく
+group:mousou bunny -> 团队:妄想☆ばにぃ
+group:nagasaki irohatei -> 团队:長崎いろは邸
+group:typeh -> 团队:TypeH
+group:ototoi n -> 团队:オトトイN
+group:esuneko no ichi -> 团队:えすねこのいち
+group:20nt -> 团队:20NT
+group:nametakenoko -> 团队:なめたけのこ
+group:amaterasu tsukikage -> 团队:雨照月影
+group:higehurai -> 团队:ひげふらい
+group:whisp -> 团队:Whisp
+group:bug system -> 团队:バグシステム
+group:nostradamus -> 团队:のすとらだむす
+group:halladaydou -> 团队:ハラディ堂
+group:caramel maam -> 团队:きゃらめるまみー
+group:kagero studio -> 团队:カゲロースタジオ
+group:ayameya -> 团队:あやめや
 artist:2 -> 艺术家:2
 artist:7 -> 艺术家:7
 artist:8 -> 艺术家:8
@@ -26787,7 +26908,7 @@ artist:koori -> 艺术家:粉织
 artist:red-rum -> 艺术家:RED-RUM
 artist:ryoh-zoh -> 艺术家:椋蔵
 artist:shouji nigou -> 艺术家:庄司二号
-artist:henrybird -> 艺术家:半里バード9
+artist:henrybird -> 艺术家:半里バード
 artist:homing -> 艺术家:ホーミング
 artist:kageno illyss -> 艺术家:影乃いりす
 artist:katou jun -> 艺术家:加藤じゅん
@@ -30990,7 +31111,7 @@ artist:eman -> 艺术家:eman
 artist:emanon123 -> 艺术家:emanon123
 artist:emi -> 艺术家:えみ
 artist:emilio -> 艺术家:えみりお
-artist:emina -> 艺术家:emina
+artist:emina -> 艺术家:えみーな
 artist:emino -> 艺术家:えみの
 artist:emit -> 艺术家:えみっと
 artist:emori misaki -> 艺术家:江森美沙樹
@@ -41322,6 +41443,24 @@ artist:haitoku sensei -> 艺术家:はいとく先生
 artist:pueichigo -> 艺术家:ぷぇいちご
 artist:shindou mikeko -> 艺术家:神堂みけこ
 artist:momoiro onsen -> 艺术家:桃色温泉
+artist:morino kuma -> 艺术家:森乃くま
+artist:h.txt -> 艺术家:H.txt
+artist:boole -> 艺术家:boole
+artist:mikoshiba -> 艺术家:御子柴
+artist:korra -> 艺术家:コッラ
+artist:toriyoshi -> 艺术家:とりよし
+artist:catzz -> 艺术家:catzz
+artist:marisayaka -> 艺术家:まりさやか
+artist:wano umi -> 艺术家:和野うみ
+artist:goblin touzokudan -> 艺术家:ゴブリンの恥
+artist:nametakenoko -> 艺术家:なめたけのこ
+artist:gouriki toratarou -> 艺术家:剛力虎太郎
+artist:umiwatari -> 艺术家:うみわたり
+artist:touou -> 艺术家:トウオウ
+artist:kotani -> 艺术家:こたに
+artist:roborobocap -> 艺术家:roborobocap
+artist:captain jerkpants -> 艺术家:Captainjerkpants
+artist:iori ayaka -> 艺术家:いおりあやか
 cosplayer:otohara an -> Coser:乙原あん
 cosplayer:rioko -> Coser:rioko凉凉子
 cosplayer:atsuki -> Coser:あつき
