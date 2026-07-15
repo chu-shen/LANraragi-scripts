@@ -763,7 +763,7 @@ parody:the little mermaid -> 原作:小美人鱼
 parody:atlantis the lost empire -> 原作:亚特兰蒂斯：失落的帝国
 parody:sengoku otome -> 原作:战国少女～桃色异传～
 parody:monster hunter -> 原作:怪物猎人
-parody:sennen sensou aigis -> 原作:千年战争Aigis
+parody:sennen sensou aigis -> 原作:千年战争埃癸斯
 parody:star ocean 3 -> 原作:星之海洋3
 parody:kokoro connect -> 原作:心灵链环
 parody:robopon -> 原作:机甲宝贝
@@ -820,7 +820,7 @@ parody:atelier shallie -> 原作:夏莉的工作室
 parody:atelier sophie -> 原作:索菲的工作室
 parody:atelier firis -> 原作:菲莉丝的工作室
 parody:atelier lulua -> 原作:露露亚的炼金工房
-parody:atelier ryza -> 原作:莱莎的工作室
+parody:atelier ryza -> 原作:莱莎的炼金工房
 parody:atelier lina -> 原作:莉娜的工作室
 parody:my neighbor totoro -> 原作:龙猫
 parody:professor layton -> 原作:雷顿教授
@@ -1735,7 +1735,7 @@ parody:kekkaishi -> 原作:结界师
 parody:senyoku no sigrdrifa -> 原作:战翼的希格德莉法
 parody:densetsu no yuusha da garn -> 原作:勇者传说
 parody:video girl ai -> 原作:电影少女
-parody:last origin -> 原作:Last Origin
+parody:last origin -> 原作:最后的起源
 parody:seven mortal sins -> 原作:sin 七大罪
 parody:jibaku shounen hanako-kun -> 原作:地缚少年花子君
 parody:shinkansen henkei robo shinkalion -> 原作:新干线战士
@@ -2925,6 +2925,14 @@ parody:newton to ringo no ki -> 原作:牛顿与苹果树
 parody:yami healer -> 原作:无照天才治疗师的逆袭人生
 parody:natsu no arashi -> 原作:夏之岚！
 parody:yomi no tsugai -> 原作:黄泉使者
+parody:nue no onmyouji -> 原作:鵺之阴阳师
+parody:yanineko -> 原作:尼古喵喵
+parody:koori no jouheki -> 原作:冰之城墙
+parody:akane-banashi -> 原作:落语朱音
+parody:seito kaichou hikaru -> 原作:圣徒会长小光
+parody:toy story -> 原作:玩具总动员系列
+parody:himekishi wa barbaroi no yome -> 原作:女骑士成为蛮族新娘
+parody:killer instinct -> 原作:杀手本能
 character:alice -> 角色:爱丽丝
 character:akane hino -> 角色:日野茜
 character:ibuki -> 角色:伊吹
@@ -2935,7 +2943,7 @@ character:maya -> 角色:摩耶(犮)
 character:jeanne darc -> 角色:圣女贞德
 character:katsuragi -> 角色:葛城(鹖)
 character:kasumi -> 角色:霞 | 蕸
-character:leo -> 角色:丽王 | 利昂
+character:leo -> 角色:丽王 | 利昂 | 雷欧
 character:haruna -> 角色:榛名(鲑) | 春奈
 character:chitose -> 角色:千岁(鹂)
 character:murakumo -> 角色:丛 | 丛云
@@ -5264,7 +5272,7 @@ character:noa himesaka -> 角色:姬坂乃爱
 character:miyako hoshino -> 角色:星野宫子
 character:hana shirosaki -> 角色:白咲花
 character:hinata hoshino -> 角色:星野日向
-character:may -> 角色:小遥
+character:may -> 角色:小遥 | 梅伊
 character:dawn -> 角色:小光
 character:kyaru -> 角色:凯露
 character:mai sakurajima -> 角色:樱岛麻衣
@@ -6294,7 +6302,7 @@ character:meidri -> 角色:梅朵莉
 character:crimvael -> 角色:克莉姆
 character:samus aran -> 角色:萨姆斯·亚兰
 character:otome saotome -> 角色:早乙女乙女
-character:melusine -> 角色:美露莘
+character:melusine -> 角色:美露莘(梅柳齐娜)
 character:baobhan sith -> 角色:芭万·希
 character:suomi -> 角色:索米
 character:guilmon -> 角色:基尔兽
@@ -12140,6 +12148,49 @@ character:minami obuchi -> 角色:小渊南
 character:niki ookuma -> 角色:大隈二喜
 character:natsumi koizumi -> 角色:小泉夏美
 character:ruka imakawa -> 角色:今川留夏
+character:hk433 -> 角色:HK433
+character:kudo raika -> 角色:玖伖莱卡
+character:mugen mochi -> 角色:无限麻薯
+character:porty -> 角色:Porty_ramram
+character:roman carax -> 角色:罗曼·卡拉斯
+character:d -> 角色:D（赛博朋克）
+character:ark ranger black -> 角色:方舟黑色游侠
+character:ryogoku tsukasa -> 角色:领国司
+character:puwapuwa popura -> 角色:Puwapuwa Popura
+character:remielle dan -> 角色:蕾米埃尔·丹‌
+character:fremy speeddraw -> 角色:芙雷米·史皮德洛
+character:evergreen -> 角色:艾芭葛琳
+character:gabby -> 角色:嘉比
+character:cheelai -> 角色:茨莱
+character:kaguya nanbu -> 角色:楠舞神夜
+character:rulership -> 角色:统治地位
+character:hana sunomiya -> 角色:须之宫花
+character:koyuki hikawa -> 角色:冰川小雪
+character:flare corona -> 角色:芙蕾雅·珂罗娜
+character:kazuha migiwa -> 角色:渚一叶
+character:park jae-sang -> 角色:朴载相
+character:milk -> 角色:米尔克
+character:nonoa -> 角色:惠比寿乃爱（诺诺亚）
+character:chtholly nota seniorious -> 角色:珂朵莉·诺塔·瑟尼欧里斯
+character:akane osaki -> 角色:樱咲朱音
+character:quetzalpetlatl -> 角色:魁特札尔皮特莱特尔
+character:fantina -> 角色:梅丽莎
+character:drifblim -> 角色:随风球
+character:akari mizunashi -> 角色:水无灯里
+character:akamaru -> 角色:赤丸
+character:bonnie anderson -> 角色:邦妮·安德森
+character:noriko shiina -> 角色:椎名法子
+character:fraurem chrome -> 角色:芙劳蕾姆·克洛姆
+character:sena -> 角色:赛娜
+character:ann -> 角色:安
+character:shino azuma -> 角色:东紫乃
+character:serafina de lavillant -> 角色:赛拉菲娜·德·拉维兰特
+character:cersei -> 角色:洁姿
+character:azuki momoi -> 角色:桃井小豆
+character:saki yoshioka -> 角色:吉冈沙纪
+character:karin domyoji -> 角色:道明寺歌铃
+character:cui yifei -> 角色:崔亦菲
+character:angelica ainsworth -> 角色:安洁莉卡·恩兹华斯
 group:1 -> 团队:1
 group:13 -> 团队:13
 group:27 -> 团队:27
@@ -12178,7 +12229,7 @@ group:interheart -> 团队:INTERHEART
 group:darknesspot -> 团队:DarknessPot
 group:nihon bussan -> 团队:日本物产
 group:sphinx -> 团队:SPHINX
-group:bishop -> 团队:BISHOP（主教社）
+group:bishop -> 团队:主教社
 group:tanuki soft -> 团队:たぬきそふと
 group:baseson -> 团队:BaseSon
 group:miel -> 团队:Miel
@@ -13435,7 +13486,7 @@ group:gensou stomach -> 团队:幻想ストマック
 group:88 gou -> 团队:88号
 group:ofuton de suyaa -> 团队:おふとんでスヤァ
 group:fatalpulse -> 团队:Fatalpulse
-group:oneone1 -> 团队:ONEONE1
+group:oneone1 -> 团队:狗叫社
 group:marchen box -> 团队:メルヘンBOX
 group:pokopii -> 团队:ぽこぴー
 group:hikaru no kobeya -> 团队:ひかるの小部屋
@@ -13864,7 +13915,7 @@ group:d.n.a.lab. -> 团队:D・N・A.Lab.
 group:kinokonomi -> 团队:きのこのみ
 group:pigpanpan -> 团队:PigPanPan
 group:yomairi sensei -> 团队:よまいり先生
-group:koniro kajitsu -> 团队:紺色果実
+group:koniro kajitsu -> 团队:绀色果实
 group:pandora box -> 团队:ぱんどらぼっくす
 group:jekyll and hyde -> 团队:Jekyll and Hyde
 group:roentgen -> 团队:Roentgen
@@ -26136,6 +26187,17 @@ group:halladaydou -> 团队:ハラディ堂
 group:caramel maam -> 团队:きゃらめるまみー
 group:kagero studio -> 团队:カゲロースタジオ
 group:ayameya -> 团队:あやめや
+group:pain koubou -> 团队:パイン工房
+group:nuh -> 团队:NUH
+group:nantomo-san -> 团队:なんともさん
+group:enarizushi -> 团队:えなりずし
+group:night white lily -> 团队:Night White Lily
+group:shiso ninniku -> 团队:始祖にんにく
+group:cafe blanc -> 团队:かふぇぶらん☆
+group:galvalume kouhan -> 团队:ガルバリウム鋼板
+group:shise at agepan -> 团队:司瀬@あげぱん
+group:inusuku -> 团队:いぬすく
+group:akumehage -> 团队:アクメハゲ
 artist:2 -> 艺术家:2
 artist:7 -> 艺术家:7
 artist:8 -> 艺术家:8
@@ -26393,7 +26455,7 @@ artist:shikei -> 艺术家:しけー
 artist:ruri -> 艺术家:ルリ | るり | 瑠璃
 artist:kohata tsunechika -> 艺术家:小旗つねちか
 artist:carn -> 艺术家:夏庵
-artist:okada kou -> 艺术家:冈田コウ
+artist:okada kou -> 艺术家:岡田コウ
 artist:neko pantsu -> 艺术家:ねこパンツ
 artist:suzunone rena -> 艺术家:铃音れな
 artist:miyabi -> 艺术家:美矢火
@@ -35916,7 +35978,7 @@ artist:sasizume soutarou -> 艺术家:差詰そうたろう
 artist:sasori butter -> 艺术家:さそりバター
 artist:sataken -> 艺术家:佐竹犬
 artist:satetsu -> 艺术家:サテツ
-artist:sato -> 艺术家:sato
+artist:sato -> 艺术家:さと
 artist:sato seila -> 艺术家:佐藤せいら
 artist:satomi -> 艺术家:里美
 artist:satomi hidefumi -> 艺术家:さとみひでふみ
@@ -41461,6 +41523,25 @@ artist:kotani -> 艺术家:こたに
 artist:roborobocap -> 艺术家:roborobocap
 artist:captain jerkpants -> 艺术家:Captainjerkpants
 artist:iori ayaka -> 艺术家:いおりあやか
+artist:pastime774 -> 艺术家:pastime774
+artist:ponyarata popalappio -> 艺术家:ぽにゃらーたぽぱらっぴお
+artist:painame daikanpa -> 艺术家:パインアメ大寒波
+artist:tantanmen -> 艺术家:坦々MEN
+artist:dobepopon -> 艺术家:どべぽぽん
+artist:higashino gojuri -> 艺术家:東野ごじゅり
+artist:kashiwamochi yomogi -> 艺术家:柏餅よもぎ
+artist:alicecrazy -> 艺术家:alicecrazy
+artist:penti -> 艺术家:Penti
+artist:inusuku -> 艺术家:いぬすく
+artist:ecolu -> 艺术家:えこる
+artist:everyday2 -> 艺术家:everyday2
+artist:joe hasegawa -> 艺术家:ジョー長谷川
+artist:sukebe rakugaki -> 艺术家:sukebe rakugaki
+artist:endo saya -> 艺术家:円堂さや
+artist:jigoku no dentaku -> 艺术家:地獄の電卓
+artist:lancer -> 艺术家:らんすer
+artist:3x3 -> 艺术家:3×3(さざん)
+artist:rara -> 艺术家:rara
 cosplayer:otohara an -> Coser:乙原あん
 cosplayer:rioko -> Coser:rioko凉凉子
 cosplayer:atsuki -> Coser:あつき
