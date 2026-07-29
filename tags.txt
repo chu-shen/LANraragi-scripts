@@ -288,7 +288,7 @@ parody:fate apocrypha -> 原作:Fate/Apocrypha
 parody:fate zero -> 原作:Fate/Zero
 parody:fate hollow ataraxia -> 原作:Fate/hollow ataraxia
 parody:fate extra -> 原作:Fate/EXTRA
-parody:fate kaleid liner prisma illya -> 原作:Fate/kaleid liner 魔法少女☆伊莉雅
+parody:fate kaleid liner prisma illya -> 原作:魔法少女☆伊莉雅
 parody:mahou tsukai no yoru -> 原作:魔法使之夜
 parody:kara no kyoukai -> 原作:空之境界
 parody:canaan -> 原作:迦南
@@ -2481,7 +2481,7 @@ parody:crusher joe -> 原作:宇宙先锋
 parody:puella magi suzune magica -> 原作:魔法少女铃音
 parody:senjou no fuga -> 原作:战场的赋格曲
 parody:sentai red isekai de boukensha ni naru -> 原作:红战士在异世界成了冒险者
-parody:windbreaker -> 原作:WIND BREAKER 防风铃
+parody:windbreaker -> 原作:防风铃（防风少年）
 parody:natsu no ame -> 原作:夏之雨
 parody:sakura musubi -> 原作:樱花结
 parody:your diary -> 原作:your diary
@@ -2945,6 +2945,38 @@ parody:issho ni training -> 原作:一起做运动吧
 parody:yuusha party wo tsuihou sareta shiromadoushi s-rank boukensha ni hirowareru -> 原作:被驱逐出勇者队伍的白魔导师
 parody:tenmaku no jaadugar -> 原作:穹庐下的魔女
 parody:shoushimin series -> 原作:小市民系列
+parody:hitoribocchi no isekai kouryaku -> 原作:独自一人的异世界攻略
+parody:koori zokusei danshi to cool na douryou joshi -> 原作:冰属性男子和酷酷女同事
+parody:yasei no last boss ga arawareta -> 原作:野生的大魔王出现了！
+parody:aikatsu planet -> 原作:偶像活动 Planet!
+parody:asuras wrath -> 原作:阿修罗之怒
+parody:tenkuu shinpan -> 原作:天空侵犯
+parody:mount celeb kaneda-san -> 原作:金田小姐想靠富婆身份高高在上
+parody:mina the hollower -> 原作:挖掘者米娜
+parody:dragonlance -> 原作:龙枪编年史
+parody:wylde pak -> 原作:沃德朴一家
+parody:kamen rider zeztz -> 原作:假面骑士ZZZ
+parody:wakaba-iro no quartet -> 原作:若叶色的四重奏
+parody:balala the fairies -> 原作:巴啦啦小魔仙系列
+parody:buchigire reijou wa houfuku o chikaimashita. -> 原作:暴怒千金发誓复仇
+parody:to be hero x -> 原作:凸变英雄 X
+parody:life makeover -> 原作:以闪亮之名
+parody:isekai one turn kill nee-san ane douhan no isekai seikatsu hajimemashita -> 原作:异世界一击无双姐姐
+parody:loop 7-kaime no akuyaku reijou wa -> 原作:重启七次人生的叛逆千金
+parody:return to shironagasu island -> 原作:重返蓝鲸岛
+parody:ichijyoma mankitsu gurashi -> 原作:一叠间漫画咖啡厅日常！
+parody:kiwami-highandlow -> 原作:极致的高低体验
+parody:sally face -> 原作:莎莉脸
+parody:boushoku no berserk -> 原作:暴食狂战士
+parody:black torch -> 原作:暗黑灯火
+parody:mf ghost -> 原作:燃油车斗魂
+parody:kimi to koete koi ni naru -> 原作:跨越种族与你相恋
+parody:sudachi no maoujou -> 原作:离巢的魔王城
+parody:shiboritoranaide onna shounin-san -> 原作:别榨干我啊，商人小姐！
+parody:watashi o tabetai hitodenashi -> 原作:对我垂涎欲滴的非人少女
+parody:shuu ni ichido classmate o kau hanashi -> 原作:我买下了与她的每周密会
+parody:otome game no heroine de saikyou survival -> 原作:身为女性向游戏的女主角挑战最强生存剧
+parody:duolingo -> 原作:多邻国
 character:alice -> 角色:爱丽丝
 character:akane hino -> 角色:日野茜
 character:ibuki -> 角色:伊吹
@@ -10143,7 +10175,7 @@ character:diana -> 角色:戴安娜 | 黛安娜（皎月女神）
 character:shen -> 角色:慎（暮光之眼）
 character:zilean -> 角色:基兰（时光守护者）
 character:kennen -> 角色:凯南（狂暴之心）
-character:jax -> 角色:贾克斯（武器大师）
+character:jax -> 角色:贾克斯 | 武器大师
 character:twisted fate -> 角色:崔斯特（卡牌大师）
 character:blonde blazer -> 角色:金耀光
 character:invisigal -> 角色:隐身女
@@ -10461,7 +10493,7 @@ character:kurumi kuribayashi -> 角色:栗林胡桃
 character:ninon joubert -> 角色:妮侬·朱柏尔
 character:creditta cash -> 角色:克蕾琪塔·卡修
 character:kaya kidou -> 角色:鬼道嘉夜
-character:karin -> 角色:观崎佳凛 | 神月卡琳 | 香燐
+character:karin -> 角色:观崎佳凛 | 神月卡琳
 character:rika manabe -> 角色:真边莉佳
 character:iroha kohinata -> 角色:小日向彩羽
 character:misaki gundou -> 角色:群堂美咲
@@ -10875,7 +10907,7 @@ character:illuga -> 角色:叶洛亚
 character:yuko murakami -> 角色:村上佑子
 character:kaga nazuna -> 角色:花芽荠
 character:kaga sumire -> 角色:花芽菫
-character:phantom -> 角色:幻影法师
+character:phantom -> 角色:潘托姆 | 幻影法师
 character:luminous -> 角色:夜光法师
 character:mrs. ming ming -> 角色:明明女士
 character:blaze wizard -> 角色:炎术士
@@ -12312,6 +12344,115 @@ character:momoko maeda -> 角色:前田桃子
 character:yukari tsubaki -> 角色:椿由香里
 character:yuki osanai -> 角色:小佐内由纪
 character:kyoko otonashi -> 角色:音无响子
+character:alyosha -> 角色:阿罗夏
+character:touka tsuyuri -> 角色:栗花落桃华
+character:hameko yurufuwa tenshi -> 角色:松松软软*天使·性子
+character:white fox -> 角色:白狐
+character:mio fuyutsuki -> 角色:冬月美樱
+character:lufas maphaahl -> 角色:露法丝·玛法尔
+character:spot -> 角色:斑点
+character:rangers -> 角色:巡林者
+character:isolte cruel -> 角色:伊泽露缇·克露艾尔
+character:gabia -> 角色:加维亚
+character:aia -> 角色:阿伊阿
+character:kuroageha -> 角色:奈阿
+character:olga -> 角色:奥尔嘉
+character:takashi komuro -> 角色:小室孝
+character:kirika misono -> 角色:御园雾香
+character:komoe harumachi -> 角色:春町小萌
+character:anya melfissa -> 角色:阿妮娅·梅尔菲莎
+character:mochiko kaneda -> 角色:金田持子
+character:ariya iwanaga -> 角色:磐永阿梨夜
+character:nina watari -> 角色:渡里妮娜
+character:tyr -> 角色:提尔（棕色尘埃）
+character:fara phoenix -> 角色:法拉·菲尼克斯
+character:fefnir -> 角色:法布尼尔
+character:harpuia -> 角色:赫尔琵亚
+character:kirara tamako -> 角色:云母玉子
+character:yumi lee -> 角色:李裕美
+character:kaufmo -> 角色:卡夫莫
+character:kit bodega -> 角色:基德·博德加
+character:ribbit -> 角色:瑞比特
+character:takhisis -> 角色:塔克西丝
+character:kureha miyamoto -> 角色:宫本红霸
+character:souta minamino -> 角色:南野奏太
+character:yelena belova -> 角色:叶莲娜·贝洛娃（黑寡妇）
+character:roka ayatsumugi -> 角色:绫䌷芦花
+character:yuri tamura -> 角色:田村百合
+character:masaki yoshida -> 角色:吉田茉咲
+character:koharu minami -> 角色:南小阳
+character:sachi mima -> 角色:美马幸
+character:emiri uchi -> 角色:内笑美莉
+character:hina nemoto -> 角色:根元阳菜
+character:mako tanaka -> 角色:田中真子
+character:rize kamishiro -> 角色:神代利世
+character:xi jinping -> 角色:习近平
+character:mao zedong -> 角色:毛泽东
+character:zooble -> 角色:祖波
+character:gangle -> 角色:金戈
+character:ayane kisaragi -> 角色:如月彩音
+character:nana shiraishi -> 角色:白石奈奈
+character:clairie serah -> 角色:克蕾露薇·塞拉
+character:ellie leis -> 角色:艾莉·莱斯
+character:x -> 角色:X
+character:masashi okazaki -> 角色:冈崎雅史
+character:megumi goryou -> 角色:五领恵
+character:tobari yogatari -> 角色:夜语帷
+character:mono -> 角色:Mono
+character:gensai kawakami -> 角色:河上彦斋
+character:anran -> 角色:安燃
+character:erpin -> 角色:埃尔芬
+character:mirai azuma -> 角色:吾妻未来
+character:sophie peaceful -> 角色:索菲·碧丝福尔
+character:kilmaria -> 角色:吉尔玛莉亚
+character:rishe irmgard weitzner -> 角色:莉榭·伊尔姆加德·韦尔特纳
+character:neneko izumozaki -> 角色:出云崎宁宁子
+character:mira julietta vespaland -> 角色:米拉·朱利亚塔·维斯巴朗德
+character:hisako fuchita -> 角色:渕田久子
+character:eri shiina -> 角色:椎名枝里
+character:yui yoshioka -> 角色:芳冈由依
+character:uka hatsuayu -> 角色:初鲇羽果
+character:meiko morita -> 角色:森田芽衣子
+character:mako kawai -> 角色:河合真子
+character:nana hoshi -> 角色:星奈奈
+character:claire furutachi -> 角色:古馆红怜亚
+character:noel izumi -> 角色:和泉乃爱琉
+character:pai kawahigashi -> 角色:河东派
+character:mari louise amasaka -> 角色:天坂·露易丝·真璃
+character:nagomi -> 角色:和
+character:arisa izayoi -> 角色:十六夜亚理沙
+character:max immelmann -> 角色:马克斯·殷麦曼
+character:demenishki -> 角色:Demenishki
+character:maiev shadowsong -> 角色:玛维·影之歌
+character:shar -> 角色:夜之女莎尔
+character:kouki inaba -> 角色:稻叶光辉
+character:lara greyrat -> 角色:菈菈·格雷拉特
+character:nina farion -> 角色:妮娜·法利昂
+character:roxy hart -> 角色:罗琪希·哈特
+character:noa aoi -> 角色:苍唯乃爱
+character:sana murafuji -> 角色:紫藤纱娜
+character:yukari mikoshiro -> 角色:御子白优花梨
+character:lilia saijou -> 角色:西条莉莉亚
+character:subaru nanyo -> 角色:南曜昴
+character:mio tousaka -> 角色:东坂澪
+character:ichika kishimojin -> 角色:鬼子母神一华
+character:fuyo -> 角色:芙蓉
+character:duskull -> 角色:夜巡灵
+character:ezra -> 角色:以斯拉
+character:sailor sommelier -> 角色:水手侍酒师
+character:sailor guts -> 角色:水手勇士
+character:asa mitakas mother -> 角色:三鹰朝妈妈
+character:nozomi kitahara -> 角色:北原望
+character:ren saionji -> 角色:西园寺恋
+character:hiromi higuruma -> 角色:日车宽见
+character:tomo kukuri -> 角色:久久利智
+character:kaneko lumi -> 角色:金子瑠美
+character:mari asaka -> 角色:朝霞万理
+character:miko yashiro -> 角色:社美胡
+character:hinako yaotose -> 角色:八百岁比名子
+character:shiori miyagi -> 角色:宫城志绪理
+character:sybilla -> 角色:百鬼（席薇亚）
+character:grete -> 角色:爱娘（葛蕾特）
 group:1 -> 团队:1
 group:13 -> 团队:13
 group:27 -> 团队:27
@@ -26353,6 +26494,23 @@ group:yui channel -> 团队:ゆいちゃんねる
 group:haitokuteki na anahori usagi -> 团队:背徳的な穴掘りうさぎ
 group:aibaraya -> 团队:あいばら屋
 group:zukureeb -> 团队:ずくるーび
+group:saisai saishujutsu -> 团队:再々再手術
+group:jadou potato -> 团队:邪道ポテト
+group:amamori yashiki -> 团队:あまもり屋敷
+group:chuable soft -> 团队:チュアブルソフト
+group:shikibuton cover -> 团队:敷布団カバー
+group:alkanet -> 团队:あるかねっと
+group:30 kouhan kara hajimeru ero doujin -> 团队:30代後半から始めるエロ同人
+group:amuricha -> 团队:あむりた帝国
+group:mofu mofu sheep -> 团队:もふもふしーぷ
+group:nekoma koukoku -> 团队:ねこま皇国
+group:polfessional -> 团队:ポルフェッショナル
+group:soto meguro -> 团队:外目黒
+group:doujin echigoya -> 团队:同人越後屋
+group:seiheki salad bowl -> 团队:性癖サラダボウル
+group:hiyoyokko -> 团队:ひよよっこ
+group:android koubou -> 团队:アンドロイド工房
+group:hayaaruki -> 团队:ハヤアルキ
 artist:2 -> 艺术家:2
 artist:7 -> 艺术家:7
 artist:8 -> 艺术家:8
@@ -26667,7 +26825,7 @@ artist:souryuu -> 艺术家:双龙
 artist:umi suzume -> 艺术家:雨美すずめ
 artist:michiking -> 艺术家:米奇王
 artist:otabe sakura -> 艺术家:おたべさくら
-artist:ryo -> 艺术家:RYO
+artist:ryo -> 艺术家:りょう
 artist:minori kenshirou -> 艺术家:实验四郎
 artist:umemura -> 艺术家:梅村
 artist:peter mitsuru -> 艺术家:ペーター・ミツル
@@ -41755,6 +41913,43 @@ artist:sasanoki panda -> 艺术家:笹ノ木ぱんだ
 artist:kigome -> 艺术家:きごみー
 artist:chinpoki -> 艺术家:ちんぽき
 artist:nuibara -> 艺术家:ぬいばら
+artist:gisyuled -> 艺术家:ギシュレッド
+artist:ryo-chan -> 艺术家:良ちゃん*
+artist:yugudora shiruo -> 艺术家:ユグドラしるお
+artist:muutsuki -> 艺术家:むうつき
+artist:ayul -> 艺术家:Ayul
+artist:bakatare -> 艺术家:ばかたれ
+artist:eihamu -> 艺术家:エイハム
+artist:piyopoyo -> 艺术家:piyopoyo
+artist:chihel -> 艺术家:Chihel
+artist:lumium -> 艺术家:Lumium
+artist:tanehijiri -> 艺术家:たねひじり
+artist:alka -> 艺术家:あるか
+artist:ichijiku -> 艺术家:いちじく
+artist:nontakosun -> 艺术家:のんたこすん
+artist:machupinyu -> 艺术家:まちゅぴにゅ
+artist:numasaka seisaku -> 艺术家:沼坂星作
+artist:benten korehito -> 艺术家:弁天惟仁
+artist:amrita -> 艺术家:あむりた
+artist:after eru -> 艺术家:あふた〜える
+artist:fujikyuu -> 艺术家:藤宮キュート
+artist:nekomatan. -> 艺术家:ねこまたん。
+artist:emasson -> 艺术家:エマーソン
+artist:ginzou -> 艺术家:銀蔵
+artist:dallim -> 艺术家:Dallim
+artist:umehara ume -> 艺术家:梅原うめ
+artist:ogino jun -> 艺术家:荻野純
+artist:izumi uni -> 艺术家:出海うに
+artist:siu -> 艺术家:Siu
+artist:dosukebe kojikimaru -> 艺术家:ドスケベ乞食丸
+artist:gendou kobayashi -> 艺术家:ゲンドウコバヤシ
+artist:yumikichi -> 艺术家:ユミキチ
+artist:sukota -> 艺术家:すこ太
+artist:sawada yuusuke -> 艺术家:サワダユウスケ
+artist:tsuchikado -> 艺术家:つちかど
+artist:chapio gensui -> 艺术家:ちゃぴお元帥
+artist:ahoge kinoko -> 艺术家:あほげきのこ
+artist:ura jiraiya -> 艺术家:うらじらいや
 cosplayer:otohara an -> Coser:乙原あん
 cosplayer:rioko -> Coser:rioko凉凉子
 cosplayer:atsuki -> Coser:あつき
