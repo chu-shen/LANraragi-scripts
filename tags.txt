@@ -2977,6 +2977,14 @@ parody:watashi o tabetai hitodenashi -> 原作:对我垂涎欲滴的非人少女
 parody:shuu ni ichido classmate o kau hanashi -> 原作:我买下了与她的每周密会
 parody:otome game no heroine de saikyou survival -> 原作:身为女性向游戏的女主角挑战最强生存剧
 parody:duolingo -> 原作:多邻国
+parody:yozakura-san chi no daisakusen -> 原作:夜樱家的大作战
+parody:the return of the condor heroes -> 原作:神雕侠侣
+parody:james bond -> 原作:詹姆斯·邦德
+parody:outo no hazure no renkinjutsushi -> 原作:王都边境的炼金术师
+parody:hamidashi creative -> 原作:常轨脱离Creative
+parody:kagura reimeiki -> 原作:神乐黎明记
+parody:astral party -> 原作:吉星派对
+parody:yowayowa sensei -> 原作:弱弱老师
 character:alice -> 角色:爱丽丝
 character:akane hino -> 角色:日野茜
 character:ibuki -> 角色:伊吹
@@ -12453,6 +12461,43 @@ character:hinako yaotose -> 角色:八百岁比名子
 character:shiori miyagi -> 角色:宫城志绪理
 character:sybilla -> 角色:百鬼（席薇亚）
 character:grete -> 角色:爱娘（葛蕾特）
+character:mutsumi yozakura -> 角色:夜樱六美
+character:shion yozakura -> 角色:夜樱四怨
+character:sigrid de lazur -> 角色:希格莉德·德拉叙尔
+character:katarina -> 角色:卡特琳娜（不祥之刃）
+character:xiaolongnu -> 角色:小龙女
+character:kinji hakari -> 角色:秤金次
+character:longyan -> 角色:胧焉
+character:obey your master -> 角色:听命汝主
+character:noi komazawa -> 角色:驹泽乃依
+character:lealumie -> 角色:Lealumie
+character:theresa lorca -> 角色:特蕾莎·洛尔卡
+character:cressida bright -> 角色:克蕾西达·布莱特
+character:misery stentrem -> 角色:米瑟里·斯坦特雷姆
+character:eldreda sunbringer -> 角色:艾尔妲·挽昼
+character:aiko iwase -> 角色:岩濑爱子
+character:akira hattori -> 角色:服部哲
+character:akito takagi -> 角色:高木秋人
+character:hidemitsu ishizawa -> 角色:石泽秀光
+character:kaya miyoshi -> 角色:见吉香耶
+character:takurou nakai -> 角色:中井巧朗
+character:alektra maria von levenherz -> 角色:吉尔
+character:coco reeve -> 角色:可可·里夫
+character:emma bronson -> 角色:艾玛·布隆森
+character:ersha -> 角色:艾尔莎
+character:irma kankkunen -> 角色:伊尔玛·坎库宁
+character:kaname -> 角色:卡纳梅
+character:miranda campbell -> 角色:米兰达·坎贝尔
+character:riza randog -> 角色:莉莎·兰多格
+character:daisy von preslaria -> 角色:黛西·冯·普雷斯拉里亚
+character:zelgius -> 角色:塞尔吉乌斯
+character:ike -> 角色:艾克
+character:soleil -> 角色:索雷优
+character:ash -> 角色:艾绪
+character:meliai -> 角色:墨利亚
+character:paula mccoy -> 角色:宝拉·马可伊
+character:hiyori hiwamura -> 角色:鶸村日和
+character:seri awashima -> 角色:淡岛世理
 group:1 -> 团队:1
 group:13 -> 团队:13
 group:27 -> 团队:27
@@ -12472,7 +12517,7 @@ group:2990 -> 团队:2990
 group:4040 -> 团队:4040
 group:8716 -> 团队:8716
 group:1000000000 -> 团队:1000000000
-group:clockup -> 团队:CLOCKUP
+group:clockup -> 团队:钟表社
 group:guilty -> 团队:Guilty
 group:guilty plus -> 团队:Guilty+
 group:guilty ex -> 团队:Guilty eX
@@ -12551,7 +12596,7 @@ group:key -> 团队:🔑Key
 group:alcot -> 团队:ALcot
 group:alcot honey comb -> 团队:ALcot Honey Comb
 group:august -> 团队:AUGUST
-group:feng -> 团队:feng
+group:feng -> 团队:Feng
 group:frontwing -> 团队:FrontWing
 group:atelier d -> 团队:Atelier D
 group:atelier kaguya -> 团队:Atelier KAGUYA
@@ -20341,7 +20386,7 @@ group:mobco. -> 团队:mobco.
 group:mobris -> 团队:MOBRIS
 group:mocchimochiya -> 团队:もっちもち屋
 group:mocchomudake -> 团队:モッチョム茸
-group:mochi dog laboratory -> 团队:餅犬製作所饼犬
+group:mochi dog laboratory -> 团队:餅犬製作所
 group:mochi hasamiuchi da -> 团队:餅はさみ撃ちだっ!
 group:mochi kiss junkie -> 团队:もちxoジャンキー
 group:mochi mochi -> 团队:もちもち
@@ -25785,7 +25830,7 @@ group:kitsunekopandanuki -> 团队:キツネコパンダヌキ
 group:inazuma soft -> 团队:いなずまそふと
 group:senmura -> 团队:SENMURA
 group:yamakawaya -> 团队:山河屋
-group:hentai mona liza -> 团队:蒙娜丽莎
+group:hentai mona liza -> 团队:变态蒙娜丽莎
 group:yuujintou -> 团队:宥人島
 group:saimonke -> 团队:西門家
 group:nikuniku anmitsutei -> 团队:肉々餡蜜亭
@@ -26511,6 +26556,17 @@ group:seiheki salad bowl -> 团队:性癖サラダボウル
 group:hiyoyokko -> 团队:ひよよっこ
 group:android koubou -> 团队:アンドロイド工房
 group:hayaaruki -> 团队:ハヤアルキ
+group:awa no chikara -> 团队:あわのちから
+group:zibettalia -> 团队:じべたりあ
+group:yamamori himawari -> 团队:山盛りひまわり
+group:dendou monaka -> 团队:電動もなか
+group:umebatake -> 团队:ウメ畑
+group:monmon-dou -> 团队:悶々堂
+group:radical tenshi -> 团队:ラジカル天使
+group:bottebote -> 团队:ボッテボテ
+group:ringokai -> 团队:林檎会
+group:asia no hiraki -> 团队:あじあのひらき
+group:mizu no uro -> 团队:みずのウロ
 artist:2 -> 艺术家:2
 artist:7 -> 艺术家:7
 artist:8 -> 艺术家:8
@@ -29712,7 +29768,7 @@ artist:hakaba -> 艺术家:墓场
 artist:hitotsuba -> 艺术家:ひとつば
 artist:furyouhin -> 艺术家:ニャ獣（不良品）
 artist:gesundheit -> 艺术家:ゲズンタイト
-artist:takamichi -> 艺术家:たかみち
+artist:takamichi -> 艺术家:貴道（たかみち）
 artist:aki99 -> 艺术家:aki99
 artist:rensyu -> 艺术家:Rensyu
 artist:himitsu -> 艺术家:蜜酱（ひみつ）
@@ -32634,7 +32690,7 @@ artist:inyucchi -> 艺术家:いにゅっち
 artist:io takuya -> 艺术家:射尾卓弥
 artist:iogi juichi -> 艺术家:井荻寿一
 artist:ippachi -> 艺术家:いっぱち
-artist:ippon -> 艺术家:一本
+artist:ippon -> 艺术家:一本院遊郭（いっぽん，Lとらっぷ）
 artist:iri -> 艺术家:イリ
 artist:irie -> 艺术家:IRIE
 artist:irie yamazaki -> 艺术家:IRIE YAMAZAKI
@@ -37732,7 +37788,7 @@ artist:uni-corn -> 艺术家:Uni-corn
 artist:unico kasumi -> 艺术家:ゆにこかすみ
 artist:unikura -> 艺术家:うに蔵
 artist:uniskie seagal -> 艺术家:ウニスキー・セガール
-artist:unknown -> 艺术家:春香
+artist:unknown -> 艺术家:unknown
 artist:uno ryoku -> 艺术家:温野りょく
 artist:unohanat -> 艺术家:うのはな透
 artist:unomi -> 艺术家:うのみ
@@ -41950,6 +42006,23 @@ artist:tsuchikado -> 艺术家:つちかど
 artist:chapio gensui -> 艺术家:ちゃぴお元帥
 artist:ahoge kinoko -> 艺术家:あほげきのこ
 artist:ura jiraiya -> 艺术家:うらじらいや
+artist:kimjunho -> 艺术家:JJanda
+artist:lockhart -> 艺术家:ロックハート
+artist:toda youchika -> 艺术家:戸田陽近
+artist:miyakura halt -> 艺术家:宮鞍ハルト
+artist:zibetta -> 艺术家:じべた
+artist:yamamoto kichiko -> 艺术家:山本キチコ
+artist:dendou monaka -> 艺术家:電動もなか
+artist:naburokku -> 艺术家:なぶろっく
+artist:eternal tomokazu -> 艺术家:エターナル☆トモカズ
+artist:yamada tarou -> 艺术家:山田太郎
+artist:sodebeam -> 艺术家:ソデビーム
+artist:katsushika -> 艺术家:かつしか
+artist:kakuume -> 艺术家:かくうめ
+artist:eisia -> 艺术家:えいじあ
+artist:akai condor -> 艺术家:赤井コンドル
+artist:mizunozuku -> 艺术家:ミズノズク
+artist:megurogawa una -> 艺术家:目黒川うな
 cosplayer:otohara an -> Coser:乙原あん
 cosplayer:rioko -> Coser:rioko凉凉子
 cosplayer:atsuki -> Coser:あつき
@@ -42110,6 +42183,7 @@ cosplayer:luer da mowang -> Coser:露儿大魔王
 cosplayer:machi -> Coser:马吉
 cosplayer:lust77 -> Coser:柒柒要乖哦
 cosplayer:kaneko-kamiao -> Coser:KANEKO_咔喵
+cosplayer:minazuki hikaru -> Coser:皆月ひかる
 male:age progression -> 男性:年龄增长
 male:age regression -> 男性:返老还童
 male:dilf -> 男性:熟男
