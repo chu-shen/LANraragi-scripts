@@ -120,7 +120,7 @@ parody:air -> 原作:AIR🕊
 parody:clannad -> 原作:CLANNAD
 parody:angel beats -> 原作:天使的心跳
 parody:charlotte -> 原作:Charlotte🌠
-parody:little busters -> 原作:Little Busters!⚾🐈
+parody:little busters -> 原作:Little Busters!
 parody:rewrite -> 原作:Rewrite
 parody:ore no imouto ga konna ni kawaii wake ga nai -> 原作:我的妹妹不可能那么可爱
 parody:kantai collection -> 原作:舰队Collection
@@ -2985,6 +2985,19 @@ parody:hamidashi creative -> 原作:常轨脱离Creative
 parody:kagura reimeiki -> 原作:神乐黎明记
 parody:astral party -> 原作:吉星派对
 parody:yowayowa sensei -> 原作:弱弱老师
+parody:ridge racer -> 原作:山脊赛车
+parody:life is strange -> 原作:奇异人生
+parody:the legend of the condor heroes -> 原作:射雕英雄传
+parody:maimai -> 原作:maimai（マイマイ）
+parody:ryoumin 0-nin start no henkyou ryoushu-sama -> 原作:从0位居民开始的边境领主大人
+parody:kyoto xanadu -> 原作:京都幻都 -樱花幻舞-
+parody:harukoi otome -> 原作:春恋×少女
+parody:yuusha no kuzu -> 原作:勇者之渣
+parody:ts mahou shoujo nao -> 原作:TS魔法少女闪
+parody:bad thinking diary -> 原作:坏想法日记
+parody:ji pin jia ding -> 原作:极品家丁
+parody:rakudai kenja no gakuin musou -> 原作:落第贤者的学院无双
+parody:fortissimo -> 原作:Fortissimo
 character:alice -> 角色:爱丽丝
 character:akane hino -> 角色:日野茜
 character:ibuki -> 角色:伊吹
@@ -4198,7 +4211,7 @@ character:hina takanashi -> 角色:小鸟游雏
 character:yuuta segawa -> 角色:濑川佑太
 character:raika oda -> 角色:织田莱香
 character:miia -> 角色:米亚
-character:centorea shianus -> 角色:珊卓蕾亚·夏努斯
+character:centorea shianus -> 角色:赛尔特蕾娅
 character:papi -> 角色:帕皮
 character:suu -> 角色:丝
 character:lala -> 角色:拉拉
@@ -5144,7 +5157,7 @@ character:mirai andou -> 角色:安藤美雷
 character:himea saito -> 角色:赛托希梅亚
 character:fuu hououji -> 角色:凤凰寺风
 character:hikaru shindo -> 角色:进藤光 | 狮堂光
-character:umi ryuuzaki -> 角色:龙崎海
+character:umi ryuuzaki -> 角色:龙咲海
 character:ai asato -> 角色:麻里爱
 character:reiko katherine akimoto -> 角色:秋本丽子
 character:hina -> 角色:日奈 | 雏
@@ -5995,7 +6008,7 @@ character:yoko ritona -> 角色:优子
 character:nia teppelin -> 角色:尼娅
 character:simon -> 角色:西蒙
 character:kamina -> 角色:卡米那
-character:merlin -> 角色:梅林
+character:merlin -> 角色:梅林 | 梅琳
 character:akira kogami -> 角色:小神晶
 character:minoru shiraishi -> 角色:白石稔
 character:ilulu -> 角色:伊露露
@@ -7369,7 +7382,7 @@ character:kalina -> 角色:格琳娜
 character:ump45 -> 角色:UMP45 | 莱娅
 character:vsk-94 -> 角色:VSK-94 | 妮基塔
 character:g11 -> 角色:G11 | 米什缇
-character:desert eagle -> 角色:沙漠之鹰
+character:desert eagle -> 角色:沙漠之鹰 | 伊格蕾塔
 character:ump9 -> 角色:UMP9 | 莱娜
 character:tar-21 -> 角色:TAR-21
 character:aa-12 -> 角色:AA-12 | 琳德
@@ -7830,7 +7843,7 @@ character:maud pie -> 角色:石灰派
 character:nurse redheart -> 角色:红心护士
 character:pear butter -> 角色:金梨果酱
 character:toriel -> 角色:托丽尔
-character:frisk -> 角色:福
+character:frisk -> 角色:弗里斯克
 character:lana loud -> 角色:拉娜·劳德
 character:leni loud -> 角色:兰妮·劳德
 character:lincoln loud -> 角色:林肯·劳德
@@ -12498,6 +12511,71 @@ character:meliai -> 角色:墨利亚
 character:paula mccoy -> 角色:宝拉·马可伊
 character:hiyori hiwamura -> 角色:鶸村日和
 character:seri awashima -> 角色:淡岛世理
+character:liya -> 角色:莉雅
+character:lacrimosa -> 角色:安魂曲
+character:reiko nagase -> 角色:永濑丽子
+character:ai fukami -> 角色:深水蓝
+character:firis hagerhelm -> 角色:菲里斯·哈格赫尔姆
+character:nol -> 角色:诺尔
+character:miao ying -> 角色:妙影
+character:rong huang -> 角色:黄蓉
+character:acid -> 角色:阿希德
+character:mika yurisaki -> 角色:百合咲美香
+character:aihan -> 角色:艾函
+character:senai -> 角色:瑟乃
+character:shizuru nakatsu -> 角色:中津静流
+character:akaza -> 角色:猗窝座
+character:lucia konohana -> 角色:此花露西娅
+character:akane senri -> 角色:千里朱音
+character:chihaya ohtori -> 角色:凤千早
+character:kotarou tennouji -> 角色:天王寺瑚太朗
+character:sakuya ohtori -> 角色:凤咲夜
+character:ardelia -> 角色:艾尔黛拉
+character:kako-hakase -> 角色:过去博士
+character:rurui -> 角色:露露伊
+character:reina mito -> 角色:美都玲奈
+character:takako suzuki -> 角色:铃木贵子
+character:kanne -> 角色:康涅
+character:lawine -> 角色:拉比涅
+character:kirika rosequartz -> 角色:绮莉卡·罗丝奎兹
+character:latticenail -> 角色:拉提斯内尔
+character:dracaene sunbringer -> 角色:德蕾琪娜·挽昼
+character:aki jougamine -> 角色:城峰亚希
+character:bird kazami -> 角色:风见巴德
+character:meiko meiden -> 角色:冥殿芽衣子
+character:hinano miyako -> 角色:都雏乃
+character:mikumo kushinada -> 角色:栉滩美云
+character:temmie -> 角色:提米
+character:anan kurose -> 角色:阿南·库罗斯
+character:harusame urame -> 角色:春雨麗女
+character:tane tenshi -> 角色:塔涅天使
+character:amir -> 角色:艾米尔
+character:hitch dreyse -> 角色:希琪·朵丽丝
+character:marlo freudenberg -> 角色:马尔洛·桑德
+character:kaede agatsuma -> 角色:吾妻枫
+character:ume matsuzaka -> 角色:松坂梅
+character:miria saeki -> 角色:佐伯米莉亚
+character:yuki tsukishiro -> 角色:月代雪
+character:stainless -> 角色:白铁
+character:charmcaster -> 角色:邪咒魔女
+character:lucy mann -> 角色:露西·曼
+character:kai green -> 角色:凯伊·格林
+character:soridormi -> 角色:索莉多米
+character:chizome akaguro -> 角色:赤黑血染‌（斯坦因）
+character:elda ballad -> 角色:艾尔达·巴尔德
+character:alleria windrunner -> 角色:奥蕾莉亚·风行者
+character:yu-na kang -> 角色:姜尤娜
+character:sanghyeon kim -> 角色:金上泫（韩曜怡）
+character:yuruo xiao -> 角色:萧玉若
+character:qiaoqiao dong -> 角色:董巧巧
+character:yushuang xiao -> 角色:萧玉霜
+character:biru an -> 角色:安碧如
+character:junyi guo -> 角色:郭君怡
+character:qingxuan xiao -> 角色:肖青璇
+character:yuxi ning -> 角色:宁雨昔
+character:ilya -> 角色:伊莉亚
+character:osage-chan -> 角色:小辫子酱
+character:meruru hikami -> 角色:冰上梅露露
 group:1 -> 团队:1
 group:13 -> 团队:13
 group:27 -> 团队:27
@@ -21970,7 +22048,7 @@ group:purple dream -> 团队:パープルドリーム
 group:purple haze -> 团队:PURPLE HAZE
 group:purple kiss -> 团队:ぱーぷるきっす
 group:purple sky -> 团队:パープルスカイ
-group:purple software -> 团队:パープルソフトウェア
+group:purple software -> 团队:紫社
 group:purpleclover -> 团队:PurpleClover
 group:purumetal -> 团队:ぷるめたる
 group:purupuru finale -> 团队:ぷるぷるフィナーレ!!
@@ -25043,7 +25121,7 @@ group:mitsumitsuniku -> 团队:ミツミツにく
 group:akirerushoujo -> 团队:アキレルショウジョ
 group:fuzume -> 团队:ふずめ
 group:hitakamoya -> 团队:ひたかもや
-group:kasokuiki -> 团队:過疎区域
+group:kasokuiki -> 团队:过疏区域
 group:khaos distance -> 团队:カオス距離
 group:tohosanhun -> 团队:徒步三分
 group:morunchi -> 团队:モルチ
@@ -25716,7 +25794,7 @@ group:kyabiramuuru -> 团队:キャビラムール
 group:one or eight -> 团队:ワンオアエイト
 group:tonikakuushi -> 团队:兎に角牛
 group:hiyashi makura -> 团队:ひやしまくら
-group:midareuchi -> 团队:乱れ击ち
+group:midareuchi -> 团队:乱れ撃ち
 group:otogidou -> 团队:オトギ堂
 group:shirokuma dango -> 团队:しろくまだんご
 group:muru no honbako -> 团队:ムルの本箱
@@ -26360,7 +26438,7 @@ group:kurokami gratin -> 团队:くろかみグラタン
 group:ferret -> 团队:ふぇれっと
 group:kisene frega -> 团队:キセネフレガ
 group:ourakuza -> 团队:凹楽座
-group:morning star -> 团队:モニスタラッシュ
+group:morning star -> 团队:モーニングスター
 group:nekomata sanshokukan -> 团队:ねこマタ三色館
 group:chikuchiku chiichiku -> 团队:ちくちくちーちく
 group:hakudaku nyannyan -> 团队:白濁娘々
@@ -26567,6 +26645,37 @@ group:bottebote -> 团队:ボッテボテ
 group:ringokai -> 团队:林檎会
 group:asia no hiraki -> 团队:あじあのひらき
 group:mizu no uro -> 团队:みずのウロ
+group:maguro fiction -> 团队:マグロ☆フィクション
+group:tsubakitei -> 团队:椿亭
+group:morningstar rush -> 团队:モニスタラッシュ
+group:heikou kikai gakuron -> 团队:平行奇塊学論
+group:mitsutoge koubou -> 团队:蜜棘工房
+group:lithium no kojin circle -> 团队:Lithiumの個人サークル
+group:irojikake matome blog -> 团队:色仕掛けまとめブログ
+group:tsunnomeri -> 团队:ツンノメリ
+group:rimiaro -> 团队:りみあろ
+group:oshimai -> 团队:おしまい
+group:buzamadera -> 团队:無様寺
+group:forget me not -> 团队:forget me not
+group:chikyuugai seimeitai mokyu -> 团队:地球外生命体☆モキュ(ﾟ∞ﾟ)
+group:p.w. -> 团队:P.W.(パスワード)
+group:bansheesoftware -> 团队:BansheeSOFTWARE
+group:hyoui no jikan -> 团队:憑依の刻
+group:piyuku no buta -> 团队:ぴゆくのぶた
+group:aoyama koubou -> 团队:蒼山工房
+group:yakiniku tabetei -> 团队:焼肉たべ亭
+group:pudding o taberu ouma-san -> 团队:プリンを食べるお馬さん
+group:yuunagi zakkaten -> 团队:夕凪雑貨店
+group:nikujiru juukou -> 团队:肉汁重工
+group:ogura souko -> 团队:おぐらそうこ
+group:ningen miman -> 团队:人間未満
+group:dark chocolat -> 团队:Dark Chocolat
+group:ero doukoukai -> 团队:エロ同好会
+group:romomata -> 团队:ROMOMATA
+group:kanizagan -> 团队:かに座ガン
+group:yoerosun -> 团队:ヨエロ寸
+group:ryu-saikan -> 团队:流彩館
+group:lacryma -> 团队:La'cryma
 artist:2 -> 艺术家:2
 artist:7 -> 艺术家:7
 artist:8 -> 艺术家:8
@@ -28541,7 +28650,7 @@ artist:ogipote -> 艺术家:荻pote
 artist:marimofu -> 艺术家:まりもふ
 artist:alison -> 艺术家:ALISON
 artist:shimajirou -> 艺术家:岛次郎
-artist:kazuharu kina -> 艺术家:和遥キナ
+artist:kazuharu kina -> 艺术家:和遥树奈
 artist:ponta -> 艺术家:PoN太
 artist:akisora -> 艺术家:秋穹
 artist:tanishi mitsuru -> 艺术家:タニシミツル
@@ -29423,7 +29532,7 @@ artist:highlow -> 艺术家:废狼
 artist:hanao. -> 艺术家:熊尾もふもふ
 artist:otokura ringo -> 艺术家:乙倉りんご
 artist:rougetu -> 艺术家:胧月
-artist:ryuga syo -> 艺术家:龍牙翔
+artist:ryuga syo -> 艺术家:龙牙翔
 artist:kurage modoki -> 艺术家:くらげもどき
 artist:oozora wakaba -> 艺术家:大空若叶
 artist:nigirimeshi -> 艺术家:にぎりめし
@@ -30189,7 +30298,7 @@ artist:ishimura -> 艺术家:石村
 artist:random -> 艺术家:兰田梦
 artist:hamadamiku -> 艺术家:浜田みく
 artist:nanasaki -> 艺术家:七崎
-artist:satsuki misuzu -> 艺术家:皐月深鈴
+artist:satsuki misuzu -> 艺术家:皐月深铃
 artist:haneru -> 艺术家:HaneRu
 artist:manbo -> 艺术家:マンボー
 artist:mokuseirokku -> 艺术家:木星ろっく
@@ -33430,7 +33539,7 @@ artist:kirisaki akihito -> 艺术家:霧咲空人
 artist:kirisaki mocori -> 艺术家:切裂モコリ
 artist:kirisawa shinji -> 艺术家:桐沢しんじ
 artist:kirisawa tokito -> 艺术家:きりさわときと
-artist:kirise -> 艺术家:キリセ
+artist:kirise -> 艺术家:切世（キリセ）
 artist:kirise mitsuru -> 艺术家:霧瀬ミツル
 artist:kirishima fuuki -> 艺术家:霧島ふうき
 artist:kirishima riona -> 艺术家:桐島りおな
@@ -35564,7 +35673,7 @@ artist:oni japu -> 艺术家:鬼 ジャプ
 artist:oniben katze -> 艺术家:鬼遍かっつぇ
 artist:oniku -> 艺术家:お肉
 artist:oniku. -> 艺术家:お肉。
-artist:onineko -> 艺术家:おにねこ
+artist:onineko -> 艺术家:鬼猫
 artist:onita -> 艺术家:歐尼鬼
 artist:oniyama -> 艺术家:鬼山
 artist:oniyuri -> 艺术家:オニユリ
@@ -42023,6 +42132,52 @@ artist:eisia -> 艺术家:えいじあ
 artist:akai condor -> 艺术家:赤井コンドル
 artist:mizunozuku -> 艺术家:ミズノズク
 artist:megurogawa una -> 艺术家:目黒川うな
+artist:nishiki ai -> 艺术家:錦♡愛
+artist:hino satoshi -> 艺术家:火野聡司
+artist:migakeba hikaru -> 艺术家:御垳葉ひかる
+artist:akitsu nanao -> 艺术家:秋津七尾
+artist:amane hayabusa -> 艺术家:天音はやぶさ
+artist:natsumiya yuzu -> 艺术家:夏宫柚子
+artist:azifry -> 艺术家:あじふりゃ
+artist:azihurai -> 艺术家:あじふらい
+artist:kokusan moyashi -> 艺术家:国産もやし
+artist:tang -> 艺术家:唐
+artist:dummy -> 艺术家:ダミー
+artist:urushibara yasuhiro -> 艺术家:漆原ヤスヒロ
+artist:papicolo -> 艺术家:パピコロ
+artist:mashio -> 艺术家:真汐
+artist:kuararin -> 艺术家:くあらりん
+artist:tokito setsuna -> 艺术家:時任せつな
+artist:barukan -> 艺术家:バルカン
+artist:ujimu -> 艺术家:うじむ
+artist:berg -> 艺术家:ばーぐ
+artist:muroku -> 艺术家:ムロク
+artist:jashin bakunyuu swordsman -> 艺术家:邪神・爆乳ソードマン
+artist:corto -> 艺术家:CORTO
+artist:izumo -> 艺术家:izu藻
+artist:ksk -> 艺术家:ksk
+artist:shiitake taishi -> 艺术家:しいたけたいし
+artist:saikura noushu -> 艺术家:さいくら・のうしゅ
+artist:nyurunyuru splash -> 艺术家:にゅるにゅるスプラッシュ
+artist:gorani -> 艺术家:Gorani
+artist:kamua sasori -> 艺术家:守或蠍
+artist:pobotto -> 艺术家:ポボット
+artist:shidaidaka -> 艺术家:次第高
+artist:sizuku -> 艺术家:乙桜しずく
+artist:heijitu -> 艺术家:平日
+artist:sukezou -> 艺术家:すけぞう
+artist:tatejima kita -> 艺术家:縦縞キタ
+artist:nakakazu -> 艺术家:ナカカズ
+artist:pulpawoelbo -> 艺术家:pulpawoelbo
+artist:cancer -> 艺术家:cancer
+artist:tazune -> 艺术家:たづね
+artist:shurinpu -> 艺术家:酒りんぷ
+artist:totoko -> 艺术家:虎兎子
+artist:shiromina tarou -> 艺术家:しろみなたろう
+artist:hapirorina -> 艺术家:はぴろり菜
+artist:so-ryu -> 艺术家:惣流
+artist:reankh -> 艺术家:りーあんく
+artist:ohba kagerou -> 艺术家:大场阳炎
 cosplayer:otohara an -> Coser:乙原あん
 cosplayer:rioko -> Coser:rioko凉凉子
 cosplayer:atsuki -> Coser:あつき
@@ -42184,6 +42339,8 @@ cosplayer:machi -> Coser:马吉
 cosplayer:lust77 -> Coser:柒柒要乖哦
 cosplayer:kaneko-kamiao -> Coser:KANEKO_咔喵
 cosplayer:minazuki hikaru -> Coser:皆月ひかる
+cosplayer:ran3 -> Coser:染三
+cosplayer:baili shirly -> Coser:白栎Shirly
 male:age progression -> 男性:年龄增长
 male:age regression -> 男性:返老还童
 male:dilf -> 男性:熟男
