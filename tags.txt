@@ -2998,6 +2998,20 @@ parody:bad thinking diary -> 原作:坏想法日记
 parody:ji pin jia ding -> 原作:极品家丁
 parody:rakudai kenja no gakuin musou -> 原作:落第贤者的学院无双
 parody:fortissimo -> 原作:Fortissimo
+parody:kaya-chan wa kowakunai -> 原作:神八小妹不可怕
+parody:29-sai dokushin chuuken boukensha no nichijou -> 原作:29岁单身冒险家的日常
+parody:orisries -> 原作:万源圣魔录
+parody:hiseki shinki arcana saber -> 原作:秘迹神姬Arcana Saber
+parody:ibitte konai gibo to gishi -> 原作:不虐待我的继母与继姐
+parody:ushiro no shoumen kamui-san -> 原作:正后方的神威
+parody:komekami girls -> 原作:七米神物语
+parody:kamiina botan yoeru sugata wa yuri no hana -> 原作:上伊那牡丹，酒醉身姿似百合花般
+parody:the world is dancing -> 原作:世界在起舞
+parody:koisome momiji -> 原作:恋染红叶
+parody:youchien wars -> 原作:幼儿园战争
+parody:the genesis order -> 原作:创世秩序
+parody:otome kaijuu carameliser -> 原作:少女怪兽焦糖味
+parody:isshiki-san wa koi wo shiritai. -> 原作:一式警花动了恋心
 character:alice -> 角色:爱丽丝
 character:akane hino -> 角色:日野茜
 character:ibuki -> 角色:伊吹
@@ -12576,6 +12590,62 @@ character:yuxi ning -> 角色:宁雨昔
 character:ilya -> 角色:伊莉亚
 character:osage-chan -> 角色:小辫子酱
 character:meruru hikami -> 角色:冰上梅露露
+character:cosette -> 角色:科赛特
+character:scott pilgrim -> 角色:斯科特·皮尔格林
+character:neil nordegraf -> 角色:尼尔·诺德格拉夫
+character:kaya satou -> 角色:佐藤神八
+character:silco -> 角色:希尔科
+character:anyango -> 角色:安扬戈
+character:rirui -> 角色:莉露
+character:tamsy caines -> 角色:塔姆吉·凯恩斯
+character:rubia -> 角色:露比雅
+character:wanyan luo -> 角色:洛绾嫣
+character:andrea doria -> 角色:安德烈亚·多利亚
+character:oumiya emma -> 角色:大宫惠麻
+character:lucia rogier -> 角色:露希亚·罗杰
+character:chloe welter -> 角色:可萝伊·韦尔达
+character:arisa kounokura -> 角色:鸿藏亚里沙
+character:marika kounokura -> 角色:鸿藏茉莉花
+character:sakura adachi -> 角色:安达樱
+character:hougetsu shimamura -> 角色:岛村抱月
+character:sora vinsmoke -> 角色:文斯莫克·索拉
+character:tao fa -> 角色:桃花
+character:shiduka mimiduka -> 角色:耳冢志津香
+character:odette spessiva -> 角色:奥黛塔·苏佩茜娃
+character:hikari koshino -> 角色:越野光
+character:honoka koshino -> 角色:越野穗乃花
+character:mai koshino -> 角色:越野舞
+character:mei koshino -> 角色:越野芽衣
+character:minori koshino -> 角色:越野实
+character:momi koshino -> 角色:越野籾
+character:sanae koshino -> 角色:越野早苗
+character:okoge oniyama -> 角色:鬼山锅巴
+character:kurourushi -> 角色:黑沐死
+character:takako uro -> 角色:乌鹭亨子
+character:kaiboukan no.22 -> 角色:海防舰 No.22
+character:kaiboukan no.30 -> 角色:海防舰 No.30
+character:kaiboukan no.4 -> 角色:海防舰 No.4
+character:ellenor ljos alf -> 角色:艾尔诺·利欧斯·阿尔弗
+character:edward serfence -> 角色:爱德沃·赛尔芬斯
+character:workner norgram -> 角色:瓦克纳·诺格拉姆
+character:cerridwen -> 角色:凯莉德温
+character:will serfort -> 角色:威尔·赛尔佛特
+character:u-47 -> 角色:U-47
+character:ibuki tonami -> 角色:砺波伊吹
+character:botan kamiina -> 角色:上伊那牡丹
+character:kanami -> 角色:观阿弥
+character:shirabyoshi -> 角色:白拍子
+character:konoka shima -> 角色:志真木乃香
+character:indiana -> 角色:印第安纳
+character:rita -> 角色:莉塔
+character:logotype -> 角色:标志名驹
+character:brera sterne -> 角色:布雷拉·斯特恩
+character:talia yang -> 角色:塔莉亚·杨
+character:lucky cyan -> 角色:幸运青
+character:kuroe akaishi -> 角色:赤石黑绘
+character:rinna milford isshiki -> 角色:一式凜奈
+character:meishi rokutanda -> 角色:六反田明司
+character:kingprotea -> 角色:帝王花
 group:1 -> 团队:1
 group:13 -> 团队:13
 group:27 -> 团队:27
@@ -12606,9 +12676,9 @@ group:sakuragame -> 团队:SakuraGame
 group:frill -> 团队:Frill
 group:triangle -> 团队:Triangle
 group:mana -> 团队:mana
-group:sprite -> 团队:sprite
+group:sprite -> 团队:雪碧社
 group:fairys -> 团队:fairys
-group:escude -> 团队:エスクード
+group:escude -> 团队:小E社
 group:campus -> 团队:Campus
 group:interheart -> 团队:INTERHEART
 group:darknesspot -> 团队:DarknessPot
@@ -12636,7 +12706,7 @@ group:skyfish -> 团队:SkyFish
 group:skyfish poco -> 团队:SkyFish poco
 group:chelseasoft -> 团队:Chelseasoft
 group:sphere -> 团队:Sphere
-group:hook -> 团队:HOOKSOFT
+group:hook -> 团队:钩子社
 group:smee -> 团队:SMEE
 group:asa project -> 团队:ASa Project
 group:rosebleu -> 团队:Rosebleu
@@ -12653,7 +12723,7 @@ group:etude -> 团队:etude
 group:eufonie -> 团队:eufonie
 group:eushully -> 团队:Eushully
 group:waffle -> 团队:Waffle
-group:navel -> 团队:Navel
+group:navel -> 团队:近月社
 group:tryset -> 团队:TRYSET
 group:seal-tutu -> 团队:seal-tutu
 group:softhouse chara -> 团队:Softhouse Chara
@@ -12662,7 +12732,7 @@ group:devil-seal -> 团队:Devil-seal
 group:softhouse-seal grandee -> 团队:softhouse-seal GRANDEE
 group:reverse -> 团队:Re:verse
 group:samoyed smile -> 团队:SAMOYED SMILE
-group:moonstone -> 团队:MOONSTONE
+group:moonstone -> 团队:月石社
 group:moonstone cherry -> 团队:MOONSTONE Cherry
 group:moonstone honey -> 团队:MOONSTONE Honey
 group:yuzu soft -> 团队:柚子社
@@ -14832,7 +14902,7 @@ group:kuzuya -> 团队:屑屋
 group:momojiru teien -> 团队:桃汁庭园
 group:tamatamasanmyaku -> 团队:たまたま山脈
 group:harthnir -> 团队:HarthNir
-group:yoru no hitsuji -> 团队:夜のひつじ
+group:yoru no hitsuji -> 团队:夜羊社
 group:nawairo sonata -> 团队:縄色ソナタ
 group:momokamasu -> 团队:ももかます
 group:kumo no ito -> 团队:雲之糸
@@ -14885,7 +14955,7 @@ group:13cm -> 团队:13cm
 group:148bpm -> 团队:148bpm
 group:14lolita -> 团队:14ロリータ
 group:152hertz -> 团队:152HERTZ
-group:16 sai -> 团队:16彩
+group:16 sai -> 团队:十六彩
 group:16000 all -> 团队:16000オール
 group:16kenme -> 团队:16軒目
 group:1756 studio -> 团队:1756スタジオ
@@ -18395,7 +18465,7 @@ group:hr -> 团队:HR
 group:hr-st -> 团队:HR-ST
 group:http -> 团队:http
 group:hukakuteiseigenri -> 团队:不確定性原理
-group:hulotte -> 团队:Hulotte
+group:hulotte -> 团队:时停社
 group:human high-light film -> 团队:ヒューマン・ハイライト・フィルム
 group:hummel -> 团队:ヒュンメル
 group:huri-neko -> 团队:ふりかえればねこがいる
@@ -21625,7 +21695,7 @@ group:pakupaku -> 团队:ぱくぱく
 group:pakupikubon -> 团队:パクピクボン
 group:palace village ke -> 团队:パレスヴィレッジ家
 group:pale scarlet -> 团队:Pale Scarlet
-group:palette -> 团队:ぱれっと
+group:palette -> 团队:调色板社
 group:palette enterprise -> 团队:Palette Enterprise
 group:pallet box -> 团队:Pallet Box
 group:palm sunday -> 团队:パームサンデー
@@ -22275,7 +22345,7 @@ group:rikudou juku -> 团队:六道塾
 group:rikudoukan -> 团队:六道館
 group:rikudouya -> 团队:六道屋
 group:rima cafe -> 团队:Rima Cafe
-group:rin -> 团队:RIN
+group:rin -> 团队:Riん。
 group:rinarina -> 团队:RINARINA
 group:rinfin -> 团队:りんふぃん
 group:ring a bell -> 团队:リングアベル
@@ -22886,7 +22956,7 @@ group:shiratama -> 团队:しらたま
 group:shiratamarch -> 团队:しらたまーち
 group:shirayuki shoujodan -> 团队:白雪少女団
 group:shirikageru taberu -> 团队:シリカゲルタベル
-group:shiritsu sakuranbo shougakkou -> 团队:私立さくらんぼ小学校
+group:shiritsu sakuranbo shougakkou -> 团队:私立樱桃小学校
 group:shiro anmitsu -> 团队:しろあんみつ
 group:shiro gas koujou -> 团队:白瓦斯工場
 group:shiro kuro soft -> 团队:シロクロソフト
@@ -24208,7 +24278,7 @@ group:uge connection -> 团队:UGEコネクション
 group:ugeman -> 团队:うげ漫
 group:ugokuna pharmacy theta -> 团队:うごくな薬局θ
 group:ugou no shuu -> 团队:烏合ノ衆
-group:uguisu kagura -> 团队:ウグイスカグラ
+group:uguisu kagura -> 团队:纸魔社
 group:uguisuya -> 团队:莺屋
 group:uhii -> 团队:うひい
 group:uirokai -> 团队:ういろうかい
@@ -26676,6 +26746,33 @@ group:kanizagan -> 团队:かに座ガン
 group:yoerosun -> 团队:ヨエロ寸
 group:ryu-saikan -> 团队:流彩館
 group:lacryma -> 团队:La'cryma
+group:raigyo -> 团队:ライギョ
+group:netoraru -> 团队:ねとらる！
+group:mizutamari -> 团队:みずたまり
+group:mame koubou -> 团队:豆工房
+group:sakeru buta -> 团队:さける豚
+group:momoiro phantasmagoria -> 团队:モモイロファンタズマゴリア
+group:mukokoro no kumo -> 团队:むこころの雲
+group:circle medewoi -> 团队:サークルめでをい
+group:mutou clinic -> 团队:無糖クリニック
+group:hoipyon studio -> 团队:Hoipyon Studio
+group:iromekuwa -> 团队:いろめくわ
+group:misobolo dou -> 团队:みそボーロ堂
+group:ponpokomaru -> 团队:ぽんぽこ丸
+group:shin nankai daikessen -> 团队:真・南海大決戦
+group:haru garden -> 团队:春garden
+group:ikari no mofumofu kintama ga gekitotsu shoukai -> 团队:怒りのもふもふ金玉が激突商会
+group:torigara soup -> 团队:鷹ノ目商会
+group:seifuku monochrome -> 团队:制服モノクローム
+group:hard maniax -> 团队:はーど☆まにあっくす
+group:favorites -> 团队:FavoriteS(同人)
+group:uniro -> 团队:uniro
+group:nani -> 团队:なに
+group:yokokuhan -> 团队:予告犯
+group:yosuga no su -> 团队:よすがの巣
+group:echi echi daifuku -> 团队:色色大福（えちえち大福）
+group:totomi ya -> 团队:totomi屋
+group:red boro -> 团队:Red boro
 artist:2 -> 艺术家:2
 artist:7 -> 艺术家:7
 artist:8 -> 艺术家:8
@@ -31737,7 +31834,7 @@ artist:fin no uta -> 艺术家:フィンの詩
 artist:final -> 艺术家:Final
 artist:fireyuki -> 艺术家:フィレユキ
 artist:fk696 -> 艺术家:fk696
-artist:flanvia -> 艺术家:Flanvia
+artist:flanvia -> 艺术家:flanvia
 artist:flat -> 艺术家:FLAT
 artist:flipper -> 艺术家:FLIPPER
 artist:flowerchild -> 艺术家:FLOWERCHILD
@@ -36112,7 +36209,7 @@ artist:rikusu -> 艺术家:リクス
 artist:rikuto -> 艺术家:六兎
 artist:rimukoro -> 艺术家:リムコロ
 artist:rimviolet -> 艺术家:rimviolet
-artist:rin -> 艺术家:rin
+artist:rin -> 艺术家:Riん
 artist:rindoh -> 艺术家:竜瞳
 artist:rindou akira -> 艺术家:りんどうあきら
 artist:ringo -> 艺术家:林檎
@@ -38392,7 +38489,7 @@ artist:yositama -> 艺术家:ヨシタマ
 artist:yosomono -> 艺术家:よそ者
 artist:yosuke -> 艺术家:ヨースケ
 artist:yosyo- -> 艺术家:いきなりもじお
-artist:yotaka -> 艺术家:yotaka
+artist:yotaka -> 艺术家:夜鷹 | よたか
 artist:yotarou -> 艺术家:夜太弄
 artist:yotsuba yuiko -> 艺术家:四葉ゆいこ
 artist:yotsura -> 艺术家:寄弦
@@ -42178,6 +42275,50 @@ artist:hapirorina -> 艺术家:はぴろり菜
 artist:so-ryu -> 艺术家:惣流
 artist:reankh -> 艺术家:りーあんく
 artist:ohba kagerou -> 艺术家:大场阳炎
+artist:futoshi slim -> 艺术家:ふとしSLIM
+artist:spiko -> 艺术家:すぴこ
+artist:kosoba yui -> 艺术家:小蕎麦唯井
+artist:r-man -> 艺术家:R-man
+artist:gya-tei -> 艺术家:ぎゃーてい
+artist:creampie -> 艺术家:くりぃむぱい
+artist:kurauda shouta -> 艺术家:クラウド翔太
+artist:ajisio -> 艺术家:あじしお
+artist:toga mashiro -> 艺术家:十河ましろ
+artist:kogame futsu -> 艺术家:小亀ふつ
+artist:a-shika -> 艺术家:A_鹿
+artist:kuru bushi -> 艺术家:来る節
+artist:hanpatsu zokusei -> 艺术家:反発属性
+artist:yasashii naizou -> 艺术家:優しい内臓
+artist:aominomi -> 艺术家:青身のみ
+artist:kugara -> 艺术家:くがら
+artist:dokonoko -> 艺术家:どこの子
+artist:mochiume -> 艺术家:餅梅
+artist:datsuyuru -> 艺术家:だつゆる
+artist:medewoi -> 艺术家:めでをい
+artist:610cc -> 艺术家:610cc.
+artist:oninarasu -> 艺术家:鬼鳴らす
+artist:daruguxwa -> 艺术家:だるぐゎ
+artist:romeku -> 艺术家:ろめく
+artist:hinnnya -> 艺术家:ひんにゃー
+artist:takasuke -> 艺术家:タカスケ
+artist:misobolo -> 艺术家:みそボーロ
+artist:ushihashiru -> 艺术家:ウシハシル
+artist:kasuga ellie -> 艺术家:春日エリイ
+artist:yotaka no yona -> 艺术家:夜鷹野ヨナ
+artist:yorarry -> 艺术家:よらりぃ☆
+artist:tobira -> 艺术家:扉
+artist:dancho -> 艺术家:だんちょ
+artist:iwataki taku -> 艺术家:岩滝たく
+artist:skyhouse -> 艺术家:スカイハウス
+artist:ponsu -> 艺术家:ぽんす
+artist:youhei -> 艺术家:ようへい♪
+artist:firolian -> 艺术家:firolian
+artist:raru. -> 艺术家:raru。
+artist:uzura i -> 艺术家:鶉異
+artist:shibasaki koh -> 艺术家:しばさきこう
+artist:ikinari mojio -> 艺术家:いきなりもじお
+artist:at uttakatta -> 艺术家:@ウッタカッタ
+artist:aitoka nantoka -> 艺术家:アイトカナントカ
 cosplayer:otohara an -> Coser:乙原あん
 cosplayer:rioko -> Coser:rioko凉凉子
 cosplayer:atsuki -> Coser:あつき
