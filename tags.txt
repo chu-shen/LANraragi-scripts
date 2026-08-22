@@ -537,7 +537,7 @@ parody:terminator -> 原作:终结者
 parody:yurikuma arashi -> 原作:百合熊风暴
 parody:adventure time -> 原作:探险活宝
 parody:strike the blood -> 原作:噬血狂袭
-parody:valkyrie drive -> 原作:女武神驱动
+parody:valkyrie drive -> 原作:女武神驱动 美人鱼
 parody:saber marionette -> 原作:机械女神
 parody:dance with devils -> 原作:与魔共舞
 parody:samurai 7 -> 原作:七武士
@@ -2280,7 +2280,7 @@ parody:slow loop -> 原作:SLOW LOOP
 parody:taimadou gakuen 35 shiken shoutai -> 原作:对魔导学园35试验小队
 parody:ongeki -> 原作:音击Ongeki
 parody:yamada-kun to lv999 no koi o suru -> 原作:和山田进行LV.999的恋爱
-parody:yu-gi-oh sevens -> 原作:游戏王SEVENS
+parody:yu-gi-oh sevens -> 原作:游戏王 七星
 parody:ore no shikabane wo koeteyuke -> 原作:跨越我的尸体
 parody:puss in boots the last wish -> 原作:穿靴子的猫:最后的愿望
 parody:fatal frame -> 原作:零系列
@@ -3012,6 +3012,23 @@ parody:youchien wars -> 原作:幼儿园战争
 parody:the genesis order -> 原作:创世秩序
 parody:otome kaijuu carameliser -> 原作:少女怪兽焦糖味
 parody:isshiki-san wa koi wo shiritai. -> 原作:一式警花动了恋心
+parody:hell mode yarikomizuki no gamer wa hai settei no isekai de musou suru -> 原作:地狱模式～喜欢挑战特殊成就的玩家在废设定的异世界成为无双～
+parody:grow up show -> 原作:Grow Up Show ～向日葵马戏团～
+parody:black souls -> 原作:黑暗之魂
+parody:hanairo heptagram -> 原作:花色七芒星
+parody:letter bee -> 原作:信蜂
+parody:busa-men gachi-fighter -> 原作:肥宅勇者
+parody:food court de mata ashita. -> 原作:明天，美食广场见
+parody:haibara-kun no tsuyokute seishun new game -> 原作:灰原同学重返过去
+parody:ponkotsu fuuki iin to skirt-take ga futekisetsu na jk no hanashi -> 原作:木头风纪委员和迷你裙JK的故事
+parody:hana wa saku shura no gotoku -> 原作:群花绽放，彷如修罗
+parody:na-nare hana-nare -> 原作:亦叶亦花
+parody:the citadel -> 原作:The Citadel
+parody:nijuuseiki denki mokuroku -> 原作:二十世纪电气目录
+parody:huhuan shaonu -> 原作:呼唤少女
+parody:tsuihou sareta tensei juukishi wa game chishiki de musou suru -> 原作:遭到流放的转生重骑士凭借游戏知识大开无双
+parody:kimi ga shinu made koi wo shitai -> 原作:与你相恋到生命尽头
+parody:arafoo otoko no isekai tsuuhan seikatsu -> 原作:中年男的异世界网购生活
 character:alice -> 角色:爱丽丝
 character:akane hino -> 角色:日野茜
 character:ibuki -> 角色:伊吹
@@ -3357,7 +3374,7 @@ character:taigei -> 角色:大鲸
 character:ryuuhou -> 角色:龙凤
 character:tokitsukaze -> 角色:时津风
 character:unryuu -> 角色:云龙
-character:amagi -> 角色:天城(鳐)
+character:amagi -> 角色:天城 | 鳐
 character:harusame -> 角色:春雨
 character:hayashimo -> 角色:早霜
 character:kiyoshimo -> 角色:清霜
@@ -8929,7 +8946,7 @@ character:azula -> 角色:阿祖拉
 character:marco diaz -> 角色:马可·迪亚兹
 character:claude claudel -> 角色:克洛德·克劳戴
 character:yune -> 角色:汤音
-character:nachoneko -> 角色:Nachoneko
+character:nachoneko -> 角色:猫羽雫
 character:mountain -> 角色:山
 character:jin qiu -> 角色:金秋
 character:riruru -> 角色:莉露露
@@ -8978,7 +8995,7 @@ character:amate yuzuriha -> 角色:天手让叶
 character:ishigami nozomi -> 角色:石神望
 character:alpha -> 角色:阿尔法
 character:red shoes -> 角色:红舞鞋
-character:suisui -> 角色:水水
+character:suisui -> 角色:穗穗 | 水水
 character:arshes nei -> 角色:安雪丝·奈伊
 character:cardigan -> 角色:卡缇
 character:shiron the windragon -> 角色:斯朗（风龙）
@@ -9181,7 +9198,7 @@ character:miharu ayase -> 角色:绫濑美春
 character:miuna shiodome -> 角色:潮留美海
 character:ajisai sena -> 角色:濑名紫阳花
 character:renako amaori -> 角色:甘织玲奈子
-character:yuzu -> 角色:柚 | 柊柚子
+character:yuzu -> 角色:柚
 character:panty anarchy -> 角色:潘迪
 character:stocking anarchy -> 角色:史朵巾
 character:guild girl -> 角色:柜台小姐
@@ -10651,7 +10668,7 @@ character:linie -> 角色:莉
 character:gene -> 角色:珍妮
 character:ani -> 角色:Grok Ani
 character:escher hannibalk -> 角色:伊夏·汉尼巴鲁库
-character:talia -> 角色:塔利亚
+character:talia -> 角色:妲莉娅
 character:hana mutou -> 角色:梦塔花
 character:aika sumeragi -> 角色:皇蓝华
 character:arata kasuga -> 角色:春日新
@@ -12260,7 +12277,7 @@ character:akamaru -> 角色:赤丸
 character:bonnie anderson -> 角色:邦妮·安德森
 character:noriko shiina -> 角色:椎名法子
 character:fraurem chrome -> 角色:芙劳蕾姆·克洛姆
-character:sena -> 角色:赛娜
+character:sena -> 角色:赛娜 | 圣奈
 character:ann -> 角色:安
 character:shino azuma -> 角色:东紫乃
 character:serafina de lavillant -> 角色:赛拉菲娜·德·拉维兰特
@@ -12646,6 +12663,60 @@ character:kuroe akaishi -> 角色:赤石黑绘
 character:rinna milford isshiki -> 角色:一式凜奈
 character:meishi rokutanda -> 角色:六反田明司
 character:kingprotea -> 角色:帝王花
+character:krena -> 角色:克蕾娜
+character:cecile granvelle -> 角色:萨希尔·格兰威尔
+character:diabellze the original sinkeeper -> 角色:原罪之迪亚贝尔泽
+character:urd -> 角色:乌尔德
+character:imari agano -> 角色:吾野伊万里
+character:imoko satou -> 角色:佐藤妹子
+character:carly nagisa -> 角色:卡莉渚
+character:jack atlas -> 角色:杰克・亚特拉斯
+character:lucciano -> 角色:卢奇亚诺
+character:primo -> 角色:普拉西多
+character:kyosuke kiryu -> 角色:鬼柳京介
+character:lag seeing -> 角色:拉格·辛谷
+character:riche hayashi -> 角色:林莉榭
+character:nashiko jippensha -> 角色:十返舍梨子
+character:haneru emi -> 角色:江见跳
+character:izumi tokutomi -> 角色:德富泉
+character:seika -> 角色:圣华
+character:wada -> 角色:和田
+character:yamamoto -> 角色:山本
+character:sakura uta -> 角色:佐仓诗
+character:vereesa windrunner -> 角色:温蕾萨·风行者
+character:poem kohinata -> 角色:小日向微笑
+character:neo nakano -> 角色:中埜音绪
+character:hana haruyama -> 角色:春山花奈
+character:anna aveiro -> 角色:杏那·阿维罗
+character:kanata misora -> 角色:美空彼方
+character:megumi kaionji -> 角色:海音寺惠深
+character:nodoka ootani -> 角色:大谷稳花
+character:shion tanizaki -> 角色:谷崎诗音
+character:suzuha obunai -> 角色:小父内凉叶
+character:nobuko izumi -> 角色:泉信子
+character:konomi suzue -> 角色:铃江好实
+character:goryuu -> 角色:护龙
+character:youko komine -> 角色:狭雾阳子
+character:suzu harashima -> 角色:原岛铃
+character:kate okura -> 角色:大仓凯特
+character:zhiya sun -> 角色:孙芝雅
+character:sumika komori -> 角色:小森斯米卡
+character:z11 -> 角色:Z11
+character:luce rubis -> 角色:露切‧鲁比斯
+character:david mason -> 角色:大卫·梅森
+character:emma kagan -> 角色:艾玛·卡根
+character:victoria atwood -> 角色:维多利亚·阿特伍德
+character:erina makina -> 角色:Erina Makina
+character:nene himekawa -> 角色:日芽川宁宁
+character:shinobu uzuki -> 角色:雨月忍
+character:lanz -> 角色:兰兹
+character:eida -> 角色:艾达（博人传）
+character:chloe lynch -> 角色:克洛伊·林奇
+character:sarissa alfeld -> 角色:萨莉莎·阿费尔德
+character:mimi kagari -> 角色:加贺里·美美
+character:sheena totsuki -> 角色:都筑·椎名
+character:kyouko mochino -> 角色:模型娘·糯子
+character:poltergeist -> 角色:吵闹鬼
 group:1 -> 团队:1
 group:13 -> 团队:13
 group:27 -> 团队:27
@@ -15555,7 +15626,7 @@ group:arctic pan -> 团队:北極鍋
 group:are. -> 团队:あれ。
 group:area-048 -> 团队:Area-048
 group:area-s -> 团队:Area-S
-group:area188 -> 团队:エリア188
+group:area188 -> 团队:AREA188
 group:area50 -> 团队:Area50
 group:area7 -> 团队:えりあ7
 group:arearee -> 团队:あれあれえ
@@ -17282,7 +17353,7 @@ group:fastrope -> 团队:FASTROPE
 group:fat -> 团队:FAT
 group:fatboy -> 团队:ふぁっとぼ～い
 group:fatima cigarette -> 团队:Fatima Cigarette
-group:favorite -> 团队:FAVORITE
+group:favorite -> 团队:真红社
 group:fclg -> 团队:フクラグ
 group:fechisupi -> 团队:ふぇちすぴ
 group:feeld hern halle -> 团队:FEELD HERN HALLE
@@ -26773,6 +26844,38 @@ group:yosuga no su -> 团队:よすがの巣
 group:echi echi daifuku -> 团队:色色大福（えちえち大福）
 group:totomi ya -> 团队:totomi屋
 group:red boro -> 团队:Red boro
+group:nakahara dragon -> 团队:なかはらドラゴン
+group:happy sex to - -> 团队:ハピセトー
+group:akairo koubou -> 团队:赤色工房
+group:biganki -> 团队:美顔器
+group:takatsuki koujou -> 团队:高槻工場
+group:jingai -> 团队:仁外
+group:nanboku megochi -> 团队:南北めごち
+group:ichirinsha de neko rush -> 团队:一輪車でねこらっしゅ
+group:okubyou yagi -> 团队:臆病山羊
+group:uzura collection -> 团队:うずらこれくしょん
+group:cotton software -> 团队:棉花社
+group:yaritsu -> 团队:やりつ
+group:tomo -> 团队:ともー
+group:nowloading -> 团队:■■■□□ NOWLOADING
+group:gefu enpitsu -> 团队:ゲフえんぴつ
+group:shimono cable -> 团队:霜野ケーブル
+group:kokoro no mama -> 团队:ココロのまま
+group:gemuodou -> 团队:げむお堂
+group:ikiruta many many -> 团队:生田めにめに
+group:kinnikutei -> 团队:筋肉亭
+group:gokuraku mikaduki -> 团队:極楽三日月
+group:maita keikaku -> 团队:まいた計画
+group:anmitsu studio -> 团队:アンミツスタジオ
+group:sangorodou -> 团队:サンゴロ堂
+group:shishudou -> 团队:屍孕堂
+group:kairaku amnesia -> 团队:快楽アムネジア
+group:dachou no umou -> 团队:ダチョウの羽毛
+group:bokoman -> 团队:ボコまん
+group:hentai tokyo -> 团队:変態東京
+group:shinigami koubou -> 团队:しにがみ工房
+group:goroutame noujou -> 团队:ゴロウタメ農場
+group:k.y.hiro -> 团队:K.Y.Hiro
 artist:2 -> 艺术家:2
 artist:7 -> 艺术家:7
 artist:8 -> 艺术家:8
@@ -27147,7 +27250,7 @@ artist:mikaduki neko -> 艺术家:三日月ネコ
 artist:aihara shouta -> 艺术家:相原翔太
 artist:mimofu -> 艺术家:みもふ
 artist:takatuki nato -> 艺术家:鷹月ナト
-artist:shiratama -> 艺术家:白玉
+artist:shiratama -> 艺术家:白玉 | 白珠
 artist:nohara hiromi -> 艺术家:野原ひろみ
 artist:higashino mikan -> 艺术家:东野蜜柑
 artist:dr.bug -> 艺术家:Dr.阿虫
@@ -29336,7 +29439,7 @@ artist:kurikimaru -> 艺术家:くりきまる
 artist:hinohara fuki -> 艺术家:檜原フキ
 artist:kobayashi kina -> 艺术家:小林キナ
 artist:takemitsu -> 艺术家:たけみつ
-artist:shiki -> 艺术家:四季
+artist:shiki -> 艺术家:色 | しき | 四季
 artist:deyuyama -> 艺术家:でゆ山
 artist:namidame -> 艺术家:泪目
 artist:higata akatsuki -> 艺术家:阳方晶月
@@ -42319,6 +42422,57 @@ artist:shibasaki koh -> 艺术家:しばさきこう
 artist:ikinari mojio -> 艺术家:いきなりもじお
 artist:at uttakatta -> 艺术家:@ウッタカッタ
 artist:aitoka nantoka -> 艺术家:アイトカナントカ
+artist:azusa -> 艺术家:Azusa
+artist:kurusu han -> 艺术家:来栖判
+artist:ibaten -> 艺术家:いばてん
+artist:blondie -> 艺术家:Blondie
+artist:yamada kuro -> 艺术家:山田くろ
+artist:asakura yuu -> 艺术家:浅倉優
+artist:kouin n -> 艺术家:工員N
+artist:otome chinko -> 艺术家:オトメチンコ
+artist:uno makoto -> 艺术家:うのまこと
+artist:jingai -> 艺术家:仁外
+artist:chaamii -> 艺术家:チャーミー
+artist:mg kurino -> 艺术家:Mg栗野
+artist:uraha -> 艺术家:裏葉
+artist:fuyushiki -> 艺术家:冬識
+artist:nikujaga -> 艺术家:にくじゃが
+artist:tateishi nana -> 艺术家:舘石奈々
+artist:nishibi mitsuba -> 艺术家:西陽ミツバ
+artist:noraneko nicole -> 艺术家:のらねこニコル
+artist:kassai -> 艺术家:かっさい
+artist:niki. -> 艺术家:Niki．
+artist:kurosaki -> 艺术家:クロサキ
+artist:samo -> 艺术家:サモ
+artist:hashiba kanpachi -> 艺术家:羽柴かんぱち
+artist:lftn -> 艺术家:LFTN
+artist:tsukasa yuuki -> 艺术家:司由纪(司ゆうき)
+artist:sonora -> 艺术家:ソノラ
+artist:ichihi -> 艺术家:イチヒ
+artist:minchi -> 艺术家:みんち
+artist:tel-o -> 艺术家:TEL-O
+artist:orio neji -> 艺术家:折尾ねじ
+artist:poopy -> 艺术家:ぷーぴぃ
+artist:stew -> 艺术家:しつー
+artist:dori -> 艺术家:dori
+artist:kurosawa r -> 艺术家:黒澤R
+artist:onamae -> 艺术家:おなまえ
+artist:bossan -> 艺术家:ぼっさん
+artist:kuroki ichiro -> 艺术家:黒木一郎
+artist:kinuo -> 艺术家:キヌオ
+artist:akiboshigai -> 艺术家:秋星貝
+artist:panyakawa -> 艺术家:ぱんやかわ
+artist:yasuda suzuhito -> 艺术家:安田铃人
+artist:yanagi masashi -> 艺术家:矢凪まさし
+artist:cream pan -> 艺术家:くりぃむぱん
+artist:samuwo -> 艺术家:さむを
+artist:omari -> 艺术家:OMARI
+artist:dull -> 艺术家:ダル
+artist:goroutame -> 艺术家:ゴロウタメ
+artist:pinky -> 艺术家:NTR/BSS/pinky
+artist:afrobull -> 艺术家:Afrobull
+artist:retoposy -> 艺术家:retoposy
+artist:yue tashimi -> 艺术家:夕江たしみ
 cosplayer:otohara an -> Coser:乙原あん
 cosplayer:rioko -> Coser:rioko凉凉子
 cosplayer:atsuki -> Coser:あつき
@@ -42482,6 +42636,7 @@ cosplayer:kaneko-kamiao -> Coser:KANEKO_咔喵
 cosplayer:minazuki hikaru -> Coser:皆月ひかる
 cosplayer:ran3 -> Coser:染三
 cosplayer:baili shirly -> Coser:白栎Shirly
+cosplayer:etsu ko -> Coser:纸悦Etsu_ko
 male:age progression -> 男性:年龄增长
 male:age regression -> 男性:返老还童
 male:dilf -> 男性:熟男
