@@ -3029,6 +3029,22 @@ parody:huhuan shaonu -> 原作:呼唤少女
 parody:tsuihou sareta tensei juukishi wa game chishiki de musou suru -> 原作:遭到流放的转生重骑士凭借游戏知识大开无双
 parody:kimi ga shinu made koi wo shitai -> 原作:与你相恋到生命尽头
 parody:arafoo otoko no isekai tsuuhan seikatsu -> 原作:中年男的异世界网购生活
+parody:pen to wappa to jijitsu-kon -> 原作:笔、手铐和事实婚
+parody:a court of thorns and roses -> 原作:荆棘与玫瑰庭院
+parody:key the metal idol -> 原作:非常偶像Key
+parody:kuroneko to majo no kyoushitsu -> 原作:黑猫与魔女的教室
+parody:eris no seihai -> 原作:厄里斯的圣杯
+parody:kao ni denai kashiwada-san to kao ni deru oota-kun -> 原作:不动声色的柏田与喜形于色的太田
+parody:toumei na yoru ni kakeru kimi to me ni mienai koi wo shita. -> 原作:与奔驰于透明之夜的你，谈一场看不见的恋爱
+parody:concrete revolutio -> 原作:Concrete Revolutio 超人幻想
+parody:mikata ga yowasugite hojo mahou ni tesshiteita kyuutei mahoushi -> 原作:队友太弱所以贯彻辅助的宫廷魔法师
+parody:kageki shojo -> 原作:歌剧少女
+parody:silver palace -> 原作:白银之城
+parody:futsutsuka na akujo dewa gozaimasu ga -> 原作:雏宫蝶鼠换身传
+parody:legend of mortal -> 原作:活侠传
+parody:kyouran reijou nia liston -> 原作:乱世千金倪亚‧利斯顿
+parody:pukey goddess shot trick -> 原作:酒鬼女神的酒诡
+parody:honogurashi no niwa -> 原作:静谧田园
 character:alice -> 角色:爱丽丝
 character:akane hino -> 角色:日野茜
 character:ibuki -> 角色:伊吹
@@ -7430,7 +7446,7 @@ character:beak -> 角色:喙
 character:k2 -> 角色:K2 | 幼熙
 character:g3 -> 角色:G3
 character:g36 -> 角色:G36 | 桑朵莱希
-character:g36c -> 角色:G36C
+character:g36c -> 角色:G36C | 希丽雅
 character:eliza -> 角色:伊莱莎
 character:m1911 -> 角色:M1911
 character:m99 -> 角色:M99
@@ -11413,7 +11429,7 @@ character:lan mengqin -> 角色:蓝梦琴
 character:ye lingtong -> 角色:叶灵瞳
 character:sheng ming -> 角色:生命女神
 character:fumi manjoume -> 角色:万城目富美
-character:grace auvergne -> 角色:格蕾丝·宪三郎
+character:grace auvergne -> 角色:格蕾丝·奥弗涅
 character:cecilia aquarain -> 角色:赛西莉亚·阿奎莱恩
 character:pax shirone -> 角色:帕库斯·西隆
 character:luong -> 角色:梁
@@ -12717,6 +12733,53 @@ character:mimi kagari -> 角色:加贺里·美美
 character:sheena totsuki -> 角色:都筑·椎名
 character:kyouko mochino -> 角色:模型娘·糯子
 character:poltergeist -> 角色:吵闹鬼
+character:tsugumi kuchinashi -> 角色:栀子鸫
+character:vodyanitsa -> 角色:沃雅妮莎
+character:nekota tsuna -> 角色:猫汰月奈
+character:yakumo beni -> 角色:八云红
+character:tokiko mima -> 角色:巳真兔季子
+character:spica virgo -> 角色:丝碧卡·瓦戈
+character:constance grail -> 角色:康斯坦丝·葛莱尔
+character:ouya ootani -> 角色:大谷应也
+character:kako yomuko -> 角色:贺来咏子
+character:nazuna kujou -> 角色:九条荠
+character:shizue satou -> 角色:佐藤静江
+character:nemo anemo -> 角色:姊母娞摩
+character:hiyori kashiwada -> 角色:柏田日和
+character:dolly dalmatian -> 角色:多莉·达尔马提亚
+character:dylan dalmatian -> 角色:迪伦·达尔马提亚
+character:scarlet castiel -> 角色:斯卡蕾特·卡斯蒂尔
+character:koharu fuyutsuki -> 角色:冬月小春
+character:yakuko etsushimaru -> 角色:越司丸益子
+character:toshiko tatsuno -> 角色:辰野俊子
+character:saori tatsuno -> 角色:辰野沙织
+character:homare azuma -> 角色:东誉
+character:roshan -> 角色:肉山
+character:kotone fuchigami -> 角色:渊上琴音
+character:yorha eisenz -> 角色:悠尔哈·艾森兹
+character:red desire -> 角色:红色梦想
+character:anna doll -> 角色:安娜·多尔
+character:ai narata -> 角色:奈良田爱
+character:sarasa watanabe -> 角色:渡边更纱
+character:kitakoji hisui -> 角色:北小路翡翠
+character:cure eclair -> 角色:帆羽来爱
+character:claret flint -> 角色:克拉蕾·弗林特
+character:qingxiao -> 角色:清霄
+character:red rose -> 角色:红蔷薇
+character:marian andreotti -> 角色:茉莉安·安德烈奥蒂
+character:keigetsu shu -> 角色:朱慧月
+character:reirin kou -> 角色:黃玲琳
+character:nia liston -> 角色:倪亚‧利斯顿
+character:chin-lan chang -> 角色:张景岚
+character:kanade gujou -> 角色:郡上奏
+character:connie -> 角色:康妮
+character:twinkle girl -> 角色:闪亮少女
+character:ilia coral -> 角色:伊莉雅·克拉尔
+character:femme soule -> 角色:梵·醺儿
+character:komako -> 角色:驹子
+character:shiroji -> 角色:白司
+character:kuukyo no sylvaril -> 角色:空虚的希尔瓦莉尔
+character:perugius dola -> 角色:佩尔基乌斯・朵拉
 group:1 -> 团队:1
 group:13 -> 团队:13
 group:27 -> 团队:27
@@ -26876,6 +26939,21 @@ group:hentai tokyo -> 团队:変態東京
 group:shinigami koubou -> 团队:しにがみ工房
 group:goroutame noujou -> 团队:ゴロウタメ農場
 group:k.y.hiro -> 团队:K.Y.Hiro
+group:oncidium -> 团队:オンシジウム
+group:aitoheiwa -> 团队:AITOHEIWA
+group:pz yatai -> 团队:pz屋台
+group:glasses -> 团队:眼镜社
+group:tatteinu koubou -> 团队:たってぃぬ工房
+group:konekone rou -> 团队:こねこね楼
+group:crepe crepe -> 团队:くれーぷくれーぷ
+group:nobutorakai -> 团队:信虎会
+group:jitsuyou shugi company -> 团队:実用主義カンパニー
+group:mitomitokonkon -> 团队:むなや家
+group:sol seeker -> 团队:Sol seeker
+group:banana senbei -> 团队:ばななせんべい
+group:shimimaru seisakusho -> 团队:紙魚丸製作所
+group:shichishinkan -> 团队:七心馆
+group:hatsui tsumo -> 团队:初井つも
 artist:2 -> 艺术家:2
 artist:7 -> 艺术家:7
 artist:8 -> 艺术家:8
@@ -42473,6 +42551,23 @@ artist:pinky -> 艺术家:NTR/BSS/pinky
 artist:afrobull -> 艺术家:Afrobull
 artist:retoposy -> 艺术家:retoposy
 artist:yue tashimi -> 艺术家:夕江たしみ
+artist:o33 -> 艺术家:O33
+artist:pz-x -> 艺术家:pz-x
+artist:teddy jack -> 艺术家:Teddy_Jack
+artist:tatteinu -> 艺术家:たってぃぬ
+artist:koshiwo -> 艺术家:こしを
+artist:rinks -> 艺术家:RINKS
+artist:takeya masami -> 艺术家:たけやまさみ
+artist:alshuish -> 艺术家:アルシュイッシュ
+artist:konenohi -> 艺术家:子子日
+artist:nurie -> 艺术家:ぬりえ
+artist:creople -> 艺术家:くれーぷる
+artist:tokumei kitsutsuki -> 艺术家:匿名きつつき
+artist:rong hui -> 艺术家:绒灰
+artist:sakaito -> 艺术家:逆糸
+artist:chiruru -> 艺术家:ちるる
+artist:anulita -> 艺术家:アヌリタ
+artist:zawashi -> 艺术家:ざわし
 cosplayer:otohara an -> Coser:乙原あん
 cosplayer:rioko -> Coser:rioko凉凉子
 cosplayer:atsuki -> Coser:あつき
@@ -42637,6 +42732,7 @@ cosplayer:minazuki hikaru -> Coser:皆月ひかる
 cosplayer:ran3 -> Coser:染三
 cosplayer:baili shirly -> Coser:白栎Shirly
 cosplayer:etsu ko -> Coser:纸悦Etsu_ko
+cosplayer:upminaa -> Coser:Upminaa
 male:age progression -> 男性:年龄增长
 male:age regression -> 男性:返老还童
 male:dilf -> 男性:熟男
