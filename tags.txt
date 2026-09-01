@@ -105,8 +105,8 @@ language:vietnamese -> 语言:越南语
 language:welsh -> 语言:威尔士语
 language:yiddish -> 语言:意第绪语
 language:zulu -> 语言:祖鲁语
-language:speechless -> 语言:无言
 language:text cleaned -> 语言:文字清除
+language:textless narrative -> 语言:无文字叙事
 language:translated -> 语言:翻译
 language:rewrite -> 语言:改写
 parody:86 -> 原作:86 -不存在的战区-
@@ -3045,6 +3045,9 @@ parody:legend of mortal -> 原作:活侠传
 parody:kyouran reijou nia liston -> 原作:乱世千金倪亚‧利斯顿
 parody:pukey goddess shot trick -> 原作:酒鬼女神的酒诡
 parody:honogurashi no niwa -> 原作:静谧田园
+parody:domestic na kanojo -> 原作:家有女友
+parody:barb wire -> 原作:越空追击
+parody:natsuiro no kowaremono -> 原作:夏色的易碎品
 character:alice -> 角色:爱丽丝
 character:akane hino -> 角色:日野茜
 character:ibuki -> 角色:伊吹
@@ -12762,7 +12765,7 @@ character:anna doll -> 角色:安娜·多尔
 character:ai narata -> 角色:奈良田爱
 character:sarasa watanabe -> 角色:渡边更纱
 character:kitakoji hisui -> 角色:北小路翡翠
-character:cure eclair -> 角色:帆羽来爱
+character:cure eclair -> 角色:帆羽来爱 (闪耀天使)
 character:claret flint -> 角色:克拉蕾·弗林特
 character:qingxiao -> 角色:清霄
 character:red rose -> 角色:红蔷薇
@@ -12780,6 +12783,11 @@ character:komako -> 角色:驹子
 character:shiroji -> 角色:白司
 character:kuukyo no sylvaril -> 角色:空虚的希尔瓦莉尔
 character:perugius dola -> 角色:佩尔基乌斯・朵拉
+character:tsaritsa -> 角色:安娜丝塔夏·费奥多罗夫娜·雪奈茨娜娅
+character:scamp -> 角色:Scamp
+character:u-31 -> 角色:U-31
+character:olivier -> 角色:奥利维耶
+character:kon the knight -> 角色:骑士孔
 group:1 -> 团队:1
 group:13 -> 团队:13
 group:27 -> 团队:27
@@ -26954,6 +26962,18 @@ group:banana senbei -> 团队:ばななせんべい
 group:shimimaru seisakusho -> 团队:紙魚丸製作所
 group:shichishinkan -> 团队:七心馆
 group:hatsui tsumo -> 团队:初井つも
+group:nigatsu no santousei -> 团队:二月の三等星
+group:epi nyuugyou -> 团队:えぴ乳業
+group:hadukitto -> 团队:はづきっと！
+group:hoikuen -> 团队:ほいくえん
+group:yuchiberurin -> 团队:ゆちべるりん
+group:mama no nioi -> 团队:ママの匂い
+group:bonnouji yura -> 团队:煩悩寺ゆら
+group:guozhishe -> 团队:果汁社
+group:nanda sono pantsu wa... -> 团队:なんだそのパンツは…
+group:nonki na roten -> 团队:吞気な露店
+group:kamatsukatei -> 团队:一尺八寸
+group:innocent grey -> 团队:Innocent Grey
 artist:2 -> 艺术家:2
 artist:7 -> 艺术家:7
 artist:8 -> 艺术家:8
@@ -28448,7 +28468,6 @@ artist:arekusa mahone -> 艺术家:荒草まほん
 artist:akasa ai -> 艺术家:あかさあい
 artist:mizu umi -> 艺术家:瑞海
 artist:hisato -> 艺术家:ひさと
-artist:gyuunyuu nomio -> 艺术家:牛乳乃澪
 artist:konkichi -> 艺术家:绀吉
 artist:butcherboy -> 艺术家:ButcherBOY
 artist:aim -> 艺术家:AIM
@@ -29412,7 +29431,7 @@ artist:shiratama yomogi -> 艺术家:しらたま よもぎ
 artist:yoshida iyo -> 艺术家:吉田 依世
 artist:sakura oriko -> 艺术家:佐倉おりこ
 artist:hinata yuu -> 艺术家:ひなた悠
-artist:odawara hakone -> 艺术家:オダワラハコネ
+artist:odawara hakone -> 艺术家:小田原箱根(オダワラハコネ)
 artist:ikari -> 艺术家:いかり
 artist:humuyun -> 艺术家:ふむゆん
 artist:watagashi yui -> 艺术家:わたがしゆい
@@ -29562,7 +29581,7 @@ artist:hirasaka makoto -> 艺术家:比良坂真琴
 artist:matsuriuta -> 艺术家:祭唄（松竜太）
 artist:momizi-kei -> 艺术家:紅葉-K
 artist:nagayori -> 艺术家:长赖
-artist:toosaka asagi -> 艺术家:遠坂あさぎ
+artist:toosaka asagi -> 艺术家:远坂朝雾(遠坂あさぎ)
 artist:momoco -> 艺术家:ももこ
 artist:ashima -> 艺术家:アシマ
 artist:suzumori -> 艺术家:铃森
@@ -29912,7 +29931,7 @@ artist:namio.h.ryuudou -> 艺术家:NAMIO.H.龍堂
 artist:kazawa -> 艺术家:かざわ
 artist:nukaji -> 艺术家:ぬかじ
 artist:negresco -> 艺术家:Negresco
-artist:navia -> 艺术家:なびあ
+artist:navia -> 艺术家:上村なびあ
 artist:sagaraten -> 艺术家:纱柄天
 artist:naoto -> 艺术家:naoto
 artist:green -> 艺术家:GreeN
@@ -30639,7 +30658,6 @@ artist:ginger shuka -> 艺术家:姜糖
 artist:sazaemu -> 艺术家:さざえむ
 artist:gunjou -> 艺术家:群青
 artist:takaman -> 艺术家:高馒
-artist:xiaoxi -> 艺术家:小西0619
 artist:arimura daikon -> 艺术家:有村大根
 artist:toyama burin -> 艺术家:遠山ブリン
 artist:tsukai you -> 艺术家:塚井ヨウ
@@ -31412,7 +31430,7 @@ artist:blue gk -> 艺术家:Blue_Gk
 artist:blue impulse -> 艺术家:ブルーインパルス
 artist:blz -> 艺术家:BLZ
 artist:bmg -> 艺术家:bmg
-artist:bnr -> 艺术家:BNR
+artist:b.n.r. -> 艺术家:B.N.R.
 artist:bob jr -> 艺术家:ボブJr
 artist:bob kosugi -> 艺术家:ボブ小杉
 artist:bob r -> 艺术家:暴武R
@@ -35801,7 +35819,6 @@ artist:nutro -> 艺术家:nutro
 artist:nuu -> 艺术家:ヌゥ
 artist:nuyakana -> 艺术家:ぬャカな
 artist:nwonyo -> 艺术家:んをんよ
-artist:ny-o-ph -> 艺术家:NY-O-PH
 artist:nyagomaru -> 艺术家:にゃご丸
 artist:nyahu -> 艺术家:睦月にゃふ
 artist:nyakaaki -> 艺术家:にゃかあき
@@ -38588,7 +38605,6 @@ artist:yoko -> 艺术家:yoko
 artist:yoko juusuke -> 艺术家:横十輔
 artist:yoko mawatari -> 艺术家:馬渡ようこ
 artist:yokohachi -> 艺术家:よこはち
-artist:yokosima -> 艺术家:縦縞キタ
 artist:yokota mamoru -> 艺术家:横田守
 artist:yokoyama kouji -> 艺术家:横山コウジ
 artist:yokoyama michiru -> 艺术家:横山ミチル
@@ -38669,7 +38685,6 @@ artist:yoshizawa vanilla -> 艺术家:芳澤ばにら
 artist:yositama -> 艺术家:ヨシタマ
 artist:yosomono -> 艺术家:よそ者
 artist:yosuke -> 艺术家:ヨースケ
-artist:yosyo- -> 艺术家:いきなりもじお
 artist:yotaka -> 艺术家:夜鷹 | よたか
 artist:yotarou -> 艺术家:夜太弄
 artist:yotsuba yuiko -> 艺术家:四葉ゆいこ
@@ -39429,7 +39444,6 @@ artist:nukeru -> 艺术家:ヌケル
 artist:musui ethanol -> 艺术家:無水エタノール
 artist:mori sinrisk -> 艺术家:森シンリスク
 artist:moegi -> 艺术家:萌葱
-artist:kikomuhito -> 艺术家:着込む人
 artist:elegant -> 艺术家:えれがんと
 artist:tonyman plus -> 艺术家:トニーマン+
 artist:shimetsuki tanki -> 艺术家:湿月タンキ
@@ -42301,7 +42315,6 @@ artist:rara -> 艺术家:rara
 artist:sakanaya -> 艺术家:sakanaya
 artist:jimpu6 -> 艺术家:JimPu6
 artist:nyarome -> 艺术家:にゃろメ
-artist:koi kakeru shinai kanojo -> 艺术家:想要传达给你的爱恋
 artist:nunemaru -> 艺术家:ぬね丸
 artist:thikiso takeda -> 艺术家:ティキソー竹田
 artist:mochinabe -> 艺术家:もち鍋
@@ -42318,7 +42331,6 @@ artist:mitsuhamochi. -> 艺术家:みつはもち。
 artist:kisarazu yuu -> 艺术家:木更津侑
 artist:momo irone -> 艺术家:ももいろね
 artist:kazumasa -> 艺术家:カズマサ
-artist:yuzu-soft -> 艺术家:柚子社
 artist:yuri nayuta -> 艺术家:悠理なゆた
 artist:gurasion -> 艺术家:ぐらしおん
 artist:osushi 961 -> 艺术家:おすし961
@@ -42568,6 +42580,25 @@ artist:sakaito -> 艺术家:逆糸
 artist:chiruru -> 艺术家:ちるる
 artist:anulita -> 艺术家:アヌリタ
 artist:zawashi -> 艺术家:ざわし
+artist:ajisawa aji -> 艺术家:鯵沢あじ
+artist:aki hirame -> 艺术家:秋ひらめ
+artist:asaka -> 艺术家:安佐川
+artist:epi -> 艺术家:えぴ
+artist:hadukinton -> 艺术家:はづきんとん
+artist:nagumo naruse -> 艺术家:南雲なるせ
+artist:parapara -> 艺术家:ぱらぱら
+artist:shachou -> 艺术家:社長
+artist:simejitake -> 艺术家:しめじたけ
+artist:yuchiberu -> 艺术家:ユチberu
+artist:ao paco -> 艺术家:まるかな正麺
+artist:oworanger -> 艺术家:沐浴橙汁兒OwOranger
+artist:out type -> 艺术家:out type
+artist:nomiki -> 艺术家:呑み気
+artist:hinanagusa -> 艺术家:ひななぐさ
+artist:men teru -> 艺术家:めんテル
+artist:nagen yankotsu -> 艺术家:なげんやんこつ
+artist:ahedtra -> 艺术家:aHedtra
+artist:yorumaguro -> 艺术家:夜マグロ Yorumaguro
 cosplayer:otohara an -> Coser:乙原あん
 cosplayer:rioko -> Coser:rioko凉凉子
 cosplayer:atsuki -> Coser:あつき
@@ -42986,8 +43017,8 @@ male:armpit sex -> 男性:腋交
 male:hairy armpits -> 男性:腋毛
 male:fisting -> 男性:拳交💪
 male:gloves -> 男性:手套
-male:handjob -> 男性:打手枪
-male:multiple handjob -> 男性:多重打手枪
+male:handjob -> 男性:手交
+male:multiple handjob -> 男性:多重手交
 male:big areolae -> 男性:大乳晕
 male:big breasts -> 男性:巨乳
 male:breast expansion -> 男性:乳房膨胀
@@ -43297,16 +43328,17 @@ male:forced exposure -> 男性:强制暴露
 male:hidden sex -> 男性:隐蔽性交
 male:humiliation -> 男性:屈辱
 male:voyeurism -> 男性:偷窥
-male:low bestiality -> 男性:低存在兽交
-male:low guro -> 男性:低存在猎奇
-male:low incest -> 男性:低存在乱伦
-male:low scat -> 男性:低存在排便
-male:low shotacon -> 男性:低存在正太
-male:low smegma -> 男性:低存在阴垢
-male:focus anal -> 男性:高存在肛交
-male:focus blowjob -> 男性:高存在口交
-male:focus paizuri -> 男性:高存在乳交
-male:focus rimjob -> 男性:高存在舔肛
+male:low bestiality -> 男性:低比例兽交
+male:low guro -> 男性:低比例猎奇
+male:low incest -> 男性:低比例乱伦
+male:low scat -> 男性:低比例排便
+male:low shotacon -> 男性:低比例正太
+male:low smegma -> 男性:低比例阴垢
+male:focus anal -> 男性:高比例肛交
+male:focus blowjob -> 男性:高比例口交
+male:focus handjob -> 男性:高比例手交
+male:focus paizuri -> 男性:高比例乳交
+male:focus rimjob -> 男性:高比例舔肛
 female:age progression -> 女性:年龄增长
 female:age regression -> 女性:返老还童
 female:infantilism -> 女性:幼稚型
@@ -43563,8 +43595,8 @@ female:hairy armpits -> 女性:腋毛
 female:fingering -> 女性:指法
 female:fisting -> 女性:拳交💪
 female:gloves -> 女性:手套
-female:handjob -> 女性:打手枪
-female:multiple handjob -> 女性:多重打手枪
+female:handjob -> 女性:手交
+female:multiple handjob -> 女性:多重手交
 female:big areolae -> 女性:大乳晕
 female:big breasts -> 女性:巨乳
 female:breast expansion -> 女性:乳房膨胀
@@ -43908,22 +43940,23 @@ female:forced exposure -> 女性:强制暴露
 female:hidden sex -> 女性:隐蔽性交
 female:humiliation -> 女性:屈辱
 female:voyeurism -> 女性:偷窥
-female:low bestiality -> 女性:低存在兽交
-female:low guro -> 女性:低存在猎奇
-female:low incest -> 女性:低存在乱伦
-female:low lolicon -> 女性:低存在萝莉
-female:low scat -> 女性:低存在排便
-female:low smegma -> 女性:低存在阴垢
-female:focus anal -> 女性:高存在肛交
-female:focus blowjob -> 女性:高存在口交
-female:focus cunnilingus -> 女性:高存在舔阴
-female:focus paizuri -> 女性:高存在乳交
-female:focus rimjob -> 女性:高存在舔肛
+female:low bestiality -> 女性:低比例兽交
+female:low guro -> 女性:低比例猎奇
+female:low incest -> 女性:低比例乱伦
+female:low lolicon -> 女性:低比例萝莉
+female:low scat -> 女性:低比例排便
+female:low smegma -> 女性:低比例阴垢
+female:focus anal -> 女性:高比例肛交
+female:focus blowjob -> 女性:高比例口交
+female:focus cunnilingus -> 女性:高比例舔阴
+female:focus handjob -> 女性:高比例手交
+female:focus paizuri -> 女性:高比例乳交
+female:focus rimjob -> 女性:高比例舔肛
 mixed:kodomo doushi -> 混合:两小无猜
 mixed:animal on animal -> 混合:兽兽
 mixed:body swap -> 混合:换身
 mixed:multimouth blowjob -> 混合:多口口交
-mixed:multiple handjob -> 混合:多重打手枪
+mixed:multiple handjob -> 混合:多重手交
 mixed:frottage -> 混合:阴茎摩擦🤺
 mixed:multiple assjob -> 混合:多重尻交
 mixed:multiple footjob -> 混合:多重足交
@@ -43941,7 +43974,7 @@ mixed:ttm threesome -> 混合:扶扶男3P
 mixed:twins -> 混合:双胞胎
 mixed:incest -> 混合:乱伦
 mixed:inseki -> 混合:姻亲
-mixed:low incest -> 混合:低存在乱伦
+mixed:low incest -> 混合:低比例乱伦
 other:yukkuri -> 其他:油库里
 other:dakimakura -> 其他:抱枕
 other:time stop -> 其他:时间停止⏱️
@@ -44009,3 +44042,4 @@ location:infirmary -> 地点:保健室
 location:onsen -> 地点:温泉
 location:sauna -> 地点:桑拿
 location:sentou -> 地点:浴场
+location:swimming pool -> 地点:泳池
