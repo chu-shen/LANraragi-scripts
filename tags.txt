@@ -3048,6 +3048,9 @@ parody:honogurashi no niwa -> 原作:静谧田园
 parody:domestic na kanojo -> 原作:家有女友
 parody:barb wire -> 原作:越空追击
 parody:natsuiro no kowaremono -> 原作:夏色的易碎品
+parody:clover days -> 原作:四叶草的约定
+parody:wet -> 原作:终极女猎人
+parody:uchi no shishou wa shippo ga nai -> 原作:我家师傅没有尾巴
 character:alice -> 角色:爱丽丝
 character:akane hino -> 角色:日野茜
 character:ibuki -> 角色:伊吹
@@ -8965,7 +8968,7 @@ character:azula -> 角色:阿祖拉
 character:marco diaz -> 角色:马可·迪亚兹
 character:claude claudel -> 角色:克洛德·克劳戴
 character:yune -> 角色:汤音
-character:nachoneko -> 角色:猫羽雫
+character:nachoneko -> 角色:なちょ猫
 character:mountain -> 角色:山
 character:jin qiu -> 角色:金秋
 character:riruru -> 角色:莉露露
@@ -12788,6 +12791,28 @@ character:scamp -> 角色:Scamp
 character:u-31 -> 角色:U-31
 character:olivier -> 角色:奥利维耶
 character:kon the knight -> 角色:骑士孔
+character:alisa shitou -> 角色:紫藤亚里沙
+character:meili portroute -> 角色:梅莉·波特鲁特
+character:maria theresa -> 角色:玛利亚·特蕾莎
+character:yuugao uzuki -> 角色:卯月夕颜
+character:lorraine vivie -> 角色:诺蕾奴·薇薇艾
+character:urasaka hikume -> 角色:里坂久女
+character:atoferatofe rybak -> 角色:阿托菲拉托菲·雷白克
+character:lucia caminos -> 角色:露西亚·卡米诺
+character:jason duval -> 角色:杰森·杜瓦
+character:tai lung -> 角色:泰龙
+character:li shan -> 角色:李山
+character:kai -> 角色:天煞
+character:matsunaga hisahide -> 角色:松永久秀
+character:rubi malone -> 角色:鲁比·马龙
+character:no reason -> 角色:莫名其妙
+character:daring heart -> 角色:勇敢之心
+character:orchidea -> 角色:兰
+character:bunko daikokutei -> 角色:大黑亭文狐
+character:arcane -> 角色:诀
+character:schlain zagan analeit -> 角色:山田后辅
+character:testarossa -> 角色:泰丝塔罗莎
+character:arale nakamachi -> 角色:仲町阿拉蕾
 group:1 -> 团队:1
 group:13 -> 团队:13
 group:27 -> 团队:27
@@ -14283,7 +14308,7 @@ group:night springs -> 团队:ナイトスプリングス
 group:aki to haru no yume -> 团队:秋と春の夢
 group:tomatohouse-905s room -> 团队:tomatohouse-905's room
 group:dai 6 kichi -> 团队:第6基地
-group:movefromoneplacetoheaven -> 团队:MoveFromOnePlacetoHeaven
+group:movefromoneplacetoheaven -> 团队:Move from one place to heaven
 group:workholic -> 团队:わーくほりっく
 group:astro qube. -> 团队:AstroQube.
 group:pikorin -> 团队:ぴこりん!
@@ -26974,6 +26999,24 @@ group:nanda sono pantsu wa... -> 团队:なんだそのパンツは…
 group:nonki na roten -> 团队:吞気な露店
 group:kamatsukatei -> 团队:一尺八寸
 group:innocent grey -> 团队:Innocent Grey
+group:uchuu misaki -> 团队:宇宙岬
+group:more prity -> 团队:More☆プリティ
+group:tegomental -> 团队:てごめんたる
+group:kenbunya -> 团队:けんぶん屋
+group:anchorbell -> 团队:アンカーベル
+group:whitesoft -> 团队:Whitesoft
+group:whitesoft-albino -> 团队:Whitesoft Albino
+group:moonpie factory -> 团队:MOONPIE FACTORY
+group:mamaldasia -> 团队:ママルダシア
+group:space monkey butai -> 团队:スペースモンキー部隊
+group:kiiroi pink -> 团队:きいろいぴんく
+group:agemomiji -> 团队:あげもみじ
+group:crd -> 团队:CRD
+group:himan boy -> 团队:ヒマンボーイ
+group:hazukiken -> 团队:葉月軒
+group:pencil rocket -> 团队:ぺんしるろけっと
+group:nazunasoft -> 团队:ナズナソフト
+group:studio sitomi -> 团队:スタジオシトミ
 artist:2 -> 艺术家:2
 artist:7 -> 艺术家:7
 artist:8 -> 艺术家:8
@@ -27288,7 +27331,7 @@ artist:souryuu -> 艺术家:双龙
 artist:umi suzume -> 艺术家:雨美すずめ
 artist:michiking -> 艺术家:米奇王
 artist:otabe sakura -> 艺术家:おたべさくら
-artist:ryo -> 艺术家:りょう
+artist:ryo -> 艺术家:RYO(りょう)
 artist:minori kenshirou -> 艺术家:实验四郎
 artist:umemura -> 艺术家:梅村
 artist:peter mitsuru -> 艺术家:ペーター・ミツル
@@ -36162,7 +36205,7 @@ artist:pekeko -> 艺术家:ペケこ
 artist:penguindou -> 艺术家:筆吟堂
 artist:peniken -> 艺术家:ぺに健
 artist:pensuke -> 艺术家:ぺんすけ
-artist:pepe -> 艺术家:ぺぺ
+artist:pepe -> 艺术家:ぺぺ | Pepe
 artist:pepo -> 艺术家:ぺぽ
 artist:perimaru -> 艺术家:ぺり丸
 artist:permille -> 艺术家:permille
@@ -39502,7 +39545,7 @@ artist:lemon snail -> 艺术家:Lemon Snail
 artist:zirba -> 艺术家:Zirba
 artist:fyxfd -> 艺术家:肥油小分队
 artist:karei -> 艺术家:かれい
-artist:arashiya -> 艺术家:嵐屋
+artist:arashiya -> 艺术家:岚屋
 artist:yamamoto yumiko -> 艺术家:山本由美子
 artist:zurikishi -> 艺术家:ずり騎士
 artist:himeno mikan -> 艺术家:姫野蜜柑
@@ -42599,6 +42642,49 @@ artist:men teru -> 艺术家:めんテル
 artist:nagen yankotsu -> 艺术家:なげんやんこつ
 artist:ahedtra -> 艺术家:aHedtra
 artist:yorumaguro -> 艺术家:夜マグロ Yorumaguro
+artist:sasaki hiromi -> 艺术家:沙岬宙海
+artist:shinen -> 艺术家:天聖
+artist:nishikida keishi -> 艺术家:西木田景志
+artist:garuruu -> 艺术家:がるるぅ
+artist:r-one -> 艺术家:ろん（うな義）
+artist:izui -> 艺术家:いずい
+artist:primil -> 艺术家:仁村有志(PRIMIL)
+artist:murabito c -> 艺术家:村民c
+artist:pody -> 艺术家:ポディ
+artist:hosimiya aki -> 艺术家:星宮あき
+artist:torororo -> 艺术家:とろだく
+artist:kuutamo -> 艺术家:KUUTAMO
+artist:cygnus -> 艺术家:キグナス
+artist:hamita -> 艺术家:ハミタ
+artist:koshimizu yo -> 艺术家:小清水阳
+artist:kawabuta -> 艺术家:かわぶた
+artist:hashimoto seigi -> 艺术家:桥本正义
+artist:miyama kendoh -> 艺术家:みやま犬童
+artist:jin-jin -> 艺术家:仁－じん－
+artist:nikohada fuguri -> 艺术家:和肌ふぐり
+artist:delta9 -> 艺术家:デルタナイン
+artist:dummy kaiko -> 艺术家:ダミィ蚕
+artist:haracock -> 艺术家:原胡来
+artist:nbo -> 艺术家:んぼ
+artist:ogawa shuusuke -> 艺术家:紺あかね
+artist:shiibara tetsu -> 艺术家:シイバラ・テツ
+artist:yosohuta -> 艺术家:伍拾四
+artist:warumono tomy -> 艺术家:わるもの とみい
+artist:wachio -> 艺术家:わちを
+artist:urukio -> 艺术家:ウルキオ
+artist:tetsuwan woopie -> 艺术家:鉄腕うーぴー
+artist:koshiitai -> 艺术家:越井たい
+artist:merumeru -> 艺术家:めるめる
+artist:ettone -> 艺术家:えっとね
+artist:he ye nan hai -> 艺术家:禾野男孩
+artist:shiofuki akume -> 艺术家:汐吹あくめ
+artist:suke -> 艺术家:すけ
+artist:akano tobira -> 艺术家:赤野とびら
+artist:miira -> 艺术家:みいら
+artist:sori -> 艺术家:かまつか
+artist:mad -> 艺术家:mad
+artist:ya-ki -> 艺术家:ya-ki
+artist:lassie art -> 艺术家:ラッシーアート
 cosplayer:otohara an -> Coser:乙原あん
 cosplayer:rioko -> Coser:rioko凉凉子
 cosplayer:atsuki -> Coser:あつき
