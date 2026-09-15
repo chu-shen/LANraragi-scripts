@@ -3051,6 +3051,11 @@ parody:natsuiro no kowaremono -> 原作:夏色的易碎品
 parody:clover days -> 原作:四叶草的约定
 parody:wet -> 原作:终极女猎人
 parody:uchi no shishou wa shippo ga nai -> 原作:我家师傅没有尾巴
+parody:energy kyouka -> 原作:えなじぃキョーカ
+parody:isekai shikkaku -> 原作:异世界失格
+parody:saikyou degarashi ouji no anyaku teii arasoi -> 原作:最强废渣皇子暗中活跃于帝位之争
+parody:maebashi witches -> 原作:前桥魔女
+parody:akane wa tsumare somerareru -> 原作:被采摘污染的茜
 character:alice -> 角色:爱丽丝
 character:akane hino -> 角色:日野茜
 character:ibuki -> 角色:伊吹
@@ -9026,7 +9031,7 @@ character:epsilon -> 角色:伊普西龙
 character:cid kagenou -> 角色:暗影
 character:eta -> 角色:伊塔
 character:mona kawai -> 角色:川井百奈
-character:lux -> 角色:拉克丝（光辉女郎）
+character:lux -> 角色:拉克丝
 character:naga the serpent -> 角色:白蛇娜卡
 character:tsukasa akeuraji -> 角色:明浦路司
 character:jun yodaka -> 角色:夜鹰纯
@@ -11221,7 +11226,7 @@ character:joseph desaulniers -> 角色:约瑟夫·德拉索恩斯（摄影师）
 character:vera nair -> 角色:薇拉·奈尔（调香师）
 character:luca balsa -> 角色:卢卡·巴尔萨（囚徒）
 character:famine devil -> 角色:饥荒恶魔
-character:cure arcana shadow -> 角色:森亚琉琉歌 (奥秘天使·影)
+character:cure arcana shadow -> 角色:森亚琉琉歌 (奥秘天使)
 character:marshall d. teach -> 角色:马歇尔·D·蒂奇
 character:ralmia -> 角色:洛菈米亚
 character:fluorite -> 角色:萤石
@@ -12813,6 +12818,44 @@ character:arcane -> 角色:诀
 character:schlain zagan analeit -> 角色:山田后辅
 character:testarossa -> 角色:泰丝塔罗莎
 character:arale nakamachi -> 角色:仲町阿拉蕾
+character:hsin -> 角色:心月狐
+character:kokoro toumi -> 角色:渡海心
+character:naru jurinna -> 角色:纳鲁·朱琳娜
+character:dizzy dokuro -> 角色:Dizzy Dokuro
+character:valeriy -> 角色:瓦列里
+character:mitya -> 角色:米提亚
+character:tilty claret -> 角色:缇尔蒂·克拉雷特
+character:fumino kotoyose -> 角色:琴寄文乃
+character:hazuki sendai -> 角色:仙台叶月
+character:ushio okazaki -> 角色:冈崎汐
+character:luxanna crownguard -> 角色:拉克丝（光辉女郎）
+character:vera levitt -> 角色:薇拉·莱维特
+character:kanae hiwatari -> 角色:冰渡香名江
+character:kiabit -> 角色:基亚比茨特
+character:akira asai -> 角色:朝井明
+character:ushi gozen -> 角色:丑御前
+character:nagomi iojaku -> 角色:五百雀和美
+character:suiko takanosu -> 角色:鹰野主翠子
+character:youko utou -> 角色:乌头尾阳子
+character:togawa nonoha -> 角色:十河野乃花
+character:flora sakutou -> 角色:芙萝拉·萨克多
+character:lastismoon -> 角色:拉丝蒂丝姆
+character:typhoeus -> 角色:堤丰
+character:lindverne sunbringer -> 角色:林德薇恩·挽昼
+character:finne von kleinert -> 角色:菲妮·冯·克莱纳特
+character:kyoka kitahara -> 角色:北原镜华
+character:choco mitsumata -> 角色:三俣巧可
+character:chloe aubert -> 角色:克萝耶·欧贝尔
+character:sheena fujibayashi -> 角色:藤林椎名
+character:xiang yu -> 角色:项羽
+character:presea combatir -> 角色:布雷塞娅·康巴提尔
+character:colette brunel -> 角色:柯蕾特·布鲁内尔
+character:dong-soo hwang -> 角色:黄东秀
+character:svetlana rosen yamada -> 角色:斯韦特兰娜·罗森·山田
+character:rain -> 角色:蕾茵
+character:velzard -> 角色:维鲁萨德
+character:mari kurokawa -> 角色:黑川茉莉
+character:akane nanao -> 角色:七尾茜
 group:1 -> 团队:1
 group:13 -> 团队:13
 group:27 -> 团队:27
@@ -13920,7 +13963,7 @@ group:the nation of head scissors -> 团队:The Nation of Head Scissors
 group:airy socks -> 团队:エアリーソックス
 group:sheepfold -> 团队:羊小屋
 group:aroma gaeru -> 团队:あろまガエル
-group:arion canvas -> 团队:Arion Canvas
+group:arion canvas -> 团队:アリオンキャンバス
 group:a color summoner -> 团队:アカラサマナ
 group:marimo -> 团队:MARIMO
 group:alem-gakan -> 团队:アレム画館
@@ -15575,7 +15618,7 @@ group:anchor -> 团队:ANCHOR
 group:andante -> 团队:あんだんて
 group:anegaoka sanchoume -> 团队:姉ヶ丘三丁目
 group:anemitsu -> 团队:あねみつ
-group:anemone -> 团队:Anemone
+group:anemone -> 团队:アネモネ*
 group:aneurysm. -> 团队:あにゅうりずむ。
 group:anfini -> 团队:ANFINI
 group:ange -> 团队:アンジェ
@@ -22682,7 +22725,7 @@ group:sabamiso -> 团队:さばみそ
 group:saberfish -> 团队:セイバーフィッシュ
 group:sabo-p -> 团队:SABO-P
 group:saboriguse syndrome -> 团队:サボリ癖症候群
-group:saboten -> 团队:サボテン
+group:saboten -> 团队:仙人掌社
 group:saboten binta -> 团队:サボテンビンタ
 group:saboten sankaku -> 团队:サボテンさんかく
 group:saboten-dou honpo -> 团队:仙人掌堂本舗
@@ -27017,6 +27060,31 @@ group:hazukiken -> 团队:葉月軒
 group:pencil rocket -> 团队:ぺんしるろけっと
 group:nazunasoft -> 团队:ナズナソフト
 group:studio sitomi -> 团队:スタジオシトミ
+group:lost heart -> 团队:ろすとはーと
+group:jei c1on-ri -> 团队:じぇいC1ON-り
+group:kyaradain -> 团队:きゃらだいん
+group:sweet and tea -> 团队:甜茶社(Sweet & Tea)
+group:manguard -> 团队:マンガード
+group:smiling dog -> 团队:Smiling Dog
+group:wakanuman -> 团队:わかぬマン
+group:hamens -> 团队:はめんず
+group:egg milk. -> 团队:えっぐみるく。
+group:pushmine -> 团队:プッシュマイン
+group:happy fall -> 团队:ハッピーフォール
+group:airy socks en -> 团队:エアリーソックス・艶
+group:lovelytes -> 团队:ラブリテス
+group:amorphous -> 团队:アモルファス
+group:gossa-tei -> 团队:ごっさ亭
+group:ichigo dressing -> 团队:苺ドレッシング
+group:ijou nouryoku kenkyuukaihatsu kikou -> 团队:異常能力研究開発機構
+group:neko nyoubou -> 团队:猫女房
+group:danbooru -> 团队:ダンボール
+group:seiheki chousadan -> 团队:性癖調査団
+group:ushiro no shimu -> 团队:後ろの志群
+group:nyoudou summit -> 团队:尿道サミット
+group:torokiboshi -> 团队:とろきぼし
+group:aaa -> 团队:AAA
+group:hiroq -> 团队:ヒロQ
 artist:2 -> 艺术家:2
 artist:7 -> 艺术家:7
 artist:8 -> 艺术家:8
@@ -27489,7 +27557,7 @@ artist:himukai kyousuke -> 艺术家:日向恭介
 artist:fuyutugu -> 艺术家:冬嗣
 artist:mogudan -> 艺术家:モグダン
 artist:100yen locker -> 艺术家:100円ロッカー
-artist:hana hook -> 艺术家:华フック
+artist:hana hook -> 艺术家:華フック
 artist:taki minashika -> 艺术家:滝美梨香
 artist:hirame -> 艺术家:ヒラメ | 比目鱼
 artist:minakami rinka -> 艺术家:水上凛香
@@ -28270,7 +28338,7 @@ artist:uesugi kyoushirou -> 艺术家:上杉响士郎
 artist:kai hiroyuki -> 艺术家:甲斐ひろゆき
 artist:kihiru -> 艺术家:きひる
 artist:kogaku kazuya -> 艺术家:虎顎かずや
-artist:kokonoki nao -> 艺术家:ここのき奈绪
+artist:kokonoki nao -> 艺术家:<p>ここのき奈緒</p>
 artist:naz -> 艺术家:NAZ
 artist:neriwasabi -> 艺术家:ねりわさび
 artist:yonyon -> 艺术家:よんよん
@@ -36144,7 +36212,7 @@ artist:over line -> 艺术家:オーバーライン
 artist:owa -> 艺术家:尾和
 artist:owahu -> 艺术家:おわふ
 artist:owal -> 艺术家:おわる
-artist:oxideengine -> 艺术家:OXIDEENGINE
+artist:oxideengine -> 艺术家:おきえん
 artist:oxxo -> 艺术家:OXXO
 artist:oxy -> 艺术家:おきし
 artist:oyaji -> 艺术家:オヤジ
@@ -42685,6 +42753,26 @@ artist:sori -> 艺术家:かまつか
 artist:mad -> 艺术家:mad
 artist:ya-ki -> 艺术家:ya-ki
 artist:lassie art -> 艺术家:ラッシーアート
+artist:samuimo -> 艺术家:寒芋
+artist:zhi yitiaomiao -> 艺术家:质yitiaomiao
+artist:daroon5 -> 艺术家:DaRoon5
+artist:tawa -> 艺术家:たわ
+artist:akubine kokoro -> 艺术家:阿久美寝心
+artist:ozuma -> 艺术家:大東
+artist:tamio -> 艺术家:tamio
+artist:hudak -> 艺术家:덕호
+artist:mantendoh -> 艺术家:漫天堂
+artist:chikuwabuta -> 艺术家:ちくわぶ汰
+artist:maroyaka sakichi -> 艺术家:まろやか叉吉
+artist:tsutaya honmirin -> 艺术家:蔦屋ほんみりん
+artist:amagai yukino -> 艺术家:天海雪乃
+artist:sagamiya takafumi -> 艺术家:さがみやたかふみ
+artist:hanazono rose -> 艺术家:花園ろぉず
+artist:sasami rise -> 艺术家:ささみりせ
+artist:subete yameta -> 艺术家:すべてやめた
+artist:taka-co -> 艺术家:taka-co
+artist:cammy -> 艺术家:Cammy
+artist:hiro. -> 艺术家:浅葱ヒろ
 cosplayer:otohara an -> Coser:乙原あん
 cosplayer:rioko -> Coser:rioko凉凉子
 cosplayer:atsuki -> Coser:あつき
