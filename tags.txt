@@ -3056,6 +3056,16 @@ parody:isekai shikkaku -> 原作:异世界失格
 parody:saikyou degarashi ouji no anyaku teii arasoi -> 原作:最强废渣皇子暗中活跃于帝位之争
 parody:maebashi witches -> 原作:前桥魔女
 parody:akane wa tsumare somerareru -> 原作:被采摘污染的茜
+parody:konyaku haki sareta reijou wo hirotta ore ga ikenai koto wo oshiekomu -> 原作:捡走被人悔婚的千金
+parody:zombie no afureta sekai de ore dake ga osowarenai -> 原作:末世孤雄
+parody:aru majo ga shinu made -> 原作:直至魔女消逝
+parody:saijo no osewa -> 原作:才女的侍从
+parody:kokoore -> 原作:你们先走我断后
+parody:futsu no keionbu -> 原作:普普通通轻音部
+parody:onegai aipri -> 原作:拜托了偶像公主
+parody:ragna crimson -> 原作:狩龙人拉格纳
+parody:isekai yakkyoku -> 原作:异世界药局
+parody:lv999 no murabito -> 原作:LV999的村民
 character:alice -> 角色:爱丽丝
 character:akane hino -> 角色:日野茜
 character:ibuki -> 角色:伊吹
@@ -12856,6 +12866,21 @@ character:rain -> 角色:蕾茵
 character:velzard -> 角色:维鲁萨德
 character:mari kurokawa -> 角色:黑川茉莉
 character:akane nanao -> 角色:七尾茜
+character:charlotte evans -> 角色:夏洛特·埃文丝
+character:mitsuki fujino -> 角色:藤野深月
+character:fine cavendish -> 角色:菲涅·卡文迪什
+character:meg raspberry -> 角色:梅格·罗兹贝蒂
+character:hinako konohana -> 角色:此花雏子
+character:rin koyama -> 角色:幸山厘
+character:hakushika iori -> 角色:白鹿伊织
+character:yonro -> 角色:四郎
+character:honoka hara -> 角色:原穗乃香
+character:kenta kanzaki -> 角色:神崎健太
+character:ema mochinaga -> 角色:望永艾玛
+character:ultimatia -> 角色:阿尔蒂玛媞娅
+character:chi an -> 角色:济安
+character:eleonore bonnefoi -> 角色:艾兰诺·博纳富瓦
+character:alice baruneshio -> 角色:艾莉丝·巴尔涅西奥
 group:1 -> 团队:1
 group:13 -> 团队:13
 group:27 -> 团队:27
@@ -27085,6 +27110,17 @@ group:nyoudou summit -> 团队:尿道サミット
 group:torokiboshi -> 团队:とろきぼし
 group:aaa -> 团队:AAA
 group:hiroq -> 团队:ヒロQ
+group:yoshihara kaworu -> 团队:良原カヲル
+group:central field -> 团队:セントラルフィールド
+group:iota works -> 团队:イオタワークス
+group:kamejirouya-san -> 团队:亀次郎屋さん
+group:weather report -> 团队:天気予報
+group:mugen seisaku -> 团队:夢幻制作
+group:footworks -> 团队:フットワークス
+group:tombhouse -> 团队:tombhouse
+group:humihako -> 团队:ふみはこ
+group:risu no rakuen -> 团队:リスの楽園
+group:tarte -> 团队:タルト
 artist:2 -> 艺术家:2
 artist:7 -> 艺术家:7
 artist:8 -> 艺术家:8
@@ -42773,6 +42809,19 @@ artist:subete yameta -> 艺术家:すべてやめた
 artist:taka-co -> 艺术家:taka-co
 artist:cammy -> 艺术家:Cammy
 artist:hiro. -> 艺术家:浅葱ヒろ
+artist:junji ito -> 艺术家:伊藤润二
+artist:omochi. -> 艺术家:おもち。
+artist:paio -> 艺术家:ぱいお
+artist:kurosaka iria -> 艺术家:黒坂イリア
+artist:veryhardloco -> 艺术家:べりーはーどろこ
+artist:seto ryouko -> 艺术家:瀬戸涼子
+artist:seitoedaha -> 艺术家:生徒えだは
+artist:kechadon -> 艺术家:けちゃどん
+artist:amanoha asagi -> 艺术家:天乃羽浅戯
+artist:nakata gorori -> 艺术家:中田ゴロリ
+artist:atomb -> 艺术家:ATomB
+artist:ruga ossan -> 艺术家:るがお
+artist:amane sou -> 艺术家:雨音响
 cosplayer:otohara an -> Coser:乙原あん
 cosplayer:rioko -> Coser:rioko凉凉子
 cosplayer:atsuki -> Coser:あつき
@@ -42895,7 +42944,6 @@ cosplayer:zhuimingyou -> Coser:日奈娇
 cosplayer:shiraga yanko -> Coser:Shiraga Yanko
 cosplayer:byoru -> Coser:Byoru
 cosplayer:mianbing xianer -> Coser:面饼仙儿
-cosplayer:una cosplayer -> Coser:角色扮演者
 cosplayer:fangqiao yepo -> Coser:坊桥夜泊
 cosplayer:jiuqi -> Coser:九柒喵
 cosplayer:blacqkl -> Coser:白莉爱吃巧克力
