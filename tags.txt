@@ -3066,6 +3066,11 @@ parody:onegai aipri -> 原作:拜托了偶像公主
 parody:ragna crimson -> 原作:狩龙人拉格纳
 parody:isekai yakkyoku -> 原作:异世界药局
 parody:lv999 no murabito -> 原作:LV999的村民
+parody:kizoku tensei -> 原作:贵族转生 ～得天眷顾～
+parody:mata korosarete shimatta no desu ne tantei-sama -> 原作:又被杀掉了呢，侦探大人
+parody:seiken tsukai no world break -> 原作:圣剑使的禁咒咏唱
+parody:heroine seijo iie all works maid desu hokori -> 原作:女主角？圣女？不，我是杂役女仆！
+parody:suterare seijo no isekai gohantabi -> 原作:无用圣女的异世界美食之旅
 character:alice -> 角色:爱丽丝
 character:akane hino -> 角色:日野茜
 character:ibuki -> 角色:伊吹
@@ -8827,7 +8832,7 @@ character:maya natsume -> 角色:枣真夜
 character:helen parr -> 角色:巴荷莉
 character:princess anna -> 角色:安娜公主
 character:mimikyu -> 角色:谜拟丘
-character:nurse joy -> 角色:乔伊
+character:nurse joy -> 角色:乔伊小姐
 character:officer jenny -> 角色:君莎
 character:james -> 角色:小次郎
 character:jessie -> 角色:武藏
@@ -12881,6 +12886,31 @@ character:ultimatia -> 角色:阿尔蒂玛媞娅
 character:chi an -> 角色:济安
 character:eleonore bonnefoi -> 角色:艾兰诺·博纳富瓦
 character:alice baruneshio -> 角色:艾莉丝·巴尔涅西奥
+character:sheldon plankton -> 角色:痞老板
+character:asa kinjou -> 角色:阿萨
+character:hisuian typhlosion -> 角色:洗翠 火暴兽
+character:sandile -> 角色:流氓鳄
+character:squid baron -> 角色:鱿鱼男爵
+character:katherine warren -> 角色:凯瑟琳·沃伦
+character:preecha -> 角色:普莉查
+character:rock howard -> 角色:洛克·霍华德
+character:vesna strivozha -> 角色:薇斯纳·丝翠维莎
+character:alichey -> 角色:艾莉洁
+character:verdandi -> 角色:‌薇儿丹蒂
+character:lilithea -> 角色:莉莉忒雅
+character:hisako kotobuki -> 角色:古都吹寿子
+character:tsubaki shinra -> 角色:真罗椿姬
+character:kaburaki roco -> 角色:镝木露恋
+character:shizuno urushibara -> 角色:漆原静乃
+character:melody wave -> 角色:美洛蒂·维芙
+character:victoire pisa -> 角色:比萨胜驹
+character:roxy ifrita pryce -> 角色:洛克茜·伊芙莉塔·普莱斯
+character:isolde -> 角色:伊瑟尔德
+character:danica postelnitskaya -> 角色:达妮卡·别捷尼茨卡娅
+character:mecha eli-chan -> 角色:机械伊丽亲
+character:rin takanashi -> 角色:小鸟游伦
+character:catherine sabathra -> 角色:凯瑟琳・萨巴斯拉
+character:liino -> 角色:梨诺
 group:1 -> 团队:1
 group:13 -> 团队:13
 group:27 -> 团队:27
@@ -12943,7 +12973,7 @@ group:chelseasoft -> 团队:Chelseasoft
 group:sphere -> 团队:Sphere
 group:hook -> 团队:钩子社
 group:smee -> 团队:SMEE
-group:asa project -> 团队:ASa Project
+group:asa project -> 团队:颜艺社
 group:rosebleu -> 团队:Rosebleu
 group:clochette -> 团队:Clochette
 group:honey soft -> 团队:HONEY SOFT
@@ -14092,7 +14122,7 @@ group:itaba tatamiten -> 团队:板场叠店
 group:pinvise -> 团队:pinvise
 group:cobanzame -> 团队:こばんざめ
 group:p shoukai -> 团队:P商会
-group:indexacg -> 团队:IndexACG
+group:indexacg -> 团队:インデックスACG
 group:yuriai kojinshi kai -> 团队:悠理爱个人志会
 group:lachenalia -> 团队:Lachenalia
 group:apricot plus -> 团队:apricot+
@@ -17459,7 +17489,7 @@ group:eve -> 团队:Eve
 group:eve-sya -> 团队:EVE-舎
 group:eves garden box -> 团队:イヴの箱庭
 group:evidence. -> 团队:Evidence.
-group:evo.r.b -> 团队:evo.r.b
+group:evo.r.b -> 团队:エヴォルブ
 group:evoll -> 团队:evoLL
 group:evolution -> 团队:Evolution
 group:evork festa -> 团队:Evork Festa
@@ -27041,7 +27071,7 @@ group:shinigami koubou -> 团队:しにがみ工房
 group:goroutame noujou -> 团队:ゴロウタメ農場
 group:k.y.hiro -> 团队:K.Y.Hiro
 group:oncidium -> 团队:オンシジウム
-group:aitoheiwa -> 团队:AITOHEIWA
+group:aitoheiwa -> 团队:アイトヘイワ
 group:pz yatai -> 团队:pz屋台
 group:glasses -> 团队:眼镜社
 group:tatteinu koubou -> 团队:たってぃぬ工房
@@ -27121,6 +27151,65 @@ group:tombhouse -> 团队:tombhouse
 group:humihako -> 团队:ふみはこ
 group:risu no rakuen -> 团队:リスの楽園
 group:tarte -> 团队:タルト
+group:yokomatsu hirame -> 团队:横松ヒラメ
+group:starcup -> 团队:StarCup
+group:hosizukiyo -> 团队:星月夜
+group:hemoglovitamin -> 团队:ヘモグロビタミン
+group:banibani -> 团队:バニバニ
+group:shirumamire teishoku -> 团队:汁まみれ定食
+group:sushi spark -> 团队:Sushi Spark
+group:tomarigitei -> 团队:とまりぎ亭
+group:onanism -> 团队:オナニズム
+group:espoir no okashi -> 团队:エスポワールのおかし
+group:arujima -> 团队:アルジマ
+group:wakuwaku yotonjo. -> 团队:わくわく養豚所。
+group:lip -> 团队:りっぷ
+group:okeyu tei -> 团队:おけゆ亭
+group:doubles core -> 团队:だぶるす*こあ
+group:mametsubu shouten -> 团队:まめつぶ商店
+group:puranpuman -> 团队:ぷらんぷまん
+group:hamashima saketen -> 团队:はましま酒店
+group:pine melon -> 团队:ぱいんめろん
+group:keoya -> 团队:けお屋
+group:eagle land -> 团队:い〜ぐるらんど
+group:shiritsu sakuranbo nyuu gakkou -> 团队:私立さくらんぼ乳学校
+group:kadouhaniha hiroihoudesu -> 团队:可動範囲は広い方です
+group:furiten no ryuu -> 团队:フリテンの竜
+group:pen to mahou -> 团队:ペンと魔法
+group:nukunuku nijouhan -> 团队:二畳半
+group:toubu rengou daigaku -> 团队:東部連合大学
+group:aburi paseri -> 团队:炙りパセリ
+group:gishian -> 团队:技師アン
+group:3d live -> 团队:3Dライブ
+group:aoiya -> 团队:葵家
+group:beauty salon b and s -> 团队:ビューティサロンB &S
+group:credo sophia -> 团队:クレドソフィア
+group:horieros no ouchi -> 团队:ほりえろすのおうち
+group:kiritanpo -> 团队:桐たん舗
+group:jirouan -> 团队:次朗庵
+group:miyakojima onsen -> 团队:都島温泉
+group:monmonkon -> 团队:もんもんこん
+group:moedotei -> 团队:萌度亭
+group:osuichi coffee-ten -> 团队:オスイチ珈琲店
+group:pakuchi -> 团队:パクチー
+group:oyako donburi tei -> 团队:おやこ丼亭
+group:nimurock -> 团队:にむろっく
+group:tsurumiya -> 团队:つるみ屋
+group:skip beat studio -> 团队:スキップビートスタジオ
+group:sutorobokonbu -> 团队:とろぼこんぶ
+group:taiyaki pan -> 团队:るぷすどっとこむ
+group:ringo gakuen -> 团队:りんご学園
+group:reversible panda -> 团队:Re:versibleパンダ
+group:ran paku studio -> 团队:らんぱく工房
+group:sapurinsesu -> 团队:さぷりんせす
+group:shiawase o sagashite -> 团队:しあわせをさがして
+group:yokohaba futosugi -> 团队:横幅太杉
+group:yawamitsu -> 团队:柔蜜
+group:doku pepper -> 团队:毒ペッパー
+group:yume no tsuzuki -> 团队:ゆめのつづき
+group:cyclo sabacane -> 团队:cyclosabacane/佐波缶
+group:chiruiru -> 团队:ちるイル
+group:eyechil works -> 团队:アイチルワークス
 artist:2 -> 艺术家:2
 artist:7 -> 艺术家:7
 artist:8 -> 艺术家:8
@@ -28768,7 +28857,7 @@ artist:nagami yuu -> 艺术家:永深ゆう
 artist:oda kenichi -> 艺术家:おだけんいち
 artist:toranoe -> 艺术家:トラノエ
 artist:kinoebi -> 艺术家:KinoeBi
-artist:nanashi -> 艺术家:774
+artist:nanashi -> 艺术家:774 | ナナ紫
 artist:yokoyama lynch -> 艺术家:横山私刑
 artist:tamposa -> 艺术家:たむポ～サ（TAM）
 artist:tatami -> 艺术家:叠
@@ -29830,7 +29919,7 @@ artist:ko-yahu -> 艺术家:こーやふ
 artist:toufu -> 艺术家:とうふ
 artist:kuriyuzu kuryuu -> 艺术家:栗柚くりゅー
 artist:homu -> 艺术家:homu
-artist:kamelie -> 艺术家:Kamelie
+artist:kamelie -> 艺术家:カメーリエ
 artist:nicoby -> 艺术家:にこびぃ
 artist:mitsuba choco -> 艺术家:三つ葉ちょこ
 artist:miyama -> 艺术家:箕山
@@ -32126,7 +32215,7 @@ artist:enomoto hina -> 艺术家:榎本ひな
 artist:enoshima iki -> 艺术家:江ノ島行き
 artist:enotou -> 艺术家:えのとう
 artist:enoughmin -> 艺术家:イナフミン
-artist:enu -> 艺术家:エヌ
+artist:enu -> 艺术家:エヌ | ゑぬ
 artist:enu-yamayama -> 艺术家:えぬーやまやま
 artist:epuko -> 艺术家:えぷ子
 artist:era -> 艺术家:Era
@@ -42822,6 +42911,21 @@ artist:nakata gorori -> 艺术家:中田ゴロリ
 artist:atomb -> 艺术家:ATomB
 artist:ruga ossan -> 艺术家:るがお
 artist:amane sou -> 艺术家:雨音响
+artist:gyotoukotsu -> 艺术家:OKASIRA
+artist:himugane -> 艺术家:柚月ひむか
+artist:oritsuki fumio -> 艺术家:折月フミオ
+artist:shirokouji shio -> 艺术家:白麹シヲ
+artist:shirusuke -> 艺术家:汁助
+artist:noshimurin -> 艺术家:ノシムリン
+artist:muimui -> 艺术家:ムイムイ
+artist:kujira -> 艺术家:くじら
+artist:karas oshigata -> 艺术家:KARAS押形
+artist:tarenagashi -> 艺术家:垂れ流し
+artist:lumilcus -> 艺术家:ルミルカス
+artist:suzuoka chitose -> 艺术家:鈴岡千歳
+artist:viper-18 -> 艺术家:Viper18
+artist:gyoku seisyoku -> 艺术家:玉生殖
+artist:hayashi cherry -> 艺术家:林チェリー
 cosplayer:otohara an -> Coser:乙原あん
 cosplayer:rioko -> Coser:rioko凉凉子
 cosplayer:atsuki -> Coser:あつき
