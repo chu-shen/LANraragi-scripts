@@ -1389,7 +1389,7 @@ parody:violet evergarden -> 原作:紫罗兰永恒花园
 parody:sokkou seitokai -> 原作:速攻学生会
 parody:shantae -> 原作:桑塔系列
 parody:nekojishi -> 原作:家有大猫
-parody:tomo-chan wa onnanoko -> 原作:小智是女孩啦！
+parody:tomo-chan wa onnanoko -> 原作:智酱是女生！
 parody:strawberry panic -> 原作:惊爆草莓
 parody:isekai izakaya nobu -> 原作:异世界居酒屋「阿信」
 parody:alias carnival -> 原作:ALIA's CARNIVAL!
@@ -2451,7 +2451,7 @@ parody:mamotte shugogetten -> 原作:守护月天
 parody:popolocrois -> 原作:波波罗古洛伊斯物语
 parody:jubei-chan -> 原作:十兵卫
 parody:aharen-san wa hakarenai -> 原作:测不准的阿波连同学
-parody:dies irae -> 原作:末日审判书 -查拉图斯特拉如是说-
+parody:dies irae -> 原作:Dies irae
 parody:seven of seven -> 原作:七人之奈奈
 parody:futari ecchi -> 原作:夫妻成长日记
 parody:jutaijima -> 原作:受胎岛
@@ -3076,6 +3076,20 @@ parody:matai toshi -> 原作:魔胎都市
 parody:the exit 8 -> 原作:8号出口
 parody:kabushiki gaisha majirumie -> 原作:魔法光源股份有限公司
 parody:the thing -> 原作:怪形
+parody:dont starve -> 原作:饥荒
+parody:otaku ni yasashii gal wa inai -> 原作:哪里有温柔对待阿宅的辣妹！?
+parody:ghostblade -> 原作:鬼刀
+parody:muse dash -> 原作:喵斯快跑
+parody:fx senshi kurumi-chan -> 原作:FX战士久留美
+parody:mahou senshi lemmtear knights -> 原作:魔法战士蕾姆蒂亚骑士～光之少女们～
+parody:kourin tenshi en ciel rena -> 原作:光临天使 恩谢尔·蕾娜
+parody:tensei kizoku kantei skill de nariagaru -> 原作:转生贵族凭鉴定技能扭转人生
+parody:hanaori-san wa tensei shite mo kenka ga shitai -> 原作:花织即使是转生也想打架
+parody:friday night funkin -> 原作:周五夜放克
+parody:doumo suki na hito ni horegusuri o irai sareta majo desu. -> 原作:你好，我是受心上人所托来做恋爱药的魔女
+parody:jet force gemini -> 原作:喷射力量双子星
+parody:tenkou-saki no seiso karen na bishoujo -> 原作:转学后班上的清纯可爱美少女
+parody:amayo no tsuki -> 原作:雨夜明月
 character:alice -> 角色:爱丽丝
 character:akane hino -> 角色:日野茜
 character:ibuki -> 角色:伊吹
@@ -10324,7 +10338,7 @@ character:akemi soryuin -> 角色:奏流院朱美
 character:gina boyd -> 角色:吉娜·波特
 character:satomi tachibana -> 角色:立花里美
 character:ye shunguang -> 角色:叶瞬光
-character:piper -> 角色:派派·韦尔
+character:piper -> 角色:佩佩
 character:napoli -> 角色:那不勒斯
 character:alvitr -> 角色:亚尔薇特
 character:strasbourg -> 角色:斯特拉斯堡
@@ -10648,7 +10662,7 @@ character:lighter -> 角色:莱特
 character:sitri smart -> 角色:西朵莉·斯玛特
 character:chinatsu -> 角色:千夏
 character:sunna -> 角色:千夏
-character:henrietta -> 角色:海莉耶塔
+character:henrietta -> 角色:荷丽艾塔 | 海莉耶塔
 character:abbey windsor -> 角色:艾比·温莎
 character:elena kimberlight -> 角色:埃琳娜·金巴莱特
 character:aki nijou -> 角色:二条秋
@@ -12555,7 +12569,7 @@ character:grete -> 角色:爱娘（葛蕾特）
 character:mutsumi yozakura -> 角色:夜樱六美
 character:shion yozakura -> 角色:夜樱四怨
 character:sigrid de lazur -> 角色:希格莉德·德拉叙尔
-character:katarina -> 角色:卡特琳娜（不祥之刃）
+character:katarina -> 角色:Katarina
 character:xiaolongnu -> 角色:小龙女
 character:kinji hakari -> 角色:秤金次
 character:longyan -> 角色:胧焉
@@ -12947,7 +12961,72 @@ character:hassel -> 角色:八朔
 character:angelica rogner -> 角色:安洁莉卡·罗格纳
 character:black maria -> 角色:黑色玛利亚
 character:himeko kurusugawa -> 角色:来栖川姫子
-character:chikane himemiya -> 角色:姫宮千歌音
+character:chikane himemiya -> 角色:姫宫千歌音
+character:altair -> 角色:阿尔泰尔
+character:alicetaria february -> 角色:爱丽丝特利亚·费布拉里
+character:meteora osterreich -> 角色:梅特欧菈·艾斯塔莱希
+character:selesia upitiria -> 角色:瑟蕾吉娅·尤匹提莉亚
+character:mamika kirameki -> 角色:煌树茉美香
+character:aki kikuchihara -> 角色:菊地原亚希
+character:shiori shinomiya -> 角色:四之宫栞
+character:yoshino koharu -> 角色:木春由乃
+character:magane chikujouin -> 角色:筑城院真鉴
+character:hikayu hoshikawa -> 角色:星河绯可由
+character:piper wright -> 角色:派普·莱特
+character:kaela kovalskia -> 角色:卡埃拉·科瓦尔斯基娅
+character:airani iofifteen -> 角色:艾拉妮・伊欧菲芙婷
+character:kureiji ollie -> 角色:克蕾西·奥莉
+character:kei amane -> 角色:天音庆
+character:princess aeolian -> 角色:风玲公主
+character:anti-mage -> 角色:敌法师
+character:carrot -> 角色:加洛特
+character:pekoms -> 角色:波克慕斯
+character:kumizoko -> 角色:Kumizoko
+character:elle algaf -> 角色:艾尔·阿尔加芙
+character:buro -> 角色:布若
+character:eimi isami -> 角色:勇艾米
+character:marija -> 角色:玛莉嘉
+character:vicksburg -> 角色:维克斯堡
+character:bibi biscuit -> 角色:比比·比斯凯特
+character:otodama tamako -> 角色:音灵魂子
+character:rana furuhata -> 角色:古畑兰娜
+character:nemu fujimi -> 角色:富士见宁梦
+character:oshiro mashiro -> 角色:大代真白
+character:kurumi fukuga -> 角色:福贺久留美
+character:charlotte lace -> 角色:夏洛特·莱斯
+character:leanan sidhe -> 角色:莲南·希
+character:chise hatori -> 角色:羽鸟智世
+character:nao -> 角色:娜儿
+character:meteor hanaori -> 角色:花织米蒂娅
+character:misa ilioroagu -> 角色:米莎·伊里欧洛古
+character:emilia ludowell -> 角色:艾米莉亚·路德威尔
+character:treyni -> 角色:托蕾妮
+character:rayneshia el-arte corwen -> 角色:蕾妮希雅·耶鲁艾特·柯文
+character:krusty -> 角色:克拉斯提（鸿池晴秋）
+character:marielle -> 角色:玛莉艾儿（坂本鞠绘）
+character:shiroe -> 角色:城惠（城钟惠）
+character:cardin winchester -> 角色:卡登·温彻斯特‌
+character:arisu terui -> 角色:照井有栖
+character:fukuma -> 角色:伏摩
+character:senta yamada asaemon -> 角色:山田浅卫门仙汰
+character:anju nabari -> 角色:隐杏珠
+character:girlfriend -> 角色:女朋友
+character:minori rokujou -> 角色:六条实
+character:love espada -> 角色:艾斯帕妲·拉芙
+character:mireille grangeon -> 角色:米蕾耶·格兰吉恩
+character:kaede sakura -> 角色:沙仓枫
+character:ultima -> 角色:乌尔缇玛
+character:rea himuro -> 角色:冰室玲爱
+character:bailu youyun -> 角色:白鹿游云
+character:george weasley -> 角色:乔治·韦斯莱
+character:fred weasley -> 角色:弗雷德·韦斯莱
+character:haruto zenfis -> 角色:哈特·泽菲斯
+character:haruki nikaido -> 角色:二阶堂春希
+character:mrs. miss -> 角色:Mrs. Miss
+character:dolltaki -> 角色:多鲁塔基
+character:nagisa natsunagi -> 角色:夏凪渚
+character:saki kindaichi -> 角色:金田一咲希
+character:kanon oikawa -> 角色:及川奏音
 group:1 -> 团队:1
 group:13 -> 团队:13
 group:27 -> 团队:27
@@ -14527,7 +14606,7 @@ group:andorogynous -> 团队:ANDOROGYNOUS
 group:kikurage-ya -> 团队:きくらげ屋
 group:shis -> 团队:SHIS
 group:tomoshibiya koubou -> 团队:灯夜工房
-group:kakuzato-ichi -> 团队:核座头市
+group:kakuzato-ichi -> 团队:核座頭市
 group:poppenheim -> 团队:ぽっぺんはいむ
 group:chitei no nikuya -> 团队:地底の肉屋
 group:manaita -> 团队:まないた
@@ -14832,7 +14911,7 @@ group:nanbou hitogakushiki -> 团队:南方ヒトガクシキ
 group:narumiya -> 团队:成宮
 group:circle-fiore -> 团队:サークルフィオレ
 group:popopo -> 团队:ぽぽぽ
-group:toushitu catapult -> 团队:糖质过多ぱると
+group:toushitu catapult -> 团队:糖質過多ぱると
 group:ojopie sentimental -> 团队:おじょぱいセンチメンタル
 group:dokutoku no m -> 团队:独特のM
 group:watari laboratory -> 团队:渡里laboratory
@@ -15045,9 +15124,9 @@ group:mashira dou -> 团队:ましら堂
 group:nijitsuya kenkyuujo -> 团队:虹艶研究所
 group:samurai ninja greentea -> 团队:サムライ忍者GREENTEA
 group:alicesyndrome -> 团队:AliceSyndrome*
-group:uousaohkoku -> 团队:鱼ウサ王国
+group:uousaohkoku -> 团队:魚ウサ王国
 group:konoshiro shinko -> 团队:コノシロしんこ
-group:kansai orange -> 团队:关西オレンジ
+group:kansai orange -> 团队:関西オレンジ
 group:imomuya honpo -> 团队:いもむや本舗
 group:ryuukakusan nodoame -> 团队:りゅうかくさんのどあめ
 group:okadatei -> 团队:おかだ亭
@@ -15160,7 +15239,7 @@ group:hakai daiteikoku -> 团队:破坏大帝国
 group:gusha suumitsuin -> 团队:愚者枢密院
 group:kotsubuan -> 团队:こつぶあん
 group:gokusaishiki -> 团队:极彩色
-group:kirintei -> 团队:木铃亭
+group:kirintei -> 团队:木鈴亭
 group:kanyou shoujo -> 团队:观用少女
 group:ferallemma -> 团队:フィラレマ
 group:bakayaro -> 团队:ばかやろう
@@ -15551,7 +15630,7 @@ group:a-ka-sa-works -> 团队:あかさ製作所
 group:akashitei -> 团队:あかし亭
 group:akatama -> 团队:アカタマ
 group:akatsuki akaza dou -> 团队:赤月赤座堂
-group:akatsuki katsuie no circle -> 团队:暁勝家ノサークル
+group:akatsuki katsuie no circle -> 团队:暁勝家のサークル
 group:akatsuki works -> 团队:暁WORKS
 group:akatsuki doumei -> 团队:アカツキドウメイ
 group:aki no yonaga ni yoiyami ni -> 团队:秋の夜長に宵闇に
@@ -15724,7 +15803,7 @@ group:angler soft -> 团队:アングラーソフト
 group:angora doll -> 团队:Angora doll
 group:ani ga saru -> 团队:兄が猿
 group:aniki otokodou -> 团队:兄貴漢堂
-group:anim -> 团队:Anim
+group:anim -> 团队:アニム
 group:animal herb -> 团队:あにまるハーブ
 group:animal passion -> 团队:Animal Passion
 group:animal service -> 团队:アニマルサービス
@@ -15746,7 +15825,7 @@ group:anmitsuya -> 团队:あんみつや
 group:annee suplex -> 团队:あんねーすーぷれっくす
 group:annin -> 团队:杏仁
 group:annon club -> 团队:安穏倶楽部
-group:anons flood myth -> 团队:あのんの大洪水传说
+group:anons flood myth -> 团队:あのんの大洪水伝説
 group:anonymax -> 团队:あのにまっくす
 group:anoprimal -> 团队:アノプライマル
 group:anorak post -> 团队:Anorak Post
@@ -15937,7 +16016,7 @@ group:ashuradou -> 团队:阿修羅堂
 group:ashuraya -> 团队:阿修羅屋
 group:asianboy -> 团队:ASIANBOY
 group:asiangirl -> 团队:ASIANGIRL
-group:ask -> 团队:ASK
+group:ask -> 团队:ASK，
 group:askot -> 团队:askot
 group:asma -> 团队:ASMA
 group:asmodeus seiyaku -> 团队:アスモデウス製薬
@@ -16970,7 +17049,7 @@ group:cyc -> 团队:Cyc
 group:cyc no-nos -> 团队:サイクノノス
 group:cyclet -> 团队:CYCLET
 group:cyclo- -> 团队:Cyclo-
-group:cyclone -> 团队:サイクロン
+group:cyclone -> 团队:サイクロン | さいくろん
 group:cyduster -> 团队:CYDUSTER
 group:cykranosh -> 团队:さいくらの〜しゅ
 group:cynthia -> 团队:Cynthia
@@ -18722,7 +18801,7 @@ group:horohoro tei -> 团队:ホロホロ亭
 group:horonaminz -> 团队:ホロナミンZ
 group:horumon curry -> 团队:ほるもんカレー
 group:hoshizora kagekidan -> 团队:星空華劇団
-group:hoshi ni kaeru -> 团队:星に归る!
+group:hoshi ni kaeru -> 团队:星に帰る!
 group:hoshi no kuzu -> 团队:星の屑
 group:hoshi no yume -> 团队:星の夢
 group:hoshiame -> 团队:星飴
@@ -21072,7 +21151,7 @@ group:mujirushi-dou -> 团队:無印堂
 group:mukade tou -> 团队:ムカデ島
 group:mukeikaku syugi -> 团队:無計画主義
 group:muki pomera -> 团队:ムキぽめら
-group:mukibutsu heart -> 团队:無機物はーと
+group:mukibutsu heart -> 团队:無機物ハート
 group:mukuchi na hakoniwa -> 团队:無口な箱庭
 group:mukuge -> 团队:毳
 group:mukumukumoon -> 团队:むくむくむーん
@@ -22268,7 +22347,7 @@ group:pom -> 团队:PoM
 group:pomato-ya -> 团队:ぽまと屋
 group:pomegranate -> 团队:ぽめぐら
 group:pomelanian -> 团队:Pomelanian
-group:pometeor -> 团队:ぽメテオ
+group:pometeor -> 团队:ポメテオ
 group:pon de ushi -> 团队:ポン・デ・ウシ
 group:poncho mojah -> 团队:PONCHO MOJAH
 group:pondemix -> 团队:PONDEMIX
@@ -22865,7 +22944,7 @@ group:sakanahen -> 团队:サカナヘン
 group:sakasadorirakka -> 团队:逆さ鳥落下
 group:sakasama clover -> 团队:さかさまクローバー
 group:sakazuki-tei -> 团队:さかずき亭
-group:sakeitiba -> 团队:サケ市場
+group:sakeitiba -> 团队:サケイチバ
 group:sake no sanran -> 团队:鮭の産卵
 group:sakekan memorial -> 团队:鮭缶メモリアル
 group:saketanuki no kakushigura -> 团队:酒たぬきの隠し蔵
@@ -24113,7 +24192,7 @@ group:tekkamaki -> 团队:鉄華巻
 group:tekken dynamite -> 团队:鉄拳ダイナマイト
 group:tekken neko gourmet -> 团队:鉄拳ねこグルメ
 group:tekkou girls -> 团队:鉄甲ガールズ
-group:tekokids -> 团队:てこきっず
+group:tekokids -> 团队:テコキッズ
 group:telenet japan -> 团队:日本テレネット
 group:telluru -> 团队:telluru
 group:telomerena -> 团队:てろめあな
@@ -25431,7 +25510,7 @@ group:bochi bochi no ki -> 团队:ぼちぼちの木
 group:pham -> 团队:PHAM!
 group:henry plaza -> 团队:半里プラザー
 group:shirokuroino -> 团队:白黒いの
-group:riku no kotoutei -> 团队:陆の孤岛亭
+group:riku no kotoutei -> 团队:陸の孤島亭
 group:kuniku no saku -> 团队:狗肉の策
 group:taipeijin -> 团队:台北人
 group:shinya koujou -> 团队:深夜工場
@@ -25658,7 +25737,7 @@ group:asakurag plus -> 团队:AsakuraG+
 group:nishi no tora -> 团队:西ノ虎
 group:noir auto -> 团队:ノワールオート
 group:yuuki saien -> 团队:ユーキ菜園
-group:ginshio honpo -> 团队:银しお本铺
+group:ginshio honpo -> 团队:銀しお本舗
 group:kitsune no nijibiya -> 团队:狐の虹火屋
 group:juubako seisakujo -> 团队:重箱製作所
 group:mandara ryuuseigun -> 团队:マンダラ流星群
@@ -25784,7 +25863,7 @@ group:maruantei -> 团队:丸杏亭
 group:shikoushoku -> 团队:嗜好色
 group:anzuya -> 团队:あんず屋
 group:komorebi palette -> 团队:木漏れ陽ぱれっと
-group:uni piano gakudan -> 团队:雲丹ピアノ
+group:uni piano gakudan -> 团队:雲丹ピアノ楽団
 group:mochi mochi bomb -> 团队:もちもち爆弾
 group:ogura nougyou -> 团队:小倉農業
 group:soup oishii -> 团队:スープおいしい
@@ -25922,7 +26001,7 @@ group:j9 kagekidan -> 团队:J9歌剧团
 group:tatahot -> 团队:TATAHOT
 group:higashikoiwa hutomomo uchuu kenkyuujo -> 团队:东小岩太股宇宙研究所
 group:thai doujinshi doukoukai -> 团队:タイ同人誌同好会
-group:kure no genki na goaisatsu -> 团队:暮れの元气なご挨拶
+group:kure no genki na goaisatsu -> 团队:暮れの元気なご挨拶
 group:wakuwaku dining -> 团队:WAKUWAKU DINING
 group:asakatsu -> 团队:あさかつ
 group:komatsuna salad -> 团队:小松菜サラダ
@@ -25962,7 +26041,7 @@ group:joutyohuantei -> 团队:情绪不安定
 group:rokuchounome -> 团队:六丁の目/六丁目
 group:arisugawa no miya -> 团队:有栖川ノ宮
 group:lillian -> 团队:Lilian
-group:hachinosu -> 团队:蜂巣
+group:hachinosu -> 团队:hachinosu
 group:peassoft -> 团队:PeasSoft
 group:apocalypse nibitashi -> 团队:アポカリプス煮浸し
 group:hitsuji no koshoten -> 团队:羊の古書店
@@ -26474,7 +26553,7 @@ group:yukutake -> 团队:ゆくた家
 group:sansanka tanso -> 团队:三酸化炭素
 group:le.chocolat -> 团队:Le.Chocolat
 group:yuniromi u2603 -> 团队:ゆにろみ-U+2603-
-group:3104tyome -> 团队:3104町目
+group:3104tyome -> 团队:3104丁目
 group:oshinobu no yakata -> 团队:おしのぶの館
 group:oroshi ponzu -> 团队:おろしぽんず
 group:mikeneko -> 团队:みけねこ
@@ -27208,7 +27287,7 @@ group:puranpuman -> 团队:ぷらんぷまん
 group:hamashima saketen -> 团队:はましま酒店
 group:pine melon -> 团队:ぱいんめろん
 group:keoya -> 团队:けお屋
-group:eagle land -> 团队:い〜ぐるらんど
+group:eagle land -> 团队:い～ぐるらんど
 group:shiritsu sakuranbo nyuu gakkou -> 团队:私立さくらんぼ乳学校
 group:kadouhaniha hiroihoudesu -> 团队:可動範囲は広い方です
 group:furiten no ryuu -> 团队:フリテンの竜
@@ -27233,7 +27312,7 @@ group:oyako donburi tei -> 团队:おやこ丼亭
 group:nimurock -> 团队:にむろっく
 group:tsurumiya -> 团队:つるみ屋
 group:skip beat studio -> 团队:スキップビートスタジオ
-group:sutorobokonbu -> 团队:とろぼこんぶ
+group:sutorobokonbu -> 团队:すとろぼこんぶ
 group:taiyaki pan -> 团队:るぷすどっとこむ
 group:ringo gakuen -> 团队:りんご学園
 group:reversible panda -> 团队:Re:versibleパンダ
@@ -27268,6 +27347,26 @@ group:yobieki seisakusho -> 团队:予備役製作所
 group:kubo lion no heya -> 团队:窪リオンの部屋
 group:noahs room -> 团队:noah's room
 group:niki scope -> 团队:niki’scope
+group:tatsubons house -> 团队:TATSUBON’S HOUSE
+group:triangle bottom -> 团队:とらいあんぐる‐ぼとむ
+group:ripveil -> 团队:RIPVEIL
+group:pyonchi koubou -> 团队:ぴょんち工房
+group:pink doragon -> 团队:PINK☆DORAGON
+group:asunaro-shiki bakudan -> 团队:あすなろ式爆弾
+group:sylbee no hako -> 团队:しるびーの箱
+group:nukokyuu mamire -> 团队:ぬこきゅうまみれ
+group:wakusei kaim -> 团队:惑星kaim
+group:gyuuhi ga umasugiru -> 团队:求肥がうますぎる
+group:sinokuma syoutengai -> 团队:しのクマ商店街
+group:unisonshift blossom -> 团队:ユニゾンシフト：ブロッサム
+group:bonbee -> 团队:ボンビー
+group:barakabadoh -> 团队:ばらか馬堂
+group:mishirosabi -> 团队:三代錆
+group:funya milk -> 团队:ふにゃみるく
+group:ill be bear -> 团队:I’ll be BEAR
+group:tokushuyokujou tondenhei -> 团队:特殊浴場屯田兵
+group:bimi to no souguu -> 团队:美味との遭遇
+group:nobotchi seisakusho -> 团队:ノボッチ製作所
 artist:2 -> 艺术家:2
 artist:7 -> 艺术家:7
 artist:8 -> 艺术家:8
@@ -27359,7 +27458,7 @@ artist:amamiya mizuki -> 艺术家:雨宫美月
 artist:mibu natsuki -> 艺术家:みぶなつき
 artist:ogata zen -> 艺术家:尾形全
 artist:himura kiseki -> 艺术家:比村奇石
-artist:cle masahiro -> 艺术家:吴マサヒロ
+artist:cle masahiro -> 艺术家:呉マサヒロ
 artist:nakajima yuka -> 艺术家:なかじまゆか
 artist:fujima takuya -> 艺术家:藤真拓哉
 artist:hisasi -> 艺术家:Hisasi
@@ -27446,7 +27545,7 @@ artist:aono ribbon -> 艺术家:青野りぼん
 artist:hidaka toworu -> 艺术家:ヒダカトヲル
 artist:rara8 -> 艺术家:らら8
 artist:medaka kenichi -> 艺术家:目高健一
-artist:kanna -> 艺术家:かん奈
+artist:kanna -> 艺术家:カンナ | かん奈
 artist:kazabuki poni -> 艺术家:风吹ぽに
 artist:ouma tokiichi -> 艺术家:逢魔刻壹
 artist:momonoki fum -> 艺术家:百乃木富梦
@@ -27541,7 +27640,7 @@ artist:norakuro nero -> 艺术家:野良黒ネロ
 artist:izumi yuujiro -> 艺术家:泉ゆうじろ～
 artist:itameshi -> 艺术家:炒饭
 artist:hiraoka ryuichi -> 艺术家:平冈龙一
-artist:maguro teikoku -> 艺术家:まぐろ帝国
+artist:maguro teikoku -> 艺术家:まぐろ帝國
 artist:pote -> 艺术家:ぽて
 artist:karakuchi choucream -> 艺术家:樱井マキ
 artist:mafen -> 艺术家:マフェン
@@ -27649,7 +27748,7 @@ artist:dr.bug -> 艺术家:Dr.阿虫
 artist:ameto yuki -> 艺术家:雨夹雪
 artist:kenkou cross -> 艺术家:健康クロス
 artist:yanagawa rio -> 艺术家:やながわ理央
-artist:kakuzatou -> 艺术家:核座头
+artist:kakuzatou -> 艺术家:核座頭
 artist:kaminagi -> 艺术家:神凪
 artist:twinbox -> 艺术家:TwinBox
 artist:izuminoaru -> 艺术家:イズミノアル
@@ -28115,7 +28214,7 @@ artist:sameda koban -> 艺术家:さめだ小判
 artist:koume keito -> 艺术家:小梅京人
 artist:thomas -> 艺术家:藤ます
 artist:mutsutake -> 艺术家:睦茸
-artist:midori no rupe -> 艺术家:绿のルーペ
+artist:midori no rupe -> 艺术家:緑のルーペ
 artist:homunculus -> 艺术家:ホムンクルス
 artist:lunch -> 艺术家:らんち
 artist:inoue kiyoshirou -> 艺术家:胃之上奇嘉郎
@@ -28216,7 +28315,7 @@ artist:lu renbing -> 艺术家:路人丙
 artist:takei ooki -> 艺术家:タケイオーキ
 artist:azuma tesshin -> 艺术家:东铁神
 artist:akagi asahito -> 艺术家:赤城あさひと
-artist:benimura karu -> 艺术家:红村かる
+artist:benimura karu -> 艺术家:紅村かる
 artist:bota mochito -> 艺术家:牡丹もちと
 artist:cuvie -> 艺术家:Cuvie
 artist:hazuki yuto -> 艺术家:羽月ユウト
@@ -28442,7 +28541,7 @@ artist:reita -> 艺术家:rei太
 artist:saeki hokuto -> 艺术家:さえき北都
 artist:shinozuka atsuto -> 艺术家:しのづかあつと
 artist:yatsuha kanan -> 艺术家:八叶香南
-artist:hashibiro kou -> 艺术家:桥广こう
+artist:hashibiro kou -> 艺术家:橋広こう
 artist:koutarou -> 艺术家:こうたろう
 artist:piririnegi -> 艺术家:ぴりりねぎ
 artist:spiritus tarou -> 艺术家:スピリタス太郎
@@ -28484,7 +28583,7 @@ artist:aoi hitori -> 艺术家:葵ヒトリ
 artist:aoten -> 艺术家:青点
 artist:clone ningen -> 艺术家:clone人间
 artist:dowman sayman -> 艺术家:道满晴明
-artist:kagura moromi -> 艺术家:神乐もろみ
+artist:kagura moromi -> 艺术家:神楽もろみ
 artist:mikaze takashi -> 艺术家:水风天
 artist:kurogane kenn -> 艺术家:玄铁绚
 artist:momo youkan -> 艺术家:ももようかん
@@ -29620,7 +29719,7 @@ artist:yuyama chika -> 艺术家:湯山チカ
 artist:kumakiti -> 艺术家:隈吉
 artist:umakuchi syouyu -> 艺术家:甘口酱油
 artist:tokie hirohito -> 艺术家:刻江寻人
-artist:yuzuki n dash -> 艺术家:柚木N’
+artist:yuzuki n dash -> 艺术家:柚木N'
 artist:itou nanami -> 艺术家:井藤ななみ
 artist:porutan -> 艺术家:ぽるたん
 artist:kaitenfude -> 艺术家:回转笔
@@ -29842,7 +29941,7 @@ artist:take calcium -> 艺术家:竹刈シウム
 artist:aritsuno -> 艺术家:有角
 artist:shinova -> 艺术家:シノバ
 artist:mahito -> 艺术家:真人
-artist:anon 2-okunen -> 艺术家:あのん2亿年
+artist:anon 2-okunen -> 艺术家:あのん2億年
 artist:zikataro -> 艺术家:自家太郎
 artist:footaro -> 艺术家:辻風太郎
 artist:mokuzu -> 艺术家:もくず | くずのもくず
@@ -29969,7 +30068,7 @@ artist:hiru okita -> 艺术家:昼沖太
 artist:marumie -> 艺术家:まるミエ
 artist:hiyashi mirano -> 艺术家:ひやしみらの
 artist:kageyama kuroto -> 艺术家:景山玄都
-artist:netarou -> 艺术家:ねたろう
+artist:netarou -> 艺术家:ねたろぅ
 artist:itou eight -> 艺术家:伊藤エイト
 artist:sajipen -> 艺术家:さじぺん
 artist:dam -> 艺术家:だむ
@@ -30129,7 +30228,7 @@ artist:oozora wakaba -> 艺术家:大空若叶
 artist:nigirimeshi -> 艺术家:にぎりめし
 artist:minami chisato -> 艺术家:南ちさと（有澤司）
 artist:aotsuki shinobu -> 艺术家:蒼月しのぶ
-artist:oshima aki -> 艺术家:大岛あき
+artist:oshima aki -> 艺术家:大島あき
 artist:kimino tomonari -> 艺术家:君野朋成
 artist:sune -> 艺术家:sune
 artist:molgen -> 艺术家:モルゲン
@@ -30441,7 +30540,7 @@ artist:midori aoi -> 艺术家:みどり葵
 artist:musha sabu -> 艺术家:武者サブ
 artist:sanjuurou -> 艺术家:三十郎
 artist:souji hougu -> 艺术家:扫除朋具
-artist:uousaoh -> 艺术家:鱼ウサ王
+artist:uousaoh -> 艺术家:魚ウサ王
 artist:kuroharuto -> 艺术家:くろはると
 artist:oomori -> 艺术家:大盛り
 artist:yasson yoshiyuki -> 艺术家:やっそん義之
@@ -32892,7 +32991,7 @@ artist:hayami osamu -> 艺术家:速水オサム
 artist:hayami rokusichi -> 艺术家:速水ろくしち
 artist:hayami sakura -> 艺术家:速水桜
 artist:hayasaka mebawe -> 艺术家:はやさかめばゑ
-artist:hayashi -> 艺术家:はやし
+artist:hayashi -> 艺术家:ハヤシ | はやし
 artist:hayashi custom -> 艺术家:はやしけ
 artist:hayashi mario -> 艺术家:林マリオ
 artist:hayashi tsukasa -> 艺术家:はやしつかさ
@@ -33916,7 +34015,7 @@ artist:kawadu -> 艺术家:カワヅ
 artist:kawagishi keitarou -> 艺术家:カワギシケイタロウ
 artist:kawahara -> 艺术家:カワハラ
 artist:kawahara shin -> 艺术家:かわはらしん
-artist:kawai -> 艺术家:カワイ
+artist:kawai -> 艺术家:カワイ | 川井 | かわい
 artist:kawai kenji -> 艺术家:河合健司
 artist:kawakami ioru -> 艺术家:川上イオル
 artist:kawakami kou -> 艺术家:河上康
@@ -34122,7 +34221,7 @@ artist:kirikiriya -> 艺术家:きりきりや
 artist:kirimia -> 艺术家:きりみあ
 artist:kirimoro -> 艺术家:きりもろ
 artist:kirin -> 艺术家:きりん
-artist:kirin kakeru -> 艺术家:木铃カケル
+artist:kirin kakeru -> 艺术家:木鈴カケル
 artist:kirino kyousuke -> 艺术家:桐野キョウスケ
 artist:kiriri takanori -> 艺术家:霧李孝徳
 artist:kirisaki akihito -> 艺术家:霧咲空人
@@ -34153,7 +34252,7 @@ artist:kisamu -> 艺术家:キサム
 artist:kisara ai -> 艺术家:きさら藍
 artist:kisara shi- -> 艺术家:キサラしぃ
 artist:kisaradu -> 艺术家:木更津
-artist:kisaragi -> 艺术家:如月
+artist:kisaragi -> 艺术家:キサラギツルギ | 如月
 artist:kisaragi kanata -> 艺术家:如月かなた
 artist:kisaragi mizu -> 艺术家:如月水
 artist:kisaragi mizuka -> 艺术家:如月瑞香
@@ -34719,7 +34818,7 @@ artist:m9kndi -> 艺术家:m9kndi
 artist:ma-yu -> 艺术家:ma-yu
 artist:mabo -> 艺术家:マボ
 artist:maboku -> 艺术家:魔ボク
-artist:mabuchoko m -> 艺术家:マブチョコ M
+artist:mabuchoko m -> 艺术家:マブチョコ_m
 artist:mac-v -> 艺术家:MAC-V
 artist:macanoka -> 艺术家:マカノカ
 artist:macaroni -> 艺术家:まかろに
@@ -37448,7 +37547,7 @@ artist:shuui takahiro -> 艺术家:しゅうい☆たかひろ
 artist:shuurin -> 艺术家:シュウリン
 artist:shuuto -> 艺术家:シュウト
 artist:shuz -> 艺术家:shuz
-artist:sian -> 艺术家:しあん
+artist:sian -> 艺术家:Sian
 artist:sibamura -> 艺术家:しばむら
 artist:sibusawa eiki -> 艺术家:澁澤鋭樹
 artist:sid alice -> 艺术家:獅童ありす
@@ -37471,7 +37570,7 @@ artist:siratama nikukyuu -> 艺术家:しらたま肉球
 artist:sirazawa kousi -> 艺术家:白沢宏志
 artist:sirofugu -> 艺术家:白フグ
 artist:sirokoma -> 艺术家:白狛
-artist:sirokuma -> 艺术家:しろくま
+artist:sirokuma -> 艺术家:しろくま | 白球磨☆°
 artist:sirou -> 艺术家:Sirou
 artist:siroyuki -> 艺术家:しろゆき
 artist:sirpent -> 艺术家:さあぺんと
@@ -38167,7 +38266,7 @@ artist:tomatomato -> 艺术家:トマトマト
 artist:tome -> 艺术家:トメ
 artist:tomekichi -> 艺术家:とめきち
 artist:tometo -> 艺术家:とめと
-artist:tomihero -> 艺术家:トミヒロ
+artist:tomihero -> 艺术家:トミヒロ、
 artist:tomisawa chinatsu -> 艺术家:とみさわ千夏
 artist:tomite -> 艺术家:とみて
 artist:tomiyama akiji -> 艺术家:兔耳山アキジ
@@ -38400,7 +38499,7 @@ artist:u-ring -> 艺术家:うーりん
 artist:u-ta -> 艺术家:u-ta
 artist:u35 -> 艺术家:U35
 artist:ubanis -> 艺术家:うばにす
-artist:uchi-uchi keyaki -> 艺术家:内々欅
+artist:uchi-uchi keyaki -> 艺术家:内々けやき
 artist:uchida shou -> 艺术家:内田翔
 artist:uchiga -> 艺术家:ウチガ
 artist:uchikura -> 艺术家:内座
@@ -39422,7 +39521,7 @@ artist:natsusaka -> 艺术家:夏坂
 artist:tempura dozaemon -> 艺术家:天妇罗土左卫门
 artist:furatsu -> 艺术家:ふらつ
 artist:matsui yasutsugu -> 艺术家:松井康治（郁那和なにろ）
-artist:inari bancha -> 艺术家:稻荷ばん茶
+artist:inari bancha -> 艺术家:稲荷ばん茶
 artist:pumpkinspicelatte -> 艺术家:pumpkinspice
 artist:sca-ji -> 艺术家:SCA-自
 artist:shichi ouji -> 艺术家:七王子
@@ -39960,7 +40059,7 @@ artist:sorenari no ishi -> 艺术家:それなりの石
 artist:toxic ramen -> 艺术家:劇毒拉麵
 artist:kudaraji hatsuka -> 艺术家:百济儿廿日
 artist:rim -> 艺术家:りむ
-artist:hinahara hajime -> 艺术家:雛原肇
+artist:hinahara hajime -> 艺术家:雛原ハジメ
 artist:crazy dad -> 艺术家:CrazyDad3D
 artist:pig king -> 艺术家:PigKing
 artist:nia -> 艺术家:にあ
@@ -41579,7 +41678,7 @@ artist:taroimo tarou -> 艺术家:たろいも太郎
 artist:tawara -> 艺术家:たわら
 artist:tenpiboshi -> 艺术家:てんぴぼし
 artist:tensei-kun -> 艺术家:転生くん
-artist:teriyaki sasami -> 艺术家:照焼ささみ
+artist:teriyaki sasami -> 艺术家:照焼ささみ丼
 artist:theobrobine -> 艺术家:ておぶろびん
 artist:t-man -> 艺术家:T-マン
 artist:todakenji -> 艺术家:トダケンジ
@@ -43010,6 +43109,39 @@ artist:r-wade -> 艺术家:70B(旧R.C.W.D)
 artist:hamado qunjiro -> 艺术家:浜土キュン治郎
 artist:psst -> 艺术家:Psst
 artist:kubo lion -> 艺术家:窪リオン
+artist:mimikku -> 艺术家:みみっく
+artist:keimura mimic -> 艺术家:けいむらみみっく
+artist:manno rikyuu -> 艺术家:万利休
+artist:aura seiji -> 艺术家:あうら聖児
+artist:pyonchi -> 艺术家:ぴょんち
+artist:kamoruto -> 艺术家:かもると
+artist:kinokoningen -> 艺术家:キノコにんげん
+artist:morocco -> 艺术家:モロッコ
+artist:sarumaru -> 艺术家:さるまる
+artist:teol -> 艺术家:ておる
+artist:yongoki -> 艺术家:四号機
+artist:mishima psycho -> 艺术家:ミシマサイコ
+artist:sabacane -> 艺术家:佐波缶
+artist:yuu yuuki -> 艺术家:友憂希
+artist:hinokimaru -> 艺术家:ひのき丸
+artist:shibahu cake -> 艺术家:芝生ケーキ
+artist:rube -> 艺术家:るべ
+artist:yurimo -> 艺术家:ゆりも
+artist:muteki -> 艺术家:むてき
+artist:sinokuma suketarou -> 艺术家:しのくまスケ太郎
+artist:barakaba -> 艺术家:ばらか馬
+artist:yawaraka -> 艺术家:やわらか
+artist:denki kurage -> 艺术家:でんきくらげ
+artist:kuwacchii -> 艺术家:くわっちー
+artist:kawata hiyori -> 艺术家:河田ひより
+artist:yamakusa yuu -> 艺术家:山草遊
+artist:awami ao -> 艺术家:泡未アオ
+artist:mikazuki shine -> 艺术家:三日月シャイン
+artist:dr. hiwai seiki maramara -> 艺术家:Dr.卑猥性器まらまら
+artist:hamachi tomosaku -> 艺术家:ハマチトモサク
+artist:kahlua -> 艺术家:kahlua
+artist:tomioka sena -> 艺术家:富丘セナ
+artist:nagumo ryuichi -> 艺术家:南雲龍一
 cosplayer:otohara an -> Coser:乙原あん
 cosplayer:rioko -> Coser:rioko凉凉子
 cosplayer:atsuki -> Coser:あつき
@@ -43174,6 +43306,8 @@ cosplayer:ran3 -> Coser:染三
 cosplayer:baili shirly -> Coser:白栎Shirly
 cosplayer:etsu ko -> Coser:纸悦Etsu_ko
 cosplayer:upminaa -> Coser:Upminaa
+cosplayer:titi cosplay -> Coser:钛合金TiTi
+cosplayer:reng -> Coser:冷
 male:age progression -> 男性:年龄增长
 male:age regression -> 男性:返老还童
 male:dilf -> 男性:熟男
