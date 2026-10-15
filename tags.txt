@@ -1118,7 +1118,7 @@ parody:hajimete no gal -> 原作:第一次的辣妹
 parody:medaka box -> 原作:最强会长黑神
 parody:suisei no gargantia -> 原作:翠星之加尔刚蒂亚
 parody:mayo chiki -> 原作:迷茫管家与懦弱的我
-parody:rance -> 原作:兰斯
+parody:rance -> 原作:兰斯系列
 parody:brave police j-decker -> 原作:勇者警察
 parody:witch craft works -> 原作:魔女的使命
 parody:heavy object -> 原作:重装武器
@@ -3090,6 +3090,8 @@ parody:doumo suki na hito ni horegusuri o irai sareta majo desu. -> 原作:你�
 parody:jet force gemini -> 原作:喷射力量双子星
 parody:tenkou-saki no seiso karen na bishoujo -> 原作:转学后班上的清纯可爱美少女
 parody:amayo no tsuki -> 原作:雨夜明月
+parody:rimworld -> 原作:边缘世界（环世界）
+parody:look back -> 原作:蓦然回首
 character:alice -> 角色:爱丽丝
 character:akane hino -> 角色:日野茜
 character:ibuki -> 角色:伊吹
@@ -13027,6 +13029,36 @@ character:dolltaki -> 角色:多鲁塔基
 character:nagisa natsunagi -> 角色:夏凪渚
 character:saki kindaichi -> 角色:金田一咲希
 character:kanon oikawa -> 角色:及川奏音
+character:byerley turk -> 角色:拜耶尔土耳其
+character:godolphin barb -> 角色:高多芬阿拉伯
+character:mei satake -> 角色:佐岳芽衣
+character:sonon elfie -> 角色:索农艾尔菲
+character:ragnarok sinmara -> 角色:拉格纳洛克·辛莫拉
+character:anastasia severskaya -> 角色:安娜塔西亚·谢韦尔斯卡娅
+character:anzel -> 角色:安杰尔
+character:guo jia -> 角色:郭嘉
+character:ziluan -> 角色:紫岚
+character:sakurako busujima -> 角色:毒岛樱子
+character:kaho hariya -> 角色:针谷佳穗
+character:sari yoshii -> 角色:义井沙里
+character:ali maud -> 角色:莫德·亚里
+character:seiran lizzy -> 角色:黎吉·星兰
+character:sakuna memoir -> 角色:朔奈·梅墨瓦鲁
+character:abbey bominable -> 角色:艾比·波米诺卜
+character:benedikta harman -> 角色:‌贝妮迪妲·赫曼
+character:kyomoto -> 角色:京本奏
+character:aria aquarius -> 角色:亚莉亚·阿克艾利亚斯
+character:jyushi aimono -> 角色:四十物十四
+character:kuko harai -> 角色:波罗夷空却
+character:nue -> 角色:鵺
+character:kazusa suou -> 角色:周防七咲
+character:makoto tsujita -> 角色:辻田诚乙
+character:natsuki kuniruri -> 角色:国瑠璃拿月
+character:ishu aramine -> 角色:新峰维朱
+character:reina machida -> 角色:町田莉那
+character:shitotsu tomesode -> 角色:留袖四衲
+character:shiroha fujino -> 角色:藤乃代叶
+character:kathy -> 角色:凯西
 group:1 -> 团队:1
 group:13 -> 团队:13
 group:27 -> 团队:27
@@ -26905,7 +26937,7 @@ group:tanaka-ke no kamo -> 团队:田中家の鴨
 group:itsume -> 团队:五梅 | 五梅えるこ
 group:ryuzenkoh -> 团队:龍涎香
 group:aoi hoshi ni umareta dark angel -> 团队:青い星に生まれたダークエンジェル
-group:ishikarian -> 团队:円山晃
+group:ishikarian -> 团队:石狩庵
 group:osakana cookie -> 团队:おさかなくっきー
 group:chinpura -> 团队:チンプラ
 group:cure maimai -> 团队:キュアマイマイ
@@ -27367,6 +27399,9 @@ group:ill be bear -> 团队:I’ll be BEAR
 group:tokushuyokujou tondenhei -> 团队:特殊浴場屯田兵
 group:bimi to no souguu -> 团队:美味との遭遇
 group:nobotchi seisakusho -> 团队:ノボッチ製作所
+group:touou -> 团队:トウオウ
+group:matenrou wine -> 团队:摩天楼ワイン
+group:ikeneko shokudou -> 团队:イケね娘食堂
 artist:2 -> 艺术家:2
 artist:7 -> 艺术家:7
 artist:8 -> 艺术家:8
@@ -27644,7 +27679,7 @@ artist:maguro teikoku -> 艺术家:まぐろ帝國
 artist:pote -> 艺术家:ぽて
 artist:karakuchi choucream -> 艺术家:樱井マキ
 artist:mafen -> 艺术家:マフェン
-artist:kuroda kuro -> 艺术家:黑田クロ
+artist:kuroda kuro -> 艺术家:黒田クロ
 artist:ooooalikui -> 艺术家:おおおおありくい
 artist:juna juna juice -> 艺术家:ジュナジュナジュース
 artist:hiro hiroki -> 艺术家:ひろひろき
@@ -28880,7 +28915,7 @@ artist:binkan argento -> 艺术家:びんかんargento
 artist:minagiku -> 艺术家:みなぎく
 artist:landolt tamaki -> 艺术家:ランドルトたまき
 artist:kisaragi miyu -> 艺术家:如月みゆ
-artist:igumox -> 艺术家:井云くす
+artist:igumox -> 艺术家:井雲くす
 artist:kuune rin -> 艺术家:くうねりん
 artist:goto-beido -> 艺术家:ゴト・ベイドー
 artist:morikura en -> 艺术家:森仓圆
@@ -38198,7 +38233,7 @@ artist:tocky -> 艺术家:Tocky
 artist:toda kaduki -> 艺术家:とだかづき
 artist:todd oyamada -> 艺术家:トッド小山田
 artist:todoroki shusei -> 艺术家:等々力秋声
-artist:tofu -> 艺术家:とうふ
+artist:tofu -> 艺术家:豆腐
 artist:togame -> 艺术家:とがめ
 artist:togashi -> 艺术家:トガシ
 artist:toge toge -> 艺术家:棘棘
@@ -40037,7 +40072,7 @@ artist:4uu -> 艺术家:4UU
 artist:miginer -> 艺术家:みぎなー
 artist:kenko shindan-chan -> 艺术家:健康診断ちゃん
 artist:neko no youchuu -> 艺术家:猫の幼虫
-artist:to hegemonikon -> 艺术家:ト！ヘーゲモニコン
+artist:to hegemonikon -> 艺术家:ト!ヘーゲモニコン
 artist:agagaga -> 艺术家:あがががが
 artist:namekuji -> 艺术家:なめくじ
 artist:bonnou obaa-chan -> 艺术家:煩悩おばあちゃん
@@ -42754,7 +42789,6 @@ artist:dasoku sentarou -> 艺术家:蛇足せんたろう
 artist:oono kogorou -> 艺术家:大野小悟郎
 artist:maru 1-ko -> 艺术家:丸１個
 artist:tereshima -> 艺术家:テレシマ
-artist:chino -> 艺术家:風神chino
 artist:def atsu -> 艺术家:デフアツ
 artist:lemi -> 艺术家:おはぎ
 artist:sasanoki panda -> 艺术家:笹ノ木ぱんだ
@@ -43142,6 +43176,15 @@ artist:hamachi tomosaku -> 艺术家:ハマチトモサク
 artist:kahlua -> 艺术家:kahlua
 artist:tomioka sena -> 艺术家:富丘セナ
 artist:nagumo ryuichi -> 艺术家:南雲龍一
+artist:toriniku -> 艺术家:鶏肉
+artist:hannya-san -> 艺术家:Hannya San
+artist:love-saber -> 艺术家:Love-Saber
+artist:shin-yu -> 艺术家:心友
+artist:nanoji -> 艺术家:なの字
+artist:chibigon -> 艺术家:チビゴン
+artist:ikeneko -> 艺术家:イケね娘
+artist:barbarian takamoto -> 艺术家:バーバリアン高本
+artist:avis -> 艺术家:あびす
 cosplayer:otohara an -> Coser:乙原あん
 cosplayer:rioko -> Coser:rioko凉凉子
 cosplayer:atsuki -> Coser:あつき
