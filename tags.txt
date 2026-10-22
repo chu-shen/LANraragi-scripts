@@ -2451,7 +2451,7 @@ parody:mamotte shugogetten -> 原作:守护月天
 parody:popolocrois -> 原作:波波罗古洛伊斯物语
 parody:jubei-chan -> 原作:十兵卫
 parody:aharen-san wa hakarenai -> 原作:测不准的阿波连同学
-parody:dies irae -> 原作:Dies irae
+parody:dies irae -> 原作:神怒之日
 parody:seven of seven -> 原作:七人之奈奈
 parody:futari ecchi -> 原作:夫妻成长日记
 parody:jutaijima -> 原作:受胎岛
@@ -3092,6 +3092,8 @@ parody:tenkou-saki no seiso karen na bishoujo -> 原作:转学后班上的清纯
 parody:amayo no tsuki -> 原作:雨夜明月
 parody:rimworld -> 原作:边缘世界（环世界）
 parody:look back -> 原作:蓦然回首
+parody:rinkan biyaku chuudoku -> 原作:輪姦媚薬中毒
+parody:dark summoner to dekiteiru -> 原作:黑暗召唤师在地下恋爱中
 character:alice -> 角色:爱丽丝
 character:akane hino -> 角色:日野茜
 character:ibuki -> 角色:伊吹
@@ -9063,7 +9065,7 @@ character:arshes nei -> 角色:安雪丝·奈伊
 character:cardigan -> 角色:卡缇
 character:shiron the windragon -> 角色:斯朗（风龙）
 character:newbie succubus -> 角色:萝莉魅魔
-character:epsilon -> 角色:伊普西龙
+character:epsilon -> 角色:艾普西隆
 character:cid kagenou -> 角色:暗影
 character:eta -> 角色:伊塔
 character:mona kawai -> 角色:川井百奈
@@ -10672,7 +10674,7 @@ character:inaho kushiya -> 角色:栉八稻穗
 character:kodama himegami -> 角色:姬神木灵
 character:takeru ohyama -> 角色:大山武
 character:maia tachiki -> 角色:立木迈亚
-character:pearl -> 角色:珍珠号
+character:pearl -> 角色:真珠 | 珍珠号
 character:moeha fujiwara -> 角色:藤原萌叶
 character:kasumi takamiya -> 角色:多华宫霞
 character:honoka takamiya -> 角色:多华宫仄
@@ -13059,6 +13061,39 @@ character:reina machida -> 角色:町田莉那
 character:shitotsu tomesode -> 角色:留袖四衲
 character:shiroha fujino -> 角色:藤乃代叶
 character:kathy -> 角色:凯西
+character:satomi hiratsuka -> 角色:平冢敏深
+character:bartolomeo colleoni -> 角色:巴托洛梅奥· 科莱奥尼
+character:gallant -> 角色:勇气
+character:kazan -> 角色:喀山
+character:duguay-trouin -> 角色:迪盖·特鲁因
+character:nayoro -> 角色:貀
+character:bayard -> 角色:贝亚德
+character:kansas -> 角色:堪萨斯
+character:cassin -> 角色:卡辛
+character:hai chou -> 角色:海筹
+character:gotz von berlichingen -> 角色:戈达·冯·贝格海姆
+character:asmoday -> 角色:阿斯莫代
+character:phoenix reffaella -> 角色:菲欧妮·蕾法爱菈‌
+character:lane aim -> 角色:雷恩·艾姆
+character:hyakuto kyoko -> 角色:百灯响子
+character:biko pegasus -> 角色:微光飞驹
+character:kiseki -> 角色:富士奇石
+character:rusalka schwagelin -> 角色:鲁萨尔卡·修薇格林
+character:beatrice waltrud von kircheisen -> 角色:贝雅托莉丝·基尔希爱森
+character:komaro michinoku -> 角色:陆奥小麻吕
+character:phalaenopsis -> 角色:蝴蝶兰
+character:shisei houjou -> 角色:北条糸青
+character:lise hohenstein -> 角色:丽兹·霍恩斯坦因
+character:si -> 角色:祀
+character:akekuri -> 角色:秋栗
+character:masako kaneko -> 角色:金子正子
+character:amona -> 角色:阿莫娜
+character:elmesia el-ru sarion -> 角色:艾尔梅西亚·艾尔琉·萨利昂
+character:tomoki iwahashi -> 角色:岩桥智树
+character:pulao -> 角色:蒲牢
+character:edel -> 角色:艾蒂露
+character:claire -> 角色:克蕾雅
+character:fiona beckford -> 角色:菲奥娜·贝克福德
 group:1 -> 团队:1
 group:13 -> 团队:13
 group:27 -> 团队:27
@@ -14192,7 +14227,7 @@ group:akumu no takuhaibin -> 团队:Nightmare Express-悪夢の宅配便-
 group:san se fang -> 团队:三色坊
 group:uninigumi -> 团队:うにに組
 group:otomekibun -> 团队:乙女気分
-group:gasshuukoku netamekoru -> 团队:合众国ネタメコル
+group:gasshuukoku netamekoru -> 团队:合衆国ネタメコル
 group:shallot coco -> 团队:シャルロット・ココ
 group:orange restaurant -> 团队:オレンジレストラン
 group:astro creep -> 团队:ASTRO CREEP
@@ -20977,7 +21012,7 @@ group:mofu shippo lab -> 团队:もふしっぽらぼ
 group:mofumanjuu -> 团队:もふまんじゅう
 group:mofumofuen -> 团队:もふもふ苑
 group:mofurafu -> 团队:mofurafu
-group:mofuya -> 团队:モフ屋
+group:mofuya -> 团队:モフ屋 | もふ屋
 group:mogemogeya -> 团队:モゲモゲ屋
 group:mogetama -> 团队:もげたま
 group:mogiki-chan chi -> 团队:もぎきちゃんち
@@ -27402,6 +27437,10 @@ group:nobotchi seisakusho -> 团队:ノボッチ製作所
 group:touou -> 团队:トウオウ
 group:matenrou wine -> 团队:摩天楼ワイン
 group:ikeneko shokudou -> 团队:イケね娘食堂
+group:rennyu coffee honten -> 团队:練乳珈琲本店
+group:engyomin -> 团队:猿魚民
+group:otokonoko fantasy club -> 团队:男の娘ファンタジー倶楽部
+group:foamy -> 团队:Foamy
 artist:2 -> 艺术家:2
 artist:7 -> 艺术家:7
 artist:8 -> 艺术家:8
@@ -27581,7 +27620,7 @@ artist:hidaka toworu -> 艺术家:ヒダカトヲル
 artist:rara8 -> 艺术家:らら8
 artist:medaka kenichi -> 艺术家:目高健一
 artist:kanna -> 艺术家:カンナ | かん奈
-artist:kazabuki poni -> 艺术家:风吹ぽに
+artist:kazabuki poni -> 艺术家:風吹ぽに
 artist:ouma tokiichi -> 艺术家:逢魔刻壹
 artist:momonoki fum -> 艺术家:百乃木富梦
 artist:miito shido -> 艺术家:三糸シド
@@ -30491,7 +30530,7 @@ artist:holiday yasumi -> 艺术家:堀出井靖水
 artist:ronrinri ronri -> 艺术家:論倫理ろんり
 artist:tsukueno elf -> 艺术家:机野エルフ
 artist:hiiragi popura -> 艺术家:柊ぽぷら
-artist:nogiwa kaede -> 艺术家:野际かえで
+artist:nogiwa kaede -> 艺术家:野際かえで
 artist:hitoi -> 艺术家:灯问
 artist:bouen -> 艺术家:ぼうえん
 artist:tsukudani -> 艺术家:佃煮
@@ -33305,7 +33344,7 @@ artist:hosokawa fuziemon -> 艺术家:細川ふじえもん
 artist:hot -> 艺术家:HOT
 artist:hot melon -> 艺术家:Hot Melon
 artist:hota. -> 艺术家:ほた。
-artist:hotaru -> 艺术家:蛍
+artist:hotaru -> 艺术家:ほたる
 artist:hotarugusa -> 艺术家:ほたる草
 artist:hotei kazuha -> 艺术家:保汀一葉
 artist:hotori -> 艺术家:歩鳥
@@ -36385,7 +36424,7 @@ artist:omega destroyer -> 艺术家:オメ～ガ・デストロイヤー
 artist:omegane -> 艺术家:御眼鏡
 artist:omi -> 艺术家:おみ
 artist:omizu -> 艺术家:おみず
-artist:omizu chihiro -> 艺术家:お水ちひろ
+artist:omizu chihiro -> 艺术家:オミズチヒロ
 artist:omochi -> 艺术家:おもち
 artist:omoutubo -> 艺术家:思うつぼ
 artist:onamaru -> 艺术家:おな丸
@@ -37759,7 +37798,7 @@ artist:sukunahiko -> 艺术家:少名彦
 artist:sumeragi bron -> 艺术家:スメラギバロン
 artist:sumeragi kohaku -> 艺术家:すめらぎ琥珀
 artist:sumeragi kou -> 艺术家:すめらぎこう
-artist:sumeragi seisuke -> 艺术家:皇征介
+artist:sumeragi seisuke -> 艺术家:皇 征介
 artist:sumeragi yuusuke -> 艺术家:皇裕介
 artist:sumeshi -> 艺术家:すめし
 artist:sumihey -> 艺术家:すみ兵
@@ -41830,7 +41869,7 @@ artist:tamaya -> 艺术家:たまや
 artist:end- -> 艺术家:えんど～ | かかとぶし
 artist:oishiko -> 艺术家:おいしこ
 artist:dekamatsu -> 艺术家:デカマツ
-artist:syunkarow -> 艺术家:しゅんか企画
+artist:syunkarow -> 艺术家:しゅんかー
 artist:yuguyugu -> 艺术家:ゆぐゆぐ
 artist:kodama naoko -> 艺术家:儿玉直子
 artist:rakka -> 艺术家:らっか
@@ -43185,6 +43224,21 @@ artist:chibigon -> 艺术家:チビゴン
 artist:ikeneko -> 艺术家:イケね娘
 artist:barbarian takamoto -> 艺术家:バーバリアン高本
 artist:avis -> 艺术家:あびす
+artist:sijie xiaoyang -> 艺术家:四姐小羊
+artist:ls -> 艺术家:L's
+artist:alicia -> 艺术家:ありしあ
+artist:kitahana -> 艺术家:北花
+artist:del -> 艺术家:del(でる)
+artist:rennyu coffee -> 艺术家:練乳珈琲
+artist:dainaru -> 艺术家:だいなる
+artist:sarukana -> 艺术家:さるかな
+artist:fudisen -> 艺术家:フヂセン
+artist:shinoda -> 艺术家:詩乃田
+artist:ikeda pafue -> 艺术家:いけだぱふぇ
+artist:a r gaku. gurap -> 艺术家:R学.ぐらぷ
+artist:wakimiunten -> 艺术家:ワキミウンテン
+artist:kaneyama shin -> 艺术家:カネヤマシン
+artist:teruteru boudu -> 艺术家:てるぼうず
 cosplayer:otohara an -> Coser:乙原あん
 cosplayer:rioko -> Coser:rioko凉凉子
 cosplayer:atsuki -> Coser:あつき
