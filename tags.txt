@@ -115,7 +115,7 @@ parody:original -> 原作:原创
 parody:various -> 原作:多作品
 parody:touhou project -> 原作:东方Project
 parody:moetan -> 原作:萌单✏️
-parody:kanon -> 原作:Kanon❄
+parody:kanon -> 原作:Kanon
 parody:air -> 原作:AIR🕊
 parody:clannad -> 原作:CLANNAD
 parody:angel beats -> 原作:天使的心跳
@@ -125,7 +125,7 @@ parody:rewrite -> 原作:Rewrite
 parody:ore no imouto ga konna ni kawaii wake ga nai -> 原作:我的妹妹不可能那么可爱
 parody:kantai collection -> 原作:舰队Collection
 parody:pokemon -> 原作:宝可梦
-parody:higurashi no naku koro ni -> 原作:寒蝉鸣泣之时🔪
+parody:higurashi no naku koro ni -> 原作:寒蝉鸣泣之时
 parody:saki -> 原作:天才麻将少女🀄️
 parody:puella magi madoka magica -> 原作:魔法少女小圆
 parody:puella magi madoka magica side story magia record -> 原作:魔法纪录 魔法少女小圆外传
@@ -2509,7 +2509,7 @@ parody:himesama goumon no jikan desu -> 原作:公主大人，接下来是“拷
 parody:rune factory 4 -> 原作:符文工厂4
 parody:suki na ko ga megane wo wasureta -> 原作:喜欢的人忘记戴眼镜了
 parody:liz to aoi tori -> 原作:莉兹与青鸟
-parody:eiyuu-ou bu o kiwameru tame tenseisu -> 原作:英雄王，为了穷尽武道而转生～而后成为世界最强见习骑士♀～
+parody:eiyuu-ou bu o kiwameru tame tenseisu -> 原作:英雄王，为了穷尽武道而转生
 parody:onimusha -> 原作:鬼武者
 parody:kara no shoujo -> 原作:壳之少女
 parody:heavy metal l-gaim -> 原作:重战机
@@ -2652,7 +2652,7 @@ parody:okinawa de suki ni natta ko ga hougen sugite tsura sugiru -> 原作:在�
 parody:sasayaku you ni koi wo utau -> 原作:恋语轻唱
 parody:elemental gelade -> 原作:武器种族传说
 parody:meru the succubus -> 原作:魅魔梅鲁
-parody:oshioki sweetie -> 原作:oshioki sweetie
+parody:oshioki sweetie -> 原作:调教甜心
 parody:gensou suikoden -> 原作:幻想水浒传
 parody:queens blade rebellion -> 原作:女皇之刃 叛乱
 parody:given -> 原作:ギヴン
@@ -3094,6 +3094,11 @@ parody:rimworld -> 原作:边缘世界（环世界）
 parody:look back -> 原作:蓦然回首
 parody:rinkan biyaku chuudoku -> 原作:輪姦媚薬中毒
 parody:dark summoner to dekiteiru -> 原作:黑暗召唤师在地下恋爱中
+parody:yuri ni hasamaru otoko wa shineba ii -> 原作:插足百合的男人不如去死！？
+parody:jurassic park -> 原作:侏罗纪公园
+parody:elvira mistress of the dark -> 原作:销魂天师
+parody:shark tale -> 原作:鲨鱼故事
+parody:act-age -> 原作:演员夜凪景 Act-Age
 character:alice -> 角色:爱丽丝
 character:akane hino -> 角色:日野茜
 character:ibuki -> 角色:伊吹
@@ -5835,7 +5840,7 @@ character:uruka takemoto -> 角色:武元润香
 character:fumino furuhashi -> 角色:古桥文乃
 character:rizu ogata -> 角色:绪方理珠
 character:asumi kominami -> 角色:小美浪爱澄
-character:echidna -> 角色:艾姬多娜
+character:echidna -> 角色:艾姬多娜 | 艾奇德纳
 character:haruka oozora -> 角色:大空遥
 character:kanata higa -> 角色:比嘉彼方
 character:narumi tooi -> 角色:远井成美
@@ -7813,7 +7818,7 @@ character:gary oak -> 角色:小茂
 character:red -> 角色:赤红
 character:coralie 6626 planck -> 角色:科拉莉·6626·普朗克
 character:ami nonomura -> 角色:野野村亚美
-character:indomitable -> 角色:不挠 | 不屈
+character:indomitable -> 角色:不挠
 character:kurumi tsuchimikado -> 角色:土御门胡桃
 character:ada wong -> 角色:艾达·王
 character:yamato takeru -> 角色:大和武尊
@@ -8870,7 +8875,7 @@ character:jean colbert -> 角色:柯尔贝尔
 character:california -> 角色:加利福尼亚
 character:vittorio veneto -> 角色:维托里奥·维内托
 character:voroshilov -> 角色:伏罗希洛夫
-character:fortune -> 角色:命运女神
+character:fortune -> 角色:命运女神 | 命运
 character:masachika kuze -> 角色:久世政近
 character:cantarella -> 角色:坎特蕾拉
 character:phoebe -> 角色:菲比 | 芙蓉
@@ -9066,7 +9071,7 @@ character:cardigan -> 角色:卡缇
 character:shiron the windragon -> 角色:斯朗（风龙）
 character:newbie succubus -> 角色:萝莉魅魔
 character:epsilon -> 角色:艾普西隆
-character:cid kagenou -> 角色:暗影
+character:cid kagenou -> 角色:希德·卡盖诺（暗影）
 character:eta -> 角色:伊塔
 character:mona kawai -> 角色:川井百奈
 character:lux -> 角色:拉克丝
@@ -9088,7 +9093,7 @@ character:nanao hibiya -> 角色:奈奈绪响谷
 character:mari satsuki -> 角色:佐月麻里
 character:adelheid kanzaki -> 角色:神崎阿迪尔海德
 character:capella emerada lugunica -> 角色:卡佩菈·爱梅拉妲·露格尼卡
-character:jin-ah sung -> 角色:程肖雅丨水筱葵
+character:jin-ah sung -> 角色:程肖雅
 character:samui -> 角色:萨姆伊
 character:heles -> 角色:赫尔艾斯
 character:theresia van astrea -> 角色:特蕾西亚·范·阿斯特雷亚
@@ -9321,7 +9326,7 @@ character:claire kagenou -> 角色:克蕾娅·卡盖诺
 character:alicia arcturus -> 角色:艾丽西娅·阿尔库托鲁斯
 character:maki oze -> 角色:茉希尾濑
 character:lisa isaribi -> 角色:丽莎渔边
-character:joo-hee lee -> 角色:李晓希 | 观月绘里
+character:joo-hee lee -> 角色:李晓希
 character:song-yi han -> 角色:韩宋伊
 character:gina -> 角色:吉娜
 character:jianxin -> 角色:鉴心
@@ -9947,7 +9952,7 @@ character:mahoro andou -> 角色:安藤麻幌
 character:aya natsume -> 角色:枣亚夜
 character:feldt grace -> 角色:菲露特·古蕾斯
 character:roberta -> 角色:罗贝尔特
-character:tiffania westwood -> 角色:蒂法妮娅
+character:tiffania westwood -> 角色:蒂法妮亚·韦斯特伍德
 character:alexstrasza -> 角色:阿莱克斯塔萨
 character:cassandra alexandra -> 角色:卡桑德拉
 character:penny polendina -> 角色:潘妮·波伦迪娜
@@ -10020,15 +10025,15 @@ character:hirume -> 角色:希鲁梅
 character:eternity -> 角色:伊特尼提
 character:labiata -> 角色:拉比亚塔
 character:fenrir -> 角色:芬妮尔
-character:mh-4 thetis -> 角色:MH-4忒提斯
-character:kunoichi zero -> 角色:女忍 零
-character:may of doom -> 角色:毁灭者 梅
-character:scathy -> 角色:斯卡蒂（LO）
+character:mh-4 thetis -> 角色:MH-4 忒提斯
+character:kunoichi zero -> 角色:女忍者零
+character:may of doom -> 角色:毁灭者梅
+character:scathy -> 角色:斯卡蒂（最后的起源）
 character:ag-2c sirene -> 角色:AG-2C塞壬
 character:barbariana -> 角色:巴巴丽安娜
 character:a-1 bloody panther -> 角色:A-1血豹
 character:cerberus -> 角色:地狱犬
-character:elven forest maker -> 角色:霜蛇
+character:elven forest maker -> 角色:精灵造林者
 character:perrault -> 角色:佩罗
 character:a-87 banshee -> 角色:A-87 报丧女妖
 character:at-4 pani -> 角色:AT-4 帕尼
@@ -12829,7 +12834,7 @@ character:komako -> 角色:驹子
 character:shiroji -> 角色:白司
 character:kuukyo no sylvaril -> 角色:空虚的希尔瓦莉尔
 character:perugius dola -> 角色:佩尔基乌斯・朵拉
-character:tsaritsa -> 角色:安娜丝塔夏·费奥多罗夫娜·雪奈茨娜娅
+character:tsaritsa -> 角色:至冬女皇
 character:scamp -> 角色:Scamp
 character:u-31 -> 角色:U-31
 character:olivier -> 角色:奥利维耶
@@ -13094,6 +13099,69 @@ character:pulao -> 角色:蒲牢
 character:edel -> 角色:艾蒂露
 character:claire -> 角色:克蕾雅
 character:fiona beckford -> 角色:菲奥娜·贝克福德
+character:morino yuuko -> 角色:森乃由子
+character:futaba lily ramses -> 角色:双叶·莉莉·拉美西斯
+character:jabber wonger -> 角色:贾帕·翁嘉
+character:mismis klass -> 角色:蜜思米丝·克拉斯
+character:eve sophi nebulis -> 角色:伊芙·索菲·涅比利斯
+character:hange zoe -> 角色:韩吉·佐耶
+character:azazel -> 角色:阿撒兹勒
+character:serapias alice -> 角色:赛拉贝亚斯爱丽丝
+character:draculina -> 角色:德拉库丽娜
+character:faucre -> 角色:波克鲁大魔王
+character:fafnir -> 角色:法夫纳
+character:hathor -> 角色:哈托尔
+character:handler -> 角色:接待员
+character:maria of redemption -> 角色:救赎者玛莉亚
+character:kunoichi kaen -> 角色:女忍者凯恩
+character:frigga -> 角色:弗丽嘉
+character:royal arsenal -> 角色:皇家军火库
+character:tiequan -> 角色:铁拳
+character:ignis -> 角色:伊格尼斯
+character:lemonade alpha -> 角色:柠檬α
+character:lemonade omega -> 角色:柠檬Ω
+character:kunoichi enrai -> 角色:女忍者炎雷
+character:leona of blood and iron -> 角色:铁血的蕾欧娜
+character:melt -> 角色:梅尔特
+character:leanne -> 角色:仁慈的莉安
+character:invincible dragon -> 角色:无敌龙
+character:titania frost -> 角色:冰结之泰坦妮亚
+character:mnemosyne -> 角色:摩涅莫辛涅
+character:t-14 miho -> 角色:T-14 美穗
+character:b-11 night angel -> 角色:B-11 夜天使
+character:oberonia rhea -> 角色:奥贝罗尼亚瑞亚
+character:p-22 harpyia -> 角色:P-22 哈耳庇厄
+character:indomitable marie -> 角色:不屈的玛丽
+character:janghwa -> 角色:蔷花
+character:queen of mane -> 角色:鬃毛女王
+character:sadius -> 角色:惩罚的赛迪乌斯
+character:t-3 leprechaun -> 角色:T-3 矮精灵
+character:audrey -> 角色:织梦者奥德蕾
+character:amy the razor -> 角色:剃刀艾米
+character:saraqael -> 角色:萨拉卡埃尔
+character:t-8w valkyrie -> 角色:T-8W 女武神
+character:x-05 emily -> 角色:X-05 艾米莉
+character:magical baekto -> 角色:魔法少女白兔
+character:blind princess -> 角色:盲眼公主
+character:t-75 war wolf -> 角色:T-75 战狼
+character:al wraith -> 角色:AL 幽灵
+character:hertrauda sera fanoss -> 角色:赫特劳妲·赛拉·凡欧斯
+character:inglis eucus -> 角色:英格莉丝·尤库斯
+character:elvira -> 角色:埃尔维拉
+character:lola -> 角色:萝拉
+character:purifier -> 角色:净化者
+character:keiko hoshino -> 角色:星野庆子
+character:cassandra vole -> 角色:卡珊德拉·沃雷
+character:rikuro tachibana -> 角色:橘陆郎
+character:ji-woo seo -> 角色:徐智宇
+character:charlotte arisaka anderson -> 角色:夏洛特·有坂·安德森
+character:makoto takiya -> 角色:泷谷真
+character:mamushi amakawa -> 角色:天川真梦梓
+character:tsurumaru tsuyoshi -> 角色:鹤丸刚志
+character:momoko takamachi -> 角色:高町桃子
+character:quint nakajima -> 角色:桂特·中岛
+character:megane alpine -> 角色:梅格奴·阿尔菲诺
+character:keijun seiki -> 角色:軽巡棲鬼
 group:1 -> 团队:1
 group:13 -> 团队:13
 group:27 -> 团队:27
@@ -27441,6 +27509,16 @@ group:rennyu coffee honten -> 团队:練乳珈琲本店
 group:engyomin -> 团队:猿魚民
 group:otokonoko fantasy club -> 团队:男の娘ファンタジー倶楽部
 group:foamy -> 团队:Foamy
+group:ato wa maboroshi -> 团队:あとはまぼろし
+group:byakuya kisoukyoku -> 团队:白夜綺想曲
+group:himuganeya -> 团队:ひむがね屋
+group:inoharu -> 团队:亥ノ春
+group:nanashi novel -> 团队:ナナシノベル
+group:sashimi teishoku -> 团队:さしみ定食
+group:neko no tawagoto -> 团队:ネコノタワゴト
+group:hotel shikinseki -> 团队:ホテル試金石
+group:tsukuneya -> 团队:つくね屋
+group:250ponoroji -> 团队:250歩の路地
 artist:2 -> 艺术家:2
 artist:7 -> 艺术家:7
 artist:8 -> 艺术家:8
@@ -27481,7 +27559,7 @@ artist:ichiri -> 艺术家:イチリ
 artist:satou kibi -> 艺术家:さとうきび
 artist:nanpuu -> 艺术家:なんぷぅ
 artist:yukiu con -> 艺术家:雪雨こん
-artist:land sale -> 艺术家:兰户せる
+artist:land sale -> 艺术家:蘭戸せる
 artist:emily -> 艺术家:emily
 artist:chiri -> 艺术家:ちり
 artist:kantoku -> 艺术家:监督
@@ -40033,7 +40111,7 @@ artist:akausu ko -> 艺术家:赤薄紅
 artist:otona no sexy ehon -> 艺术家:大人のSEXY絵本
 artist:hogeramu -> 艺术家:ほげらむ
 artist:raikou -> 艺术家:らい公
-artist:raku -> 艺术家:乐
+artist:raku -> 艺术家:乐 | らく
 artist:karaage -> 艺术家:唐扬
 artist:jinze -> 艺术家:今沢
 artist:hosigarasu -> 艺术家:干しガラス
@@ -43239,6 +43317,27 @@ artist:a r gaku. gurap -> 艺术家:R学.ぐらぷ
 artist:wakimiunten -> 艺术家:ワキミウンテン
 artist:kaneyama shin -> 艺术家:カネヤマシン
 artist:teruteru boudu -> 艺术家:てるぼうず
+artist:sagawa -> 艺术家:左側
+artist:kanamirubon -> 艺术家:かなみルボン
+artist:xboy -> 艺术家:XBOY
+artist:dreadmegalo -> 艺术家:DreadMegalo
+artist:ngamaru -> 艺术家:ンガ丸
+artist:kamizono delta -> 艺术家:神園Δ
+artist:retsu -> 艺术家:劣
+artist:misoka -> 艺术家:三十日
+artist:gohan pakupaku maru -> 艺术家:ごはんパクパク丸
+artist:r1kyuu -> 艺术家:R１級
+artist:darezuka -> 艺术家:誰塚
+artist:kizakura non -> 艺术家:黄桜NoN
+artist:fukamiki kei -> 艺术家:深幹ケイ
+artist:takizaki -> 艺术家:Haz
+artist:emuorogii -> 艺术家:えむおろぎー
+artist:yuri kowashi -> 艺术家:鉄兜ぬらぬら | 油梨こわし
+artist:dr.tan90 degrees -> 艺术家:Dr.tan90º
+artist:neko no mantis -> 艺术家:ネコノマンテス
+artist:protohotel -> 艺术家:プロトホテル
+artist:npyu vimuzo -> 艺术家:んぴゅ・ゔぃむぞ
+artist:hondy -> 艺术家:ほんでぃ
 cosplayer:otohara an -> Coser:乙原あん
 cosplayer:rioko -> Coser:rioko凉凉子
 cosplayer:atsuki -> Coser:あつき
@@ -43405,6 +43504,17 @@ cosplayer:etsu ko -> Coser:纸悦Etsu_ko
 cosplayer:upminaa -> Coser:Upminaa
 cosplayer:titi cosplay -> Coser:钛合金TiTi
 cosplayer:reng -> Coser:冷
+cosplayer:axun kaori -> Coser:阿薰kaOri
+cosplayer:shuang mu fu su -> Coser:双木扶苏
+cosplayer:bangni -> Coser:Bangni邦尼
+cosplayer:kiriko celia -> Coser:切切Celia
+cosplayer:pipinai -> Coser:皮皮奶
+cosplayer:cien cosplay -> Coser:Cien恩恩
+cosplayer:guoqi mixianxian miao -> Coser:过期米线线喵
+cosplayer:mikojiangww -> Coser:Miko酱ww
+cosplayer:nangong -> Coser:南宫
+cosplayer:shika xiaolu lu -> Coser:Shika小鹿鹿
+cosplayer:qiuhe keji -> Coser:秋和柯基
 male:age progression -> 男性:年龄增长
 male:age regression -> 男性:返老还童
 male:dilf -> 男性:熟男
