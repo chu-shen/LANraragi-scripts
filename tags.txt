@@ -3099,6 +3099,9 @@ parody:jurassic park -> 原作:侏罗纪公园
 parody:elvira mistress of the dark -> 原作:销魂天师
 parody:shark tale -> 原作:鲨鱼故事
 parody:act-age -> 原作:演员夜凪景 Act-Age
+parody:sasaki to p-chan -> 原作:佐佐木与文鸟小哔
+parody:isekai samurai -> 原作:异世界武士
+parody:leadale no daichi nite -> 原作:里亚德录大地
 character:alice -> 角色:爱丽丝
 character:akane hino -> 角色:日野茜
 character:ibuki -> 角色:伊吹
@@ -4717,7 +4720,7 @@ character:erio mondial -> 角色:艾力奥·曼迪尔
 character:hayate yagami -> 角色:八神疾风
 character:shamal -> 角色:莎玛尔
 character:signum -> 角色:希格纳姆
-character:vita -> 角色:薇塔
+character:vita -> 角色:维塔 | 薇塔
 character:reinforce -> 角色:琳芙斯
 character:fuka reventon -> 角色:风香·雷文顿
 character:corona timil -> 角色:珂罗娜·缇米尔
@@ -8274,7 +8277,7 @@ character:guilty -> 角色:吉尔提
 character:mihara -> 角色:米哈拉
 character:bay -> 角色:贝伊
 character:brid -> 角色:布丽德
-character:tia -> 角色:蒂亚
+character:tia -> 角色:蒂亚 | 缇亚
 character:ludmilla -> 角色:鲁德米拉
 character:noir -> 角色:诺亚尔
 character:privaty -> 角色:普丽瓦蒂
@@ -13161,7 +13164,17 @@ character:tsurumaru tsuyoshi -> 角色:鹤丸刚志
 character:momoko takamachi -> 角色:高町桃子
 character:quint nakajima -> 角色:桂特·中岛
 character:megane alpine -> 角色:梅格奴·阿尔菲诺
-character:keijun seiki -> 角色:軽巡棲鬼
+character:keijun seiki -> 角色:轻巡栖鬼
+character:alicia forestlight -> 角色:亚莉希雅·福雷斯莱特
+character:otonari-san -> 角色:邻居小姐
+character:al azif -> 角色:艾尔·阿吉芙
+character:ginko tsukitsuba -> 角色:月锷银子
+character:cayna -> 角色:葵娜
+character:masaki kurosaki -> 角色:黑崎真咲
+character:arclight -> 角色:弧光
+character:shion nasturtium -> 角色:紫苑·金莲花
+character:caroline inglaud -> 角色:卡罗琳·伊葛洛特
+character:rain hagwell -> 角色:莱恩·哈格韦尔
 group:1 -> 团队:1
 group:13 -> 团队:13
 group:27 -> 团队:27
@@ -16681,7 +16694,7 @@ group:camp. -> 团队:カンプ。
 group:campanula -> 团队:campanula
 group:campers -> 团队:きゃんぱーず
 group:camrism -> 团队:カムリズム
-group:can do now -> 团队:キャンドゥーなう!
+group:can do now -> 团队:ギャランがドゥー!
 group:canaria -> 团队:canaria
 group:canary and swallow -> 团队:カナリアとつばめ
 group:candy pop -> 团队:Candy Pop
@@ -27519,6 +27532,7 @@ group:neko no tawagoto -> 团队:ネコノタワゴト
 group:hotel shikinseki -> 团队:ホテル試金石
 group:tsukuneya -> 团队:つくね屋
 group:250ponoroji -> 团队:250歩の路地
+group:shoujo tetsugaku -> 团队:少女哲学
 artist:2 -> 艺术家:2
 artist:7 -> 艺术家:7
 artist:8 -> 艺术家:8
@@ -30341,7 +30355,7 @@ artist:kudo -> 艺术家:９℃
 artist:sumii -> 艺术家:すみい
 artist:ai takurou -> 艺术家:安威拓郎
 artist:nagisora riku -> 艺术家:凪空りく
-artist:minase -> 艺术家:御奈瀬
+artist:minase -> 艺术家:<p>御奈瀬 | 三七瀬</p>
 artist:niwacho -> 艺术家:niwacho
 artist:yasaka syu -> 艺术家:矢坂しゅう
 artist:nimuno -> 艺术家:にむの
@@ -43338,6 +43352,9 @@ artist:neko no mantis -> 艺术家:ネコノマンテス
 artist:protohotel -> 艺术家:プロトホテル
 artist:npyu vimuzo -> 艺术家:んぴゅ・ゔぃむぞ
 artist:hondy -> 艺术家:ほんでぃ
+artist:horochi -> 艺术家:歩路地
+artist:ariatorai -> 艺术家:ありあとらい
+artist:toushitu katamaru -> 艺术家:糖質過多丸
 cosplayer:otohara an -> Coser:乙原あん
 cosplayer:rioko -> Coser:rioko凉凉子
 cosplayer:atsuki -> Coser:あつき
